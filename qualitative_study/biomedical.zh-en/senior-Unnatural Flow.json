@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : 磁共振成像水脂分离技术在多发性骨髓瘤患者中的应用研究. 探讨磁共振成像水脂分离（Dixon）技术在多发性骨髓瘤患者中应用的临床意义. 将2019年4月至2021年4月于青岛大学附属医院行Dixon技术检查的初诊多发性骨髓瘤患者共41例纳入本研究。",
+        "hyp": "文 1 : Application of MRI Water-Fat Separation Technology in Patients with Multiple Myeloma. To explore the clinical significance of MRI water-fat separation (Dixon) technology in patients with multiple myeloma. A total of 41 patients newly diagnosed with multiple myeloma were enrolled who underwent Dixon procedure in the Affiliated Hospital of Qingdao University from April 2019 to April 2021.",
+        "label_text": " were enrolled who underwent Dixon procedure"
+    },
+    {
+        "source": "原文 : 比例有3种类型：时点（或率型）构成比例、时期发生比例及由前二者综合而成的时期构成比例。",
+        "hyp": "文 1 : Proportions can be classified into three types: time-point (or rate-type) constitutional proportion, time-period incidence proportion and their synthesis, time-period constitutional proportion.",
+        "label_text": "and their synthesis, time-period constitutional proportion."
+    },
+    {
+        "source": "原文 : 使用这些药品观察到的超敏反应（下文所述）有一些共同特征，例如发热和／或皮疹，以及提示累及多器官的其他症状。",
+        "hyp": "文 5 : The hypersensitivity reactions (described below) observed with these drugs exhibit some common presentations, such as fever and/or rash, as well as other symptoms suggestive of multi-organ involvement.",
+        "label_text": "(described below) "
+    },
+    {
+        "source": "原文 : 以209例青春期前初次治疗的尿道下裂患儿作为研究对象，年龄10～97个月，平均31.7个月。",
+        "hyp": "文 1 : A total of 209 children (aged 10–97 months, with a mean age of 31.7 months) with hypospadias treated for the first time before adolescence were enrolled.",
+        "label_text": " were enrolled"
+    },
+    {
+        "source": "原文 : 本品能抑制前列腺素的合成，具有镇痛、解热和抗炎的作用。",
+        "hyp": "文 4 : This product exerts analgesic, antipyretic and anti-inflammatory effects by inhibiting prostaglandin synthesis.",
+        "label_text": " by inhibiting prostaglandin synthesis"
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "source": "原文 : 在前雨刮器运转状态，将档位从“D(前进)”档挂入“R(倒车)”档时，后雨刮器自动启动运转。此后，将档位从“R(倒车)”档挂入“D(前进)”档时，后雨刮器就会停止。",
+        "hyp": "文 2 : When the front windshield wipers are in operation and the gear is shifted from \"D (Drive)\" to \"R (Reverse),\" the rear windshield wiper will automatically start operating. Subsequently, when shifting the gear from \"R (Reverse)\" back to \"D (Drive),\" the rear windshield wiper will stop.",
+        "label_text": "\" "
+    }
+]

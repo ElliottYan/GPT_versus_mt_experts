@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : По данным агентства команда Десантиса уже подбирает консультантов для участия в президентских выборах и ведет предварительные опросы.",
+        "hyp": "文 4 : According to the agency, DeSantis' team is already selecting advisors for the presidential run and is conducting preliminary polls.",
+        "label_text": "S"
+    },
+    {
+        "source": "原文 : В 2023 году на поддержку бортевого пчеловодства в регионе направят 20 млн рублей.",
+        "hyp": "文 4 : In 2023, RUB 20 million will be allocated to support forest bee-keeping in the region.",
+        "label_text": "-"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 5 : 例如，弱化最后一个辅音在说新加坡英语方言的人中很常见，他们可能会用到音从弱化策略，如音位转换、喉音化和省略。",
+        "label_text": "音从"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 5 : 例如，弱化最后一个辅音在说新加坡英语方言的人中很常见，他们可能会用到音从弱化策略，如音位转换、喉音化和省略。",
+        "label_text": "音从"
+    },
+    {
+        "source": "原文 : Honestly, most of the posts or memes here are either from people who read the novels or the manga.",
+        "hyp": "文 2 : 老实说，这里的大部分贴文或表情包不是出自读过那不小说的人，就是出自看过那本漫画的人。",
+        "label_text": "不"
+    },
+    {
+        "source": "原文 : Honestly, most of the posts or memes here are either from people who read the novels or the manga.",
+        "hyp": "文 2 : 老实说，这里的大部分贴文或表情包不是出自读过那不小说的人，就是出自看过那本漫画的人。",
+        "label_text": "不"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 2 : 相对于我的用处来说，它的精度和稳定性对看起来都很不错，但是不能通过蓝牙连iPhone或iPad（两个都试了几次）。",
+        "label_text": "对"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 2 : 相对于我的用处来说，它的精度和稳定性对看起来都很不错，但是不能通过蓝牙连iPhone或iPad（两个都试了几次）。",
+        "label_text": "对"
+    },
+    {
+        "source": "原文 : The original three skulls (all assigned to different species) were poorly known, and the genus had been considered a junior synonym of \"Metriorhynchus,\" \"Geosaurus\" or \"Dakosaurus\" by different palaeontologists in the past.",
+        "hyp": "文 2 : 对最初的三个头骨（全部分数不同的种类）不怎么了解，这个属在过去被不同的古生物学家当成是“中喙鳄属”、“地蜥鳄属”、“达克龙属”的次异名。",
+        "label_text": "分数"
+    },
+    {
+        "source": "原文 : if I do I will be in my mid 30’s cuz I wanna live life my way",
+        "hyp": "文 2 : 如果那样，到时候我就三十多数了，因为我想按自己的方式生活",
+        "label_text": "数"
+    }
+]

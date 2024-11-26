@@ -1,0 +1,267 @@
+[
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 4 : Попробуйте написать в чате,“Я не буду читерить в этой игре ”!",
+        "label_text": "читерить"
+    },
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 5 : Мы ещё объяснили влияние личных факторов на то, как общество \nвзаимодействует с пищевой средой.",
+        "label_text": "влияние личных"
+    },
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 5 : Мы ещё объяснили влияние личных факторов на то, как общество \nвзаимодействует с пищевой средой.",
+        "label_text": "влияние"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 4 : Ламбет снял флаг, и Айскью пришлось сдаться Тропе на корабле \"Гауда\" - первый и последний случай в истории, когда британский адмирал столь высокого ранга был захвачен в плен на море.",
+        "label_text": "снял"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 4 : Ламбет снял флаг, и Айскью пришлось сдаться Тропе на корабле \"Гауда\" - первый и последний случай в истории, когда британский адмирал столь высокого ранга был захвачен в плен на море.",
+        "label_text": "снял"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 4 : Так я и сделал, и во втором или третьем посте узнал, что шоу AJ заблокировали на YouTube. Я не поклонник правых вещей, и именно по этой причине я перестал его смотреть 2 или 3 года назад, хотя небольшой аромат Свободу было так трудно найти среди 90% национал-капитализма, которые этот сайт может предложить, но в любом случае у меня возникла идея о видеосайте без цензуры, таком как LiveLeak, но гораздо более простом и менее «новостном», на котором каждый может публиковать сообщения.",
+        "label_text": "шоу AJ"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 4 : Так я и сделал, и во втором или третьем посте узнал, что шоу AJ заблокировали на YouTube. Я не поклонник правых вещей, и именно по этой причине я перестал его смотреть 2 или 3 года назад, хотя небольшой аромат Свободу было так трудно найти среди 90% национал-капитализма, которые этот сайт может предложить, но в любом случае у меня возникла идея о видеосайте без цензуры, таком как LiveLeak, но гораздо более простом и менее «новостном», на котором каждый может публиковать сообщения.",
+        "label_text": "правых вещей"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 4 : Так я и сделал, и во втором или третьем посте узнал, что шоу AJ заблокировали на YouTube. Я не поклонник правых вещей, и именно по этой причине я перестал его смотреть 2 или 3 года назад, хотя небольшой аромат Свободу было так трудно найти среди 90% национал-капитализма, которые этот сайт может предложить, но в любом случае у меня возникла идея о видеосайте без цензуры, таком как LiveLeak, но гораздо более простом и менее «новостном», на котором каждый может публиковать сообщения.",
+        "label_text": "без цензуры"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 4 : Так я и сделал, и во втором или третьем посте узнал, что шоу AJ заблокировали на YouTube. Я не поклонник правых вещей, и именно по этой причине я перестал его смотреть 2 или 3 года назад, хотя небольшой аромат Свободу было так трудно найти среди 90% национал-капитализма, которые этот сайт может предложить, но в любом случае у меня возникла идея о видеосайте без цензуры, таком как LiveLeak, но гораздо более простом и менее «новостном», на котором каждый может публиковать сообщения.",
+        "label_text": "без цензуры"
+    },
+    {
+        "source": "原文 : This page presents an overview of the state of the art based on official sources.",
+        "hyp": "文 4 : На этой странице представлен обзор новейших технологий, на основе официальных источников.",
+        "label_text": "новейших технологий"
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 3 : Думаю, я исключил «разное», поскольку увидел, что на нейтральной передаче он отлично катится под уклон, поэтому никаких механических помех нет.",
+        "label_text": "под уклон"
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 3 : Думаю, я исключил «разное», поскольку увидел, что на нейтральной передаче он отлично катится под уклон, поэтому никаких механических помех нет.",
+        "label_text": "под уклон"
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 1 : После долгих исследований я начал использовать этот продукт много лет назад.",
+        "label_text": "долгих "
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 3 : После долгих исследований я начал использовать этот продукт много лет назад.",
+        "label_text": "долгих "
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 4 : После долгих исследований я начал использовать этот продукт много лет назад.",
+        "label_text": "долгих "
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 1 : Я ездил только по городу, поэтому мне потребовалось больше недели, чтобы понять, что я не могу разогнаться до 60 миль в час или что мне нужно нажать на газ, чтобы достичь 3500 об/мин.",
+        "label_text": "на газ"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 1 : Я ездил только по городу, поэтому мне потребовалось больше недели, чтобы понять, что я не могу разогнаться до 60 миль в час или что мне нужно нажать на газ, чтобы достичь 3500 об/мин.",
+        "label_text": "на газ"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 5 : Недавно я пытался их использовать, и, к сожалению, каждый раз, когда я пробую один из них, моя машина Keurig выдает сообщение об ошибке, что модуль несовместим с моей машиной.",
+        "label_text": "модуль"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 5 : Недавно я пытался их использовать, и, к сожалению, каждый раз, когда я пробую один из них, моя машина Keurig выдает сообщение об ошибке, что модуль несовместим с моей машиной.",
+        "label_text": "модуль"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 1 : Я могу определить, где был и что сделал по вкусу, когда он возвращается?",
+        "label_text": "он"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 3 : Я слишком уродлива,даже не могу кричать в Snapchat,поэтому на reddit.",
+        "label_text": "могу кричать"
+    },
+    {
+        "source": "原文 : THE MOMENT I LOOK UP, PAUL IS LOOKING STRAIGHT AT ME, STILL WALKING TOWARDS ME.",
+        "hyp": "文 3 : КАК ТОЛЬКО Я ПОДНИМАЮ ГЛАЗА, ПОЛ СМОТРИТ ПРЯМО НА МЕНЯ, ПРОДОЛЖАЯ ПОДОИДТИ КО МНЕ.",
+        "label_text": "ПОЛ "
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 2 : Является ли 1:49 просто типичным поведением моего тренера: \"Ты должен быть хорош, но ты не хорош, поэтому я собираюсь поставить перед тобой нереальные цели\", или я должен быть на уровне 1:49?",
+        "label_text": "поведением "
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 4 : Я знаю, что натуральные продукты не будут пахнуть так же красиво, как синтетические, но мне кажется, что все больше и больше натуральных линий просто не заботятся об этом, потому что это все равно будет продаваться, и теперь все пахнет как тесто для игры.",
+        "label_text": "тесто для игры"
+    },
+    {
+        "source": "原文 : I love my boyfriend and desperately want to keep his system happy.",
+        "hyp": "文 5 : Я люблю своего парня и отчаянно хочу, чтобы его организм был счастлив.",
+        "label_text": "организм "
+    },
+    {
+        "source": "原文 : its a bit unnerving to manage expenses on 1 persons salary in this place....",
+        "hyp": "文 3 : Немного нервирует то, что в этом месте приходится справляться с расходами на зарплату одного человека....",
+        "label_text": "в этом месте приходится справляться"
+    },
+    {
+        "source": "原文 : But by the next day, Tom Gross JPost: Tom Gross - The BBC discovers 'terrorism,' briefly and many others noted that the online articles had been edited, replacing \"terrorists\" by \"bombers\".",
+        "hyp": "文 4 : Но на следующий день Том Гросс JPost: Том Гросс -BBC кратко обнаруживает «терроризм», и многие другие отметили, что онлайн-статьи были отредактированы, заменив «террористов» на «бомбардировщики».",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : Ok, I’m running out of people to laugh at my jokes.",
+        "hyp": "文 3 : Ладно,никто больше не приходит посмеяться над моими шутками.",
+        "label_text": "никто больше не приходит"
+    },
+    {
+        "source": "原文 : David himself had lost his popularity and lost the respect of his nobles when he married the widow of a minor laird after the death of his English wife.",
+        "hyp": "文 5 : Когда английская жена Дэвида умерла, и он женился на вдове мелкого лорда, он сам потерял престиж и уважение знати.",
+        "label_text": "лорда"
+    },
+    {
+        "source": "原文 : Kaylee, who just graduated from high school, is an accomplished figure skater.",
+        "hyp": "文 4 : Келли, только что окончившая среднюю школу, является выдающейся фигуристкой.",
+        "label_text": "выдающейся"
+    },
+    {
+        "source": "原文 : But one time, he didn’t hear it and so he was like “what!?” reallyyy loudddly.",
+        "hyp": "文 2 : Но однажды он этого не услышал и подумал: «Что!?» действительно оооочень громко.",
+        "label_text": "подумал"
+    },
+    {
+        "source": "原文 : I said “ok, and at 21:00, she came by and asked who is the accountant”.",
+        "hyp": "文 5 : Я сказал: \"Хорошо, а в 21:00 она пришла и спросила, кто у нас бухгалтер\".",
+        "label_text": "у нас"
+    },
+    {
+        "source": "原文 : I walked all the way home and, ah shit, I’m getting shin splints from all this walking up and down the hill.",
+        "hyp": "文 1 : Я прошел весь путь до дома пешком, и, черт возьми, мои голени болели от ходьбы вверх и вниз по холмам.",
+        "label_text": "голени"
+    },
+    {
+        "source": "原文 : It makes me feel like this is an infatuation that will pass.",
+        "hyp": "文 4 : Мне кажется, что это наваждение, которое пройдет.",
+        "label_text": "наваждение"
+    },
+    {
+        "source": "原文 : Derry midfielder Adam Reilly closes down Lee Grace at the Brandywell",
+        "hyp": "文 2 : Полузащитник \"Дерри\" Адам Рейли заставляет Ли Грейса играть в \"Брендивелле",
+        "label_text": "заставляет"
+    },
+    {
+        "source": "原文 : I don’t know how to write these properly, so I tried to copy this one post I saw that was in a bullet format, oh my.",
+        "hyp": "文 3 : Я не знаю, как правильно их писать, поэтому я попыталась скопировать один пост, который я видела, в формате пули, о боже.",
+        "label_text": "пули"
+    },
+    {
+        "source": "原文 : Thousands of people braved heavy rain to attend Lakiss's funeral in Baalbek.",
+        "hyp": "文 4 : Тысячи людей под проливным дождем пришли на похороны Лакисса в Баальбеке.",
+        "label_text": "под"
+    },
+    {
+        "source": "原文 : His spirit returns as well and melds with the bodies of his son and mate.",
+        "hyp": "文 3 : Его душа также вернулась и стала единым целым с телом его сына и товарища.",
+        "label_text": "товарища"
+    },
+    {
+        "source": "原文 : I care about how I affect people a lot but try not to show it.",
+        "hyp": "文 1 : Мне небезразлично, как я влияю на других, но я стараюсь этого не показывать.",
+        "label_text": "небезразлично"
+    },
+    {
+        "source": "原文 : I care about how I affect people a lot but try not to show it.",
+        "hyp": "文 1 : Мне небезразлично, как я влияю на других, но я стараюсь этого не показывать.",
+        "label_text": "небезразлично"
+    },
+    {
+        "source": "原文 : I just hope they nail him for thought crime Obviously there has been an epidemic of Molotov cocktail as of late, well WWII wasn't that long ago.",
+        "hyp": "文 5 : Я просто надеюсь, что они прижмут его за преступление, связанное с мыслями Очевидно, что в последнее время наблюдается эпидемия коктейлей Молотова, а ведь Вторая мировая война была не так давно.",
+        "label_text": "прижмут"
+    },
+    {
+        "source": "原文 : Scientific study of this group is necessary for understanding of Orbivirus genus evolution patterns.",
+        "hyp": "文 2 : Научные исследования этой группы необходимы для понимания закономерностей эволюции рода Cyclavirus.",
+        "label_text": "Cyclavirus"
+    },
+    {
+        "source": "原文 : Several sites reported highest on record daily rainfall amounts including Mandora (281.0 mm on 6th) and Mount Narryer (152.0 mm on 10th).",
+        "hyp": "文 3 : В нескольких местах выпало самое большое количество осадков за день, включая Мандору (281,0 мм 6 числа) и Маунт-Нарриер (152,0 мм 10 числа).",
+        "label_text": "местах"
+    },
+    {
+        "source": "原文 : Several sites reported highest on record daily rainfall amounts including Mandora (281.0 mm on 6th) and Mount Narryer (152.0 mm on 10th).",
+        "hyp": "文 3 : В нескольких местах выпало самое большое количество осадков за день, включая Мандору (281,0 мм 6 числа) и Маунт-Нарриер (152,0 мм 10 числа).",
+        "label_text": "Маунт"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 5 : Я не поклонник правых и именно поэтому перестал смотреть его 2 года назад, хотя небольшой кусочек свободы было трудно найти среди 90% национал-капитализма, который предлагает этот сайт, но в любом случае, у меня есть идея о нецензурном видео сайте, как liveleak, но гораздо более простом и менее \"новостном\", где любой человек может размещать информацию, а контент не будет снятый❤",
+        "label_text": "его 2 года назад"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 5 : Я не поклонник правых и именно поэтому перестал смотреть его 2 года назад, хотя небольшой кусочек свободы было трудно найти среди 90% национал-капитализма, который предлагает этот сайт, но в любом случае, у меня есть идея о нецензурном видео сайте, как liveleak, но гораздо более простом и менее \"новостном\", где любой человек может размещать информацию, а контент не будет снятый❤",
+        "label_text": "снятый"
+    },
+    {
+        "source": "原文 : So i get tipped on the app, gave me cash at the door, then took away the tip on the app after?",
+        "hyp": "文 4 : То есть мне дали чаевые в приложении, дали наличные на входе, а потом забрали чаевые в приложении?",
+        "label_text": "на входе"
+    },
+    {
+        "source": "原文 : OT could be there like Thomas, but I’m just not convinced any guy we take will be better than Little entering his 2nd year.",
+        "hyp": "文 5 : ОТ может стать таким же, как Томас, но я не верю, что кто-то из тех, кого мы задрафтовали, будет лучше Литтла во второй год.",
+        "label_text": "задрафтовали"
+    },
+    {
+        "source": "原文 : OT could be there like Thomas, but I’m just not convinced any guy we take will be better than Little entering his 2nd year.",
+        "hyp": "文 5 : ОТ может стать таким же, как Томас, но я не верю, что кто-то из тех, кого мы задрафтовали, будет лучше Литтла во второй год.",
+        "label_text": "задрафтовали,"
+    },
+    {
+        "source": "原文 : However, banks still maintain telephone banking systems that allow customers to perform routine transactions.",
+        "hyp": "文 1 : Однако банк сохранил свою систему телефонного банкинга, чтобы клиенты можно осуществлять свои ежедневные транзакции.",
+        "label_text": "сохранил"
+    },
+    {
+        "source": "原文 : I care abt how I effect ppl a lot but try not to show it.",
+        "hyp": "文 2 : Мне небезразлично, как я влияю на других, но я стараюсь этого не показывать.",
+        "label_text": "небезразлично"
+    },
+    {
+        "source": "原文 : I care abt how I effect ppl a lot but try not to show it.",
+        "hyp": "文 2 : Мне небезразлично, как я влияю на других, но я стараюсь этого не показывать.",
+        "label_text": "небезразлично"
+    },
+    {
+        "source": "原文 : Finally they seem to want to engage w/ me and basically tell me they’re going to an event and they’d hope to see me there, which they reaffirm the next day and then day of.",
+        "hyp": "文 2 : Наконец, они выглядели, захотеть со мной пообщаться, в основном сказав, что собираются на какое-то мероприятие и надеются увидеть меня там.",
+        "label_text": "выглядели"
+    }
+]

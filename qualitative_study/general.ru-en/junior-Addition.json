@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 3 : After a slight decrease in the number of protesters last Tuesday compared to the first two \"mobilisation days\", the unions hope to bring more protesters to the streets this time around, taking into account those citizens who were not able to participate in demonstrations on a weekday.",
+        "label_text": "around"
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 5 : My husband ate the smoked ribs - they were the bomb, soft, juicy, flavourful.",
+        "label_text": "My "
+    }
+]

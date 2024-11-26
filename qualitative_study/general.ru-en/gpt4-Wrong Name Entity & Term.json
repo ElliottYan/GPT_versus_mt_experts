@@ -1,0 +1,62 @@
+[
+    {
+        "source": "原文 : Пресс-секретарь МИД Армении Ваан Унанян в свою очередь сообщил, что грузовики с гуманитарной помощью пересекли границу через мост Маргара и направляются в пострадавший от землетрясения регион.",
+        "hyp": "文 4 : The spokesperson for the Armenian Ministry of Foreign Affairs, Vaan Unanyan, in turn reported that trucks carrying humanitarian aid have crossed the border via the Margara bridge and are heading towards the region affected by the earthquake.",
+        "label_text": " Vaan"
+    },
+    {
+        "source": "原文 : Пресс-секретарь МИД Армении Ваан Унанян в свою очередь сообщил, что грузовики с гуманитарной помощью пересекли границу через мост Маргара и направляются в пострадавший от землетрясения регион.",
+        "hyp": "文 4 : The spokesperson for the Armenian Ministry of Foreign Affairs, Vaan Unanyan, in turn reported that trucks carrying humanitarian aid have crossed the border via the Margara bridge and are heading towards the region affected by the earthquake.",
+        "label_text": "Vaan"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 5 : It doesn't quite make sense (performing at the Ruki Vverh bar, in the Ruki Vverh Band).",
+        "label_text": " Ruki Vverh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 5 : It doesn't quite make sense (performing at the Ruki Vverh bar, in the Ruki Vverh Band).",
+        "label_text": "Ruki Vverh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 5 : It doesn't quite make sense (performing at the Ruki Vverh bar, in the Ruki Vverh Band).",
+        "label_text": " Ruki Vverh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 5 : It doesn't quite make sense (performing at the Ruki Vverh bar, in the Ruki Vverh Band).",
+        "label_text": "Ruki Vverh"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 5 : All cases in which diseases are indicated as the initial cause of death (ICD) have been selected (all codes for external causes, injuries, and poisonings are excluded).",
+        "label_text": "ICD"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 5 : All cases in which diseases are indicated as the initial cause of death (ICD) have been selected (all codes for external causes, injuries, and poisonings are excluded).",
+        "label_text": "ICD"
+    },
+    {
+        "source": "原文 : В открытое многоцентровое рандомизированное контрольно-сравнительное клиническое исследование вошли 60 пациентов 18—55 лет с легкими и умеренными КН.",
+        "hyp": "文 1 : Sixty patients aged 18-55 with mild to moderate CKD were enrolled in an open multicenter randomized controlled clinical trial.",
+        "label_text": "CKD"
+    },
+    {
+        "source": "原文 : Были выявлены статистически значимые корреляционные связи между ИКЭФ и общим баллом по субтестам РАТ на понимание и воспроизведение речи до операции, но не в катамнезе.",
+        "hyp": "文 1 : Statistically significant correlational relationships were identified between the CIQ (Cochlear Implant Quality) and the total score on the RAT (Receptive-Expressive Emergent Language Test) subtests for comprehension and speech reproduction prior to surgery, but not at follow-up.",
+        "label_text": "CIQ (Cochlear Implant Quality)"
+    },
+    {
+        "source": "原文 : Легкая степень тяжести РПГИС характеризовалась уменьшением показателей плотности поверхностного сосудистого сплетения и плотности глубокого сосудистого сплетения на 13,5 и 10,5% соответственно по сравнению с контролем, средняя степень — на 19,7 и 14,6%, тяжелая степень — на 35,9 и 28% соответственно.",
+        "hyp": "文 4 : A mild severity of RPGIS was characterized by a reduction in the density of the superficial vascular plexus and the density of the deep vascular plexus by 13.5% and 10.5%, respectively, compared to the control group. Moderate severity showed reductions of 19.7% and 14.6%, while severe severity showed reductions of 35.9% and 28%, respectively.",
+        "label_text": " RPGIS"
+    },
+    {
+        "source": "原文 : Для ТМА, ассоциированной с ЗАГ, характерно статистически значимое снижение световой чувствительности центрального поля зрения, вызванное выраженным нарушением функции сетчатки, вероятно, ишемической природы.",
+        "hyp": "文 1 : For TMA associated with HRP, there is a statistically significant decrease in the light sensitivity of the central visual field, caused by a pronounced impairment of retinal function, likely of ischemic origin.",
+        "label_text": "HRP"
+    }
+]

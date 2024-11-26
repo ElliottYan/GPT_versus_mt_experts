@@ -1,0 +1,42 @@
+[
+    {
+        "source": "原文 : Charles was expected to attend a showing of the completed film, but died before it opened.",
+        "hyp": "文 2 : Чарльз должен был присутствовать на показе фильма, когда он был завершен, но умер до его премьеры.",
+        "label_text": "когда он был завершен, "
+    },
+    {
+        "source": "原文 : The researchers were able to report, for example, that about a quarter of cards went to relatives, nearly two-thirds to friends, and 8 percent to colleagues.",
+        "hyp": "文 3 : Исследователи смогли выяснить, что, например, около четверти поздравительных открыток отправляется родственникам, почти две трети друзьям и 8 процентов коллегам.",
+        "label_text": "поздравительных"
+    },
+    {
+        "source": "原文 : Is poignant with today's pair of demi-gods holding world political position.",
+        "hyp": "文 5 : Это весьма трогательно, учитывая, что сегодня в мире есть несколько полубогов, занимающих политические позиции.",
+        "label_text": "учитывая"
+    },
+    {
+        "source": "原文 : Is poignant with today's pair of demi-gods holding world political position.",
+        "hyp": "文 5 : Это весьма трогательно, учитывая, что сегодня в мире есть несколько полубогов, занимающих политические позиции.",
+        "label_text": "учитывая"
+    },
+    {
+        "source": "原文 : Is poignant with today's pair of demi-gods holding world political position.",
+        "hyp": "文 5 : Это весьма трогательно, учитывая, что сегодня в мире есть несколько полубогов, занимающих политические позиции.",
+        "label_text": "несколько"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 1 : Могу поспорить, что вы не удосужились прочитать весь номер или заметили букву, которую я туда вставил, и теперь вы вернетесь, чтобы проверить, и обнаружите, что буквы не было.",
+        "label_text": "удосужились "
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 1 : Могу поспорить, что вы не удосужились прочитать весь номер или заметили букву, которую я туда вставил, и теперь вы вернетесь, чтобы проверить, и обнаружите, что буквы не было.",
+        "label_text": "удосужились"
+    },
+    {
+        "source": "原文 : One of her friend said that she was sad as fuck all day because of me but didn’t want to say why.",
+        "hyp": "文 4 : Одна из ее подруг сказала, что весь день была грустной, как черт, из-за меня, но не захотела сказать, почему.",
+        "label_text": ", "
+    }
+]

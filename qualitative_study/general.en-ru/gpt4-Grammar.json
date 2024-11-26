@@ -1,0 +1,107 @@
+[
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 3 : Попробуйте написать в чат: \"Я не буду жульничать в этой игре!\"",
+        "label_text": "чат"
+    },
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 3 : Попробуйте написать в чат: \"Я не буду жульничать в этой игре!\"",
+        "label_text": "чат"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 2 : Определённый Лэмбет опустил флаг, и Эйску пришлось сдаться Тромпу на борту \"Гауды\", это был первый и последний случай в истории, когда британский адмирал такого высокого ранга был захвачен в море.",
+        "label_text": "Гауды"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 2 : Определённый Лэмбет опустил флаг, и Эйску пришлось сдаться Тромпу на борту \"Гауды\", это был первый и последний случай в истории, когда британский адмирал такого высокого ранга был захвачен в море.",
+        "label_text": "Гауды"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 2 : В 1981 году была создана ещё одна резервная (добровольческая) сила, состоящая из неполучающих оплату граждан, желающих выполнять ограниченный круг полицейских обязанностей.",
+        "label_text": "ограниченный"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 5 : И вот я это сделал и узнал из второго или третьего поста, что шоу AJ заблокировали на YouTube. Я не поклонник правых взглядов и, собственно, поэтому перестал смотреть его два года назад, хотя и было трудно найти хоть какой-то аромат свободы среди 90% национал-капитализма, который предлагал сайт. Но тем не менее, у меня возникла идея о видео-сайте без цензуры вроде LiveLeak, только гораздо проще и менее \"новостным\", на который каждый мог бы что-то выложить.",
+        "label_text": "Но "
+    },
+    {
+        "source": "原文 : Charles was expected to attend a showing of the completed film, but died before it opened.",
+        "hyp": "文 5 : От Чарльза ожидали, что он посетит показ завершённого фильма, но он умер до его премьеры.",
+        "label_text": "От Чарльза ожидали, что"
+    },
+    {
+        "source": "原文 : Mine’s ending and all my grades are passable except for biology in which I have an F.",
+        "hyp": "文 1 : У меня семестр заканчивается, и все оценки удовлетворительные, кроме биологии, там у меня \"неуд\".",
+        "label_text": " все оценки удовлетворительные"
+    },
+    {
+        "source": "原文 : I texted her in the night yesterday asking if she’s mad, and like she said she’s only a bit let down.",
+        "hyp": "文 5 : Я написал ей прошлой ночью, спросил, не обиделась ли она, а она ответила, что просто немного расстроена.",
+        "label_text": "прошлой ночью"
+    },
+    {
+        "source": "原文 : I found the built-in maps app seriously subpar, as I'm used to using Google Maps.",
+        "hyp": "文 3 : Я обнаружил, что встроенное приложение карт намного хуже, чем я привык пользоваться Google Картами.",
+        "label_text": "чем я привык пользоваться Google Картами"
+    },
+    {
+        "source": "原文 : The pitter-patter of rain falling on the pavement like tiny footsteps.",
+        "hyp": "文 2 : Шелест дождя, падающего на тротуар, словно крошечные шаги.",
+        "label_text": "Шелест дождя, падающего на тротуар, словно крошечные шаги"
+    },
+    {
+        "source": "原文 : Luckily the flare is a bit higher and not right where I make contact when sitting but it still hurts like a muther***",
+        "hyp": "文 2 : К счастью, воспаление немного выше, не прямо там, где я касаюсь, садясь, но всё равно болит как чертовски сильно.",
+        "label_text": "воспаление немного выше"
+    },
+    {
+        "source": "原文 : Remarkably, these relationships are not static, as they change throughout an organism's lifetime and on an evolutionary scale.",
+        "hyp": "文 2 : Удивительно, но эти отношения не статичны, они меняются на протяжении жизни организма и в эволюционном масштабе.",
+        "label_text": "но "
+    },
+    {
+        "source": "原文 : If you work backward from x=2, taking the cube root of both sides ignores the possible factors of which are non-principal cube roots of one.",
+        "hyp": "文 1 : Если вы будете работать в обратном направлении от x=2, извлекая кубический корень с обеих сторон, вы игнорируете возможные множители, которые являются непринципиальными кубическими корнями единицы.",
+        "label_text": " будете работать"
+    },
+    {
+        "source": "原文 : Thousands of people braved heavy rain to attend Lakiss's funeral in Baalbek.",
+        "hyp": "文 1 : Тысячи людей, несмотря на проливной дождь, пришли на похороны Лакисса в Баальбек.",
+        "label_text": "к"
+    },
+    {
+        "source": "原文 : It’s been now 4 or 5 hours and I saw him now drink and eat a little bit.",
+        "hyp": "文 3 : Прошло уже 4 или 5 часов, и я видел, как он немного поел и попил.",
+        "label_text": " видел"
+    },
+    {
+        "source": "原文 : So, there will be problems on various fronts, I'm sure, and we will need the numbers very soon.",
+        "hyp": "文 4 : Итак, у нас, я уверен, возникнут проблемы на разных фронтах, и нам очень скоро понадобятся эти данные.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Several sites reported highest on record daily rainfall amounts including Mandora (281.0 mm on 6th) and Mount Narryer (152.0 mm on 10th).",
+        "hyp": "文 1 : Несколько сайтов сообщили о рекордных количествах осадков за сутки, в том числе в Мандоре (281,0 мм 6-го числа) и на горе Нарриер (152,0 мм 10-го числа).",
+        "label_text": "Несколько сайтов"
+    },
+    {
+        "source": "原文 : I don't know if you have responded, I had not seen anyone providing any- any updates to the document.",
+        "hyp": "文 4 : Я не знаю, отвечали ли вы, я не видел, чтобы кто-либо вносил какие-либо обновления в документ.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : U srsly don't know what to do and whom to trust anymore.",
+        "hyp": "文 2 : Я серьёзно не знаю, что делать и кому теперь доверять.",
+        "label_text": "не знаю"
+    },
+    {
+        "source": "原文 : And then Mom-O decides to go to the gym to do a quick workout, whatever that is.",
+        "hyp": "文 1 : А потом Мама-О решает сходить в спортзал, чтобы быстренько потренироваться, что бы это ни значило.",
+        "label_text": "сходить"
+    }
+]

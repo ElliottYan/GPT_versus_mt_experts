@@ -1,0 +1,62 @@
+[
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 1 : \" Xulio Rios, a famous Spanish expert on Chinese issues and honorary adviser of the Observatory of Chinese Politics, said in an interview with our report, \"Currently, China's COVID-19 prevention and control has entered a new phase, where the vitality of economic and social development will be further released.\"",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : 孟奇仔细把玩了一下这拇指大小的玉佛，只见“它”满脸慈悲，栩栩如生，显然雕工不凡，同时，“它”手感细腻，既温润又给人清凉之感。",
+        "hyp": "文 2 : Meng Qi carefully turned the thumb-sized jade Buddha pendant in his hands, only to find that \"it\" had a merciful facial expression, and was vividly and exquisitely carved. Meanwhile, \"it\" featured a delicate touch, making people feel both warm and cool.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : 孟奇仔细把玩了一下这拇指大小的玉佛，只见“它”满脸慈悲，栩栩如生，显然雕工不凡，同时，“它”手感细腻，既温润又给人清凉之感。",
+        "hyp": "文 2 : Meng Qi carefully turned the thumb-sized jade Buddha pendant in his hands, only to find that \"it\" had a merciful facial expression, and was vividly and exquisitely carved. Meanwhile, \"it\" featured a delicate touch, making people feel both warm and cool.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : 孟奇仔细把玩了一下这拇指大小的玉佛，只见“它”满脸慈悲，栩栩如生，显然雕工不凡，同时，“它”手感细腻，既温润又给人清凉之感。",
+        "hyp": "文 2 : Meng Qi carefully turned the thumb-sized jade Buddha pendant in his hands, only to find that \"it\" had a merciful facial expression, and was vividly and exquisitely carved. Meanwhile, \"it\" featured a delicate touch, making people feel both warm and cool.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : 孟奇仔细把玩了一下这拇指大小的玉佛，只见“它”满脸慈悲，栩栩如生，显然雕工不凡，同时，“它”手感细腻，既温润又给人清凉之感。",
+        "hyp": "文 2 : Meng Qi carefully turned the thumb-sized jade Buddha pendant in his hands, only to find that \"it\" had a merciful facial expression, and was vividly and exquisitely carved. Meanwhile, \"it\" featured a delicate touch, making people feel both warm and cool.",
+        "label_text": "\" "
+    },
+    {
+        "source": "原文 : 弗莱明也从一边跑了过来：“托尼，你现在不能回家。 我们在比赛，你是主教练，你要指挥球队！”",
+        "hyp": "文 4 : Fleming also ran over and said, “Tony, you can’t go home now.” We’re in the middle of a match, and you are the head coach. You need to direct the team!”",
+        "label_text": "“"
+    },
+    {
+        "source": "原文 : 弗莱明也从一边跑了过来：“托尼，你现在不能回家。 我们在比赛，你是主教练，你要指挥球队！”",
+        "hyp": "文 4 : Fleming also ran over and said, “Tony, you can’t go home now.” We’re in the middle of a match, and you are the head coach. You need to direct the team!”",
+        "label_text": "” "
+    },
+    {
+        "source": "原文 : “楼市在回暖，此时更需要一针‘强心剂’。",
+        "hyp": "文 2 : “The real estate market is recovering, and at this time, it needs effective ‘stimulus measures’.",
+        "label_text": "“"
+    },
+    {
+        "source": "原文 : “楼市在回暖，此时更需要一针‘强心剂’。",
+        "hyp": "文 2 : “The real estate market is recovering, and at this time, it needs effective ‘stimulus measures’.",
+        "label_text": "’"
+    },
+    {
+        "source": "原文 : 安林见状有些激动地问道：“这位漂亮的仙女姐姐，请问这里是什么地方，我初来乍到，对这个地方不是很懂呢。”",
+        "hyp": "文 3 : Upon seeing this, An Lin became somewhat excited and asked, “Excuse me, beautiful fairy sister, may I ask where this place is? I’m new here and I don’t know much about this place.”",
+        "label_text": "“"
+    },
+    {
+        "source": "原文 : 安林见状有些激动地问道：“这位漂亮的仙女姐姐，请问这里是什么地方，我初来乍到，对这个地方不是很懂呢。”",
+        "hyp": "文 3 : Upon seeing this, An Lin became somewhat excited and asked, “Excuse me, beautiful fairy sister, may I ask where this place is? I’m new here and I don’t know much about this place.”",
+        "label_text": "”"
+    },
+    {
+        "source": "原文 : 本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。",
+        "hyp": "文 5 : This document is drafted in accordance with the provisions of GB/T 1.1-2020 “Directives for standardization - Part 1: Rules for the structure and drafting of standardizing documents.”",
+        "label_text": "“"
+    }
+]

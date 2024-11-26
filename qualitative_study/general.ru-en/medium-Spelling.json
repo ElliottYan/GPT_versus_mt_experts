@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 3 : In the Granovshchina village, the Chair of the Government checked the operation of a new educational institution, the Granovskaya school which opened in September 2022.",
+        "label_text": "Granovskaya"
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 1 : The author's interest is focused on both a screwdriver exploring the electric meter and a piece of unsalted butter drifting across the cast-iron frying pan. All this transforms the story of an unemployed miner, his gap-toothed love-mate and her criminal brother into a real dock-canvas with oil painting.",
+        "label_text": "dock-canvas"
+    },
+    {
+        "source": "原文 : Тогда был установлен потолок на российскую нефть на уровне $60/барр.",
+        "hyp": "文 5 : At that time, the ceiling on Russian oil was set at the level if 60 USD/barrel.",
+        "label_text": "if"
+    },
+    {
+        "source": "原文 : По данным агентства команда Десантиса уже подбирает консультантов для участия в президентских выборах и ведет предварительные опросы.",
+        "hyp": "文 5 : According to the agency's information, the DeSantis' team is already selecting consultants to be engaged in the presidential elections and is conducting preliminary polls.",
+        "label_text": "S"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 3 : Спасибо, хорошего утра и хорошей ночи и хорошего вечера в шоу Трумэна, хаха.",
+        "label_text": "Трумэна"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 3 : Я ездил только на местном уровне, так что потребовалась большая часть недели, чтобы понять, что я не могу поставить его на 60 миль в час, или что я должен был положить его, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": " оборотов в минуту"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 3 : Я ездил только на местном уровне, так что потребовалась большая часть недели, чтобы понять, что я не могу поставить его на 60 миль в час, или что я должен был положить его, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": " оборотов в минуту"
+    }
+]

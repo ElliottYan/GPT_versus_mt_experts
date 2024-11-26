@@ -1,0 +1,7 @@
+[
+    {
+        "source": "原文 : 因为再等待 20 分钟就已经等了 1 个小时 #NUMBER# 分鐘了",
+        "hyp": "文 4 : Because I have waited for 1 hour and #NUMBER# minutes if I wait for another 20 minutes",
+        "label_text": "Because I have waited for 1 hour and #NUMBER# minutes if I wait for another 20 minutes"
+    }
+]

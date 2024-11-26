@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : В уборке примут участие 114 единиц спецтехники и 123 рабочих.",
+        "hyp": "文 4 : 114 pieces of specialized equipment and 123 workers will participate in the cleanup.",
+        "label_text": "cleanup"
+    },
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 5 : In the village of Granovshchina, the Prime Minister familiarized himself with the operations of the new educational institution - Granovskaya School, which was opened in September 2022.",
+        "label_text": "Granovskaya"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 4 : At the roundtable dedicated to the fate of Russian arthouse cinema, Sergey Tolstikov, the chairman of the foundation for the support of domestic film, engaged in a colorful dispute with critics: \"Do you even read the articles in the press that I read?\" he asked the attendees menacingly.",
+        "label_text": "roundtable"
+    },
+    {
+        "source": "原文 : Цукерберг запускает сайт по целому ряду причин: отчасти из-за озлобленности на окружающий мир, отчасти из-за спортивного интереса и отчасти просто потому, что ЭТО «круто».",
+        "hyp": "文 1 : Zuckerberg launches the website for a variety of reasons: partly out of bitterness towards the world around him, partly out of a competitive interest, and partly just because it's \"cool.\"",
+        "label_text": "it's"
+    },
+    {
+        "source": "原文 : прогноз на матч клубного чемпионата мира 11 февраля 2023 года.",
+        "hyp": "文 5 : Match forecast for the Club World Cup on February 11, 2023.",
+        "label_text": "Match"
+    }
+]

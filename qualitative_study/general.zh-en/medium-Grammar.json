@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : 新的买好了，就想着马上把亚马逊的订单给取消。",
+        "hyp": "文 5 : As the new one was bought, he wanted to cancel the order placed on the Amazon platform immediately.",
+        "label_text": "was bought"
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 2 : As some exhibits are confidential, the China Banknote Printing and Minting Museum, since the end of its construction, has been only for industry insiders, and not open to the public.",
+        "label_text": "open"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 1 : The Ninth Institute was initially located in Beijing. Later, its major engineering and production department was relocated to the 221st Factory located on Jinyintan Grassland, Xihai Town, Haiyan County, Qinghai Province. In 1970, the department was relocated to the mountainous area in northern Sichuan.",
+        "label_text": "major engineering and production department was "
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 1 : The Ninth Institute was initially located in Beijing. Later, its major engineering and production department was relocated to the 221st Factory located on Jinyintan Grassland, Xihai Town, Haiyan County, Qinghai Province. In 1970, the department was relocated to the mountainous area in northern Sichuan.",
+        "label_text": "department"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 4 : She is the overall commander and messenger of the M4 Sherman (76mm Gun) Tank Team (vice commander of the Tank Division). She is a sophomore at the Saunders University High School and her first appearance is in Episode 4 of this season. She is good at planning tactics and is the military advisor of the team. However, she is easy to get emotional and nervous in tank competitions. When her team was competing with the Oarai Girls' Academy's team, her flurried and dejected behavior affected the morale of other teammates. She took advantage of a rule loophole and secretly used a spy balloon to eavesdrop on intelligence. However, she was beaten back by a counter-blow, which resulted in the team's loss of advantages and the final defeat. Because of the cheat, she was punished by Kay. When she is sad or angry, she will inexplicably mention the boy (called Takashi) she has a crush on. In the film adaptation, she was consoled by the Rabbit Team for this reason. Despite her usual sharp tongue and bad ideas, she is inherently simple-minded and is merely a somewhat silly girl with a complex personality. In Episode 3 of the final season, she fell into a trap planned by the Continuation High School, and thus, the flag tank she was commanding was destroyed.",
+        "label_text": "the flag tank she was commanding was destroyed"
+    },
+    {
+        "source": "原文 : 仅仅在叙利亚，就有多达530万人因为地震而失去家园。",
+        "hyp": "文 1 : In Syria alone, up to 5.3 million people lost their homes because of the earthquake.",
+        "label_text": "lost"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 5 : In an article published by Billboard in August 2021, the magazine pointed out that the band’s fans have “through above-board means” taken advantage of loopholes in chart tabulations to boost the ranks of singles such as “Butter” in the US and help the song top the Hot 100 for multiple weeks. While the chart performance of singles on the Hot 100 typically depends on streaming and airplay, that of “Butter” was notably driven mostly by sales (the bulk of which came from BTS’ webstore, which allows fans to buy multiple copies of a song, unlike iTunes) and by fan-led crowdfunding efforts (including using money collected from fans worldwide on services like PayPal to make purchases that count toward US sales only). However, an article in The Korea Times pushed back against claims of chart manipulation. It opined that fanbases of other artists such as Justin Bieber and Ariana Grande have employed similar promotional measures, that such measures were neither illegal nor unethical, and that fans engaging in those measures were merely “intelligent consumers leading global trends”.",
+        "label_text": "have employed"
+    },
+    {
+        "source": "原文 : 7名歌手竞演结束后，由听众评审团投票排出名次，排在第7位的歌手将被淘汰，那个位置由新的歌手替换。",
+        "hyp": "文 1 : After the competition among the seven singers concludes, the audience jury will vote to determine the ranking. The singer in 7th place will be eliminated, and a new singer will replace the eliminated one.",
+        "label_text": "7th"
+    },
+    {
+        "source": "原文 : 而且商品产品包装问题，我看评论2016年就有人评论过，到现在19年，还是老样子。",
+        "hyp": "文 3 : Moreover, there is a problem with the product packaging. I noticed that someone has commented on this problem as early as 2016, and it remains unsolved now in 2019.",
+        "label_text": "has"
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 5 : The toothpaste contains granules, and gives the users a refreshing sensation. After use, the users feel their teeth smooth and clean. It is much better than the toothpastes sold on JD.com which sells many second-hand products. The platform claims to sell imported products, but many of them lack Chinese labels, making it unclear where they were sourced from.",
+        "label_text": "were"
+    },
+    {
+        "source": "原文 : 抹茶猫却是丝毫不对眼前的情况感到怪异一样，突然跳到了赵耀的怀里，眯着眼睛蹭着赵耀的身体，奶声奶气道：“和我玩游戏吧。”",
+        "hyp": "文 3 : The Matcha Cat, however, seemed not at all surprised by what was happening and suddenly jumped into Zhao Yao’s arms. It squinted its eyes and nuzzled against Zhao Yao’s body, saying in a sweet and innocent voice, “Play games with me.”",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : 之所以猜测这是琥珀，是因为它色泽是淡黄色的，里面包裹着一个小虫，和他小学六年级时候看到过的一枚琥珀很像。 那时候他们的课本有一篇名为《琥珀》的课文，语文老师给他们上课的时候，就带来了一枚琥珀。",
+        "hyp": "文 5 : The reason for him suspecting it to be amber is that it has a pale yellow color and contains a small insect inside. It looks like the amber that he had seen in sixth grade. At that time, their textbook had an article titled “Amber”, and their Chinese teacher brought a piece of amber to class.",
+        "label_text": "had seen"
+    },
+    {
+        "source": "原文 : 乔子衿连连摇头，她妈都这个年纪了，肾肯定没比她好到哪儿去，既然都要了，她肯定要个好的：“妈，你是生我养我的妈，我可舍不得你动刀子，我爸肯定也是不行的。”",
+        "hyp": "文 2 : Qiao Zijin shook her head repeatedly. Her mother was already at that age, and her kidneys were definitely not in a better condition than hers. Since Qiao was considering undergoing surgery, she definitely wanted the best kidney. “Mom, you are the one who gave birth to me and raised me. I can’t bear to see you going under the knife, and my dad is definitely not an option either.”",
+        "label_text": "her kidneys were definitely not in a better condition than hers"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "source": "原文 : Из электронной базы данных Главного управления ЗАГС Московской области (система ЕГР ЗАГС) за 2021 г.",
+        "hyp": "文 1 : From the electronic database of the Main Registry Office of the Moscow region (EGR system of the registry office) for 2021",
+        "label_text": "EGR"
+    },
+    {
+        "source": "原文 : Из электронной базы данных Главного управления ЗАГС Московской области (система ЕГР ЗАГС) за 2021 г.",
+        "hyp": "文 1 : From the electronic database of the Main Registry Office of the Moscow region (EGR system of the registry office) for 2021",
+        "label_text": "EGR"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 1 : Somehow it's illogical (performing in the bar Hands Up, in the band Hands Up Band).",
+        "label_text": "Hands Up"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 1 : Somehow it's illogical (performing in the bar Hands Up, in the band Hands Up Band).",
+        "label_text": "Hands Up Band"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 1 : Somehow it's illogical (performing in the bar Hands Up, in the band Hands Up Band).",
+        "label_text": "Hands Up"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 1 : Somehow it's illogical (performing in the bar Hands Up, in the band Hands Up Band).",
+        "label_text": "Hands Up Band"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 2 : All cases in which the initial cause of death (PPS) is a disease have been selected (all codes for external causes, injuries and poisoning have been excluded).",
+        "label_text": "PPS"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 2 : All cases in which the initial cause of death (PPS) is a disease have been selected (all codes for external causes, injuries and poisoning have been excluded).",
+        "label_text": "PPS"
+    },
+    {
+        "source": "原文 : В соответствии с классификацией PASCAL у 93% пациентов НЦН ООО может рассматриваться в качестве вероятной причины ИИ, тогда как в группе ГКБ №4 вероятная причинно-следственная связь прослеживалась только в 51% случаев, у 18% пациентов роль аномалии в развитии инсульта была маловероятной.",
+        "hyp": "文 2 : According to the PASCAL classification, in 93% of patients, NCDs can be considered as a probable cause of stroke, whereas in the GBC-4 group, a probable causal relationship was detected only in 51% of cases; in 18% of patients, the role of the abnormality in stroke development was unlikely.",
+        "label_text": "NCDs"
+    },
+    {
+        "source": "原文 : Если в составе розничного ПИФ более 10% заблокированных бумаг, то управляющая компания должна выделить их в отдельный закрытый ПИФ до 1 сентября 2023 г.",
+        "hyp": "文 3 : If the retail PIF contains more than 10% of the blocked securities, the management company must allocate them to a separate closed PIF by September 1, 2023.",
+        "label_text": "PIF"
+    },
+    {
+        "source": "原文 : Если в составе розничного ПИФ более 10% заблокированных бумаг, то управляющая компания должна выделить их в отдельный закрытый ПИФ до 1 сентября 2023 г.",
+        "hyp": "文 3 : If the retail PIF contains more than 10% of the blocked securities, the management company must allocate them to a separate closed PIF by September 1, 2023.",
+        "label_text": "PIF"
+    },
+    {
+        "source": "原文 : Миграционная служба Аргентины начала приостанавливать и отменять действие вида на жительство (ВНЖ) россиян, получивших его через рождение ребенка, но не оставшихся жить в стране.",
+        "hyp": "文 2 : The Migration Service of Argentina began to suspend and revoke the residence permit of Russians who received it through the birth of a child, but did not stay to live in the country.",
+        "label_text": "The Migration Service of Argentina"
+    },
+    {
+        "source": "原文 : В открытое многоцентровое рандомизированное контрольно-сравнительное клиническое исследование вошли 60 пациентов 18—55 лет с легкими и умеренными КН.",
+        "hyp": "文 3 : The open-label, multi-center, randomized controlled clinical trial included 60 patients aged 18-55 with mild to moderate CFS.",
+        "label_text": "CFS"
+    },
+    {
+        "source": "原文 : Дэниел Рэдклифф сыграет главную роль в экранизации «На западном фронте без перемен» Ремарка",
+        "hyp": "文 5 : Daniel Radcliffe will play the lead role in the film adaptation of \"On the Western Front\" by Remarque.",
+        "label_text": "On the Western Front"
+    },
+    {
+        "source": "原文 : На фоне применения Цитофлавина отмечено повышение показателей КЖ, уменьшение выраженности сенсорных нарушений и снижение уровня ФНО-α, что может указывать на возможный противовоспалительный механизм препарата.",
+        "hyp": "文 1 : Against the background of the use of cytophylline, there is an increase in CRT, a decrease in the severity of sensory disorders and a decrease in the level of phthalate, which may indicate a possible anti-inflammatory mechanism of the drug.",
+        "label_text": "CRT"
+    },
+    {
+        "source": "原文 : На фоне применения Цитофлавина отмечено повышение показателей КЖ, уменьшение выраженности сенсорных нарушений и снижение уровня ФНО-α, что может указывать на возможный противовоспалительный механизм препарата.",
+        "hyp": "文 1 : Against the background of the use of cytophylline, there is an increase in CRT, a decrease in the severity of sensory disorders and a decrease in the level of phthalate, which may indicate a possible anti-inflammatory mechanism of the drug.",
+        "label_text": "phthalate"
+    },
+    {
+        "source": "原文 : Были выявлены статистически значимые корреляционные связи между ИКЭФ и общим баллом по субтестам РАТ на понимание и воспроизведение речи до операции, но не в катамнезе.",
+        "hyp": "文 5 : Statistically significant correlations were found between the IQ test and the total score of the RAT sub-tests for pre-operative speech comprehension and reproduction, but not for catamnesis.",
+        "label_text": "IQ"
+    },
+    {
+        "source": "原文 : Ранее министр обороны Литвы Арвидас Анушаускас заявил, что балтийская республика начала передачу Вооруженным силам Украины 36 зенитных орудий Bofors L70.",
+        "hyp": "文 3 : Earlier, Lithuanian Defense Minister Arvydas Anushauskas said that the Baltic Republic has begun the transfer of 36 Bofors L70 anti-aircraft guns to the Armed Forces of Ukraine.",
+        "label_text": "Anushauskas"
+    },
+    {
+        "source": "原文 : При анализе данных мф-ЭРГ в исследуемой группе обнаружено статистически значимое по сравнению с группой контроля снижение плотности биопотенциала Р1 (нВ/град<sup>2</sup>) центральной зоны сетчатки (0—27,7°; <i>p</i><0,05), отличия латентности Р1 (ms) были статистически незначимы (<i>p</i>>0,05).",
+        "hyp": "文 3 : In the analysis of mRNA-EEG data in the study group, a statistically significant decrease in the bio-potential density of the central area of the retina (0.27.7°) was detected in comparison with the control group, and the differences in the latency of mRNA were statistically insignificant (0.05°).",
+        "label_text": "mRNA-EEG"
+    },
+    {
+        "source": "原文 : Под наблюдением находились пациенты мужского пола 35–74 лет с функциональной патологией ВНЧС.",
+        "hyp": "文 4 : Under observation were male patients aged 35 to 74 years with functional pathology of VNSS.",
+        "label_text": "VNSS"
+    },
+    {
+        "source": "原文 : Легкая степень тяжести РПГИС характеризовалась уменьшением показателей плотности поверхностного сосудистого сплетения и плотности глубокого сосудистого сплетения на 13,5 и 10,5% соответственно по сравнению с контролем, средняя степень — на 19,7 и 14,6%, тяжелая степень — на 35,9 и 28% соответственно.",
+        "hyp": "文 3 : The mild severity of RPGIS was characterized by a decrease in the density of the superficial vascular plexus and the density of the deep vascular plexus by 13.5 and 10.5%, respectively, compared to the control, the average severity by 19.7 and 14.6%, and the severe severity by 35.9 and 28%, respectively.",
+        "label_text": "RPGIS"
+    },
+    {
+        "source": "原文 : Всем пациентам каждые 6 мес выполняли 10-дневные курсы накожной ЛТ в инфракрасном диапазоне излучения.",
+        "hyp": "文 5 : All patients were treated every six months with a 10-day course of intravenous CT in the infrared range.",
+        "label_text": "CT"
+    },
+    {
+        "source": "原文 : Для ТМА, ассоциированной с ЗАГ, характерно статистически значимое снижение световой чувствительности центрального поля зрения, вызванное выраженным нарушением функции сетчатки, вероятно, ишемической природы.",
+        "hyp": "文 2 : TMA associated with ADHD is characterized by a statistically significant decrease in the light sensitivity of the central field of vision, caused by a pronounced impairment of retinal function, probably of an ischemic nature.",
+        "label_text": "ADHD"
+    },
+    {
+        "source": "原文 : Проведено комплексное обследование 114 пациентов в возрасте от 18 до 55 лет с ИИ по механизму парадоксальной эмболии.",
+        "hyp": "文 5 : A comprehensive examination of 114 patients aged 18 to 55 years with AI was carried out on the mechanism of paradoxical embolism.",
+        "label_text": "AI"
+    }
+]

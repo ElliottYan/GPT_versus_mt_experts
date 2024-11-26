@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : \"Нам надо провести глубокий анализ, чтобы убедиться, что эта причина не распространяется на подобные конструкции на будущих пусках.",
+        "hyp": "文 4 : \"We need to conduct an in-depth analysis to make sure that this reason does not extend to similar designs in future launches.",
+        "label_text": "designs"
+    },
+    {
+        "source": "原文 : В Англии, в портовом городе Грейт-Ярмут, в пятницу взорвалась авиабомба времен Второй мировой войны, которую пытались обезвредить саперы.",
+        "hyp": "文 3 : In the English port city of Great Yarmouth, a World War II-era bomb exploded Friday as bomb squad tried to defuse it.",
+        "label_text": "squad"
+    },
+    {
+        "source": "原文 : Как уверяет кинокомпания Рагатоипе, увольнение «не связано с тем интервью, в котором Фокс сравнила Майкла Бэя с Гитлером».",
+        "hyp": "文 5 : According to the film company Ragatoipe, the dismissal \"has nothing to do with the interview in which Fox compared Michael Bay to Hitler\".",
+        "label_text": "\"has nothing to do with"
+    },
+    {
+        "source": "原文 : Их употребление перед сном стоит ограничивать, поскольку они не только мешают засыпанию, но и делают сон \"рваным\", а значит не дающим организму полноценно восстановиться.",
+        "hyp": "文 1 : Their use before bedtime should be limited, as they not only interfere with falling asleep, but also make sleep \"ruined\", which means that they do not allow the body to fully recover.",
+        "label_text": "use"
+    },
+    {
+        "source": "原文 : Да, со своей последней картиной «Судный день», разбодяженным «Безумным Максом» для неимущих, Маршалл дал серьезную осечку",
+        "hyp": "文 5 : Yes, with his last painting, \"Judgment Day\", a naked \"Mad Max\" for the poor, Marshall gave a serious nod.",
+        "label_text": "gave a serious nod"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "更安全交通指挥部"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "部队"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "性侵犯"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "更安全交通指挥部"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "伦敦金融城警察"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 2 : 例如，在说新加坡英语方言的人中，最后辅音群简化是很常见的现象，他们可能会使用被称为变位、喉化和省略的辅音群简化策略。",
+        "label_text": "变位"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 2 : 例如，在说新加坡英语方言的人中，最后辅音群简化是很常见的现象，他们可能会使用被称为变位、喉化和省略的辅音群简化策略。",
+        "label_text": "变位"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 1 : 所以我和我的朋友又开始玩《Valorant》了，我们想学习一些通讯术语，比如“天堂”之类的。",
+        "label_text": "《Valorant》"
+    },
+    {
+        "source": "原文 : While still living in the north King Mangrai was visited by some merchants from the Mon Kingdom, and hearing of the wealth of Lamphun he determined to conquer it, even against the advice of his councillors.",
+        "hyp": "文 2 : 在北方居住时，孟萊国王接待了来自孟族王国的一些商人，听说了南奔府的富饶，他决心要征服它，即使他的顾问们都不赞成。",
+        "label_text": "孟族王国"
+    },
+    {
+        "source": "原文 : While still living in the north King Mangrai was visited by some merchants from the Mon Kingdom, and hearing of the wealth of Lamphun he determined to conquer it, even against the advice of his councillors.",
+        "hyp": "文 2 : 在北方居住时，孟萊国王接待了来自孟族王国的一些商人，听说了南奔府的富饶，他决心要征服它，即使他的顾问们都不赞成。",
+        "label_text": "孟族王国"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 1 : 单体链霉亲和素是一种经过重组的链霉亲和素，它通过突变打破四聚体结构形成单体，并增强了结果孤立亚基的溶解性。",
+        "label_text": "结果孤立亚基"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 1 : 迪克希塔是节奏（tala）的大师，他是唯一一位创作了卡纳提克音乐体系中所有七种基本节奏的作曲家。",
+        "label_text": "节奏（tala）"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 3 : 2007年6月，纳迪埃洛拒绝了巴恩斯利提供的新合同，并且在挥别了来自诺里奇城的兴趣后，签下了与同为冠军联赛球队女王公园巡游者的两年合同，此举遭到了巴恩斯利当时的主席戈登·谢泼德的批评。",
+        "label_text": "诺里奇城"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 3 : 2007年6月，纳迪埃洛拒绝了巴恩斯利提供的新合同，并且在挥别了来自诺里奇城的兴趣后，签下了与同为冠军联赛球队女王公园巡游者的两年合同，此举遭到了巴恩斯利当时的主席戈登·谢泼德的批评。",
+        "label_text": "冠军联赛"
+    },
+    {
+        "source": "原文 : Differential diagnosis of this type of patchy alopecia when it is in the non scarring stage includes trichotillomania and alopecia areata, in the late stage, when smooth hairless patches are present with follicular drop out, it can resemble scarring alopecias such as frontal fibrosing alopecia (FFA) and patchy central centrifugal cicatricial alopecia (CCCA).",
+        "hyp": "文 5 : 这种斑块状脱发在非瘢痕阶段时，鉴别诊断包括拔毛癖和斑秃；在晚期，当出现光滑无毛的斑块和毛囊脱落时，它可能类似于瘢痕性脱发，如额部纤维化脱发（FFA）和斑块状中心向外脓疱性脱发（CCCA）。",
+        "label_text": "斑块状中心向外脓疱性脱发"
+    },
+    {
+        "source": "原文 : The pelvis can be classified into four main types by measuring the pelvic diameters and conjugates at the pelvic inlet and outlet and as oblique diameters.",
+        "hyp": "文 3 : 骨盆可以通过测量骨盆入口和出口的骨盆直径和联合距离以及斜径来分为四种主要类型。",
+        "label_text": "联合距离"
+    },
+    {
+        "source": "原文 : The original three skulls (all assigned to different species) were poorly known, and the genus had been considered a junior synonym of \"Metriorhynchus,\" \"Geosaurus\" or \"Dakosaurus\" by different palaeontologists in the past.",
+        "hyp": "文 1 : 最初的三个头骨（都被归为不同的物种）了解甚少，而且在过去，不同的古生物学家曾将这个属视为“中龙属”、“地龙属”或“恐龙属”的次级同物异名。",
+        "label_text": "恐龙属"
+    },
+    {
+        "source": "原文 : The lateral grey column receives input signals from preganglionic, myelinated fibers from viscera (internal organs), which course through prevertebral ganglia (between the visceral organ and the sympathetic chain) and paravertebral ganglia (in the sympathetic chain), white rami communicantes, and dorsal roots to synapse on cells of the intermediolateral cell column in the lateral horn.",
+        "hyp": "文 2 : 侧角灰质接收来自内脏器官的前神经节有髓纤维的输入信号，这些信号通过腹前神经节（位于内脏器官与交感神经链之间）和脊旁神经节（位于交感神经链中）、白色连合支以及背根，最终在侧角的中间外侧细胞柱上的细胞处形成突触。",
+        "label_text": "前神经节有髓纤维"
+    },
+    {
+        "source": "原文 : The lateral grey column receives input signals from preganglionic, myelinated fibers from viscera (internal organs), which course through prevertebral ganglia (between the visceral organ and the sympathetic chain) and paravertebral ganglia (in the sympathetic chain), white rami communicantes, and dorsal roots to synapse on cells of the intermediolateral cell column in the lateral horn.",
+        "hyp": "文 2 : 侧角灰质接收来自内脏器官的前神经节有髓纤维的输入信号，这些信号通过腹前神经节（位于内脏器官与交感神经链之间）和脊旁神经节（位于交感神经链中）、白色连合支以及背根，最终在侧角的中间外侧细胞柱上的细胞处形成突触。",
+        "label_text": "腹前神经节"
+    },
+    {
+        "source": "原文 : The lateral grey column receives input signals from preganglionic, myelinated fibers from viscera (internal organs), which course through prevertebral ganglia (between the visceral organ and the sympathetic chain) and paravertebral ganglia (in the sympathetic chain), white rami communicantes, and dorsal roots to synapse on cells of the intermediolateral cell column in the lateral horn.",
+        "hyp": "文 2 : 侧角灰质接收来自内脏器官的前神经节有髓纤维的输入信号，这些信号通过腹前神经节（位于内脏器官与交感神经链之间）和脊旁神经节（位于交感神经链中）、白色连合支以及背根，最终在侧角的中间外侧细胞柱上的细胞处形成突触。",
+        "label_text": "白色连合支"
+    },
+    {
+        "source": "原文 : All of niobium's isomers decay by isomeric transition or beta decay except Nb, which has a minor electron capture branch.",
+        "hyp": "文 3 : 镍的所有同位素异构体都通过同位素异构转变或β衰变来衰减，除了铌，它有一个小的电子俘获分支。",
+        "label_text": "镍"
+    },
+    {
+        "source": "原文 : In 2018, Lufkin's crime rate was 4,666 crimes per 100,000 persons, which was an overall decrease by 2% from 2017; 134 violent crimes and 1,403 property crimes were reported.",
+        "hyp": "文 2 : 2018年，卢夫金的犯罪率为每十万人4,666起犯罪事件，与2017年相比总体下降了2%；报告了134起暴力犯罪和1,403起财产犯罪。",
+        "label_text": "卢夫金"
+    },
+    {
+        "source": "原文 : I’m going to skip the Oscar-bait shit like The Post, because there’s only some much concentrated rage at milquetoast Democrats making movies about how (extremely wonky nasal nerd voice) “politics used to be more polite.",
+        "hyp": "文 5 : 我打算跳过那些像《邮报》这样为奥斯卡量身定做的烂片，因为我实在受不了那些温和派民主党人拍电影来怀旧（用极度夸张的鼻音书呆子声音）“政治过去是多么的文明有礼”。",
+        "label_text": "《邮报》"
+    },
+    {
+        "source": "原文 : The National Healthcareer Association (NHA), the largest Allied Health Certification Agency in the US and the National Lutheran Health and Medical Board (NLHMB), Chennai, India, which is a leading NGO and sponsor of Two Universities have come together to offer the US employment National Healthcareer Association Certificate Examination in India.",
+        "hyp": "文 3 : 美国最大的联合健康认证机构——国家医疗职业协会（NHA）以及位于印度钦奈的领先非政府组织和两所大学的赞助者——国家信义会健康与医疗委员会（NLHMB），联合在印度提供美国就业国家医疗职业协会证书考试。",
+        "label_text": "国家信义会健康与医疗委员会"
+    }
+]

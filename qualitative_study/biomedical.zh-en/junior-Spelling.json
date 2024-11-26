@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : 磁共振成像水脂分离技术在多发性骨髓瘤患者中的应用研究. 探讨磁共振成像水脂分离（Dixon）技术在多发性骨髓瘤患者中应用的临床意义. 将2019年4月至2021年4月于青岛大学附属医院行Dixon技术检查的初诊多发性骨髓瘤患者共41例纳入本研究。",
+        "hyp": "文 3 : Study on the Application of Magnetic Resonance Imaging Water-fat Separation (Dixon) Technique in Patients with Multiple Myeloma. This study aims to explore the clinical significance of using the Dixon technique in patients with multiple myeloma. It includes a cohort of 41 patients newly diagnosed with multiple myeloma who underwent examination with the Dixon technique at The Affiliated Hospital of Qingdao University from April 2019 to April 2021.",
+        "label_text": "f"
+    },
+    {
+        "source": "原文 : 龙眼肉还能润肤美容，养血安神,,补益心脾，壮阳益气，贫血的人也适合服用，失眠者也适合。",
+        "hyp": "文 1 : Longan meat can also moisturize the skin, nourish blood and calm nerves, tonify the heart and spleen, strengthen yang and benefit Qi. It is beneficial for individuals with anemia and insomnia.",
+        "label_text": "yang"
+    },
+    {
+        "source": "原文 : CN1连接器 CN1信号I/O连接线 CN1口用端子台 刹车电阻",
+        "hyp": "文 3 : CN1 connector, CN1 signal, I/O cable, CN1 terminal block, Braking resistor",
+        "label_text": "B"
+    }
+]

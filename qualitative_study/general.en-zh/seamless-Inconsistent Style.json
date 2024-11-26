@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "伦敦交通运输局"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "伦敦公共交通运输局"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "伦敦交通运输局"
+    }
+]

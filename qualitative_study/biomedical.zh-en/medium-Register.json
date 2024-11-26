@@ -1,0 +1,207 @@
+[
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 2 : 2. Patients with severe hematological abnormality [adverse reactions such as blood disease may occur, which may aggravate the hematological abnormality]",
+        "label_text": "blood disease"
+    },
+    {
+        "source": "原文 : 根据观察，使用阿巴卡韦发生的超敏反应更常见，其中有一些可危及生命，罕见情况下，如果处理不当，可致命。",
+        "hyp": "文 1 : According to observations, hypersensitivity is observed more common in patients on abacavir. Some are life-threatening. In rare cases, they may be fatal if not properly treated.",
+        "label_text": "they"
+    },
+    {
+        "source": "原文 : 7.有对本品的成分过敏的既往病史的患者；",
+        "hyp": "文 4 : 7. Patients with a history of allergy to components of the product;",
+        "label_text": "components"
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 1 : 10. Patients on zidovudine [Refer to [Drug-drug Interactions]",
+        "label_text": "Drug-drug"
+    },
+    {
+        "source": "原文 : 打击犯罪、保障儿童和家长权益，从立法的完善，到司法的保障，以及执法的缜密，无不需要贯彻“护幼扶弱”的关怀。",
+        "hyp": "文 5 : To fight against crime and protect the rights and interests of children and parents, the idea of “protecting the young and supporting the weak” should be considered for perfect legislation, guaranteed justice and rigorous law enforcement.",
+        "label_text": "weak"
+    },
+    {
+        "source": "原文 : \"心衰患者缺氧和肾功能不全的风险更高。稳定性慢性心衰的患者在定期检查心、肾功能的情况下可以服用二甲双胍。\"",
+        "hyp": "文 3 : The risk of anoxia and renal insufficiency is higher in patients with heart failure. Patients with stable chronic heart failure can take metformin under the condition of periodical examination of heart and kidney functions.",
+        "label_text": "anoxia"
+    },
+    {
+        "source": "原文 : \"心衰患者缺氧和肾功能不全的风险更高。稳定性慢性心衰的患者在定期检查心、肾功能的情况下可以服用二甲双胍。\"",
+        "hyp": "文 3 : The risk of anoxia and renal insufficiency is higher in patients with heart failure. Patients with stable chronic heart failure can take metformin under the condition of periodical examination of heart and kidney functions.",
+        "label_text": "heart and kidney"
+    },
+    {
+        "source": "原文 : 应当根据国家指南采取预防措施防止传播。",
+        "hyp": "文 3 : Preventive measures should be taken according to the national guidelines to prevent its propagation.",
+        "label_text": "propagation"
+    },
+    {
+        "source": "原文 : 可造成组织缺氧的疾病（尤其是急性疾病或慢性疾病的恶化），例如失代偿性心力衰竭、呼吸衰竭、近期发作的心肌梗死和休克；",
+        "hyp": "文 2 : Diseases that can result in histanoxia (especially acute diseases or aggravation of chronic diseases), such as decompensated heart failure, respiratory failure, and recent attacks of myocardial infarction and shock;",
+        "label_text": "histanoxia"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 2 : Severe infection and trauma, major surgery, clinical hypotension, anoxia, etc.;",
+        "label_text": "anoxia"
+    },
+    {
+        "source": "原文 : 糖尿病昏迷前驱期；",
+        "hyp": "文 4 : Prodromal stage of diabetic coma;",
+        "label_text": "stage"
+    },
+    {
+        "source": "原文 : 肝功能不全、急性酒精中毒、酗酒；",
+        "hyp": "文 5 : Renal insufficiency, acute alcoholism, and intemperance;",
+        "label_text": " intemperance"
+    },
+    {
+        "source": "原文 : 维生素B12、叶酸缺乏未纠正者。",
+        "hyp": "文 5 : Those with uncorrected vitamin B12 and folic acid deficiency.",
+        "label_text": "folic acid"
+    },
+    {
+        "source": "原文 : 比例有3种类型：时点（或率型）构成比例、时期发生比例及由前二者综合而成的时期构成比例。",
+        "hyp": "文 5 : For example, there are 3 types: time point (or rate type) component ratio, time period occurrence ratio and time period component ratio from the combination of the two.",
+        "label_text": "component"
+    },
+    {
+        "source": "原文 : 比例有3种类型：时点（或率型）构成比例、时期发生比例及由前二者综合而成的时期构成比例。",
+        "hyp": "文 5 : For example, there are 3 types: time point (or rate type) component ratio, time period occurrence ratio and time period component ratio from the combination of the two.",
+        "label_text": "component"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 1 : 2) When this product is used in combination with lasix (furosemide), the sodium excretion and pressure decreasing effects of the latter will be weakened; when it is used in combination with an antihypertensive drug, the pressure decreasing effect of the latter will also be decreased.",
+        "label_text": "lasix"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 1 : 2) When this product is used in combination with lasix (furosemide), the sodium excretion and pressure decreasing effects of the latter will be weakened; when it is used in combination with an antihypertensive drug, the pressure decreasing effect of the latter will also be decreased.",
+        "label_text": "pressure decreasing"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 1 : 2) When this product is used in combination with lasix (furosemide), the sodium excretion and pressure decreasing effects of the latter will be weakened; when it is used in combination with an antihypertensive drug, the pressure decreasing effect of the latter will also be decreased.",
+        "label_text": "pressure decreasing"
+    },
+    {
+        "source": "原文 : 二甲双胍禁用于急性和不稳定性心衰的患者（见【禁忌】）。",
+        "hyp": "文 5 : Metformin is not allowed in patients with acute and unstable heart failure (See [Contraindications]).",
+        "label_text": "not allowed in"
+    },
+    {
+        "source": "原文 : 在接受常规、脊髓或硬膜外麻醉的手术时必须停止服用二甲双胍。",
+        "hyp": "文 5 : Metformin must be discontinued upon conventional, medullary or epidural anesthesia.",
+        "label_text": "medullary"
+    },
+    {
+        "source": "原文 : 李先生一开始以为是足浴盆的振动功能引起的，没想到关了振动功能，父亲还是感觉到脚底麻麻的。",
+        "hyp": "文 4 : At first, Mr. Li thought it was caused by the vibration function of the foot tub. But his father still felt numb in the soles of the feet after the vibration function was disabled.",
+        "label_text": "numb"
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 4 : The 121 pathogenic strains isolated included 76 (62.8%) Gram-negative (G-) strains, 40 (33.1%) Gram-positive (G+) strains, and 5 (4.1%) fungal strains.",
+        "label_text": "pathogenic strains"
+    },
+    {
+        "source": "原文 : 其他关键症状包括胃肠道、呼吸或全身症状，例如嗜睡和不适。",
+        "hyp": "文 3 : Other key symptoms include gastrointestinal, respiratory or systemic symptoms, such as lethargy and discomfort.",
+        "label_text": "discomfort"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，血管扩张作用和水、钠排泄被抑制。",
+        "hyp": "文 4 : Due to the inhibition of this product on the synthesis of prostaglandin, dilation of blood vessels and water and sodium excretion are inhibited.",
+        "label_text": "dilation of blood vessels"
+    },
+    {
+        "source": "原文 : 因此怀疑二甲双胍过量的患者，血透可以清除蓄积的药物。",
+        "hyp": "文 5 : Therefore, for patients taking metformin at an excessive dose, the accumulated drug can be removed by blood dialysis.",
+        "label_text": "blood dialysis"
+    },
+    {
+        "source": "原文 : 长期使用非甾体类抗炎镇痛药而导致消化性溃疡的患者。",
+        "hyp": "文 2 : Patients with digestive ulcer due to long-term use of nonsteriodal anti-inflammatory and analgesic drugs.",
+        "label_text": "digestive"
+    },
+    {
+        "source": "原文 : 本品适用于治疗感染人类免疫缺陷病毒（HIV）的成人和12岁以上青少年（体重至少为40 kg）。",
+        "hyp": "文 3 : This product is suitable for the treatment of adults and juveniles aged > 12 (weight: at least 40 kg) with human immunodeficiency virus (HIV) infection.",
+        "label_text": "juveniles"
+    },
+    {
+        "source": "原文 : 新华社北京12月12日电 综合新华社驻外记者报道：毛里求斯、塞浦路斯和马拉维近日首次报告发现新冠变异病毒奥密克戎毒株感染病例。",
+        "hyp": "文 2 : Xinhua News Agency, Beijing, December 12    Report by Comprehensive Foreign Correspondent of Xinhua News Agency: Mauritius, Cyprus and Malawi Recently Reported the First Case of COVID-19 Variant Omicron Infection.",
+        "label_text": "Xinhua News Agency, Beijing, December 12    Report by Comprehensive Foreign Correspondent of Xinhua News Agency: Mauritius, Cyprus and Malawi Recently Reported the First Case of COVID-19 Variant Omicron Infection"
+    },
+    {
+        "source": "原文 : 术后至少48小时或恢复进食并且肾功能经评估稳定后才可以重新开始治疗。",
+        "hyp": "文 2 : The therapy can be resumed only after at least 48 hours after the operation or recovery of food intake and stable kidney function as assessed.",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 食管癌是我国常见恶性肿瘤之一，2015年食管癌发病率和死亡率分别为17.87/10万和13.68/10万，位列我国发病和死因顺位的第6位和第4位。",
+        "hyp": "文 5 : Esophagus cancer is one of the common malignant tumors in our country. The morbidity and mortality of the disease in 2015 was 17.87/100,000 and 13.68/100,000, respectively, ranking the 6th and 4th respectively in terms of morbidity and cause.",
+        "label_text": "Esophagus"
+    },
+    {
+        "source": "原文 : 在规定的期限内不能作出批准决定的，应当将延长的期限和理由告知申请人。",
+        "hyp": "文 4 : If the decision on approval cannot be determined in the specified period, the applicant should be informed of the prolonged period and reason for the prolongation.",
+        "label_text": "determined"
+    },
+    {
+        "source": "原文 : 现有的PAP动物模型均不能完全反映人PAP疾病发展，需进一步开发和改进，为临床实践提供依据。",
+        "hyp": "文 4 : The existing PAP animal models cannot completely reflect the development of human PAP diseases, and need further development and improvement to provide basis for the clinical practice.",
+        "label_text": "development"
+    },
+    {
+        "source": "原文 : 术后定期随访，评估缩乳情况及并发症发生情况，采用乳腺癌患者报告结局量表（BREAST-Q）评价患者满意度及生活质量，并行乳腺专科彩超、胸腹部CT、全身骨扫描等检查，评估肿瘤局部复发或远处转移情况。",
+        "hyp": "文 5 : Regularly follow up after the operation to evaluate the breast shrinkage and complications, assess patient satisfaction and quality of life with the breast cancer patient outcome report scale (BREAST-Q), and carry out color Doppler ultrasonography of breast, CT of chest and abdomen, bone scan of the whole body and other examinations to evaluate local recurrence or distal metastasis of the tumor.",
+        "label_text": "shrinkage"
+    },
+    {
+        "source": "原文 : 个性化定位组胫骨轴线分为直线型58膝（50.88%）、内弓型35膝（30.70%）、外弓型21膝（18.42%）。",
+        "hyp": "文 4 : The tibial axis in the customized positioning group included 58 straight line knees (50.88%), 35 internal arch knees (30.70%) and 21 external arch knees (18.42%).",
+        "label_text": "customized"
+    },
+    {
+        "source": "原文 : 其中，77例（96膝）胫骨侧采用传统髓外定位技术（传统定位组）；93例（114膝）采用个性化髓外定位技术（个性化定位组），即结合胫骨解剖形态特点，在胫骨平台关节面选择个性化定位点作为髓外近端定位点。",
+        "hyp": "文 1 : Traditional extramedullary positioning technology (traditional positioning group) was used for 77 patients (96 knees) at the tibial side; customized extramedullary positioning technology (customized positioning group) was used for 93 patients (114 knees), i.e., customized positioning points were selected from the articular surface of tibial platform as the extramedullary proximal positioning point in combination with the characteristics of anatomical morphology of tibia.",
+        "label_text": "customized"
+    },
+    {
+        "source": "原文 : 其中，77例（96膝）胫骨侧采用传统髓外定位技术（传统定位组）；93例（114膝）采用个性化髓外定位技术（个性化定位组），即结合胫骨解剖形态特点，在胫骨平台关节面选择个性化定位点作为髓外近端定位点。",
+        "hyp": "文 1 : Traditional extramedullary positioning technology (traditional positioning group) was used for 77 patients (96 knees) at the tibial side; customized extramedullary positioning technology (customized positioning group) was used for 93 patients (114 knees), i.e., customized positioning points were selected from the articular surface of tibial platform as the extramedullary proximal positioning point in combination with the characteristics of anatomical morphology of tibia.",
+        "label_text": "customized"
+    },
+    {
+        "source": "原文 : 如果需要停用活性成分之一或对其实施剂量调整，可以使用单独的多替拉韦、阿巴卡韦或拉米夫定制剂。",
+        "hyp": "文 1 : If it is needed to stop one of the active ingredient or adjust the dose, single dolutegravir, abacavir or lamivudine preparation can be used.",
+        "label_text": "stop"
+    },
+    {
+        "source": "原文 : 如果成人或青少年的体重低于40 kg，不应当给予本品，因为本品是固定剂量片剂，不能减少剂量。",
+        "hyp": "文 3 : The product should not be given for adults or juveniles with a weight of less than 40 kg, because this product is a fixed dose tablet, and the dose cannot be reduced.",
+        "label_text": "juveniles"
+    },
+    {
+        "source": "原文 : 对于轻度肝损害（Child-Pugh 5-6分）患者，需要密切监测，如可行，包括监测阿巴卡韦血浆水平（见【注意事项】和【药代动力学】）。",
+        "hyp": "文 1 : Patients with mild liver damage (Child-Pugh 5-6) need to be monitored closely, including the monitoring of abacavir level in the plasma if possible (See [Precautions] and [Pharmacokinetics])",
+        "label_text": "damage"
+    },
+    {
+        "source": "原文 : 但是人能出生是因为他的母亲来过月经，月经是为了准备你第一次来到这个世界时要住10个月的房子，大家要感谢自己的母亲规律健康的来过月经。",
+        "hyp": "文 3 : However, a baby can be born because his mother has had menstruation. Menstruation is to prepare the house in which the baby need to live for 10 months when he comes to the world. We should be thankful that our mothers have had regular menstruation.",
+        "label_text": "his "
+    },
+    {
+        "source": "原文 : 迄今为止，少有文献阐述MEG-BCI涉及的关键技术问题，为此本文聚焦MEG-BCI关键技术，详述了实用MEG-BCI系统中涉及的信号采集技术、MEG-BCI实验范式设计、MEG信号分析和解码关键技术、MEG-BCI神经反馈技术及其智能化方法。",
+        "hyp": "文 3 : Up to now, there are few literature describing the key technologies involved in MEG-BCI. Therefore, this paper focuses on the key technologies of MEG-BCI, and describes in detail the signal acquisition technology involved in MEG-BCI system, the design of experimental paradigm of MEG-BCI, the key technologies for MEG signal analysis and decoding, the MEG-BCI neurofeedback technology and intelligent method.",
+        "label_text": "few literature"
+    }
+]

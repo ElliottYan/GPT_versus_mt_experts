@@ -1,0 +1,237 @@
+[
+    {
+        "source": "原文 : 如果轮胎气压低，就会显示此警告信息。车辆上的对应轮胎位置指示灯亮。详细信息请参考第8章的“轮胎气压监测系统(TPMS)”部分。",
+        "hyp": "文 2 : If the tire pressure is low, this warning message will be displayed. The corresponding tire position indicator light on the vehicle is on. For more information, see the tire pressure monitoring system (TPMS) section in Chapter 8.",
+        "label_text": "tire pressure monitoring system"
+    },
+    {
+        "source": "原文 : 驾驶员靠近联动：当携带智能钥匙靠近车辆时，自动控制外后视镜展开和迎宾灯亮。",
+        "hyp": "文 4 : When the driver approaches the vehicle with a smart key, the rear-view mirror automatically opens and the guest lights come on.",
+        "label_text": "opens"
+    },
+    {
+        "source": "原文 : 驾驶员靠近联动：当携带智能钥匙靠近车辆时，自动控制外后视镜展开和迎宾灯亮。",
+        "hyp": "文 4 : When the driver approaches the vehicle with a smart key, the rear-view mirror automatically opens and the guest lights come on.",
+        "label_text": "opens"
+    },
+    {
+        "source": "原文 : 驾驶员靠近联动：当携带智能钥匙靠近车辆时，自动控制外后视镜展开和迎宾灯亮。",
+        "hyp": "文 4 : When the driver approaches the vehicle with a smart key, the rear-view mirror automatically opens and the guest lights come on.",
+        "label_text": "opens"
+    },
+    {
+        "source": "原文 : 驾驶员靠近联动：当携带智能钥匙靠近车辆时，自动控制外后视镜展开和迎宾灯亮。",
+        "hyp": "文 4 : When the driver approaches the vehicle with a smart key, the rear-view mirror automatically opens and the guest lights come on.",
+        "label_text": "opens"
+    },
+    {
+        "source": "原文 : 将遥控钥匙存放在远离任何液体和热源的阴凉干燥的地方。如果遥控钥匙暴露在潮湿(液体进入)或高温环境下，可能会导致遥控钥匙内部电路发生故障，而且这种情况不在车辆有限保修范围内。",
+        "hyp": "文 1 : Store the remote control key in a cool, dry place away from any liquids and heat sources. If the remote control key is exposed to a humid (liquid entry) or high temperature environment, it may cause the internal circuitry of the remote control key to fail, and this is not covered by the vehicle's limited warranty.",
+        "label_text": "Store"
+    },
+    {
+        "source": "原文 : 将遥控钥匙存放在远离任何液体和热源的阴凉干燥的地方。如果遥控钥匙暴露在潮湿(液体进入)或高温环境下，可能会导致遥控钥匙内部电路发生故障，而且这种情况不在车辆有限保修范围内。",
+        "hyp": "文 1 : Store the remote control key in a cool, dry place away from any liquids and heat sources. If the remote control key is exposed to a humid (liquid entry) or high temperature environment, it may cause the internal circuitry of the remote control key to fail, and this is not covered by the vehicle's limited warranty.",
+        "label_text": "Store"
+    },
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 5 : If the front windshield front-facing camera is installed, or the sensor is blocked by objects such as snow, rain, etc., it will reduce the detection performance of the sensor, which will cause the frontal impact protection (FCA) function to be suspended or turned off.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 5 : If the front windshield front-facing camera is installed, or the sensor is blocked by objects such as snow, rain, etc., it will reduce the detection performance of the sensor, which will cause the frontal impact protection (FCA) function to be suspended or turned off.",
+        "label_text": "reduce"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 3 : The tire pressure monitoring system (TPMS) detects low tire pressure by a sensor located in the tire, thereby monitoring changes in the rolling radius and vibration of the tire while the vehicle is driving. In order for the tire pressure monitoring system (TPMS) to work properly, it is necessary to initialize the system and save the current tire pressure. After the tire pressure monitoring system (TPMS) is initialized, when the tire pressure is significantly lower than the saved tire pressure, the warning light on the dashboard lights up.",
+        "label_text": "tire pressure monitoring system"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心，打造出高科技感与活力感并存的数字化智能座舱，简约高贵的内饰设计，将车内空间感提升到极致",
+        "hyp": "文 2 : With the driver at the center, a digital smart seat with a high-tech feel and a sense of vitality, a simple and luxurious interior design, the sense of space in the car is enhanced to the extreme.",
+        "label_text": "extreme"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心，打造出高科技感与活力感并存的数字化智能座舱，简约高贵的内饰设计，将车内空间感提升到极致",
+        "hyp": "文 2 : With the driver at the center, a digital smart seat with a high-tech feel and a sense of vitality, a simple and luxurious interior design, the sense of space in the car is enhanced to the extreme.",
+        "label_text": "extreme"
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 2 : With the power of man, the Sonata set a sales record of 600,000 units in 33 months in the last century, and when its fifth-generation model was introduced in the country, the representative \"peanut lamp\" quickly penetrated into the streets and alleys, creating a huge scene for millions of people.",
+        "label_text": "in the country"
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 2 : With the power of man, the Sonata set a sales record of 600,000 units in 33 months in the last century, and when its fifth-generation model was introduced in the country, the representative \"peanut lamp\" quickly penetrated into the streets and alleys, creating a huge scene for millions of people.",
+        "label_text": "in the country"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 3 : The addition of a new secondary frame effectively distributes the load to the front and rear mounting support, while improving the strength, also further improves the vibration and unevenness of driving.",
+        "label_text": "improves"
+    },
+    {
+        "source": "原文 : 而全新搭载的8AT变速箱，更是让行车过程变得轻松流畅。8AT变速箱更大范围的速比设计，令起步加速响应更加灵敏，动力衔接更加紧密，能够精准了解驾驶者的驾驶意图。",
+        "hyp": "文 2 : The newly installed 8AT gearbox is designed to make the driving process easier and smoother, and the 8AT gearbox has a wider range of speed ratios, making the start acceleration response more sensitive, the power welding more tight, and able to accurately understand the driver's driving intentions.",
+        "label_text": "gearbox "
+    },
+    {
+        "source": "原文 : 而全新搭载的8AT变速箱，更是让行车过程变得轻松流畅。8AT变速箱更大范围的速比设计，令起步加速响应更加灵敏，动力衔接更加紧密，能够精准了解驾驶者的驾驶意图。",
+        "hyp": "文 2 : The newly installed 8AT gearbox is designed to make the driving process easier and smoother, and the 8AT gearbox has a wider range of speed ratios, making the start acceleration response more sensitive, the power welding more tight, and able to accurately understand the driver's driving intentions.",
+        "label_text": "gearbox"
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 5 : After leaving the road, the difficulty of driving increases, and at the same time the test of the vehicle becomes more severe, not only requires strong and uninterrupted power output, but also easy to control continuous smoothness, once the power output suddenly increases, it is easy to get stuck in the sand, at the same time complex and variable road conditions, also require the comprehensive quality of all aspects of the car to be absolutely hard.",
+        "label_text": "hard"
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 5 : After leaving the road, the difficulty of driving increases, and at the same time the test of the vehicle becomes more severe, not only requires strong and uninterrupted power output, but also easy to control continuous smoothness, once the power output suddenly increases, it is easy to get stuck in the sand, at the same time complex and variable road conditions, also require the comprehensive quality of all aspects of the car to be absolutely hard.",
+        "label_text": " quality "
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 5 : After leaving the road, the difficulty of driving increases, and at the same time the test of the vehicle becomes more severe, not only requires strong and uninterrupted power output, but also easy to control continuous smoothness, once the power output suddenly increases, it is easy to get stuck in the sand, at the same time complex and variable road conditions, also require the comprehensive quality of all aspects of the car to be absolutely hard.",
+        "label_text": "hard"
+    },
+    {
+        "source": "原文 : PM1.0级空调过滤器增加含有熔喷布的高性能集尘层，0.3~0.5?尘埃过滤效率≥97%，过滤效果超过N95口罩，即便车外尘土飞扬，车内空气依然如清晨一般洁净。智能车机系统预装大量APP令旅途不枯燥，而高度便捷的自然语音识别系统，即便在你双手紧握方向盘时，依然可以操作车辆的各种功能。",
+        "hyp": "文 2 : The PM1.0 air-conditioning filter increases the high-performance dust collection layer containing the spraying cloth, 0.3 to 0.5 ° Dust filtration efficiency ≥ 97%, filtration effect exceeds the N95 mask, even if the dust outside the car is flying, the air inside the car is still clean as usual in the morning, the smart car system is pre-installed with a large number of APPs to make the journey not boring, and the highly convenient natural voice recognition system, even when you hold the steering wheel",
+        "label_text": " °"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 1 : When the brake pedal is fully pressed, the braking force is still not strong enough, plus the grip of the tires is also very general, the vehicle has a clear tendency to slide forward, the results of ten consecutive tests are 43 meters up and down, the performance is not satisfactory, the brake section with a full score of 5 points gets only 0.9 points, far below the average level of the same level.",
+        "label_text": "pressed"
+    },
+    {
+        "source": "原文 : 流线型车身线条优雅而动感，让人感受到强烈的视觉冲击力。车辆的细节处理也非常到位，无论是车灯、进气口还是车身线条，都展现出精湛的工艺水平。",
+        "hyp": "文 3 : The streamlined body lines are elegant and moving, giving the impression of a strong visual impact, and the detailed handling of the vehicle is also very good, whether it is the headlights, the vents, or the body lines, all show a sophisticated level of craftsmanship.",
+        "label_text": " moving"
+    },
+    {
+        "source": "原文 : 流线型车身线条优雅而动感，让人感受到强烈的视觉冲击力。车辆的细节处理也非常到位，无论是车灯、进气口还是车身线条，都展现出精湛的工艺水平。",
+        "hyp": "文 3 : The streamlined body lines are elegant and moving, giving the impression of a strong visual impact, and the detailed handling of the vehicle is also very good, whether it is the headlights, the vents, or the body lines, all show a sophisticated level of craftsmanship.",
+        "label_text": " moving"
+    },
+    {
+        "source": "原文 : 迈腾的后备厢看上去最为规整，容积也比较大，原因在于它的后备厢支杆位置更加合理，关闭时不至于占用太多的空间。",
+        "hyp": "文 5 : The Maiden's rear cabin looks the most orderly, and the capacity is also relatively large, because its rear cabin lever position is more reasonable, and it doesn't take up too much space when closed.",
+        "label_text": "doesn't"
+    },
+    {
+        "source": "原文 : C5的悬架调校并不是传统法国车那种偏硬的感觉，这辆车完全追求的是舒适风格。方向盘回馈力度略沉，路感几乎被完全抹去了，驾驶起来很轻松。虽然路面细碎振动的反馈较明显，但对稍大起伏的吸收效果出众，经过减速带时弹跳幅度很小，有效吸收冲击力，这一点给人留下了非常深刻的印象。",
+        "hyp": "文 5 : The C5's suspension adjustment is not the kind of rigid feeling of a traditional French car, this car is entirely pursuing a comfortable style, the steering wheel feedback is slightly depressed, the feel of the road is almost completely erased, the driving is very easy, although the feedback of the fine vibration of the road is more obvious, but the absorption effect is outstanding, after the deceleration band the jump is very small, effectively absorbing the impact.",
+        "label_text": "rigid feeling"
+    },
+    {
+        "source": "原文 : 作为换代车型，产品的硬件部分，包括动力都会有提升，但相比于过去大众技术为先的理念，这代大众可能并没有突破性的变革，但仍然会让消费者有全方位的新认知。",
+        "hyp": "文 4 : As a replacement model, the hardware part of the product, including the powertrain, will be improved, but compared to the previous concept of mass technology, this generation of mass may not have a breakthrough change, but will still give consumers a comprehensive new perception.",
+        "label_text": "replacement "
+    },
+    {
+        "source": "原文 : 实际测试中，锐志的起步也确实要快于其余10款车型，直到速度达到50km/h以后，它才逐渐被一众增压车型超过。",
+        "hyp": "文 2 : In the actual test, the start of the Ryuji was indeed faster than the other 10 models, until after reaching a speed of 50 km h, it was gradually overtaken by a number of pressurized models.",
+        "label_text": "50 km h"
+    },
+    {
+        "source": "原文 : 如果档位不在“P(驻车)”档或“N(空档)”档的状态，试图起动发动机，就会显示此警告信息。",
+        "hyp": "文 4 : If the gear is not in the state of <unk>P (parked) gear or <unk>N (empty) gear, try to start the engine, this warning message will be displayed <unk>",
+        "label_text": "parked"
+    },
+    {
+        "source": "原文 : 如果档位不在“P(驻车)”档或“N(空档)”档的状态，试图起动发动机，就会显示此警告信息。",
+        "hyp": "文 4 : If the gear is not in the state of <unk>P (parked) gear or <unk>N (empty) gear, try to start the engine, this warning message will be displayed <unk>",
+        "label_text": "empty"
+    },
+    {
+        "source": "原文 : 如果单论发动机的实力，蒙迪欧确实要强于大众两车，不过在变速箱的表现上，蒙迪欧的6挡手自一体变速箱换挡速度要慢于DSG，换挡时动力的流失也要更多。",
+        "hyp": "文 2 : If we talk only about the power of the engine, the Mondeo is indeed stronger than the Volkswagen Two, but in terms of the performance of the gearbox, the Mondeo's six-speed automatic gearbox is slower than the DSG, and the loss of momentum during the gearbox is also more.",
+        "label_text": " gearbox"
+    },
+    {
+        "source": "原文 : 变速箱方面，日系品牌的两款CVT变速箱依靠出色的平顺性获得了高分。大众的DSG双离合变速箱换挡迅速，并且总是能选择合适的挡位，不过低挡位行车时偶有顿挫感，整体成绩位列第二集团。",
+        "hyp": "文 2 : In terms of gearboxes, the two CVT gearboxes of the Japanese brand relied on excellent smoothness to obtain high scores. The DSG dual-clutch gearbox of the Volkswagen was replaced quickly, and was always able to choose the right gearbox, but when driving at a low gearbox, there was occasionally a setback, and the overall score ranked second in the group.",
+        "label_text": "gearboxes"
+    },
+    {
+        "source": "原文 : 天籁全力刹车时车身也有明显前倾，但这款车给人的印象一贯是偏向舒适性，悬架偏软，相对来说这种车身姿态比预想中的要好一些。",
+        "hyp": "文 1 : The body is also obviously tilted forward when braking at full throttle, but this car gives the impression that it is always inclined towards comfort, the suspension is soft, relatively speaking, this body posture is better than expected.",
+        "label_text": "car "
+    },
+    {
+        "source": "原文 : 天籁全力刹车时车身也有明显前倾，但这款车给人的印象一贯是偏向舒适性，悬架偏软，相对来说这种车身姿态比预想中的要好一些。",
+        "hyp": "文 1 : The body is also obviously tilted forward when braking at full throttle, but this car gives the impression that it is always inclined towards comfort, the suspension is soft, relatively speaking, this body posture is better than expected.",
+        "label_text": "body posture"
+    },
+    {
+        "source": "原文 : 新车侧面线条营造出更加硬朗的视觉效果，一条腰线贯穿整个车身。车尾没有过多的下沉式设计，LED尾灯内部不规则的方块灯组看起来科技感十足。",
+        "hyp": "文 4 : The new car's side lines create a more rigid visual effect, a waistline runs through the entire body, the tail has no excessive sinking design, the irregular square lights inside the LED taillights look technologically sophisticated.",
+        "label_text": " rigid "
+    },
+    {
+        "source": "原文 : 车门会开锁，危险警告灯闪烁2次。如果在信息娱乐系统显示屏上设置菜单中选择“门锁开锁联动”项，外后视镜会自动展开。",
+        "hyp": "文 5 : The car door will unlock, the hazard warning light will flash twice, and if you select the \"Unlock the door\" option in the settings menu on the information and entertainment system display, the rear view mirror will automatically unlock.",
+        "label_text": "unlock"
+    },
+    {
+        "source": "原文 : 2021成都车展前夕，上汽大众旗下新款帕萨特家族正式上市，新车共推出13款车型，其中10款燃油版车型，3款PHEV车型，售价区间为17.99-25.09万元。",
+        "hyp": "文 2 : On the eve of the 2021 Chengdu Motor Show, the new Passat family of the Volkswagen Group was officially launched, with a total of 13 models, including 10 petrol models, 3 PHEV models, with a price range of 17.99-25.09 million yuan.",
+        "label_text": "petrol "
+    },
+    {
+        "source": "原文 : 帕萨特的这款车采用了纯电动的动力模式，相比于现在成熟的轮毂电机技术，这款车显得有些不高明，因为它只是将原来的发动机换成了电动机，甚至还保留了自动变速器。",
+        "hyp": "文 1 : The car is powered by a purely electric powertrain, which is somewhat unintelligent compared to today's mature turbocharged technology, as it simply replaces the original engine with an electric one, and even retains the automatic transmission.",
+        "label_text": "somewhat unintelligent"
+    },
+    {
+        "source": "原文 : 睿翼的车门密封方式与很多日系车也不太相同，并没有采用传统的密封膜的做法，而是借鉴了不少欧美车型的经验，就是用一整块塑料板覆盖住车门，在上面设计一些穿孔，为了让线束能够穿过，而不会出现密封不严的情况，这点值得肯定。",
+        "hyp": "文 4 : It's not the same as many Japanese cars, and it doesn't use traditional sealing membranes, but it draws on the experience of many European and American models, which is to cover the car door with a whole piece of plastic plate, design some holes in it, so that the wires can pass through, and there will be no sealing problems, this is definitely worth it.",
+        "label_text": " It's "
+    },
+    {
+        "source": "原文 : 睿翼的车门密封方式与很多日系车也不太相同，并没有采用传统的密封膜的做法，而是借鉴了不少欧美车型的经验，就是用一整块塑料板覆盖住车门，在上面设计一些穿孔，为了让线束能够穿过，而不会出现密封不严的情况，这点值得肯定。",
+        "hyp": "文 4 : It's not the same as many Japanese cars, and it doesn't use traditional sealing membranes, but it draws on the experience of many European and American models, which is to cover the car door with a whole piece of plastic plate, design some holes in it, so that the wires can pass through, and there will be no sealing problems, this is definitely worth it.",
+        "label_text": "doesn't "
+    },
+    {
+        "source": "原文 : 如果您想使用蓝牙钥匙服务，首先应该安装Bluelink应用程序。苹果和安卓用户可在应用商城搜索“BlueLink”并下载该应用程序。",
+        "hyp": "文 2 : If you want to use the Bluetooth key service, you should first install the Bluelink app. Apple and Android users can search for \"BlueLink\" in the app store and download the app.",
+        "label_text": ", you should "
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 4 : If you have purchased a used car, you should confirm and delete the registered Bluetooth key. In addition, please inform the customer service center or dealer of your purchase of a used car.",
+        "label_text": "you should"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 3 : Press the button on the display of the information and entertainment system as shown below: Settings → Vehicle → Digital Key → List of Digital Keys → Select User → Delete",
+        "label_text": " Press"
+    },
+    {
+        "source": "原文 : RCD510系统与原车的倒车雷达组合，可以显示模拟倒车影像。同时还支持原厂倒车摄像头，其6.5寸屏幕可用于显示倒车影像功能。",
+        "hyp": "文 2 : The RCD510 system combines with the original car's reversing radar to display simulated reversing images while also supporting the original factory reversing camera, whose 6.5-inch screen can be used to display reversing images.",
+        "label_text": " car'"
+    },
+    {
+        "source": "原文 : 如果您拿着智能手机并且连接蓝牙钥匙的情况下按下车门、行李箱盖上的按钮，可执行闭锁、开锁动作。如果不能正常工作，可能是智能手机和车辆之间的通信不良，请调整智能手机的位置后重试。",
+        "hyp": "文 5 : If you're holding a smartphone and you're connected to a Bluetooth key, press the button on the door or the lid of the trunk, and you'll be able to lock and unlock. If it doesn't work properly, it could be poor communication between the smartphone and the vehicle.",
+        "label_text": "doesn't "
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 1 : The smart fortwo does not carry the Mercedes engine as a matter of course, but instead carries the Mitsubishi 3B21T 1.0L turbocharged engine. The standard version of the smart fortwo has a maximum power of 84 horsepower (62kW) 550rpm, a maximum torque of 120Nm, a maximum torque of 102horsepower (75kW) 6000rpm, a maximum torque of 147Nm.",
+        "label_text": "102horsepower"
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 1 : The smart fortwo does not carry the Mercedes engine as a matter of course, but instead carries the Mitsubishi 3B21T 1.0L turbocharged engine. The standard version of the smart fortwo has a maximum power of 84 horsepower (62kW) 550rpm, a maximum torque of 120Nm, a maximum torque of 102horsepower (75kW) 6000rpm, a maximum torque of 147Nm.",
+        "label_text": "Nm"
+    }
+]

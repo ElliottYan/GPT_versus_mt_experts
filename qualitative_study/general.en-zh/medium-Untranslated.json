@@ -1,0 +1,242 @@
+[
+    {
+        "source": "原文 : user765123: No, I just had the “is now playing” thing show up.",
+        "hyp": "文 5 : user765123：没有，只是出现了“正在播放”。",
+        "label_text": "user"
+    },
+    {
+        "source": "原文 : user765123: No, I just had the “is now playing” thing show up.",
+        "hyp": "文 5 : user765123：没有，只是出现了“正在播放”。",
+        "label_text": "user"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 1 : Abe喜欢隐藏悲伤，但是很容易笑，而Tom不怕哭，但却没那么容易被突然的幽默逗乐。",
+        "label_text": "Abe"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 1 : Abe喜欢隐藏悲伤，但是很容易笑，而Tom不怕哭，但却没那么容易被突然的幽默逗乐。",
+        "label_text": "Tom"
+    },
+    {
+        "source": "原文 : Cruse briefly wrote a column in a comic book review magazine, \"Comics Scene,\" under the rhyming masthead \"Loose Cruse.\"",
+        "hyp": "文 3 : Cruse在漫画评论杂志《漫画场景》有个小专栏，名字很押韵，叫“遐思克鲁斯（Loose Cruse）”。",
+        "label_text": "Cruse"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 1 : Waziri接着说Djehuty主管国库，整理了Hatshepsut女王时代的工艺作品。",
+        "label_text": "Waziri"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 1 : Waziri接着说Djehuty主管国库，整理了Hatshepsut女王时代的工艺作品。",
+        "label_text": "Djehuty"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 1 : Waziri接着说Djehuty主管国库，整理了Hatshepsut女王时代的工艺作品。",
+        "label_text": "Hatshepsut"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 2 : 所以我和朋友又开始玩val，想要我们学习天堂（heaven）等通讯工具。",
+        "label_text": "val"
+    },
+    {
+        "source": "原文 : They could even go woah eee ahh ahh/oh eee ahh.",
+        "hyp": "文 2 : 它们甚至会直接“woah eee ahh ahh/oh eee ahh”。",
+        "label_text": "“woah eee ahh ahh/oh eee ahh”"
+    },
+    {
+        "source": "原文 : A major focus in the early years of the investigation was bioweapons expert Steven Hatfill, who was eventually exonerated.",
+        "hyp": "文 5 : 最开始几年的调查重点是生物专家Steven Hatfill，他最后被宣布无罪。",
+        "label_text": "Steven Hatfill"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 5 : Dikshitar是节奏（tala）大师，也是唯一一个卡纳提克音乐全部七个基本节奏都有作品（kritis）的作曲家。",
+        "label_text": "Dikshitar"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 5 : Dikshitar是节奏（tala）大师，也是唯一一个卡纳提克音乐全部七个基本节奏都有作品（kritis）的作曲家。",
+        "label_text": "Dikshitar"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 4 : 2007年6月，Nardiello拒绝了巴恩斯利俱乐部的新合同，回绝了诺维奇城的邀请，与同是英冠球队的女王公园巡游者俱乐部签了2年的合同，被巴恩斯利俱乐部当时的主席Gordon Shepherd批评了。",
+        "label_text": "Nardiello"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 4 : 2007年6月，Nardiello拒绝了巴恩斯利俱乐部的新合同，回绝了诺维奇城的邀请，与同是英冠球队的女王公园巡游者俱乐部签了2年的合同，被巴恩斯利俱乐部当时的主席Gordon Shepherd批评了。",
+        "label_text": "Gordon Shepherd"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 4 : 2007年6月，Nardiello拒绝了巴恩斯利俱乐部的新合同，回绝了诺维奇城的邀请，与同是英冠球队的女王公园巡游者俱乐部签了2年的合同，被巴恩斯利俱乐部当时的主席Gordon Shepherd批评了。",
+        "label_text": "Nardiello"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 4 : 2007年6月，Nardiello拒绝了巴恩斯利俱乐部的新合同，回绝了诺维奇城的邀请，与同是英冠球队的女王公园巡游者俱乐部签了2年的合同，被巴恩斯利俱乐部当时的主席Gordon Shepherd批评了。",
+        "label_text": "Gordon Shepherd"
+    },
+    {
+        "source": "原文 : preferrably eu as we are eu and some stuff happening is basically exclusive to eu lol, but i guess it could be nae aswell.",
+        "hyp": "文 4 : 最好是EU，因为我们是EU，有的东西基本上是EU独有的（笑死），不过我猜NAE也可以。",
+        "label_text": "EU"
+    },
+    {
+        "source": "原文 : preferrably eu as we are eu and some stuff happening is basically exclusive to eu lol, but i guess it could be nae aswell.",
+        "hyp": "文 4 : 最好是EU，因为我们是EU，有的东西基本上是EU独有的（笑死），不过我猜NAE也可以。",
+        "label_text": "EU"
+    },
+    {
+        "source": "原文 : preferrably eu as we are eu and some stuff happening is basically exclusive to eu lol, but i guess it could be nae aswell.",
+        "hyp": "文 4 : 最好是EU，因为我们是EU，有的东西基本上是EU独有的（笑死），不过我猜NAE也可以。",
+        "label_text": "EU"
+    },
+    {
+        "source": "原文 : preferrably eu as we are eu and some stuff happening is basically exclusive to eu lol, but i guess it could be nae aswell.",
+        "hyp": "文 4 : 最好是EU，因为我们是EU，有的东西基本上是EU独有的（笑死），不过我猜NAE也可以。",
+        "label_text": "NAE"
+    },
+    {
+        "source": "原文 : helo, im looking for ppl to talk to, maybe play some games or watch anime together.",
+        "hyp": "文 1 : hello，我正在找人聊天，也可以一起玩游戏或者看动画片。",
+        "label_text": " hello"
+    },
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 2 : 如此一来，Humberto可以让同一角色的叙述声音表里不一，从而使同一现实有两个主观视角。一方面，可以根据叙述内容的背景对叙述内容进行直接、现实的解读，这个背景就是Humberto Peñaloza是一个中产阶级的法学生和作家，正在攀爬当代智利严格按阶层划分的社会阶梯。另一方面，也可以根据叙述内容那种模棱两可、暧昧不清的特征来解读叙述内容。之所以说模棱两可、暧昧不清是因为没有定义身份认同本身，历史是荒诞的产物，物质与精神世界的边界是破损且变化的，因而看起来是在反对现实世界和成熟社会的团结和永恒性，觉得在现实世界和成熟社会里，个人为了在社会中获得立足之地，不至于被边缘化，被迫失去部分身份认同和自由。",
+        "label_text": "Humberto"
+    },
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 2 : 如此一来，Humberto可以让同一角色的叙述声音表里不一，从而使同一现实有两个主观视角。一方面，可以根据叙述内容的背景对叙述内容进行直接、现实的解读，这个背景就是Humberto Peñaloza是一个中产阶级的法学生和作家，正在攀爬当代智利严格按阶层划分的社会阶梯。另一方面，也可以根据叙述内容那种模棱两可、暧昧不清的特征来解读叙述内容。之所以说模棱两可、暧昧不清是因为没有定义身份认同本身，历史是荒诞的产物，物质与精神世界的边界是破损且变化的，因而看起来是在反对现实世界和成熟社会的团结和永恒性，觉得在现实世界和成熟社会里，个人为了在社会中获得立足之地，不至于被边缘化，被迫失去部分身份认同和自由。",
+        "label_text": "Humberto Peñaloza"
+    },
+    {
+        "source": "原文 : Just to clarify, when I say “anything” I mean anything within the FM’s current power.",
+        "hyp": "文 3 : 明确一下，我说“任何东西”，是指FM当前权力范围内的任何东西。",
+        "label_text": "FM"
+    },
+    {
+        "source": "原文 : The first reference to the estuary stingray in scientific literature was probably a record by 19th-century English naturalist William Saville-Kent of a \"Trygon pastinaca\" feeding on oysters in a Queensland estuary.",
+        "hyp": "文 5 : 科学文献中首次提及溪魟（estuary stingray）大概是在19世纪英格兰博物学家William Saville-Kent关于一只“Trygon pastinaca”在昆士兰某河口吃牡蛎的记录。",
+        "label_text": "William Saville-Kent"
+    },
+    {
+        "source": "原文 : The first reference to the estuary stingray in scientific literature was probably a record by 19th-century English naturalist William Saville-Kent of a \"Trygon pastinaca\" feeding on oysters in a Queensland estuary.",
+        "hyp": "文 5 : 科学文献中首次提及溪魟（estuary stingray）大概是在19世纪英格兰博物学家William Saville-Kent关于一只“Trygon pastinaca”在昆士兰某河口吃牡蛎的记录。",
+        "label_text": "“Trygon pastinaca”"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 1 : Cote近几年最著名的案子是WorldCom的离职员工和前投资人对WorldCom的离任董事和高管、会计师事务所Arthur Andersen及10多家出售WorldCom证券的投资银行提起的联邦证券和ERISA（雇员退休收入保障法）集团诉讼。",
+        "label_text": " Cote"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 1 : Cote近几年最著名的案子是WorldCom的离职员工和前投资人对WorldCom的离任董事和高管、会计师事务所Arthur Andersen及10多家出售WorldCom证券的投资银行提起的联邦证券和ERISA（雇员退休收入保障法）集团诉讼。",
+        "label_text": "WorldCom"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 1 : Cote近几年最著名的案子是WorldCom的离职员工和前投资人对WorldCom的离任董事和高管、会计师事务所Arthur Andersen及10多家出售WorldCom证券的投资银行提起的联邦证券和ERISA（雇员退休收入保障法）集团诉讼。",
+        "label_text": "WorldCom"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 1 : Cote近几年最著名的案子是WorldCom的离职员工和前投资人对WorldCom的离任董事和高管、会计师事务所Arthur Andersen及10多家出售WorldCom证券的投资银行提起的联邦证券和ERISA（雇员退休收入保障法）集团诉讼。",
+        "label_text": "Arthur Andersen"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 1 : Cote近几年最著名的案子是WorldCom的离职员工和前投资人对WorldCom的离任董事和高管、会计师事务所Arthur Andersen及10多家出售WorldCom证券的投资银行提起的联邦证券和ERISA（雇员退休收入保障法）集团诉讼。",
+        "label_text": "WorldCom"
+    },
+    {
+        "source": "原文 : Reid kicked off his run for Governor of Nevada in Las Vegas on October 15, 2009, with a second event in Reno the following day as part of an effort to gain recognition in Northern Nevada.",
+        "hyp": "文 2 : 2009年10月15日，Reid在拉斯维加斯开启了他的内华达州长竞选之路，次日在里诺举行了第二场竞选活动，目的是获得北内华达的认可。",
+        "label_text": "Reid"
+    },
+    {
+        "source": "原文 : Polis stated that he wishes that more time was spent on the issue of immigration during the meeting of governors at the White House, but the issue \"came up.\"",
+        "hyp": "文 2 : Polis表示他希望在白宫的州长会议上多花点时间在移民问题上，但是“出了”问题。",
+        "label_text": " Polis"
+    },
+    {
+        "source": "原文 : Hey, F/19 , bored af , I enjoy talking to new ppl,hmu?!",
+        "hyp": "文 2 : Hey，F/19的，无聊死了，我喜欢和新人聊，联系我（hmu）？！",
+        "label_text": "F/19"
+    },
+    {
+        "source": "原文 : Also please refrain from telling me that google/flutter apps suck on iOS and macOS.",
+        "hyp": "文 2 : 还有，请不要跟我说谷歌/flutter的app在iOS和macOS上表现不好。",
+        "label_text": "app"
+    },
+    {
+        "source": "原文 : Alna, in the northeast of the city, was the borough with the most foreign residents.",
+        "hyp": "文 3 : Alna，位于该市东北，是该市外国居民最多的区。",
+        "label_text": " Alna"
+    },
+    {
+        "source": "原文 : On April 6, 1860, at a General Conference of the New Organization of the church in Amboy, Illinois, Joseph Smith III joined with the group and was sustained to follow in his father's role as President of the Church.",
+        "hyp": "文 2 : 1860年4月6日，在伊利诺斯州安博伊教会新组织大会上，Joseph Smith III与该团体联手，获得支持，追随其父脚步，担任教会会长。",
+        "label_text": "Joseph Smith "
+    },
+    {
+        "source": "原文 : savings from thEn and i barely made 200usd till now.",
+        "hyp": "文 5 : thEn省下的钱，在此之前，我只赚200美元。",
+        "label_text": "thEn"
+    },
+    {
+        "source": "原文 : Ex: I needed some1 to babysit our then 2mo for 3-4 hrs.",
+        "hyp": "文 1 : Ex：我需要人照看三四个小时我们当时2个月大的孩子。",
+        "label_text": "Ex"
+    },
+    {
+        "source": "原文 : All of niobium's isomers decay by isomeric transition or beta decay except Nb, which has a minor electron capture branch.",
+        "hyp": "文 1 : 铌的所有同分异构体都是同质异能跃迁衰变或beta衰变模式，除了电子俘获分支较小的Nb。",
+        "label_text": "Nb"
+    },
+    {
+        "source": "原文 : Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",
+        "hyp": "文 2 : 也就是缺少足够的bin，也没有通过标牌解释照明色彩的重要性。",
+        "label_text": "bin"
+    },
+    {
+        "source": "原文 : In 2018, Lufkin's crime rate was 4,666 crimes per 100,000 persons, which was an overall decrease by 2% from 2017; 134 violent crimes and 1,403 property crimes were reported.",
+        "hyp": "文 1 : 2018年，Lufkin的犯罪率是每100,000人4,666起犯罪，整体上较2017年下降了2%，其中报案的暴力犯罪134起，财产犯罪1403起。",
+        "label_text": "Lufkin"
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology)",
+        "hyp": "文 2 : 阿瑞斯（希腊神话）vs.玛尔斯（罗马神话）vs.斯维托维德（斯拉夫神话）vs.奥丁（北欧神话）vs.大爆炸（无神论神话）",
+        "label_text": "vs."
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology)",
+        "hyp": "文 2 : 阿瑞斯（希腊神话）vs.玛尔斯（罗马神话）vs.斯维托维德（斯拉夫神话）vs.奥丁（北欧神话）vs.大爆炸（无神论神话）",
+        "label_text": "vs."
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology)",
+        "hyp": "文 2 : 阿瑞斯（希腊神话）vs.玛尔斯（罗马神话）vs.斯维托维德（斯拉夫神话）vs.奥丁（北欧神话）vs.大爆炸（无神论神话）",
+        "label_text": "vs."
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology)",
+        "hyp": "文 2 : 阿瑞斯（希腊神话）vs.玛尔斯（罗马神话）vs.斯维托维德（斯拉夫神话）vs.奥丁（北欧神话）vs.大爆炸（无神论神话）",
+        "label_text": "vs."
+    },
+    {
+        "source": "原文 : The National Healthcareer Association (NHA), the largest Allied Health Certification Agency in the US and the National Lutheran Health and Medical Board (NLHMB), Chennai, India, which is a leading NGO and sponsor of Two Universities have come together to offer the US employment National Healthcareer Association Certificate Examination in India.",
+        "hyp": "文 5 : 国家医疗保健工作者协会（NHA）与印度金奈的全国路德教健康和医学委员会（NLHMB）合作，在印度举行美国就业NHA证书考试，前者是美国最大的综合健康认证机构，后者不仅是知名的非政府组织，还是两所大学的赞助人。",
+        "label_text": "NHA"
+    }
+]

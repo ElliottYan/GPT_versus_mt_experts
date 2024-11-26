@@ -1,0 +1,82 @@
+[
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 4 : \"My spiritual root has also been injured!\" Ling Han frowned, the strike from Ling Chongkuan had even damaged his spiritual root, and an injury to the spiritual root was a very troublesome matter—ordinary healing stones would be ineffective.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 4 : \"My spiritual root has also been injured!\" Ling Han frowned, the strike from Ling Chongkuan had even damaged his spiritual root, and an injury to the spiritual root was a very troublesome matter—ordinary healing stones would be ineffective.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 听到可以成为新生第一，又夸她是天才，女孩脸上情不自禁的露出火热，连忙询问：“不过，什么？”",
+        "hyp": "文 3 : Upon hearing that she could become the top freshman and being praised as a genius, the girl couldn't help but show excitement on her face and quickly asked, \"But, what?\"",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 听到可以成为新生第一，又夸她是天才，女孩脸上情不自禁的露出火热，连忙询问：“不过，什么？”",
+        "hyp": "文 3 : Upon hearing that she could become the top freshman and being praised as a genius, the girl couldn't help but show excitement on her face and quickly asked, \"But, what?\"",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 1 : (Let me do the math: the shoes are over 4000 yen, which is roughly 200 RMB. If I choose option 1, I don't have the shoes, and my loss is 200 yuan.)",
+        "label_text": "4000"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 3 : \"Little floor dance\" (style move), a type of Breaking street dance.",
+        "label_text": " \""
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 3 : \"Little floor dance\" (style move), a type of Breaking street dance.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 2 : Correspondingly, if the default option `-fno-external-templates' is used during compilation, all template instances are explicitly set to be internal.",
+        "label_text": "`"
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 2 : Correspondingly, if the default option `-fno-external-templates' is used during compilation, all template instances are explicitly set to be internal.",
+        "label_text": "'"
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 2 : Correspondingly, if the default option `-fno-external-templates' is used during compilation, all template instances are explicitly set to be internal.",
+        "label_text": "`"
+    },
+    {
+        "source": "原文 : 种种情节开始浮现在安林的脑海里，那一切梦幻的开端，不就是眼前这一幕吗！",
+        "hyp": "文 4 : Various scenes began to emerge in Anlin's mind, the very beginning of all those dreamlike events, wasn't it just this scene before his eyes!",
+        "label_text": "!"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 2 : An article published by Billboard magazine in August 2021 noted that the group's fans \"exploited chart loopholes through legitimate means\" to boost the rankings of singles like <Butter> in the United States, helping the song to remain at the top of the Hot 100 chart for several consecutive weeks. Although chart performance on the Hot 100 is usually dependent on streaming and airplay, the chart success of <Butter> was primarily driven by sales (most of which came from BTS's online store, which allows fans to purchase multiple copies of a single song, unlike iTunes) and fan-led crowdfunding campaigns (including purchases made with funds raised from the global fan community through services like PayPal, which only count towards US sales). However, an article from The Korea Times countered the claims of chart manipulation, arguing that fans of other artists like Justin Bieber and Ariana Grande have also engaged in similar promotional tactics, which are neither illegal nor unethical. The fans participating in these activities are simply \"smart consumers leading global trends.\"",
+        "label_text": "<"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 2 : An article published by Billboard magazine in August 2021 noted that the group's fans \"exploited chart loopholes through legitimate means\" to boost the rankings of singles like <Butter> in the United States, helping the song to remain at the top of the Hot 100 chart for several consecutive weeks. Although chart performance on the Hot 100 is usually dependent on streaming and airplay, the chart success of <Butter> was primarily driven by sales (most of which came from BTS's online store, which allows fans to purchase multiple copies of a single song, unlike iTunes) and fan-led crowdfunding campaigns (including purchases made with funds raised from the global fan community through services like PayPal, which only count towards US sales). However, an article from The Korea Times countered the claims of chart manipulation, arguing that fans of other artists like Justin Bieber and Ariana Grande have also engaged in similar promotional tactics, which are neither illegal nor unethical. The fans participating in these activities are simply \"smart consumers leading global trends.\"",
+        "label_text": ">"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 2 : An article published by Billboard magazine in August 2021 noted that the group's fans \"exploited chart loopholes through legitimate means\" to boost the rankings of singles like <Butter> in the United States, helping the song to remain at the top of the Hot 100 chart for several consecutive weeks. Although chart performance on the Hot 100 is usually dependent on streaming and airplay, the chart success of <Butter> was primarily driven by sales (most of which came from BTS's online store, which allows fans to purchase multiple copies of a single song, unlike iTunes) and fan-led crowdfunding campaigns (including purchases made with funds raised from the global fan community through services like PayPal, which only count towards US sales). However, an article from The Korea Times countered the claims of chart manipulation, arguing that fans of other artists like Justin Bieber and Ariana Grande have also engaged in similar promotional tactics, which are neither illegal nor unethical. The fans participating in these activities are simply \"smart consumers leading global trends.\"",
+        "label_text": " <"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 2 : An article published by Billboard magazine in August 2021 noted that the group's fans \"exploited chart loopholes through legitimate means\" to boost the rankings of singles like <Butter> in the United States, helping the song to remain at the top of the Hot 100 chart for several consecutive weeks. Although chart performance on the Hot 100 is usually dependent on streaming and airplay, the chart success of <Butter> was primarily driven by sales (most of which came from BTS's online store, which allows fans to purchase multiple copies of a single song, unlike iTunes) and fan-led crowdfunding campaigns (including purchases made with funds raised from the global fan community through services like PayPal, which only count towards US sales). However, an article from The Korea Times countered the claims of chart manipulation, arguing that fans of other artists like Justin Bieber and Ariana Grande have also engaged in similar promotional tactics, which are neither illegal nor unethical. The fans participating in these activities are simply \"smart consumers leading global trends.\"",
+        "label_text": ">"
+    },
+    {
+        "source": "原文 : 《计划》还提到，加强卫星与地面通信融合应用、布局低空网络基础设施建设、推进海上5G网络深度覆盖。",
+        "hyp": "文 5 : The \"Plan\" also mentions enhancing the integrated application of satellite and terrestrial communications, arranging the construction of low-altitude network infrastructure, and advancing the deep coverage of 5G networks at sea.",
+        "label_text": "\""
+    }
+]

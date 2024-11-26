@@ -1,0 +1,57 @@
+[
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 3 : I don't want to be a foreigner! Let go of me. I want to go back! Is it really OK to call Tang En like this?",
+        "label_text": "foreigner"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 2 : The Type 25A bus, one of the air-conditioned buses of the Chinese Railways featuring centralized power supply, was manufactured by several domestic railroad factories after an international bidding process and with the use of loans. It is commonly referred to as the \"168\" bus, as 168 units were produced in total.",
+        "label_text": "bus"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 2 : The Type 25A bus, one of the air-conditioned buses of the Chinese Railways featuring centralized power supply, was manufactured by several domestic railroad factories after an international bidding process and with the use of loans. It is commonly referred to as the \"168\" bus, as 168 units were produced in total.",
+        "label_text": "buses"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 2 : The Type 25A bus, one of the air-conditioned buses of the Chinese Railways featuring centralized power supply, was manufactured by several domestic railroad factories after an international bidding process and with the use of loans. It is commonly referred to as the \"168\" bus, as 168 units were produced in total.",
+        "label_text": "bus"
+    },
+    {
+        "source": "原文 : 7名歌手竞演结束后，由听众评审团投票排出名次，排在第7位的歌手将被淘汰，那个位置由新的歌手替换。",
+        "hyp": "文 2 : After the performance of all seven singers, the audience jury will vote for them and a rank will be determined according to their votes. The singer ranked the seventh will be eliminated and replaced by a new singer.",
+        "label_text": "audience jury"
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 3 : The paste is added with granules, giving you a proper feeling of refreshment and polishing the teeth. It is much better than the one bought via JD platform. Many product claimed to be imported on JD platform have no Chinese labels. So I don't know where these products are purchased by wholesale.",
+        "label_text": " JD platform"
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 3 : The paste is added with granules, giving you a proper feeling of refreshment and polishing the teeth. It is much better than the one bought via JD platform. Many product claimed to be imported on JD platform have no Chinese labels. So I don't know where these products are purchased by wholesale.",
+        "label_text": " JD platform"
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 3 : The paste is added with granules, giving you a proper feeling of refreshment and polishing the teeth. It is much better than the one bought via JD platform. Many product claimed to be imported on JD platform have no Chinese labels. So I don't know where these products are purchased by wholesale.",
+        "label_text": "So I don't know where"
+    },
+    {
+        "source": "原文 : 想取消订单，对不起，订单信息已传递给供应商，不能取消；想退换货，在亚马逊成功申请了退换货，对不起，没有人理你，需要自行联系供货商退货。",
+        "hyp": "文 3 : Once the order information has been passed to the supplier, cancellation is not possible; if you wish to return or exchange items, you might have successfully applied through Amazon but beware, there seems to be no follow-ups, leaving you no choice but to reach out to the supplier on your own for the return process.",
+        "label_text": "Once the order information has been passed to the supplier, cancellation is not possible"
+    },
+    {
+        "source": "原文 : 在海外的中餐馆，如在西班牙，小笼包在食客中享有盛誉，由于美味可口，有的西班牙餐馆或酒吧也出售类似中国小笼包的食物，叫做西班牙产中式夹肉面包。",
+        "hyp": "文 5 : In overseas Chinese restaurants, particularly in Spain, Xiaolongbao (a type of Chinese steamed dumplings, also popularly known as soup dumplings) holds great popularity among food enthusiasts. Given its delectable flavor, several Spanish restaurants or bars have started offering dishes similar to China's Xiaolongbao, whimsically named as \"Spanish-made Chinese meat-stuffed bread\".",
+        "label_text": "whimsically"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 4 : Despite this, Ning Cheng's grandfather, Ning Hongchang, still admitted Ji Luofei into their household.  He intended to let the two marry once Ning Cheng truly cultivated his qi.",
+        "label_text": "household"
+    }
+]

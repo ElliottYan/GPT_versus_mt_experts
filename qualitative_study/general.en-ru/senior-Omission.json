@@ -1,0 +1,117 @@
+[
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 1 : Я носила лифчики от Lane Bryant последние где-то четыре года, да, и это был первый раз за долгое время, когда я надела бюстгальтер на косточках.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 1 : Я носила лифчики от Lane Bryant последние где-то четыре года, да, и это был первый раз за долгое время, когда я надела бюстгальтер на косточках.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 1 : Он делает так, чтобы казалось, будто сейчас xvg - тонущий корабль, и у него это неплохо получается.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 5 : Они условились, что тот, кто первым сумеет заставить путника снять плащ, будет считаться сильнее остальных.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 5 : Они условились, что тот, кто первым сумеет заставить путника снять плащ, будет считаться сильнее остальных.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 3 : Так или иначе, эти ужасные воспоминания продолжали преследовать меня, и вчера я наконец набралась смелости написать ему.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 3 : Так или иначе, эти ужасные воспоминания продолжали преследовать меня, и вчера я наконец набралась смелости написать ему.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 2 : Быть тебе настоящим другом со всеми вытекающими \"брать-давать\" --- ты можешь опустить ее соответственно (например, с друга до просто \"кое-кого, кого я знаю\").",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 5 : В 1:49 мой тренер как обычно начинает свое \"твоя задача - быть хорошим игроком, но ты этого не делаешь, поэтому я ставлю тебе нереалистичные цели\", или должен ли я быть в 1:49?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 5 : В 1:49 мой тренер как обычно начинает свое \"твоя задача - быть хорошим игроком, но ты этого не делаешь, поэтому я ставлю тебе нереалистичные цели\", или должен ли я быть в 1:49?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Mine’s ending and all my grades are passable except for biology in which I have an F.",
+        "hyp": "文 4 : Мой уже заканчивается, и у меня все оценки проходные, за исключением биологии, по которой я получил F.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Dramatic death scenes and bringing the characters back with a gag do not go hand in hand.",
+        "hyp": "文 1 : Драматические сцены смерти и возвращение персонажей с кляпом не идут рука об руку.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I’m not a trans man, but I am interested in knowing someone’s perspectives who lived both as a woman and as a man (not a lot of people get to experience what it is like to be perceived as both genders) so thats kinda neat imo",
+        "hyp": "文 3 : Я не транс, но мне интересно узнать взгляды кого-то, кто жил и как женщина, и как мужчина (не многим людям удается испытать, каково это, быть воспринимаемым как оба пола), так что это вроде как классно, по моему мнению",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : The first thing I started with was concatenating the paraphrase and source and maybe I, I don't remember now,",
+        "hyp": "文 3 : Первая вещь, с которой у меня все началось, это соединение перефразирования и источника, и может быть, сейчас я уже не помню,",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : We are probably not getting him the ball as much as we need.",
+        "hyp": "文 4 : Мы, пожалуй, не будем передавать ему мяч столько, сколько нужно.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 5 : Вратарю Эвертона Тиму Ховарду пришлось защищаться от Сандро, Кайла Уокера и Льюиса Холтби, в то время как не дающему покоя клубу Хотспур на левом фланге Яну Вертонгену отклонили мощную апелляцию на пенальти после того, как его сбил Шеймус Коулман.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Can I give my 2-month Boston Terrier puppy raw beef bones?",
+        "hyp": "文 2 : Могу я отдать сырые кости моего двухмесячного щенка бостон-терьера?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : From a previous marriage, she has a daughter named Cheyan and a son named Dakota.",
+        "hyp": "文 3 : От предыдущего брака у нее есть дочь, которую зовут Шейан, и сын Дакота.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Scientific study of this group is necessary for understanding of Orbivirus genus evolution patterns.",
+        "hyp": "文 4 : Научное исследование этой группы необходимо для понимания паттернов эволюции рода Orbivirus.",
+        "label_text": "Orbivirus"
+    },
+    {
+        "source": "原文 : I like the product it’s a nice size and color!",
+        "hyp": "文 5 : Мне нравится продукт, хороший размер и цвет!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : So, there will be problems on various fronts, I'm sure, and we will need the numbers very soon.",
+        "hyp": "文 5 : Таким образом, будут проблемы на разных фронтах, я уверен, и очень скоро нам понадобятся цифры.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Also FWIW I like the archive.org interface a lot more than the desktop #bandcamp \\- I've no idea how people use bc as their primary music platform (besides the political reasons).",
+        "hyp": "文 4 : Также, если это имеет значение, мне нравится интерфейс archive.org намного больше, чем рабочий стол #bandcamp \\- Понятия не имею, как люди могут использовать bc в качестве основной музыкальной платформы (помимо политических причин).",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 4 : Так я и сделал, после чего во 2-ом или 3-ем посте обнаружил, что The AJ Show  было заблокировано на YouTube, я не фанат праворадикальных вещей, что и стало причиной, по которой я перестал смотреть это 2 года назад, впрочем найти хоть чуточку аромата свободы среди 90% национал-капитализма, что мог предложить сайт, было слишком тяжело, но в любом случае ко мне пришла идея о видеосайте без цензуры, как например LiveLeak, но более простом и без такого большого количества новостей, когда каждый может разместить там свой пост ❤️.",
+        "label_text": " "
+    }
+]

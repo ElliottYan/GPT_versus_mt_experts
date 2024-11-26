@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : 正面防撞辅助(FCA)功能设计的目的是，帮助检测和监视道路上的前方车辆，并显示警告信息、发出警报声的方式，向驾驶员发出碰撞危险预警，必要时主动采取紧急制动辅助控制措施。",
+        "hyp": "文 1 : The Forward Collision-avoidance Assist (FCA) system is designed to help detect and monitor the vehicles ahead, give the driver a collision danger warning by displaying warning message and sounding an alarm, and actively take emergency braking assistance control measures if necessary.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 全新车型也提供了两种造型选择，其均采用上下分体式格栅设计，主要区别在于下方进气口造型。其中，燃油版采用的是大尺寸三段式进气口设计，并在内部加入密条幅饰条进行点缀，加强精致。",
+        "hyp": "文 5 : The brand-new models also offer two modeling options, both of which adopt upper and lower split grilled, and the main difference lies in the lower air inlet modeling. The fuel vehicle adopts a large-size three-stage air inlet, and its interior is decorated with dense strips to enhance exquisiteness.",
+        "label_text": " grilled"
+    },
+    {
+        "source": "原文 : 前方安全警告时间指设置或变更驾驶员辅助系统的前方安全警告时间。详细信息请参考第7章的“正面防撞辅助(FCA)”部分。",
+        "hyp": "文 2 : Forward safety warning time refers to the time for setting or changing the driver assistance system. Please refer to Chapter 7 \"Forward Collision-avoidance Assist (FCA)\" for details.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 如果您想使用蓝牙钥匙服务，首先应该安装Bluelink应用程序。苹果和安卓用户可在应用商城搜索“BlueLink”并下载该应用程序。",
+        "hyp": "文 4 : Be sure to install the Bluelink app first if you want to use the Bluetooth key service. Apple and Android users can search for \"BlueLink\" in the App store to download the app.",
+        "label_text": "App"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 3 : If you buy a used car, you should confirm and delete the registered Bluetooth key. In addition, please inform the customer service center or dealer about the condition of the used car you purchased.",
+        "label_text": "customer service center"
+    }
+]

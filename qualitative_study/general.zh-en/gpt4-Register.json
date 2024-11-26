@@ -1,0 +1,162 @@
+[
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 4 : A blue canopy of sky, clouds like cotton candy, faces of varying skin tones and expressions, a bustling environment—all of it feels so familiar, yet so foreign, as if it's a world away from me.",
+        "label_text": "foreign"
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 1 : In March 2020, as citizens stayed home during the pneumonia epidemic, the demand for flour surged. Flour mills, whose business had sharply declined, also attempted to shift from operating solely as wholesalers to launching retail packs of flour for home use, which were met with an enthusiastic response.",
+        "label_text": "stayed home"
+    },
+    {
+        "source": "原文 : 这场地震是日本有观测纪录到以来第一个震级超过9的地震。",
+        "hyp": "文 4 : This earthquake was the first in Japan to exceed a magnitude of 9 since records have been kept.",
+        "label_text": "was the first in Japan to exceed "
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 2 : \"I don't want to be a foreigner! Let me go back, let me go back! Can Don yell like that?\"",
+        "label_text": "that"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 2 : \"I don't want to be a foreigner! Let me go back, let me go back! Can Don yell like that?\"",
+        "label_text": "foreigner"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 4 : The chest and belly are covered in a large patch of fluffy white fur, with the tips of the limbs being white as well. It is said that these snow-treading white paws have an instant knockout effect on girls, controlling their brainwaves and making them let out an \"Ahh~~ Ahh~~\" sound.",
+        "label_text": "instant knockout effect"
+    },
+    {
+        "source": "原文 : 晶莹剔透，闪烁着绚烂深泽。 最为美丽的是，水晶雕像的女子，空灵唯美，仿佛狐仙，那样美若天仙，那样令人痴迷。",
+        "hyp": "文 4 : Crystal clear and sparkling with a brilliant depth, the most beautiful aspect is the crystal statue of the woman, ethereal and exquisitely beautiful, as if she were a celestial fox spirit, so heavenly and enchanting that one cannot help but be captivated.",
+        "label_text": " aspect"
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 2 : Correspondingly, if the default option `-fno-external-templates' is used during compilation, all template instances are explicitly set to be internal.",
+        "label_text": "internal"
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 2 : Correspondingly, if the default option `-fno-external-templates' is used during compilation, all template instances are explicitly set to be internal.",
+        "label_text": "internal"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 1 : With the rise of concert culture, since 1978, Roman Tam has held numerous solo concerts at the Lee Theatre and expanded his performance career overseas. He became the first Eastern singer to perform at the Royal Albert Hall in London, UK, in 1979, and the first Chinese singer to perform at the Lincoln Center in New York, USA, in 1980. He later held solo concerts at Madison Square Garden in New York and the National Theatre in Singapore, becoming the first Chinese singer to hold a solo concert at the former venue.",
+        "label_text": "Eastern"
+    },
+    {
+        "source": "原文 : “哈哈，玄藏师兄你吩咐的事情，师弟我哪敢担一句‘劳烦’？ 这等小事，何需如此？” 玄心一口答应了下来。",
+        "hyp": "文 5 : \"Haha, Brother Xuanzang, how could I, your junior, dare to utter a word of 'trouble' when you've given an order? Such a small matter, why make such a fuss?\" Xuanxin readily agreed.",
+        "label_text": "how could I, your junior, dare to utter a word of 'trouble' when you've given an order?"
+    },
+    {
+        "source": "原文 : “哈哈，玄藏师兄你吩咐的事情，师弟我哪敢担一句‘劳烦’？ 这等小事，何需如此？” 玄心一口答应了下来。",
+        "hyp": "文 5 : \"Haha, Brother Xuanzang, how could I, your junior, dare to utter a word of 'trouble' when you've given an order? Such a small matter, why make such a fuss?\" Xuanxin readily agreed.",
+        "label_text": "why make such a fuss?"
+    },
+    {
+        "source": "原文 : 最近发现接通电源时，不充电，需要用手左右扶几下充电器和线的连接处，才能充上电。",
+        "hyp": "文 5 : Recently, I've found that when I plug it in, it doesn't charge unless I wiggle the connection between the charger and the cable a bit with my hand.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 他们本来就要处理宁城的尸体，却想不到有人过来处理，而且还给银币，这种好事情，他们当然不会拒绝。",
+        "hyp": "文 5 : They were originally supposed to deal with the corpses in Ningcheng, but they never expected someone to come along and take care of it, and even pay them in silver coins. Such a good deal, of course, they wouldn't refuse.",
+        "label_text": "deal with"
+    },
+    {
+        "source": "原文 : 江瑶扮相俊美，表演扎实，师承范瑞娟派，兼唱其他流派。",
+        "hyp": "文 3 : Jiang Yao boasts a handsome appearance and delivers solid performances. He is a disciple of the Fan Ruijuan school and also sings in other styles.",
+        "label_text": "He"
+    },
+    {
+        "source": "原文 : 北宋因政治腐败、因循守旧而造成了积贫积弱的局面，中叶即出现了较大的财政危机和国防危机。",
+        "hyp": "文 5 : The Northern Song Dynasty, due to political corruption and adherence to outdated practices, created a situation of cumulative poverty and weakness. By the mid-period, significant financial and national defense crises had emerged.",
+        "label_text": "created"
+    },
+    {
+        "source": "原文 : 听到招呼声，李杜起身道：“喔，是的，汉娜，有什么事吗？”",
+        "hyp": "文 2 : Hearing the call, Li Du stood up and said, \"Oh, yes, Hannah, what's the matter?\"",
+        "label_text": "what's the matter?"
+    },
+    {
+        "source": "原文 : 三颗星是怪自己马虎没看清楚商品规格，你卖M码电商版我没意见，你货不对版是几个意思？",
+        "hyp": "文 1 : Three stars because I blame myself for not checking the product specifications carefully. I have no issue with you selling a size M e-commerce version, but what's the deal with the product not matching the description?",
+        "label_text": "have no issue with"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 5 : The second Totes umbrella: 1. This one doesn't come with a cover. 2. The handle material is mediocre. 3. Although it's labeled as Large, it's actually just a convenient umbrella for one person; it would probably be a tight fit for two people.",
+        "label_text": "mediocre"
+    },
+    {
+        "source": "原文 : 7名歌手竞演结束后，由听众评审团投票排出名次，排在第7位的歌手将被淘汰，那个位置由新的歌手替换。",
+        "hyp": "文 3 : After the competition among the seven singers concluded, the audience jury voted to determine the rankings. The singer who placed seventh will be eliminated and replaced by a new contestant.",
+        "label_text": " audience jury"
+    },
+    {
+        "source": "原文 : 楚阳的身躯缓缓从空中落下，缓缓倒了下去，便如晚秋飘零的枯叶，倒在尘埃，脸上带着淡淡的却温暖的笑，喃喃的道：“轻舞，若是有来生，伴君天下舞！”",
+        "hyp": "文 4 : Chu Yang's body slowly descended from the sky, gently collapsing to the ground, like a withered leaf drifting down in late autumn, landing in the dust. A faint yet warm smile graced his face as he murmured, \"Qingwu, if there is another life, I wish to dance with you under the heavens!\"",
+        "label_text": "sky"
+    },
+    {
+        "source": "原文 : 两名说话的狱卒这才看见侧边正站着一名身穿粗布麻衣的女子，这女子虽然穿着粗布麻衣，却依然能隐约看出她的不俗风姿。 唯一遗憾的是，她的脸已经毁容，被略微凌乱的头发遮掩，让人不愿再看第二眼。",
+        "hyp": "文 5 : It was only then that the two chatting jailers noticed a woman standing to the side, dressed in coarse hemp clothing. Despite her simple attire, one could still vaguely discern her elegant demeanor. The only pity was that her face had been disfigured, partially concealed by her slightly disheveled hair, making one reluctant to take a second look.",
+        "label_text": " hemp"
+    },
+    {
+        "source": "原文 : 9月，向秀吉方提出以自己切腹来换取秀吉放过城中兵民的性命。",
+        "hyp": "文 2 : In September, he proposed to Hideyoshi that he would commit seppuku in exchange for Hideyoshi sparing the lives of the soldiers and civilians within the castle.",
+        "label_text": "castle"
+    },
+    {
+        "source": "原文 : 这个选项, 和它的反义选项, 使那样的程序工作在对应的默认值上.",
+        "hyp": "文 5 : This option, along with its antonym, makes such a program operate on the corresponding default values.",
+        "label_text": "antonym"
+    },
+    {
+        "source": "原文 : 1993年捷克斯洛伐克解体之后， 1994年起捷克和斯洛伐克两个国家分别独立派出奥林匹克运动会捷克代表团、奥林匹克运动会斯洛伐克代表团参赛。",
+        "hyp": "文 4 : After the dissolution of Czechoslovakia in 1993, starting from 1994, the Czech Republic and Slovakia each independently sent their own Olympic teams to compete at the Olympic Games, known as the Czech Olympic Team and the Slovak Olympic Team, respectively.",
+        "label_text": "teams"
+    },
+    {
+        "source": "原文 : 1993年捷克斯洛伐克解体之后， 1994年起捷克和斯洛伐克两个国家分别独立派出奥林匹克运动会捷克代表团、奥林匹克运动会斯洛伐克代表团参赛。",
+        "hyp": "文 4 : After the dissolution of Czechoslovakia in 1993, starting from 1994, the Czech Republic and Slovakia each independently sent their own Olympic teams to compete at the Olympic Games, known as the Czech Olympic Team and the Slovak Olympic Team, respectively.",
+        "label_text": "Team"
+    },
+    {
+        "source": "原文 : 1993年捷克斯洛伐克解体之后， 1994年起捷克和斯洛伐克两个国家分别独立派出奥林匹克运动会捷克代表团、奥林匹克运动会斯洛伐克代表团参赛。",
+        "hyp": "文 4 : After the dissolution of Czechoslovakia in 1993, starting from 1994, the Czech Republic and Slovakia each independently sent their own Olympic teams to compete at the Olympic Games, known as the Czech Olympic Team and the Slovak Olympic Team, respectively.",
+        "label_text": " Team"
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 4 : \"The Newly Renovated Record of the Baishui Route\" cliff carvings, located in Wangjiahe Village, Daheidian Township, Hui County, Gansu Province, China, are a national key cultural relic protection unit, categorized as cave temples and stone inscriptions.",
+        "label_text": "carvings"
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 4 : \"The Newly Renovated Record of the Baishui Route\" cliff carvings, located in Wangjiahe Village, Daheidian Township, Hui County, Gansu Province, China, are a national key cultural relic protection unit, categorized as cave temples and stone inscriptions.",
+        "label_text": "cave"
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 4 : \"The Newly Renovated Record of the Baishui Route\" cliff carvings, located in Wangjiahe Village, Daheidian Township, Hui County, Gansu Province, China, are a national key cultural relic protection unit, categorized as cave temples and stone inscriptions.",
+        "label_text": "inscriptions"
+    },
+    {
+        "source": "原文 : 安林见状有些激动地问道：“这位漂亮的仙女姐姐，请问这里是什么地方，我初来乍到，对这个地方不是很懂呢。”",
+        "hyp": "文 5 : Seeing this, An Lin asked somewhat excitedly, \"Excuse me, beautiful fairy sister, where am I? I'm new here and don't really understand this place.\"",
+        "label_text": " sister"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 3 : Even so, Ning Cheng's grandfather, Ning Hongchang, still took Ji Luofei into his household, planning to wait until Ning Cheng truly gathered his Qi before arranging for the two to marry.",
+        "label_text": "household"
+    }
+]

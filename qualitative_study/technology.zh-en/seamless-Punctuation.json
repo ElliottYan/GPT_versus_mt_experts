@@ -1,0 +1,152 @@
+[
+    {
+        "source": "原文 : 如果轮胎气压低，就会显示此警告信息。车辆上的对应轮胎位置指示灯亮。详细信息请参考第8章的“轮胎气压监测系统(TPMS)”部分。",
+        "hyp": "文 2 : If the tire pressure is low, this warning message will be displayed. The corresponding tire position indicator light on the vehicle is on. For more information, see the tire pressure monitoring system (TPMS) section in Chapter 8.",
+        "label_text": "tire pressure monitoring system"
+    },
+    {
+        "source": "原文 : 当检测到从左后侧面/右后侧面驶近的目标车辆时，外后视镜上的[BCW]警告灯闪烁，并在仪表盘LCD显示屏上显示“紧急制动”的警告信息，同时发出警报声的方式，向驾驶员发出碰撞危险预警。如果后视监视器(RVM)功能在启动状态，通过信息娱乐系统显示屏也会发出警报。",
+        "hyp": "文 1 : When a vehicle is detected approaching from the left or right rear of the vehicle, the warning light on the rear view mirror flashes and an emergency braking warning is displayed on the dashboard's LCD display, simultaneously sounding an alarm to alert the driver to the risk of collision.",
+        "label_text": "emergency braking"
+    },
+    {
+        "source": "原文 : 当检测到从左后侧面/右后侧面驶近的目标车辆时，外后视镜上的[BCW]警告灯闪烁，并在仪表盘LCD显示屏上显示“紧急制动”的警告信息，同时发出警报声的方式，向驾驶员发出碰撞危险预警。如果后视监视器(RVM)功能在启动状态，通过信息娱乐系统显示屏也会发出警报。",
+        "hyp": "文 1 : When a vehicle is detected approaching from the left or right rear of the vehicle, the warning light on the rear view mirror flashes and an emergency braking warning is displayed on the dashboard's LCD display, simultaneously sounding an alarm to alert the driver to the risk of collision.",
+        "label_text": "emergency braking"
+    },
+    {
+        "source": "原文 : 如果选择“盲点安全”模式，外后视镜上的警告灯闪烁约3秒钟。此外，在设置启用“盲点安全”模式的状态，如果重新起动发动机，外后视镜上的警告灯闪烁约3秒钟。",
+        "hyp": "文 4 : If the blind spot safety mode is selected, the warning light on the rear view mirror flashes for about 3 seconds. In addition, when setting the blind spot safety mode, the warning light on the rear view mirror flashes for about 3 seconds if the engine is restarted.",
+        "label_text": "blind spot safety"
+    },
+    {
+        "source": "原文 : 第五代途胜L 8AT的1.5T发动机采用全球首创的CVVD连续可变气门持续期技术，可根据巡航行驶、加速行驶等情况，合理控制气门开启持续时间，无需在性能和燃油效率之间妥协，可实现性能提升4%、能耗降低5%、排放减少12%。",
+        "hyp": "文 1 : The fifth-generation 1.5T engine of the L8AT is equipped with the world's first CVVD continuous variable valve duration technology, which can reasonably control the duration of the valve opening according to cruising driving, accelerating driving, etc., without compromising between performance and fuel efficiency, can achieve performance improvement of 4% <unk> energy consumption of 5% <unk> emission reduction of 12% <unk>",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 第五代途胜L 8AT的1.5T发动机采用全球首创的CVVD连续可变气门持续期技术，可根据巡航行驶、加速行驶等情况，合理控制气门开启持续时间，无需在性能和燃油效率之间妥协，可实现性能提升4%、能耗降低5%、排放减少12%。",
+        "hyp": "文 1 : The fifth-generation 1.5T engine of the L8AT is equipped with the world's first CVVD continuous variable valve duration technology, which can reasonably control the duration of the valve opening according to cruising driving, accelerating driving, etc., without compromising between performance and fuel efficiency, can achieve performance improvement of 4% <unk> energy consumption of 5% <unk> emission reduction of 12% <unk>",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 第五代途胜L 8AT的1.5T发动机采用全球首创的CVVD连续可变气门持续期技术，可根据巡航行驶、加速行驶等情况，合理控制气门开启持续时间，无需在性能和燃油效率之间妥协，可实现性能提升4%、能耗降低5%、排放减少12%。",
+        "hyp": "文 1 : The fifth-generation 1.5T engine of the L8AT is equipped with the world's first CVVD continuous variable valve duration technology, which can reasonably control the duration of the valve opening according to cruising driving, accelerating driving, etc., without compromising between performance and fuel efficiency, can achieve performance improvement of 4% <unk> energy consumption of 5% <unk> emission reduction of 12% <unk>",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 5 : The new car has not changed at the design level, adopting the latest family-style front face, the wheel wheel is currently for sale in the style of the imported version, it should be an entry-level model. The car has a length, width and height of 4750 1820 1488mm, axle distance of 2730mm, consistent with the current model.",
+        "label_text": "4750 1820 1488mm"
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 5 : The new car has not changed at the design level, adopting the latest family-style front face, the wheel wheel is currently for sale in the style of the imported version, it should be an entry-level model. The car has a length, width and height of 4750 1820 1488mm, axle distance of 2730mm, consistent with the current model.",
+        "label_text": "4750 1820 1488mm"
+    },
+    {
+        "source": "原文 : 至于轴距，11款车的差别还是挺大的，最短的是迈锐宝2737mm，最长的则是两款偏向于运动的蒙迪欧和锐志，它们俩的轴距完全相同，均为2850mm。",
+        "hyp": "文 2 : As for the wheelbase, the difference between the 11 cars is quite large, the shortest is the Mirai Baobao 2737mm, the longest is the two sports-oriented Mondeo and Mirai Zhi, both of which have exactly the same wheelbase, both 2850mm.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 蒙迪欧中控台的用料和装配工艺都表现不错，方向盘的手感在众多对手中的表现也相当出色，功能按键的位置使用起来感受也很好。",
+        "hyp": "文 3 : The materials and assembly process of the Mondeo central control panel are performing well, the hand feel of the steering wheel is also quite good among many opponents, the position of the function button is used and the feeling is also good.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 仪表板照明灯在发动机运转状态下，在设置菜单中选择“灯光→照明灯亮度设置”，调整仪表板照明灯亮度。",
+        "hyp": "文 1 : The dashboard illuminates the lights while the engine is running, in the settings menu select <unk> lighting <unk> lighting brightness setting <unk>, adjust the dashboard illuminates the lighting brightness <unk>",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 仪表板照明灯在发动机运转状态下，在设置菜单中选择“灯光→照明灯亮度设置”，调整仪表板照明灯亮度。",
+        "hyp": "文 1 : The dashboard illuminates the lights while the engine is running, in the settings menu select <unk> lighting <unk> lighting brightness setting <unk>, adjust the dashboard illuminates the lighting brightness <unk>",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 如果仪表指针指示超过正常工作温度范围，而移向“H”位置，表示发动机温度过高，这会导致发动机损坏。",
+        "hyp": "文 4 : If the gauge indicator exceeds the normal working temperature range and moves to the <unk>H<unk> position, indicating that the engine temperature is too high, this will cause engine damage <unk>",
+        "label_text": "damage"
+    },
+    {
+        "source": "原文 : 如果估计里程小于1千米，行车电脑会将续航里程显示为“---”符号。",
+        "hyp": "文 4 : If the estimated distance is less than 1 km, the ride computer will display the mileage as <unk> - <unk> symbol <unk>",
+        "label_text": "symbol "
+    },
+    {
+        "source": "原文 : 绕桩是蒙迪欧的强项，它的转向精度、车身灵活性和悬架支撑性都非常出色。",
+        "hyp": "文 2 : The winding is the strength of the Mondeo, its steering accuracy, the flexibility of the body and the suspension support are very good.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 绕桩时迈锐宝的转向比较灵敏且足够准确，回馈十分线性，底盘整体感很强，典型的欧洲车风格。",
+        "hyp": "文 3 : The turn of the Mirai Bao is more sensitive and accurate enough, the feedback is very linear, the overall feel of the chassis is strong, typical European car style.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : C5的悬架调校并不是传统法国车那种偏硬的感觉，这辆车完全追求的是舒适风格。方向盘回馈力度略沉，路感几乎被完全抹去了，驾驶起来很轻松。虽然路面细碎振动的反馈较明显，但对稍大起伏的吸收效果出众，经过减速带时弹跳幅度很小，有效吸收冲击力，这一点给人留下了非常深刻的印象。",
+        "hyp": "文 5 : The C5's suspension adjustment is not the kind of rigid feeling of a traditional French car, this car is entirely pursuing a comfortable style, the steering wheel feedback is slightly depressed, the feel of the road is almost completely erased, the driving is very easy, although the feedback of the fine vibration of the road is more obvious, but the absorption effect is outstanding, after the deceleration band the jump is very small, effectively absorbing the impact.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 在加速性能测试中，雅阁就表现出了这个级别自然吸气车型的顶级实力。没想到在油耗环节，雅阁再一次拔得头筹，证明了“地球梦科技”系列技术的先进性。",
+        "hyp": "文 3 : In the acceleration performance test, the Jaguar showed the top strength of this level of naturally aspirated model, unexpectedly in the fuel consumption section, the Jaguar once again took the lead, proving the advanced nature of the technology of the \"Earth Dream Technology\" series.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 在驾乘方面，雅阁同样做得很均衡，驾驶时灵动轻快，乘坐又不失沉稳。",
+        "hyp": "文 5 : In terms of driving, the jacket is also very balanced, agile and fast when driving, and does not lose its stability when riding.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 新车侧面线条营造出更加硬朗的视觉效果，一条腰线贯穿整个车身。车尾没有过多的下沉式设计，LED尾灯内部不规则的方块灯组看起来科技感十足。",
+        "hyp": "文 4 : The new car's side lines create a more rigid visual effect, a waistline runs through the entire body, the tail has no excessive sinking design, the irregular square lights inside the LED taillights look technologically sophisticated.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 新车侧面线条营造出更加硬朗的视觉效果，一条腰线贯穿整个车身。车尾没有过多的下沉式设计，LED尾灯内部不规则的方块灯组看起来科技感十足。",
+        "hyp": "文 4 : The new car's side lines create a more rigid visual effect, a waistline runs through the entire body, the tail has no excessive sinking design, the irregular square lights inside the LED taillights look technologically sophisticated.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 新车侧面线条营造出更加硬朗的视觉效果，一条腰线贯穿整个车身。车尾没有过多的下沉式设计，LED尾灯内部不规则的方块灯组看起来科技感十足。",
+        "hyp": "文 4 : The new car's side lines create a more rigid visual effect, a waistline runs through the entire body, the tail has no excessive sinking design, the irregular square lights inside the LED taillights look technologically sophisticated.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 车身侧面部分，预计两车差别不会太大，可能最大的变化在于车侧末端以及车身尺寸。",
+        "hyp": "文 2 : In the side part of the body, it is expected that the difference between the two cars will not be too great, perhaps the biggest change is in the end of the side of the car and the size of the body.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : B7和B8时期彻底告别了一切与“圆”有关的造型语言，转而采用更加方正的线条，圆润的V字型一体式中网也彻底的采用了分体结构，前脸进气格栅与车灯成贯穿式，下包围部分也将进气格栅与雾灯连成整体。这样的“双层”造型也被沿用至今。",
+        "hyp": "文 3 : The B7 and B8 period completely said goodbye to all the shaping languages related to the circle, instead adopting more rectangular lines, the rounded V-shaped integrated central net also completely adopted the subdivision structure, the front face into the air grille and the car lights became transparent, the lower surrounding part will also be connected to the air grille and the fog lamp as a whole.",
+        "label_text": " circle"
+    },
+    {
+        "source": "原文 : B7和B8时期彻底告别了一切与“圆”有关的造型语言，转而采用更加方正的线条，圆润的V字型一体式中网也彻底的采用了分体结构，前脸进气格栅与车灯成贯穿式，下包围部分也将进气格栅与雾灯连成整体。这样的“双层”造型也被沿用至今。",
+        "hyp": "文 3 : The B7 and B8 period completely said goodbye to all the shaping languages related to the circle, instead adopting more rectangular lines, the rounded V-shaped integrated central net also completely adopted the subdivision structure, the front face into the air grille and the car lights became transparent, the lower surrounding part will also be connected to the air grille and the fog lamp as a whole.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : SCC/LKA此组显示智能巡航控制(SCC)功能和车道保持辅助(LKA)功能的运行状态。",
+        "hyp": "文 2 : SCC/LKA This group displays the operating status of the Intelligent Cruise Control (SCC) function and the Lane Keeping Assistance (LKA) function.",
+        "label_text": " This group"
+    },
+    {
+        "source": "原文 : 3闪、5闪、7闪：向上/向下轻微移动转向信号操纵杆时，转向信号灯闪烁3次、5次或7次。",
+        "hyp": "文 5 : 3 flashes 5 flashes 7 flashes: When moving up or down slightly, turn to the signal control rod, turn to the signal light flashes 3 times 5 or 7 times",
+        "label_text": " 3 flashes 5 flashes 7 flashes"
+    },
+    {
+        "source": "原文 : 3闪、5闪、7闪：向上/向下轻微移动转向信号操纵杆时，转向信号灯闪烁3次、5次或7次。",
+        "hyp": "文 5 : 3 flashes 5 flashes 7 flashes: When moving up or down slightly, turn to the signal control rod, turn to the signal light flashes 3 times 5 or 7 times",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 3闪、5闪、7闪：向上/向下轻微移动转向信号操纵杆时，转向信号灯闪烁3次、5次或7次。",
+        "hyp": "文 5 : 3 flashes 5 flashes 7 flashes: When moving up or down slightly, turn to the signal control rod, turn to the signal light flashes 3 times 5 or 7 times",
+        "label_text": " "
+    }
+]

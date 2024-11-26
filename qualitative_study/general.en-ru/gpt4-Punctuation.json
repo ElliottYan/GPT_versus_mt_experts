@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 3 : Попробуйте написать в чат: \"Я не буду жульничать в этой игре!\"",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : However, the expression level of the NUP153 gene from the alternative LINE-1 promoter was 17 times higher in chorionic villi and 23 times higher in extraembryonic mesoderm than in lymphocytes (p < 0.05).",
+        "hyp": "文 3 : Тем не менее, уровень экспрессии гена NUP153 от альтернативного промотора LINE-1 был в 17 раз выше в хорионических ворсинах и в 23 раза выше в экстраэмбриональном мезодерме, чем в лимфоцитах (p < 0.05).",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : I’m not a trans man, but I am interested in knowing someone’s perspectives who lived both as a woman and as a man (not a lot of people get to experience what it is like to be perceived as both genders) so thats kinda neat imo",
+        "hyp": "文 1 : Я не трансгендерный мужчина, но мне интересно узнать мнение человека, который жил и как женщина, и как мужчина (ведь не многим выпадает возможность испытать, каково это — быть воспринятым обоими полами), так что это, на мой взгляд, довольно здорово.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : But by the next day, Tom Gross JPost: Tom Gross - The BBC discovers 'terrorism,' briefly and many others noted that the online articles had been edited, replacing \"terrorists\" by \"bombers\".",
+        "hyp": "文 1 : Но на следующий день Том Гросс из JPost (Том Гросс - ВВС ненадолго \"обнаруживает\" терроризм) и многие другие отметили, что онлайн-статьи были отредактированы, и слово \"террористы\" было заменено на \"бомбисты\".",
+        "label_text": "("
+    },
+    {
+        "source": "原文 : But by the next day, Tom Gross JPost: Tom Gross - The BBC discovers 'terrorism,' briefly and many others noted that the online articles had been edited, replacing \"terrorists\" by \"bombers\".",
+        "hyp": "文 1 : Но на следующий день Том Гросс из JPost (Том Гросс - ВВС ненадолго \"обнаруживает\" терроризм) и многие другие отметили, что онлайн-статьи были отредактированы, и слово \"террористы\" было заменено на \"бомбисты\".",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : But one time, he didn’t hear it and so he was like “what!?” reallyyy loudddly.",
+        "hyp": "文 3 : Но однажды он не услышал, и тогда он такой: \"Что!?\" совсем уж громко.",
+        "label_text": ": "
+    },
+    {
+        "source": "原文 : The RWS/Hammerli 850 is a CO 2 designed gun which is often adapted to HPA.",
+        "hyp": "文 3 : Пневматический пистолет RWS/Hammerli 850 разработан под CO2, но часто модифицируется для использования с высоким давлением воздуха (HPA).",
+        "label_text": "(HPA)"
+    },
+    {
+        "source": "原文 : The RWS/Hammerli 850 is a CO 2 designed gun which is often adapted to HPA.",
+        "hyp": "文 3 : Пневматический пистолет RWS/Hammerli 850 разработан под CO2, но часто модифицируется для использования с высоким давлением воздуха (HPA).",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : Also reintroduced with the Omens expansion was the Shyft faction, as well as the first 2.0 non-unique Mage Spawn figures.",
+        "hyp": "文 2 : Также в дополнении \"Omens\" была вновь представлена фракция Shyft, а также первые неуникальные фигурки магов версии 2.0.",
+        "label_text": " \"Omens\" "
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 4 : Вратарь \"Эвертона\" Тим Ховард должен был отразить удары Сандро, Кайла Уокера и Льюиса Хольтби, в то время как атакующий левый защитник \"Тоттенхэма\" Ян Вертонген имел все основания претендовать на пенальти после того, как его подрезал Шеймус Коулман.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 4 : Вратарь \"Эвертона\" Тим Ховард должен был отразить удары Сандро, Кайла Уокера и Льюиса Хольтби, в то время как атакующий левый защитник \"Тоттенхэма\" Ян Вертонген имел все основания претендовать на пенальти после того, как его подрезал Шеймус Коулман.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : I just hope they nail him for thought crime Obviously there has been an epidemic of Molotov cocktail as of late, well WWII wasn't that long ago.",
+        "hyp": "文 4 : Я просто надеюсь, что они прижмут его за мыслепреступление. Очевидно, что в последнее время произошла эпидемия с использованием \"коктейлей Молотова\", ну и Вторая мировая война была не так уж и давно.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : I just hope they nail him for thought crime Obviously there has been an epidemic of Molotov cocktail as of late, well WWII wasn't that long ago.",
+        "hyp": "文 4 : Я просто надеюсь, что они прижмут его за мыслепреступление. Очевидно, что в последнее время произошла эпидемия с использованием \"коктейлей Молотова\", ну и Вторая мировая война была не так уж и давно.",
+        "label_text": " \"коктейлей Молотова\""
+    }
+]

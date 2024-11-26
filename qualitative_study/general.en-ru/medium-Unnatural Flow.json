@@ -1,0 +1,182 @@
+[
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 4 : Мы также объясняем, каким образом отдельные факторы могут повлиять на взаимодействие сообществ с этой пищевой средой.",
+        "label_text": "отдельные "
+    },
+    {
+        "source": "原文 : Other times, the works simply remain unperformed because the composer doesn't have a big name like Beethoven or Vivaldi that draws big crowds.",
+        "hyp": "文 3 : В других же случаях произведения попросту остаются неисполненными, потому что у композитора нет громкого имени, такого как Бетховен или Вивальди, которое привлекало бы большие массы народа.",
+        "label_text": " массы народа"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 5 : По моему, я нормально справляюсь с маневрами, но инструктор считает, что мне все еще нужно побольше практики.",
+        "label_text": "справляюсь"
+    },
+    {
+        "source": "原文 : I know it’s a scientific things and all, but some of the posts there are just too much.",
+        "hyp": "文 2 : Я в курсе, что это научные вещи и все такое, но с некоторыми постами там явно перебор.",
+        "label_text": "Я в курсе"
+    },
+    {
+        "source": "原文 : I know it’s a scientific things and all, but some of the posts there are just too much.",
+        "hyp": "文 2 : Я в курсе, что это научные вещи и все такое, но с некоторыми постами там явно перебор.",
+        "label_text": "явно перебор"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 5 : В 1981 году были созданы еще одни резервные (добровольческие) силы, в соств которых вошли гражданские лица, желающие выполнять ограниченные полицейские функции без оплаты.",
+        "label_text": "В 1981 году были созданы еще одни резервные (добровольческие) силы"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 5 : В 1981 году были созданы еще одни резервные (добровольческие) силы, в соств которых вошли гражданские лица, желающие выполнять ограниченные полицейские функции без оплаты.",
+        "label_text": " В 1981 году были созданы еще одни резервные (добровольческие) силы"
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 2 : Я исключил \"другое\", увидев, как он отлично катится с холма на нейтральной скорости, так что  необходимость в каком-либо механическом воздействии отпала.",
+        "label_text": "воздействии отпала"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 3 : Тем не менее, последние несколько месяцев она ездит по той же велосипедной дорожке, что и я (и только я), мы пересекаемся где-то каждые пару недель и немного общаемся.",
+        "label_text": "последние несколько месяцев она ездит по той же велосипедной дорожке, "
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 3 : Тем не менее, последние несколько месяцев она ездит по той же велосипедной дорожке, что и я (и только я), мы пересекаемся где-то каждые пару недель и немного общаемся.",
+        "label_text": "пересекаемся"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 3 : Тем не менее, последние несколько месяцев она ездит по той же велосипедной дорожке, что и я (и только я), мы пересекаемся где-то каждые пару недель и немного общаемся.",
+        "label_text": "последние несколько месяцев она ездит по той же велосипедной дорожке, "
+    },
+    {
+        "source": "原文 : The funny thing is that right now these same hard-line conservatives declare that we must not run deficits in times of economic crisis.",
+        "hyp": "文 1 : И прикольнее всего то, что прямо сейчас те же самые закоренелые консерваторы заявляют, что мы не должны испытывать дефицит бюджета во времена экономического кризиса.",
+        "label_text": "И прикольнее всего то, что"
+    },
+    {
+        "source": "原文 : It actually hurts my brain trying to add the T, and I sound American if I do or still say wut-ta.",
+        "hyp": "文 2 : Мне прям по мозгам отдает, когда я пытаюсь добавить \"Т\", и мой акцент звучит по-американски, если произношу \"ч-т-о\".",
+        "label_text": "прям по мозгам отдает"
+    },
+    {
+        "source": "原文 : Well I tried explaining to my buddies that porn is kind of shabby, and yeah just bad, and you know who listened…",
+        "hyp": "文 1 : Короче, я пытался объяснить своим приятелям, что порно - это что-то убогое, ну и просто плохо, и ты знаешь, кто бы только слушал…",
+        "label_text": "Короче"
+    },
+    {
+        "source": "原文 : THE MOMENT I LOOK UP, PAUL IS LOOKING STRAIGHT AT ME, STILL WALKING TOWARDS ME.",
+        "hyp": "文 2 : В ТОТ МОМЕНТ, КОГДА Я ПОДНИМАЮ ГЛАЗА, ПОЛ СМОТРИТ ПРЯМО НА МЕНЯ, ВСЕ ЕЩЕ НАПРАВЛЯЯСЬ КО МНЕ.",
+        "label_text": "НАПРАВЛЯЯСЬ"
+    },
+    {
+        "source": "原文 : This study aims to find out, describe, and analyze techniques for applying group guidance to improve the quality of life of a person's disability at the Integrated Rehabilitation Centre for Persons with Disabilities.",
+        "hyp": "文 3 : Цель настоящего исследования заключается в выяснении, описании и анализе методов применения группового руководства для улучшения качества жизни людей с ограниченными возможностями в Интегрированном реабилитационном центре для лиц с ограниченными возможностями.",
+        "label_text": "лиц с ограниченными возможностями"
+    },
+    {
+        "source": "原文 : One of her friend said that she was sad as fuck all day because of me but didn’t want to say why.",
+        "hyp": "文 1 : Одна из ее подруг бросила, что ей было какого-то черта грустно весь день из-за меня, но незахотела пояснить причину.",
+        "label_text": "пояснить причину"
+    },
+    {
+        "source": "原文 : I wouldn’t do that to him of course, but I was just wondering how bad is it to cheat?",
+        "hyp": "文 3 : Я конечно не собираюсь так с ним поступать, но мне просто любопытно, насколько плоха измена?",
+        "label_text": "собираюсь"
+    },
+    {
+        "source": "原文 : I wouldn’t do that to him of course, but I was just wondering how bad is it to cheat?",
+        "hyp": "文 3 : Я конечно не собираюсь так с ним поступать, но мне просто любопытно, насколько плоха измена?",
+        "label_text": "любопытно"
+    },
+    {
+        "source": "原文 : However, the expression level of the NUP153 gene from the alternative LINE-1 promoter was 17 times higher in chorionic villi and 23 times higher in extraembryonic mesoderm than in lymphocytes (p < 0.05).",
+        "hyp": "文 4 : Однако уровень экспрессии гена NUP153 из альтернативного промотора ЛИНИИ 1 был в 17 раз выше в ворсинках хориона и в 23 раза выше во внеэмбриональной мезодерме, чем в лимфоцитах (р < 0,05).",
+        "label_text": "внеэмбриональной "
+    },
+    {
+        "source": "原文 : I’m most scared that in the future when I’m working, people will look down on SMU like elitism discrimination all that, I don’t know, man.",
+        "hyp": "文 3 : Я больше всего боюсь, что в будущем, когда я буду работать, люди будут смотреть на СМУ свысока, как на элитарность, дискриминацию и все такое, просто ума не приложу, чувак.",
+        "label_text": "чувак"
+    },
+    {
+        "source": "原文 : Then my sister takes the cookies from my hands and handed them to my dad.",
+        "hyp": "文 4 : А потом сестра забирает печенье у меня прямо из рук и отдает отцу.",
+        "label_text": "у меня прямо из рук"
+    },
+    {
+        "source": "原文 : Then my sister takes the cookies from my hands and handed them to my dad.",
+        "hyp": "文 4 : А потом сестра забирает печенье у меня прямо из рук и отдает отцу.",
+        "label_text": "отдает"
+    },
+    {
+        "source": "原文 : When day 2 had begun, Mafia and Serial Killer had made their kills.",
+        "hyp": "文 5 : С наступлением второго дня, мафия и серийный убийца совершили свои убийства.",
+        "label_text": "С наступлением второго дня"
+    },
+    {
+        "source": "原文 : It’s funny that covid isn’t affecting my Ny at all..",
+        "hyp": "文 3 : Забавно, что covid вообще не затрагивает мой Нью-Йорк..",
+        "label_text": "затрагивает"
+    },
+    {
+        "source": "原文 : Dramatic death scenes and bringing the characters back with a gag do not go hand in hand.",
+        "hyp": "文 4 : Драматические сцены смерти и возвращение персонажей с кляпом во рту не вяжутся друг с другом.",
+        "label_text": "во рту не вяжутся друг с другом"
+    },
+    {
+        "source": "原文 : I love all your videos, and I have a suggestion for a video for the channel:",
+        "hyp": "文 5 : Я обожаю все ваши видео, и у меня есть предложение касательно видео для канала:",
+        "label_text": "касательно"
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 4 : Экономика Японии выросла на 3,5 процента в годовом выражении в прошлом квартале, значительно превзойдя ожидания, это придало импульс премьер-министру Синдзо Абэ, поскольку его правительство проводит реформы, необходимые для обеспечения устойчивого восстановления после двух десятилетий спада.",
+        "label_text": "поскольку его правительство проводит реформы"
+    },
+    {
+        "source": "原文 : Let’s drop down my main build, because it’s the best assassin play style I like.",
+        "hyp": "文 3 : Давайте поближе остановимся на моей главной сборке, потому что это лучший стиль игры в assassin, который мне нравится.",
+        "label_text": "поближе остановимся на моей главной сборке"
+    },
+    {
+        "source": "原文 : I found the built-in maps app seriously subpar, as I'm used to using Google Maps.",
+        "hyp": "文 1 : Встроенное приложение для карты показалось мне очень неудачным, поскольку я привык пользоваться Google Maps.",
+        "label_text": "Встроенное приложение для карты"
+    },
+    {
+        "source": "原文 : The pitter-patter of rain falling on the pavement like tiny footsteps.",
+        "hyp": "文 4 : Дробь капель дождя, падающих на тротуар, напоминает крошечные поступи шагов.",
+        "label_text": "Дробь капель"
+    },
+    {
+        "source": "原文 : It’s hard for me to join in convos w big groups of ppl which is related to adhd.",
+        "hyp": "文 4 : Мне трудно участвовать в собраниях с большими группами людей, касающихся расстройства СДВГ.",
+        "label_text": "собраниях "
+    },
+    {
+        "source": "原文 : But one time, he didn’t hear it and so he was like “what!?” reallyyy loudddly.",
+        "hyp": "文 4 : Но как-то раз он этого не расслышал и такой спросил: “Что!?” очень-очень громко.",
+        "label_text": "Но как-то раз"
+    },
+    {
+        "source": "原文 : Please tell me how sometimes I can get better sleep.",
+        "hyp": "文 5 : Пожалуйста, скажите мне, как я могу лучше высыпаться.",
+        "label_text": "лучше высыпатьс"
+    },
+    {
+        "source": "原文 : South Korean companies have kept their workers there, in some cases extending their stays, to keep the plants running despite shortages of food and gas and the risk of their employees becoming caught in the middle of the stand-off.",
+        "hyp": "文 4 : Существует практика южнокорейских компаний задерживать своих работников, иногда даже продлевая их пребывание, в целях обеспечения бесперебойной работы заводов несмотря на ограниченное количество продовольствия и газа, а также возможный риск попадания работников в центр конфликта.",
+        "label_text": "Существует практика южнокорейских компаний задерживать своих работников,"
+    },
+    {
+        "source": "原文 : At an inland site, Platt Island, mammals (primarily deer ) accounted for more than 60 percent of the energy from animal meat, while fish provided just under 20 percent.",
+        "hyp": "文 1 : На острове Платт, расположенном во внутренней части страны, млекопитающие (в основгом олени) дают более 60 процентов энергии мяса животных, в то время как рыба дает чуть менее 20 процентов.",
+        "label_text": " На острове Платт, расположенном во внутренней части страны"
+    }
+]

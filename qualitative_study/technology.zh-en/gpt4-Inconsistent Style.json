@@ -1,0 +1,102 @@
+[
+    {
+        "source": "原文 : 除非牢固踩下制动踏板，否则禁止挂档。如果发动机在高速运转时挂入前进档或倒档，车辆可能会突然移动。此时，您可能还无法及时做出车辆控制反应，从而引发意外事故，而导致严重或致命人身伤害，或者车辆损坏。",
+        "hyp": "文 4 : Do not shift gears unless the brake pedal is firmly depressed. Engaging a forward or reverse gear while the engine is running at high speed may cause the vehicle to move suddenly. At that moment, you might not be able to react quickly enough to control the vehicle, potentially leading to an accident that could result in severe or fatal injuries, or damage to the vehicle.",
+        "label_text": "shift"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 1 : An immersive, driver-centered cockpit with a 10.25-inch smart dual-screen, equipped with the Intelligent Network Connection System 4.0, enables a multitude of personalized application interconnectivity, allowing you to fully enjoy the convenience of smart technology. With control at your fingertips, experience limitless connectivity at will.",
+        "label_text": "smart "
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 1 : When driving around a curve, it can significantly impact the detection performance of the forward collision-avoidance assist sensors. The Forward Collision-Avoidance Assist (FCA) feature may not detect vehicles or pedestrians ahead on the curve. This could result in a failure to issue collision danger warnings or to engage emergency braking assist control measures when necessary.",
+        "label_text": "forward collision-avoidance assist"
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 1 : When driving around a curve, it can significantly impact the detection performance of the forward collision-avoidance assist sensors. The Forward Collision-Avoidance Assist (FCA) feature may not detect vehicles or pedestrians ahead on the curve. This could result in a failure to issue collision danger warnings or to engage emergency braking assist control measures when necessary.",
+        "label_text": " Forward Collision-Avoidance Assist (FCA)"
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 1 : When driving around a curve, it can significantly impact the detection performance of the forward collision-avoidance assist sensors. The Forward Collision-Avoidance Assist (FCA) feature may not detect vehicles or pedestrians ahead on the curve. This could result in a failure to issue collision danger warnings or to engage emergency braking assist control measures when necessary.",
+        "label_text": " Forward Collision-Avoidance Assist (FCA)"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 1 : The Tire Pressure Monitoring System (TPMS) uses sensors located inside the tires to detect if the tire pressure is low, thereby monitoring changes in the tire's rolling radius and vibration while the vehicle is in motion. For the TPMS to function properly, the system must be initialized and the current tire pressure values saved. After the TPMS is initialized, if the pressure in one or more tires is significantly lower than the saved tire pressure values, a warning light will illuminate on the dashboard. If there is a malfunction in the Tire Pressure Monitoring System (TPMS), the [TPMS] malfunction warning light will come on.",
+        "label_text": "Tire Pressure Monitoring System (TPMS)"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 1 : The vehicle is equipped with LED daytime running lights, headlight height adjustment, automatic on/off, adaptive high and low beams, and a delayed shut-off feature. Moving to the side of the car, the vehicle's dimensions are 4955mm x 1860mm x 1445mm. The car features soft lines, and the side profile looks very sharp, paired with large, thick-walled tires, giving it an overall rugged visual effect.",
+        "label_text": "vehicle"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 1 : The vehicle is equipped with LED daytime running lights, headlight height adjustment, automatic on/off, adaptive high and low beams, and a delayed shut-off feature. Moving to the side of the car, the vehicle's dimensions are 4955mm x 1860mm x 1445mm. The car features soft lines, and the side profile looks very sharp, paired with large, thick-walled tires, giving it an overall rugged visual effect.",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 1 : The vehicle is equipped with LED daytime running lights, headlight height adjustment, automatic on/off, adaptive high and low beams, and a delayed shut-off feature. Moving to the side of the car, the vehicle's dimensions are 4955mm x 1860mm x 1445mm. The car features soft lines, and the side profile looks very sharp, paired with large, thick-walled tires, giving it an overall rugged visual effect.",
+        "label_text": "vehicle"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 1 : The vehicle is equipped with LED daytime running lights, headlight height adjustment, automatic on/off, adaptive high and low beams, and a delayed shut-off feature. Moving to the side of the car, the vehicle's dimensions are 4955mm x 1860mm x 1445mm. The car features soft lines, and the side profile looks very sharp, paired with large, thick-walled tires, giving it an overall rugged visual effect.",
+        "label_text": "car "
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 1 : The vehicle is equipped with LED daytime running lights, headlight height adjustment, automatic on/off, adaptive high and low beams, and a delayed shut-off feature. Moving to the side of the car, the vehicle's dimensions are 4955mm x 1860mm x 1445mm. The car features soft lines, and the side profile looks very sharp, paired with large, thick-walled tires, giving it an overall rugged visual effect.",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 1 : The vehicle is equipped with LED daytime running lights, headlight height adjustment, automatic on/off, adaptive high and low beams, and a delayed shut-off feature. Moving to the side of the car, the vehicle's dimensions are 4955mm x 1860mm x 1445mm. The car features soft lines, and the side profile looks very sharp, paired with large, thick-walled tires, giving it an overall rugged visual effect.",
+        "label_text": "car "
+    },
+    {
+        "source": "原文 : 独特的雷神之锤大灯，标志性气息昼夜无减，尾灯则是维京之斧设计，横向展开线条，凸显车体的宽度。",
+        "hyp": "文 1 : The distinctive Thor's Hammer headlights maintain their iconic presence day and night, while the taillights feature a Viking Axe design, with horizontal lines that accentuate the vehicle's width.",
+        "label_text": "Viking Axe"
+    },
+    {
+        "source": "原文 : 驾驶习惯、气候条件、交通状况、机油品质等因素均会影૽机油消耗䟿。因此，建议您定期检查发动机机油䟿，按需要进行补充。",
+        "hyp": "文 1 : Driving habits, climate conditions, traffic situations, and the quality of the motor oil can all affect oil consumption. Therefore, it is recommended that you regularly check your engine oil levels and top up as necessary.",
+        "label_text": "motor oil "
+    },
+    {
+        "source": "原文 : 驾驶习惯、气候条件、交通状况、机油品质等因素均会影૽机油消耗䟿。因此，建议您定期检查发动机机油䟿，按需要进行补充。",
+        "hyp": "文 1 : Driving habits, climate conditions, traffic situations, and the quality of the motor oil can all affect oil consumption. Therefore, it is recommended that you regularly check your engine oil levels and top up as necessary.",
+        "label_text": "engine oil"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 5 : The introduction of the Magotan B7 in 2011 once again solidified its status as a benchmark in the mid-size car segment. It came equipped with an abundance of comfort, luxury, and safety electronic systems, making it arguably the smartest mid-size car. Features included active braking, driver fatigue monitoring, automatic high beams, lateral XDS electronic differential lock, tire pressure monitoring, lane departure warning, rear vehicle approach alert, parking assist system, speed limit sign recognition, noise suppression, and automatic parking, among others.",
+        "label_text": "warning"
+    },
+    {
+        "source": "原文 : 加油后：加油超过6升(1.6加仑)时，一旦车速超过1km/h(1mph)，就会自动初始化平均油耗显示值。",
+        "hyp": "文 5 : After refueling: Once the vehicle exceeds a speed of 1 km/h (1 mph) after refueling more than 6 liters (1.6 gallons), the average fuel consumption display value will automatically initialize.",
+        "label_text": " 1 km/h (1 mph) "
+    },
+    {
+        "source": "原文 : 就目前的优惠行情来看，2018款车型的优惠力度较大，并且这其中尤以混动版车型为主。而混动版车型也有着不俗的油耗表现。",
+        "hyp": "文 5 : Based on the current promotional deals, the 2018 models are being offered with significant discounts, particularly the hybrid versions. Moreover, the hybrid models also boast impressive fuel efficiency.",
+        "label_text": "hybrid versions"
+    },
+    {
+        "source": "原文 : 如果您想使用蓝牙钥匙服务，首先应该安装Bluelink应用程序。苹果和安卓用户可在应用商城搜索“BlueLink”并下载该应用程序。",
+        "hyp": "文 5 : If you want to use the Bluetooth key service, you should first install the Bluelink app. Apple and Android users can search for \"BlueLink\" in their app store and download the application.",
+        "label_text": "application"
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 5 : The smart fortwo doesn't automatically come with a Mercedes engine; instead, it is equipped with the Mitsubishi 3B21T, a 1.0L turbocharged engine. The standard version of the smart fortwo has a maximum output of 84 horsepower (62kW) at 5250 rpm and a peak torque of 120 N·m. The BRABUS edition of the smart has a maximum output of 102 horsepower (75kW) at 6000 rpm and a peak torque of 147 N·m.",
+        "label_text": "edition"
+    }
+]

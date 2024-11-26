@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 3 : A scene of extermination the Ninth Legion, which required a good deal of budget money, is directly inspired by the opening scolding in Germanic woods from now benchmark Gladiator by Sir Ridley Scott's, however, for some reason, I absolutely do not want to try to catch Marshall in plagiary: he is fair and straightforward in his work.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 4 : She will have one accident after another, do wall runs a la \"Matrix\" and throw tough guys in identical formal suits down as if they were children.",
+        "label_text": "a la"
+    }
+]

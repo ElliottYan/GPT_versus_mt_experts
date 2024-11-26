@@ -1,0 +1,47 @@
+[
+    {
+        "source": "原文 : Показаниями к их удалению является миграция, развитие окклюзионной гидроцефалии и инфекционных осложнений.",
+        "hyp": "文 4 : Indications for their removal include migration, development of occlusive hydrocephalus, and infectious complications.",
+        "label_text": "include"
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 3 : The author is intrigued by both the screwdriver probing the electric meter and the piece of unsalted butter drifting across the cast-iron skillet—all of this transforms the story about an unemployed miner, his gap-toothed beloved, and her criminal brother into a true oil-on-canvas documentary tableau.",
+        "label_text": "documentary tableau"
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 3 : The use of the drug Brainmax led to a significant improvement in cognitive function indicators (concentration and attention maintenance, working memory, visual-constructive skills, the scope and speed of attention switching, information processing speed, and executive functions), a reduction in the severity of asthenic symptoms, and an increase in quality of life indicators.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 3 : The use of the drug Brainmax led to a significant improvement in cognitive function indicators (concentration and attention maintenance, working memory, visual-constructive skills, the scope and speed of attention switching, information processing speed, and executive functions), a reduction in the severity of asthenic symptoms, and an increase in quality of life indicators.",
+        "label_text": "an "
+    },
+    {
+        "source": "原文 : Потому что просрать свой потенциал так, как Кокорин, не смог никто.",
+        "hyp": "文 3 : Because no one has managed to waste their potential quite like Kokorin did.",
+        "label_text": "quite "
+    },
+    {
+        "source": "原文 : В остальном история близка к оригиналу: пока киллер Джек пытается разобраться со своим последним делом и окончательно завязать с доходным ремеслом, его ледяное сердце тает под обаянием местного священника (Паоло Боначелли) и уличной проститутки (Текла Рютен), в которую персонаж Клуни моментально влюбляется.",
+        "hyp": "文 5 : Otherwise, the story is close to the original: while the hitman Jack tries to sort out his last job and quit his lucrative trade for good, his icy heart melts under the charm of the local priest (Paolo Bonacelli) and a street prostitute (Thekla Reuten), with whom Clooney's character falls in love instantly.",
+        "label_text": "Otherwise"
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 2 : My husband had the smoked ribs - they were amazing, tender, juicy, and fragrant.",
+        "label_text": "My "
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 2 : \"Severstal\" has earned 64 points and is in seventh place in the Western Conference standings, while \"Amur\" also has 64 points and is in ninth place in the Eastern Conference.",
+        "label_text": "Conference"
+    },
+    {
+        "source": "原文 : Дано определение понятия «биологическая травма» — нарушение структуры и функции организма в результате особого повреждающего воздействия, свойственного представителям живой природы (животным, растениям).",
+        "hyp": "文 3 : The definition of the term \"biological injury\" is given as the disruption of an organism's structure and function due to a particular damaging influence characteristic of living nature (animals, plants).",
+        "label_text": "'s"
+    }
+]

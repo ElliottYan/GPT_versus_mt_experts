@@ -1,0 +1,62 @@
+[
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 5 : The elderly head of the Shicun Village looked at Linfeng and shivered in fear.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 第二次世界大战期间，英国政府买下该岛，将其作为生化武器试验基地，试验将炭疽热作为生化武器使用。",
+        "hyp": "文 2 : During World War II, the British government bought the island and used it as a test site to experiment with the use of anthrax as a bioweapon.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 3悲剧的是等了近3天，这个专员联系了我，我手机离开了一会，没有接到这个专员的电话。",
+        "hyp": "文 4 : It is pathetic that I had waited for about three days and when the specialist called me I missed the call because I left my phone for a while.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 3悲剧的是等了近3天，这个专员联系了我，我手机离开了一会，没有接到这个专员的电话。",
+        "hyp": "文 4 : It is pathetic that I had waited for about three days and when the specialist called me I missed the call because I left my phone for a while.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2020年5月2日， JDG在2020LPL春季赛常规赛排名第二位，并在总决赛上3:2险胜TES获得总冠军，这也是他们队史第一个LPL冠军。",
+        "hyp": "文 1 : On May 2, 2020, JDG finished the 2020 LPL Spring Season in second place and had a close 3:2 win over TES in the finals, which was also their first LPL title in team history.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “请问，这里是陆寻老师的课堂吗？”",
+        "hyp": "文 2 : \"Excuse me, is this Lu Xun's class?\"",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 2 : The Gen. III close-in weapon system H/PJ-11, which is built on China's self-developed Gen. II close-in weapon system H/PJ-7 was first mounted on China's aircraft carrier Liaoning. Later it was found on the Type 054A guided-missile frigates (beginning with the frigate Daqing) and the Type 052D guided-missile destroyers (beginning with the destroyer Nanjing). At present, it is also deployed on the Type 055 guided-missile destroyers, the Type 075 amphibious assault ships, and the aircraft carrier Shandong.",
+        "label_text": "beginning with the frigate Daqing"
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 2 : The Gen. III close-in weapon system H/PJ-11, which is built on China's self-developed Gen. II close-in weapon system H/PJ-7 was first mounted on China's aircraft carrier Liaoning. Later it was found on the Type 054A guided-missile frigates (beginning with the frigate Daqing) and the Type 052D guided-missile destroyers (beginning with the destroyer Nanjing). At present, it is also deployed on the Type 055 guided-missile destroyers, the Type 075 amphibious assault ships, and the aircraft carrier Shandong.",
+        "label_text": "beginning with the destroyer Nanjing"
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 1 : In terms of administration, Casteljaloux is under the jurisdiction of the district of Nerac in the Lot-et-Garonne department of Nouvelle-Aquitaine; in terms of local elections, Casteljaloux is home to the central polling station and the entirety of the town is included; and in terms of social governance, it is an integral part...",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : 丁丁把模型船带回家陈列，但它在米鲁和邻居的猫互相追逐的时候摔坏了，一只羊皮纸卷轴从摔断的船桅中空掉了出来，滚进桌下，米鲁试图提醒丁丁但失败了。",
+        "hyp": "文 2 : Tintin took the ship model home and exhibited it. However, it was broken when Snowy (French: Milou) chased with a neighbor's cat. A scroll fell out of the broken mast and rolled under the table. Snowy tried to remind Tintin about that but in vain.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 顶盖的弧度和控制面板的弧度居然不一致，拼合之后出现了一个最高2mm左右的高差。",
+        "hyp": "文 5 : The curvature of the top cover is inconsistent with that of the control panel, resulting in a height difference of about 2mm after assembled.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 1 : Gu Jinhui was born and bred in Tsuen Wan, Hong Kong. He began his football career in the Tsuen Wan Football Association and later transferred to the Eastern Salon Football Team in 1983. Gu became a core player of the SCAA Football Team ever since he transferred to the Team upon the invitation of Lin Jianyue in 1984. During his service on this team, he had won the award of \"Eleven Best Footballers\" for eight consecutive times. In 1987, he won the Hong Kong Top Footballers Awards. Gu retired from the Team and became an assistant instead when he was 38. On June 19, 2017, the board of directors of the SCAA Football Team convened a meeting and reached a consensus on a transfer to C League to cultivate young football players. To cut expenditure, all players of the Team except Gu Jinhui were dismissed. Only Gu who had served on the Team for over 30 years stayed.",
+        "label_text": " "
+    }
+]

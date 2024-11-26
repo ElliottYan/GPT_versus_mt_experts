@@ -1,0 +1,112 @@
+[
+    {
+        "source": "原文 : “想啊，我特别想修仙！”",
+        "hyp": "文 2 : Yes, I really want to cultivate myself to become an immortal!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “想啊，我特别想修仙！”",
+        "hyp": "文 2 : Yes, I really want to cultivate myself to become an immortal!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “托尼，你要去哪儿？” 德斯又重复了一句。",
+        "hyp": "文 4 : Tony, where are you going? Dess asked again.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “托尼，你要去哪儿？” 德斯又重复了一句。",
+        "hyp": "文 4 : Tony, where are you going? Dess asked again.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “托尼，你要去哪儿？” 德斯又重复了一句。",
+        "hyp": "文 4 : Tony, where are you going? Dess asked again.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “托尼，你要去哪儿？” 德斯又重复了一句。",
+        "hyp": "文 4 : Tony, where are you going? Dess asked again.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 5 : En, the Spirit Base is damaged! Ling Han frowned. Ling Chongkuan's attack had caused damage to Ling Han's Spirit Base. This was troublesome for Ling Han, as normal medicines would be ineffective.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 5 : En, the Spirit Base is damaged! Ling Han frowned. Ling Chongkuan's attack had caused damage to Ling Han's Spirit Base. This was troublesome for Ling Han, as normal medicines would be ineffective.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 5 : En, the Spirit Base is damaged! Ling Han frowned. Ling Chongkuan's attack had caused damage to Ling Han's Spirit Base. This was troublesome for Ling Han, as normal medicines would be ineffective.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 5 : En, the Spirit Base is damaged! Ling Han frowned. Ling Chongkuan's attack had caused damage to Ling Han's Spirit Base. This was troublesome for Ling Han, as normal medicines would be ineffective.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “我不是出车祸死了么？ 怎么又活过来了？”",
+        "hyp": "文 5 : Didn't I die in a car accident? How could I still be alive?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “我不是出车祸死了么？ 怎么又活过来了？”",
+        "hyp": "文 5 : Didn't I die in a car accident? How could I still be alive?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 2 : Fortunately, Heaven will always leave a door open. Just as Hong Dali was anguished to the point of killing himself, there was a metallic sound from the system, saying: \"Note, an attribute point will be earned for every RMB 100,000 that the host squanders.\"",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : “请问，这里是陆寻老师的课堂吗？”",
+        "hyp": "文 3 : Excuse me, is this Mr. Lu Xun's classroom?",
+        "label_text": ": "
+    },
+    {
+        "source": "原文 : “请问，这里是陆寻老师的课堂吗？”",
+        "hyp": "文 3 : Excuse me, is this Mr. Lu Xun's classroom?",
+        "label_text": "Excuse "
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 2 : Xulio Rios, a Spanish expert on Chinese matters and adviser emeritus of the Chinese Policy Observatory website, told us that as China has entered a new stage of epidemic prevention and control, this will further unleash new impetus for economic and social development.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “哈哈，玄藏师兄你吩咐的事情，师弟我哪敢担一句‘劳烦’？ 这等小事，何需如此？” 玄心一口答应了下来。",
+        "hyp": "文 4 : Ha ha, you don't have to be so polite to me, and it's my pleasure to do you a favor, Brother Xuan Zang. This is just a piece of cake! Xuan Xin agreed without hesitation.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “哈哈，玄藏师兄你吩咐的事情，师弟我哪敢担一句‘劳烦’？ 这等小事，何需如此？” 玄心一口答应了下来。",
+        "hyp": "文 4 : Ha ha, you don't have to be so polite to me, and it's my pleasure to do you a favor, Brother Xuan Zang. This is just a piece of cake! Xuan Xin agreed without hesitation.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “娘亲放心，我明天肯定能够开启‘神武印记’！”张若尘道。",
+        "hyp": "文 4 : Don't worry, Mom. I will certainly be able to activate the 'Mark of Divine Might' tomorrow! Zhang Ruochen said.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “娘亲放心，我明天肯定能够开启‘神武印记’！”张若尘道。",
+        "hyp": "文 4 : Don't worry, Mom. I will certainly be able to activate the 'Mark of Divine Might' tomorrow! Zhang Ruochen said.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “好小子，你有一套！我们走，赶紧扫货！”",
+        "hyp": "文 2 : Good job! You really have a way! Let's go to sweep goods!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “将外星飞船与气象气球混为一谈的讽刺意味很令人惊讶，但这不值得引发一场星际冲突，”梅杰说。",
+        "hyp": "文 2 : \"Although the irony of mistaking a UFO as a weather balloon is surprising, it's not worth triggering a star conflict\", Major said.",
+        "label_text": "\", "
+    }
+]

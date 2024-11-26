@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : then i see hes posted a picture of them both that shes took saying 'love of my life'.",
+        "hyp": "文 4 : 然后我看到他发了一张他们两人的合照（女方拍的），照片上面写着“一生挚爱”。",
+        "label_text": "（女方拍的）"
+    },
+    {
+        "source": "原文 : In 2018, Lufkin's crime rate was 4,666 crimes per 100,000 persons, which was an overall decrease by 2% from 2017; 134 violent crimes and 1,403 property crimes were reported.",
+        "hyp": "文 4 : 2018年，拉夫金犯罪率为每100000人有4666名罪犯，相比2017年总体下降2%，报道了134起暴力犯罪和1403起财产犯罪。",
+        "label_text": "罪犯"
+    }
+]

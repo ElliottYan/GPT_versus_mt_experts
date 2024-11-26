@@ -1,0 +1,57 @@
+[
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 1 : Abe喜欢隐藏悲伤，但是很容易笑，而Tom不怕哭，但却没那么容易被突然的幽默逗乐。",
+        "label_text": "Abe"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 1 : Abe喜欢隐藏悲伤，但是很容易笑，而Tom不怕哭，但却没那么容易被突然的幽默逗乐。",
+        "label_text": "Tom"
+    },
+    {
+        "source": "原文 : Cruse briefly wrote a column in a comic book review magazine, \"Comics Scene,\" under the rhyming masthead \"Loose Cruse.\"",
+        "hyp": "文 3 : Cruse在漫画评论杂志《漫画场景》有个小专栏，名字很押韵，叫“遐思克鲁斯（Loose Cruse）”。",
+        "label_text": "Cruse"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 1 : Waziri接着说Djehuty主管国库，整理了Hatshepsut女王时代的工艺作品。",
+        "label_text": "Waziri"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 1 : Waziri接着说Djehuty主管国库，整理了Hatshepsut女王时代的工艺作品。",
+        "label_text": "Djehuty"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 1 : Waziri接着说Djehuty主管国库，整理了Hatshepsut女王时代的工艺作品。",
+        "label_text": "Hatshepsut"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 1 : Waziri接着说Djehuty主管国库，整理了Hatshepsut女王时代的工艺作品。",
+        "label_text": "工艺作品"
+    },
+    {
+        "source": "原文 : Never because one had issues or broke, just because I wanted to stay upgraded and \"in the loop\" and I did.",
+        "hyp": "文 5 : 绝不是因为一个人有难处或崩溃了，仅仅是因为我想要及时掌握情况，而且我也确实做到了。",
+        "label_text": "及时掌握情况"
+    },
+    {
+        "source": "原文 : Never because one had issues or broke, just because I wanted to stay upgraded and \"in the loop\" and I did.",
+        "hyp": "文 5 : 绝不是因为一个人有难处或崩溃了，仅仅是因为我想要及时掌握情况，而且我也确实做到了。",
+        "label_text": "，"
+    },
+    {
+        "source": "原文 : One is immature and shy and always pulling me down.",
+        "hyp": "文 2 : 不成熟，害羞，总是拖我后腿。",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : so basically for A's i got 82 RP and wanted to go nus biz admin but didnt get in though im q sure my RP is good enough and my appeal was rejected 3 days ago welp :<<",
+        "hyp": "文 1 : 反正就是我的A-level考了82分，我想申请NUS工商管理，但是没录取上，虽然我十分确定我的分数足够了，而且3天前我的申诉还被驳回了，真是太棒了:<<",
+        "label_text": "A-level"
+    }
+]

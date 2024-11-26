@@ -1,0 +1,137 @@
+[
+    {
+        "source": "原文 : 有可能增强香豆素类抗凝血药（华法林）的作用，因此应注意调整用量。",
+        "hyp": "文 1 : The concomitant use of this product with coumarin anticoagulants (warfarin) may enhance the effects of the latter, necessitating dosage adjustment.",
+        "label_text": "The concomitant use of this product with"
+    },
+    {
+        "source": "原文 : 有报告指出，阿司匹林削弱血小板聚集抑制作用。",
+        "hyp": "文 4 : The concomitant use of this product with aspirin has been reported to weaken the inhibitory effects of the latter on platelet aggregation.",
+        "label_text": "The concomitant use of this product with"
+    },
+    {
+        "source": "原文 : 有报告指出，阿司匹林削弱血小板聚集抑制作用。",
+        "hyp": "文 4 : The concomitant use of this product with aspirin has been reported to weaken the inhibitory effects of the latter on platelet aggregation.",
+        "label_text": "of the latter "
+    },
+    {
+        "source": "原文 : 发生超敏反应后，如果不立即停用本品治疗，可能马上导致危及生命的反应。",
+        "hyp": "文 4 : The failure to immediately discontinue the product and administer appropriate treatment following the occurrence of hypersensitivity may immediately result in life-threatening reactions.",
+        "label_text": "and administer appropriate treatment "
+    },
+    {
+        "source": "原文 : 发生超敏反应后，如果不立即停用本品治疗，可能马上导致危及生命的反应。",
+        "hyp": "文 4 : The failure to immediately discontinue the product and administer appropriate treatment following the occurrence of hypersensitivity may immediately result in life-threatening reactions.",
+        "label_text": "and administer appropriate treatment "
+    },
+    {
+        "source": "原文 : 他差两个餐没送，但有个 order 已完结",
+        "hyp": "文 4 : He has two more food deliveries to make, although one of the delivery orders has been closed.",
+        "label_text": "more "
+    },
+    {
+        "source": "原文 : 有可能增强降血糖作用（低血糖），因此应注意调整用量。",
+        "hyp": "文 2 : The concomitant use may enhance the hypoglycemic effects (hypoglycemia) of such drugs, necessitating dosage adjustment.",
+        "label_text": "The concomitant use "
+    },
+    {
+        "source": "原文 : 有报告显示血中锂浓度升高，并出现锂中毒，因此合用时应充分进行观察，如监测血中锂浓度等，慎重用药。",
+        "hyp": "文 1 : The concomitant use has been reported to result in elevated serum lithium concentrations and lithium poisoning. Therefore, adequate observation (e.g., monitoring of serum lithium concentrations) and careful dosing are necessary when the two drugs are used in combination.",
+        "label_text": "The concomitant use"
+    },
+    {
+        "source": "原文 : 严重的肾功能衰竭（eGFR<45mL/min/1.73m2）；",
+        "hyp": "文 1 : Patients with severe renal failure (eGFR < 45 mL/min/1.73 m2);",
+        "label_text": "Patients with "
+    },
+    {
+        "source": "原文 : 可能影响肾功能的急性病情，如：脱水、严重感染、休克；",
+        "hyp": "文 2 : Patients in acute conditions that may affect renal function, such as dehydration, severe infection and shock;",
+        "label_text": "Patients in "
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 1 : Patients with severe infection and trauma, those who underwent major surgeries and those with clinical hypotension and hypoxia;",
+        "label_text": "Patients with "
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 1 : Patients with severe infection and trauma, those who underwent major surgeries and those with clinical hypotension and hypoxia;",
+        "label_text": "those who underwent "
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 1 : Patients with severe infection and trauma, those who underwent major surgeries and those with clinical hypotension and hypoxia;",
+        "label_text": " those with"
+    },
+    {
+        "source": "原文 : 已知对盐酸二甲双胍和本品中任何成分过敏；",
+        "hyp": "文 4 : Patients who are known to be allergic to metformin hydrochloride and any components of this product;",
+        "label_text": "Patients who are "
+    },
+    {
+        "source": "原文 : 任何急性代谢性酸中毒，包括乳酸酸中毒、糖尿病酮症酸中毒；",
+        "hyp": "文 2 : Patients with any acute metabolic acidosis, including lactic acidosis and diabetic ketoacidosis;",
+        "label_text": "Patients with "
+    },
+    {
+        "source": "原文 : 糖尿病昏迷前驱期；",
+        "hyp": "文 2 : Patients in the prodromal period of diabetic coma;",
+        "label_text": "Patients in "
+    },
+    {
+        "source": "原文 : 使用这些药品观察到的超敏反应（下文所述）有一些共同特征，例如发热和／或皮疹，以及提示累及多器官的其他症状。",
+        "hyp": "文 5 : The hypersensitivity reactions (described below) observed with these drugs exhibit some common presentations, such as fever and/or rash, as well as other symptoms suggestive of multi-organ involvement.",
+        "label_text": "reactions"
+    },
+    {
+        "source": "原文 : 几乎所有发生超敏反应的患者会存在发热和／或皮疹（通常是斑丘疹或荨麻疹）作为综合征的一部分，但也发生过没有皮疹或发热的反应。",
+        "hyp": "文 2 : Fever and/or rash (usually maculopapule or urticaria) can be observed as part of the syndrome in nearly all patients experiencing hypersensitivity reactions; however, there are also patients who do not exhibit any rash or fever.",
+        "label_text": "reactions"
+    },
+    {
+        "source": "原文 : 脑肠菌群轴在功能性胃肠疾病中的作用逐渐受到关注，根据罗马便秘Ⅳ诊断标准，将功能性胃肠疾病归类于脑肠功能互动异常，该概念的提出对功能性胃肠疾病诊疗模式的改变具有重要意义。",
+        "hyp": "文 3 : More and more attention has been paid to the role of the brain-gut-microbiota axis in the diagnosis and treatment of functional gastrointestinal disorders. According to the Rome IV Diagnostic Criteria for Constipation, functional gastrointestinal disorders are categorized as abnormal brain-gut interaction. The proposal of this concept is of great significance for altering diagnosis and treatment approaches of functional gastrointestinal disorders.",
+        "label_text": "the diagnosis and treatment of"
+    },
+    {
+        "source": "原文 : 本品对紫外线红斑（豚鼠）及角叉菜胶水肿（大鼠）急性炎症的ID50（经口给药）分别为4.4mg/kg、22 mg/kg，比阿司匹林的各值均有效。",
+        "hyp": "文 1 : The ID50 values (oral) of this product for the treatment of acute inflammation in guinea pigs with ultraviolet erythema and rats with carrageenan-induced edema were 4.4 mg/kg and 22 mg/kg, respectively, indicating its superior efficacy compared to aspirin.",
+        "label_text": "values"
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 4 : The provision of acupuncture and moxibustion services continues to decline, which is mainly due to the following: Disease-based triage diverts many patients with diseases suitable for acupuncture and moxibustion; the pursuit of economic benefits restricts the development of acupuncture and moxibustion characterized by \"convenience, effectiveness and inexpensiveness\".",
+        "label_text": "and moxibustion"
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 4 : The provision of acupuncture and moxibustion services continues to decline, which is mainly due to the following: Disease-based triage diverts many patients with diseases suitable for acupuncture and moxibustion; the pursuit of economic benefits restricts the development of acupuncture and moxibustion characterized by \"convenience, effectiveness and inexpensiveness\".",
+        "label_text": " and moxibustion"
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 4 : The provision of acupuncture and moxibustion services continues to decline, which is mainly due to the following: Disease-based triage diverts many patients with diseases suitable for acupuncture and moxibustion; the pursuit of economic benefits restricts the development of acupuncture and moxibustion characterized by \"convenience, effectiveness and inexpensiveness\".",
+        "label_text": " and moxibustion"
+    },
+    {
+        "source": "原文 : 重要的是，这些症状可能导致将超敏反应误诊为呼吸道疾病（肺炎、支气管炎、咽炎）或胃肠炎。",
+        "hyp": "文 5 : The presence of these symptoms is particularly significant as it may lead to misdiagnosis of hypersensitivity reactions as respiratory diseases (pneumonia, bronchitis and pharyngitis) or gastroenteritis.",
+        "label_text": "The presence of these symptoms is particularly significant "
+    },
+    {
+        "source": "原文 : 根据中怡康的预测，2020年，激光电视市场销量增长将超过140%，继续保持高速增长。",
+        "hyp": "文 4 : The China Market Monitor (CEC) predicts that the sales growth of laser TV will surpass 140% in 2020, demonstrating a sustained upward trend.",
+        "label_text": " (CEC)"
+    },
+    {
+        "source": "原文 : 浅析针灸疗法在美国辅助生殖领域的应用现状，并探讨其存在的问题及今后的发展方向。",
+        "hyp": "文 4 : To make a concise analysis on the current application of acupuncture and moxibustion in assisted reproduction in the United States, and to discuss its existing challenges and future prospects.",
+        "label_text": "and moxibustion"
+    },
+    {
+        "source": "原文 : 本品是固定剂量片剂，不能用于需要剂量调整的患者。",
+        "hyp": "文 3 : As a fixed-dose combination available in tablets, this product is contraindicated in patients requiring dose adjustments.",
+        "label_text": "combination available"
+    }
+]

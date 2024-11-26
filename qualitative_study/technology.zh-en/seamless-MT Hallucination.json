@@ -1,0 +1,37 @@
+[
+    {
+        "source": "原文 : 第五代途胜L 8AT的1.5T发动机采用全球首创的CVVD连续可变气门持续期技术，可根据巡航行驶、加速行驶等情况，合理控制气门开启持续时间，无需在性能和燃油效率之间妥协，可实现性能提升4%、能耗降低5%、排放减少12%。",
+        "hyp": "文 1 : The fifth-generation 1.5T engine of the L8AT is equipped with the world's first CVVD continuous variable valve duration technology, which can reasonably control the duration of the valve opening according to cruising driving, accelerating driving, etc., without compromising between performance and fuel efficiency, can achieve performance improvement of 4% <unk> energy consumption of 5% <unk> emission reduction of 12% <unk>",
+        "label_text": " <unk> energy consumption of 5% <unk> emission reduction of 12% <unk>"
+    },
+    {
+        "source": "原文 : PM1.0级空调过滤器增加含有熔喷布的高性能集尘层，0.3~0.5?尘埃过滤效率≥97%，过滤效果超过N95口罩，即便车外尘土飞扬，车内空气依然如清晨一般洁净。智能车机系统预装大量APP令旅途不枯燥，而高度便捷的自然语音识别系统，即便在你双手紧握方向盘时，依然可以操作车辆的各种功能。",
+        "hyp": "文 2 : The PM1.0 air-conditioning filter increases the high-performance dust collection layer containing the spraying cloth, 0.3 to 0.5 ° Dust filtration efficiency ≥ 97%, filtration effect exceeds the N95 mask, even if the dust outside the car is flying, the air inside the car is still clean as usual in the morning, the smart car system is pre-installed with a large number of APPs to make the journey not boring, and the highly convenient natural voice recognition system, even when you hold the steering wheel",
+        "label_text": "° "
+    },
+    {
+        "source": "原文 : 选择“动感(SPORT)”驾驶模式时。详细信息请参考第6章的“驾驶模式集成控制系统”部分。",
+        "hyp": "文 3 : For more information when choosing <unk> kinetic (SPORT) <unk> driving mode, please refer to the <unk> driving mode integrated control system <unk> section of Chapter 6. <unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 选择“动感(SPORT)”驾驶模式时。详细信息请参考第6章的“驾驶模式集成控制系统”部分。",
+        "hyp": "文 3 : For more information when choosing <unk> kinetic (SPORT) <unk> driving mode, please refer to the <unk> driving mode integrated control system <unk> section of Chapter 6. <unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 选择“动感(SPORT)”驾驶模式时。详细信息请参考第6章的“驾驶模式集成控制系统”部分。",
+        "hyp": "文 3 : For more information when choosing <unk> kinetic (SPORT) <unk> driving mode, please refer to the <unk> driving mode integrated control system <unk> section of Chapter 6. <unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 如果档位不在“P(驻车)”档或“N(空档)”档的状态，试图起动发动机，就会显示此警告信息。",
+        "hyp": "文 4 : If the gear is not in the state of <unk>P (parked) gear or <unk>N (empty) gear, try to start the engine, this warning message will be displayed <unk>",
+        "label_text": " <unk>"
+    },
+    {
+        "source": "原文 : 如果档位不在“P(驻车)”档或“N(空档)”档的状态，试图起动发动机，就会显示此警告信息。",
+        "hyp": "文 4 : If the gear is not in the state of <unk>P (parked) gear or <unk>N (empty) gear, try to start the engine, this warning message will be displayed <unk>",
+        "label_text": "<unk>"
+    }
+]

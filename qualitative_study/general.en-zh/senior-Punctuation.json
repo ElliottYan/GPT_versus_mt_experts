@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : If there's a ghost in the house, why the HELL would you go in the darkest and creepiest place in the house?!",
+        "hyp": "文 3 : 这房子闹鬼，你还跑来这么黑、这么阴森的地方做什么？！!",
+        "label_text": "!"
+    },
+    {
+        "source": "原文 : If there's a ghost in the house, why the HELL would you go in the darkest and creepiest place in the house?!",
+        "hyp": "文 3 : 这房子闹鬼，你还跑来这么黑、这么阴森的地方做什么？！!",
+        "label_text": "!"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 5 : 科特近年来最著名的案件包括世通公司前雇员和投资人针对该公司前董事和高管、审计机构安达信以及 10 多家出售世通公司证券的投资银行提起的联邦证券集体诉讼。",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : When the Sydney underground railways (now part of the Sydney Trains network) were constructed in 1927, Wynyard railway station was constructed by excavating the park and then rebuilding the park after the station had been constructed.",
+        "hyp": "文 2 : 悉尼地下铁路（现为悉尼铁路网的组成部分）建造于1927年。当时，温耶德火车站修建在公园地面上，待火车站建成后又重建了公园。",
+        "label_text": "在公园地面上"
+    }
+]

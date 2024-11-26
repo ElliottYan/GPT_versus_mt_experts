@@ -1,0 +1,672 @@
+[
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "pain"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "nausea"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "difficulty breathing"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "vasculitis"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "measles"
+    },
+    {
+        "source": "原文 : （2）再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症",
+        "hyp": "文 5 : (2) Regenerative anemia, hemolysis, anemia, decreased platelet count, decreased platelet count",
+        "label_text": "Regenerative anemia"
+    },
+    {
+        "source": "原文 : （2）再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症",
+        "hyp": "文 5 : (2) Regenerative anemia, hemolysis, anemia, decreased platelet count, decreased platelet count",
+        "label_text": "hemolysis"
+    },
+    {
+        "source": "原文 : （2）再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症",
+        "hyp": "文 5 : (2) Regenerative anemia, hemolysis, anemia, decreased platelet count, decreased platelet count",
+        "label_text": "decreased platelet count"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "Regenerative anemia"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "hemolysis"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "granulocyte depletion"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "platelet depletion"
+    },
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 1 : Toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (SIDS) are the most common causes of blindness.",
+        "label_text": " (SIDS) "
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "withdrawal of medication"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": " low urine"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "urine"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "urine protein"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "blood plasma"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "hypertension"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "low urine"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "urine"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "the inhibitory effect of prostaglandin synthesis"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "the inhibitory effect of prostaglandin synthesis"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 1 : 2. Buyers in urgent need of products or time constraints, it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again.",
+        "label_text": "pay"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 1 : 2. Buyers in urgent need of products or time constraints, it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again.",
+        "label_text": "guaranteed"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 1 : 2. Buyers in urgent need of products or time constraints, it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again.",
+        "label_text": "pay again"
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 1 : 6. Patients with severe hypertension [there is a possibility of further elevation of blood pressure due to hydrochloric acid retention due to the inhibitory effect of prostaglandin synthesis]",
+        "label_text": "hydrochloric acid"
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 1 : 6. Patients with severe hypertension [there is a possibility of further elevation of blood pressure due to hydrochloric acid retention due to the inhibitory effect of prostaglandin synthesis]",
+        "label_text": " the inhibitory effect of prostaglandin synthesis"
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 1 : 6. Patients with severe hypertension [there is a possibility of further elevation of blood pressure due to hydrochloric acid retention due to the inhibitory effect of prostaglandin synthesis]",
+        "label_text": "hydrochloric acid"
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 1 : 6. Patients with severe hypertension [there is a possibility of further elevation of blood pressure due to hydrochloric acid retention due to the inhibitory effect of prostaglandin synthesis]",
+        "label_text": " the inhibitory effect of prostaglandin synthesis"
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 2 : Patients with aspirin-induced asthma (asthma seizures caused by non-steroidal anti-inflammatory analgesics, etc.) or their previous history [may cause asthma seizures], and asthma patients who are allergic to aspirin;",
+        "label_text": "asthma seizures"
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 2 : Patients with aspirin-induced asthma (asthma seizures caused by non-steroidal anti-inflammatory analgesics, etc.) or their previous history [may cause asthma seizures], and asthma patients who are allergic to aspirin;",
+        "label_text": "their"
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 2 : Patients with aspirin-induced asthma (asthma seizures caused by non-steroidal anti-inflammatory analgesics, etc.) or their previous history [may cause asthma seizures], and asthma patients who are allergic to aspirin;",
+        "label_text": "asthma seizures"
+    },
+    {
+        "source": "原文 : 本品与华法林的血浆蛋白竞争性结合，游离型华法林增加。",
+        "hyp": "文 3 : This product combines with the competitive plasma protein of warfarin to increase the frequency of warfarin.",
+        "label_text": "combines with the competitive plasma protein of warfarin"
+    },
+    {
+        "source": "原文 : 本品与华法林的血浆蛋白竞争性结合，游离型华法林增加。",
+        "hyp": "文 3 : This product combines with the competitive plasma protein of warfarin to increase the frequency of warfarin.",
+        "label_text": "to increase the frequency of warfarin"
+    },
+    {
+        "source": "原文 : 本品与华法林的血浆蛋白竞争性结合，游离型华法林增加。",
+        "hyp": "文 3 : This product combines with the competitive plasma protein of warfarin to increase the frequency of warfarin.",
+        "label_text": "combines with the competitive plasma protein of warfarin"
+    },
+    {
+        "source": "原文 : 本品与华法林的血浆蛋白竞争性结合，游离型华法林增加。",
+        "hyp": "文 3 : This product combines with the competitive plasma protein of warfarin to increase the frequency of warfarin.",
+        "label_text": "the frequency of warfarin"
+    },
+    {
+        "source": "原文 : 有报告指出，阿司匹林削弱血小板聚集抑制作用。",
+        "hyp": "文 5 : Some reports indicate that aspirin weakens the inhibitory effect of platelet aggregation.",
+        "label_text": "weakens the inhibitory effect of platelet aggregation"
+    },
+    {
+        "source": "原文 : 有报告指出，阿司匹林削弱血小板聚集抑制作用。",
+        "hyp": "文 5 : Some reports indicate that aspirin weakens the inhibitory effect of platelet aggregation.",
+        "label_text": "weakens the inhibitory effect of platelet aggregation"
+    },
+    {
+        "source": "原文 : 复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 1 : Relapses are generally more severe than those of the initial attack and may include life-threatening low blood pressure and death.",
+        "label_text": "Relapses are generally more severe than those of the initial attack and may include"
+    },
+    {
+        "source": "原文 : 比较各组患者治疗3、6、24个月的血液学、细胞遗传学和分子学反应。",
+        "hyp": "文 1 : Comparison of hematology, cell genetics, and molecular responses of groups of patients treated for 3-6-24 months.",
+        "label_text": "groups"
+    },
+    {
+        "source": "原文 : 综上,猪粪的分解受到土壤复垦年限的影响,而牛粪的分解不受土壤复垦年限的影响。",
+        "hyp": "文 3 : In summary, the decomposition of pig manure is influenced by the soil recycling age, while the decomposition of cow manure is not influenced by the soil recycling age.",
+        "label_text": "recycling age"
+    },
+    {
+        "source": "原文 : 综上,猪粪的分解受到土壤复垦年限的影响,而牛粪的分解不受土壤复垦年限的影响。",
+        "hyp": "文 3 : In summary, the decomposition of pig manure is influenced by the soil recycling age, while the decomposition of cow manure is not influenced by the soil recycling age.",
+        "label_text": "recycling age"
+    },
+    {
+        "source": "原文 : 综上,猪粪的分解受到土壤复垦年限的影响,而牛粪的分解不受土壤复垦年限的影响。",
+        "hyp": "文 3 : In summary, the decomposition of pig manure is influenced by the soil recycling age, while the decomposition of cow manure is not influenced by the soil recycling age.",
+        "label_text": "recycling age"
+    },
+    {
+        "source": "原文 : 综上,猪粪的分解受到土壤复垦年限的影响,而牛粪的分解不受土壤复垦年限的影响。",
+        "hyp": "文 3 : In summary, the decomposition of pig manure is influenced by the soil recycling age, while the decomposition of cow manure is not influenced by the soil recycling age.",
+        "label_text": "recycling age"
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 5 : Cholamine is an anion-exchanging resin that binds to the product in the digestive tract, delaying or inhibiting the absorption of the product.",
+        "label_text": "Cholamine"
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 5 : Cholamine is an anion-exchanging resin that binds to the product in the digestive tract, delaying or inhibiting the absorption of the product.",
+        "label_text": "Cholamine"
+    },
+    {
+        "source": "原文 : 学员通过点播课件、提问答疑、网上讨论等方式进行学习。",
+        "hyp": "文 3 : Students learn by broadcasting lessons, asking questions, answering questions, and discussing online.",
+        "label_text": "broadcasting lessons"
+    },
+    {
+        "source": "原文 : 他差两个餐没送，但有个 order 已完结",
+        "hyp": "文 5 : He sent two meals that weren't delivered, but there was an order that was finished.",
+        "label_text": "He sent two meals that weren't delivered"
+    },
+    {
+        "source": "原文 : 他差两个餐没送，但有个 order 已完结",
+        "hyp": "文 5 : He sent two meals that weren't delivered, but there was an order that was finished.",
+        "label_text": "inished"
+    },
+    {
+        "source": "原文 : 他差两个餐没送，但有个 order 已完结",
+        "hyp": "文 5 : He sent two meals that weren't delivered, but there was an order that was finished.",
+        "label_text": "He sent two meals that weren't delivered"
+    },
+    {
+        "source": "原文 : 好不容易看中的房子，定金交了，房款也准备好了，就差“临门一脚”签合同，卖方却不卖了，这让陆先生无奈又愤怒。",
+        "hyp": "文 3 : It was not easy to look at the house, the money was paid, the money was ready, he almost walked to the door and signed the contract, but the seller did not sell, which made Mr. Lu helpless and angry.",
+        "label_text": " It was not easy to look at the house"
+    },
+    {
+        "source": "原文 : 好不容易看中的房子，定金交了，房款也准备好了，就差“临门一脚”签合同，卖方却不卖了，这让陆先生无奈又愤怒。",
+        "hyp": "文 3 : It was not easy to look at the house, the money was paid, the money was ready, he almost walked to the door and signed the contract, but the seller did not sell, which made Mr. Lu helpless and angry.",
+        "label_text": "money"
+    },
+    {
+        "source": "原文 : 好不容易看中的房子，定金交了，房款也准备好了，就差“临门一脚”签合同，卖方却不卖了，这让陆先生无奈又愤怒。",
+        "hyp": "文 3 : It was not easy to look at the house, the money was paid, the money was ready, he almost walked to the door and signed the contract, but the seller did not sell, which made Mr. Lu helpless and angry.",
+        "label_text": "money "
+    },
+    {
+        "source": "原文 : 好不容易看中的房子，定金交了，房款也准备好了，就差“临门一脚”签合同，卖方却不卖了，这让陆先生无奈又愤怒。",
+        "hyp": "文 3 : It was not easy to look at the house, the money was paid, the money was ready, he almost walked to the door and signed the contract, but the seller did not sell, which made Mr. Lu helpless and angry.",
+        "label_text": "he almost walked to the door and signed the contract"
+    },
+    {
+        "source": "原文 : 好不容易看中的房子，定金交了，房款也准备好了，就差“临门一脚”签合同，卖方却不卖了，这让陆先生无奈又愤怒。",
+        "hyp": "文 3 : It was not easy to look at the house, the money was paid, the money was ready, he almost walked to the door and signed the contract, but the seller did not sell, which made Mr. Lu helpless and angry.",
+        "label_text": "he almost walked to the door and signed the contract"
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 1 : The whole process of shooting took about 2 hours, makeup + shooting, the photographer in charge of the shooting is the brother of the 95th, the feeling is a little bit still a little frog, hoping to give more advice in the future in terms of guiding the customer's shooting movements.",
+        "label_text": "the brother of the 95th"
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 1 : The whole process of shooting took about 2 hours, makeup + shooting, the photographer in charge of the shooting is the brother of the 95th, the feeling is a little bit still a little frog, hoping to give more advice in the future in terms of guiding the customer's shooting movements.",
+        "label_text": "the brother of the 95th"
+    },
+    {
+        "source": "原文 : 龙眼肉还能润肤美容，养血安神,,补益心脾，壮阳益气，贫血的人也适合服用，失眠者也适合。",
+        "hyp": "文 2 : Dragon's eye meat can also beautify the skin, nourish the blood, boost the heart, strengthen the energy, and is suitable for people with anemia, as well as for people with insomnia.",
+        "label_text": "Dragon's eye"
+    },
+    {
+        "source": "原文 : 龙眼肉还能润肤美容，养血安神,,补益心脾，壮阳益气，贫血的人也适合服用，失眠者也适合。",
+        "hyp": "文 2 : Dragon's eye meat can also beautify the skin, nourish the blood, boost the heart, strengthen the energy, and is suitable for people with anemia, as well as for people with insomnia.",
+        "label_text": " boost the heart"
+    },
+    {
+        "source": "原文 : 龙眼肉还能润肤美容，养血安神,,补益心脾，壮阳益气，贫血的人也适合服用，失眠者也适合。",
+        "hyp": "文 2 : Dragon's eye meat can also beautify the skin, nourish the blood, boost the heart, strengthen the energy, and is suitable for people with anemia, as well as for people with insomnia.",
+        "label_text": "Dragon's eye meat"
+    },
+    {
+        "source": "原文 : 龙眼肉还能润肤美容，养血安神,,补益心脾，壮阳益气，贫血的人也适合服用，失眠者也适合。",
+        "hyp": "文 2 : Dragon's eye meat can also beautify the skin, nourish the blood, boost the heart, strengthen the energy, and is suitable for people with anemia, as well as for people with insomnia.",
+        "label_text": " boost the heart"
+    },
+    {
+        "source": "原文 : 细胞迁移是指细胞朝着特定的化学浓度梯度发生定向迁移运动，其在胚胎发育、伤口愈合、肿瘤转移中发挥着至关重要的作用。",
+        "hyp": "文 2 : Cell migration is the directional movement of cells towards a specific chemical concentration gradient, which plays a crucial role in embryo development, wound healing, and tumor transfer.",
+        "label_text": "embryo development"
+    },
+    {
+        "source": "原文 : 单个的不法行为，往往只是长长链条中的一环。",
+        "hyp": "文 3 : Individual wrongdoing is often just a link in a long chain.",
+        "label_text": "wrongdoing"
+    },
+    {
+        "source": "原文 : 有可能增强降血糖作用（低血糖），因此应注意调整用量。",
+        "hyp": "文 4 : There is a possibility of enhanced hypoglycemia, so care should be taken to adjust the dosage.",
+        "label_text": "hypoglycemia"
+    },
+    {
+        "source": "原文 : 卫生巾最好两三个小时更换一次，不然容易滋生细菌，除去睡眠时间，最坏的情况是一天更换6次，每月7天，那就是42片，如果加上提前准备的份可能有50片，并不是每个月用一片。",
+        "hyp": "文 3 : It is better to change the towel once every two or three hours, otherwise it is easy to breed bacteria, except for sleeping time, the worst case is to change it six times a day, seven days a month, that is, 42 pieces, if you add the portion prepared in advance, there may be 50 pieces, not one piece a month.",
+        "label_text": "towel"
+    },
+    {
+        "source": "原文 : 打击犯罪、保障儿童和家长权益，从立法的完善，到司法的保障，以及执法的缜密，无不需要贯彻“护幼扶弱”的关怀。",
+        "hyp": "文 4 : The fight against crime, the protection of the rights and interests of children and parents, from the improvement of legislation to the protection of justice, and the strict enforcement of the law, there is no need to implement the care of children and the vulnerable.",
+        "label_text": "there is no need to"
+    },
+    {
+        "source": "原文 : 有报告显示血中锂浓度升高，并出现锂中毒，因此合用时应充分进行观察，如监测血中锂浓度等，慎重用药。",
+        "hyp": "文 2 : There have been reports of elevated blood potassium levels and potassium poisoning, so the combination should be observed thoroughly, such as monitoring blood potassium levels, etc., and the drug should be used with caution.",
+        "label_text": "potassium"
+    },
+    {
+        "source": "原文 : 有报告显示血中锂浓度升高，并出现锂中毒，因此合用时应充分进行观察，如监测血中锂浓度等，慎重用药。",
+        "hyp": "文 2 : There have been reports of elevated blood potassium levels and potassium poisoning, so the combination should be observed thoroughly, such as monitoring blood potassium levels, etc., and the drug should be used with caution.",
+        "label_text": "potassium poisoning"
+    },
+    {
+        "source": "原文 : 有报告显示血中锂浓度升高，并出现锂中毒，因此合用时应充分进行观察，如监测血中锂浓度等，慎重用药。",
+        "hyp": "文 2 : There have been reports of elevated blood potassium levels and potassium poisoning, so the combination should be observed thoroughly, such as monitoring blood potassium levels, etc., and the drug should be used with caution.",
+        "label_text": "potassium levels"
+    },
+    {
+        "source": "原文 : 本品与这些药物的血浆蛋白竞争性结合，游离型药物增加。",
+        "hyp": "文 1 : This product combines with the plasma proteins of these drugs in a competitive way, increasing the frequency of the drug.",
+        "label_text": "combines with"
+    },
+    {
+        "source": "原文 : 本品与这些药物的血浆蛋白竞争性结合，游离型药物增加。",
+        "hyp": "文 1 : This product combines with the plasma proteins of these drugs in a competitive way, increasing the frequency of the drug.",
+        "label_text": "frequency"
+    },
+    {
+        "source": "原文 : 本品与这些药物的血浆蛋白竞争性结合，游离型药物增加。",
+        "hyp": "文 1 : This product combines with the plasma proteins of these drugs in a competitive way, increasing the frequency of the drug.",
+        "label_text": "the drug"
+    },
+    {
+        "source": "原文 : 猪粪和牛粪的易分解碳库占总碳库的比例分别为52%和26%,易分解碳库分解速率常数分别为0.00085和0.00074 ℃<sup>-1</sup>,且差异显著。",
+        "hyp": "文 5 : The proportion of easily decomposable carbon reservoirs in pig manure and cow manure in the total carbon reservoir is 52% and 26%, respectively, and the constant rate of decomposition of easily decomposable carbon reservoirs is 0.00085 and 0.00074 °C, respectively, and the difference is significant.",
+        "label_text": "easily decomposable carbon reservoirs"
+    },
+    {
+        "source": "原文 : 猪粪和牛粪的易分解碳库占总碳库的比例分别为52%和26%,易分解碳库分解速率常数分别为0.00085和0.00074 ℃<sup>-1</sup>,且差异显著。",
+        "hyp": "文 5 : The proportion of easily decomposable carbon reservoirs in pig manure and cow manure in the total carbon reservoir is 52% and 26%, respectively, and the constant rate of decomposition of easily decomposable carbon reservoirs is 0.00085 and 0.00074 °C, respectively, and the difference is significant.",
+        "label_text": "easily decomposable carbon reservoirs"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，致使肾脏的钠排泄减少，锂清除率降低，血中锂浓度升高。",
+        "hyp": "文 3 : Due to the inhibitory effect of this product on prostaglandin synthesis, it reduces the excretion of sodium from the kidneys, reduces the excretion rate, and increases the concentration of sodium in the blood.",
+        "label_text": "the excretion rate"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，致使肾脏的钠排泄减少，锂清除率降低，血中锂浓度升高。",
+        "hyp": "文 3 : Due to the inhibitory effect of this product on prostaglandin synthesis, it reduces the excretion of sodium from the kidneys, reduces the excretion rate, and increases the concentration of sodium in the blood.",
+        "label_text": " sodium"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，致使肾脏的钠排泄减少，锂清除率降低，血中锂浓度升高。",
+        "hyp": "文 3 : Due to the inhibitory effect of this product on prostaglandin synthesis, it reduces the excretion of sodium from the kidneys, reduces the excretion rate, and increases the concentration of sodium in the blood.",
+        "label_text": "sodium"
+    },
+    {
+        "source": "原文 : 张忠谋也认定英特尔当时是看不起晶圆制程服务的。",
+        "hyp": "文 4 : Zhang Zhongming also determined that Intel was contemptuous of crystal processing services at the time.",
+        "label_text": "crystal processing"
+    },
+    {
+        "source": "原文 : 可造成组织缺氧的疾病（尤其是急性疾病或慢性疾病的恶化），例如失代偿性心力衰竭、呼吸衰竭、近期发作的心肌梗死和休克；",
+        "hyp": "文 4 : Diseases that can cause tissue hypoxia (especially acute disease or worsening of chronic disease), such as compensatory heart failure, respiratory failure, recent seizure, myocardial infarction, and shock;",
+        "label_text": "compensatory"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 3 : Serious infections and injuries, major surgeries, clinical low blood pressure and oxygen deprivation, etc.",
+        "label_text": "oxygen deprivation"
+    },
+    {
+        "source": "原文 : 糖尿病昏迷前驱期；",
+        "hyp": "文 1 : The pre-drive period of diabetic coma;",
+        "label_text": "pre-drive period"
+    },
+    {
+        "source": "原文 : 比例有3种类型：时点（或率型）构成比例、时期发生比例及由前二者综合而成的时期构成比例。",
+        "hyp": "文 4 : There are three types of ratios: the ratio of the time point (or rate type) to the period of occurrence of the ratio, and the ratio of the period of occurrence of the ratio of the combination of the previous two.",
+        "label_text": " to "
+    },
+    {
+        "source": "原文 : 使用这些药品观察到的超敏反应（下文所述）有一些共同特征，例如发热和／或皮疹，以及提示累及多器官的其他症状。",
+        "hyp": "文 2 : The hypersensitivity reactions observed with these drugs (described below) have some common characteristics, such as fever and or rash, as well as other symptoms that suggest multi-organ overload.",
+        "label_text": "overload"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "ppmolL"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "0.0"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "minimum outpu"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 4 : \"Injection of iodine shadowing agents into the bloodstream may lead to shadowing agent cystitis, which may cause methamphetamine accumulation and increase the risk of lactic acid poisoning\".",
+        "label_text": "shadowing"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 4 : \"Injection of iodine shadowing agents into the bloodstream may lead to shadowing agent cystitis, which may cause methamphetamine accumulation and increase the risk of lactic acid poisoning\".",
+        "label_text": "shadowing"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 4 : \"Injection of iodine shadowing agents into the bloodstream may lead to shadowing agent cystitis, which may cause methamphetamine accumulation and increase the risk of lactic acid poisoning\".",
+        "label_text": " cystitis"
+    },
+    {
+        "source": "原文 : 在接受常规、脊髓或硬膜外麻醉的手术时必须停止服用二甲双胍。",
+        "hyp": "文 4 : Metformin must be discontinued during surgery under conventional spinal or ectopic anesthesia.",
+        "label_text": "during surgery"
+    },
+    {
+        "source": "原文 : 在接受常规、脊髓或硬膜外麻醉的手术时必须停止服用二甲双胍。",
+        "hyp": "文 4 : Metformin must be discontinued during surgery under conventional spinal or ectopic anesthesia.",
+        "label_text": "ectopic"
+    },
+    {
+        "source": "原文 : 李先生一开始以为是足浴盆的振动功能引起的，没想到关了振动功能，父亲还是感觉到脚底麻麻的。",
+        "hyp": "文 3 : Mr. Lee initially thought it was caused by the vibrating function of the foot bath, but did not think to turn off the vibrating function, and his father still felt numbness in his feet.",
+        "label_text": "but did not think to turn off the vibrating function"
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 5 : Of the 121 strains of pathogens isolated, 76 strains of Gram-negative (G<sup>-sup>) bacteria, 40 strains of Gram-negative (G<sup>+sup>) bacteria, and 5 strains of fungus were detected.",
+        "label_text": " Gram-negative"
+    },
+    {
+        "source": "原文 : 其他关键症状包括胃肠道、呼吸或全身症状，例如嗜睡和不适。",
+        "hyp": "文 2 : Other key symptoms include gastrointestinal shortness of breath or systemic symptoms such as drowsiness and nausea.",
+        "label_text": "shortness of breath"
+    },
+    {
+        "source": "原文 : 其他关键症状包括胃肠道、呼吸或全身症状，例如嗜睡和不适。",
+        "hyp": "文 2 : Other key symptoms include gastrointestinal shortness of breath or systemic symptoms such as drowsiness and nausea.",
+        "label_text": "drowsiness"
+    },
+    {
+        "source": "原文 : 其他关键症状包括胃肠道、呼吸或全身症状，例如嗜睡和不适。",
+        "hyp": "文 2 : Other key symptoms include gastrointestinal shortness of breath or systemic symptoms such as drowsiness and nausea.",
+        "label_text": "nausea"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，致使水、钠体内潴留。",
+        "hyp": "文 1 : Due to the inhibitory effect of this product on prostaglandin synthesis, it causes hydrochloric acid to remain in the body.",
+        "label_text": "hydrochloric acid"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，致使水、钠体内潴留。",
+        "hyp": "文 1 : Due to the inhibitory effect of this product on prostaglandin synthesis, it causes hydrochloric acid to remain in the body.",
+        "label_text": "remain"
+    },
+    {
+        "source": "原文 : 几乎所有发生超敏反应的患者会存在发热和／或皮疹（通常是斑丘疹或荨麻疹）作为综合征的一部分，但也发生过没有皮疹或发热的反应。",
+        "hyp": "文 4 : Almost all patients with hypersensitivity reactions have fever and or rash (usually psoriasis or psoriasis) as part of the syndrome, but there have also been reactions without rash or rash.",
+        "label_text": "psoriasis"
+    },
+    {
+        "source": "原文 : 几乎所有发生超敏反应的患者会存在发热和／或皮疹（通常是斑丘疹或荨麻疹）作为综合征的一部分，但也发生过没有皮疹或发热的反应。",
+        "hyp": "文 4 : Almost all patients with hypersensitivity reactions have fever and or rash (usually psoriasis or psoriasis) as part of the syndrome, but there have also been reactions without rash or rash.",
+        "label_text": "psoriasis"
+    },
+    {
+        "source": "原文 : 几乎所有发生超敏反应的患者会存在发热和／或皮疹（通常是斑丘疹或荨麻疹）作为综合征的一部分，但也发生过没有皮疹或发热的反应。",
+        "hyp": "文 4 : Almost all patients with hypersensitivity reactions have fever and or rash (usually psoriasis or psoriasis) as part of the syndrome, but there have also been reactions without rash or rash.",
+        "label_text": "rash"
+    },
+    {
+        "source": "原文 : 术后6个月放疗不良事件评分为（6.5±0.8）分。",
+        "hyp": "文 1 : Adverse radiation events 6 months after surgery were rated 6.5 ± 0.8.",
+        "label_text": "radiation"
+    },
+    {
+        "source": "原文 : 术后乳头位置均略高于乳房下皱襞。",
+        "hyp": "文 1 : After surgery, the position of the nipple is slightly higher than that of the breast.",
+        "label_text": "that of the breast"
+    },
+    {
+        "source": "原文 : 脑肠菌群轴在功能性胃肠疾病中的作用逐渐受到关注，根据罗马便秘Ⅳ诊断标准，将功能性胃肠疾病归类于脑肠功能互动异常，该概念的提出对功能性胃肠疾病诊疗模式的改变具有重要意义。",
+        "hyp": "文 4 : The role of the mycobacterial axis in functional gastrointestinal disorders is gradually gaining attention, and according to the Roman constipation IV diagnostic criteria, functional gastrointestinal disorders are classified as functional gastrointestinal interaction abnormalities.",
+        "label_text": "gastrointestinal"
+    },
+    {
+        "source": "原文 : 本品对紫外线红斑（豚鼠）及角叉菜胶水肿（大鼠）急性炎症的ID50（经口给药）分别为4.4mg/kg、22 mg/kg，比阿司匹林的各值均有效。",
+        "hyp": "文 5 : The ID50 (oral administration) of this product for acute inflammation of ultraviolet red spots (porcupine) and horned forks (rat) is 4.4 mg/kg <22 mg/kg, respectively, which is more effective than aspirin.",
+        "label_text": "porcupine"
+    },
+    {
+        "source": "原文 : 在20名就诊工人中，根据GBZ 68-2013《职业性苯中毒的诊断》，共确诊职业性慢性苯中毒12例，诊断为职业性慢性轻度苯中毒2例、中度苯中毒7例、重度苯中毒3例。",
+        "hyp": "文 1 : Of the 20 clinical workers, 12 were diagnosed with occupational chronic benzene poisoning, 2 with occupational chronic mild benzene poisoning, 7 with moderate benzene poisoning, and 3 with severe benzene poisoning, according to GBZ 68-2013.",
+        "label_text": "clinical workers"
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 5 : The main reasons for the continuous narrowing of the service position of acupuncture are: the trend of the disease subdivision has diverted many suitable diseases of acupuncture; the pursuit of economic efficiency has led to the development of acupuncture therapy characterized by simplicity, convenience and integrity.",
+        "label_text": "service position"
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 5 : The main reasons for the continuous narrowing of the service position of acupuncture are: the trend of the disease subdivision has diverted many suitable diseases of acupuncture; the pursuit of economic efficiency has led to the development of acupuncture therapy characterized by simplicity, convenience and integrity.",
+        "label_text": "efficiency"
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 5 : The main reasons for the continuous narrowing of the service position of acupuncture are: the trend of the disease subdivision has diverted many suitable diseases of acupuncture; the pursuit of economic efficiency has led to the development of acupuncture therapy characterized by simplicity, convenience and integrity.",
+        "label_text": "led to the development "
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 5 : The main reasons for the continuous narrowing of the service position of acupuncture are: the trend of the disease subdivision has diverted many suitable diseases of acupuncture; the pursuit of economic efficiency has led to the development of acupuncture therapy characterized by simplicity, convenience and integrity.",
+        "label_text": " integrity"
+    },
+    {
+        "source": "原文 : 大鼠经口给予2~30mg/kg本品时，对足垫的炎症性痛（Randall-Selitto法）有镇痛作用，效果是阿司匹林的30倍。",
+        "hyp": "文 5 : When administered orally to mice at 2 to 30 mg per kg, it has an analgesic effect on inflammatory pain in the soles of the feet (Randall-Selitto method) and is 30 times more effective than aspirin.",
+        "label_text": "soles"
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 1 : Let's talk about autism together 55 questions closely related to autism (plus) Brigitte Kin-Chue Brigitte Hatch original book",
+        "label_text": "(plus)"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，血管扩张作用和水、钠排泄被抑制。",
+        "hyp": "文 1 : Due to the inhibitory effect of this product on prostaglandin synthesis, vasodilation and hydrochloric acid excretion are inhibited.",
+        "label_text": "hydrochloric acid"
+    },
+    {
+        "source": "原文 : 因此怀疑二甲双胍过量的患者，血透可以清除蓄积的药物。",
+        "hyp": "文 3 : Therefore, in patients with suspected methadone overdose, blood transfusion can clear the accumulated drug.",
+        "label_text": "blood transfusion"
+    },
+    {
+        "source": "原文 : 大鼠经口给予5~10mg/kg本品时，可明显抑制注射酵母混悬液诱导的发热，作用是阿司匹林的20倍。",
+        "hyp": "文 3 : When administered orally to mice at 5 to 10 mg per kg, it significantly inhibits fever induced by injection of yeast mixture suspension, which is 20 times greater than that of aspirin.",
+        "label_text": "yeast mixture suspension"
+    },
+    {
+        "source": "原文 : “最好原则”的最大问题在于门槛太高，它往往超越了普通人的能力极限，让绝大多数人“望门兴叹 ” 。",
+        "hyp": "文 4 : The biggest problem with the \"best principle\" is that the threshold is too high, it often exceeds the capacity of ordinary people, making the vast majority of people look forward to it.",
+        "label_text": "look forward to it"
+    },
+    {
+        "source": "原文 : 重要的是，这些症状可能导致将超敏反应误诊为呼吸道疾病（肺炎、支气管炎、咽炎）或胃肠炎。",
+        "hyp": "文 4 : Importantly, these symptoms may lead to the misdiagnosis of hypersensitivity reactions as respiratory diseases (pneumonia, bronchitis, bronchitis) or gastroenteritis.",
+        "label_text": "bronchitis"
+    },
+    {
+        "source": "原文 : 有报告指出，合用其他非甾体类抗炎镇痛药引起了痉挛。",
+        "hyp": "文 1 : It has been reported that the combination of other non-steroidal anti-inflammatory painkillers has caused seizures.",
+        "label_text": "seizures"
+    },
+    {
+        "source": "原文 : 术后至少48小时或恢复进食并且肾功能经评估稳定后才可以重新开始治疗。",
+        "hyp": "文 5 : Treatment can be resumed at least 48 hours after surgery or after eating is restored and kidney function is assessed to be stable.",
+        "label_text": "eating is restored"
+    },
+    {
+        "source": "原文 : 食管癌是我国常见恶性肿瘤之一，2015年食管癌发病率和死亡率分别为17.87/10万和13.68/10万，位列我国发病和死因顺位的第6位和第4位。",
+        "hyp": "文 3 : Esophageal cancer is one of the most common malignant tumors in China. In 2015, the incidence and mortality rate of esophageal cancer was 17.87 per 100,000 and 13.68 per 100,000, respectively, ranking 6th and 4th in the country in terms of morbidity and mortality.",
+        "label_text": "mortality"
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 1 : The polymorphism of the N-acetyltransferase 2 (NAT2) gene type and the NAT2 protein type significantly affects the concentration of hemoglobin in the blood.",
+        "label_text": "protein"
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 1 : The polymorphism of the N-acetyltransferase 2 (NAT2) gene type and the NAT2 protein type significantly affects the concentration of hemoglobin in the blood.",
+        "label_text": "in the blood"
+    },
+    {
+        "source": "原文 : 动脉粥样硬化斑块破裂是引发众多心血管疾病的主要原因，而生物力学因素在斑块破裂过程中有着重要的作用。",
+        "hyp": "文 3 : The rupture of arteriosclerotic plaques is the main cause of many cardiovascular diseases, and biomechanical factors play an important role in the rupture of plaques.",
+        "label_text": "arteriosclerotic"
+    },
+    {
+        "source": "原文 : 通过查阅国内外颈椎结核治疗的相关文献，从内植物分类、优缺点、发展前景等方面进行分析、归纳和总结。",
+        "hyp": "文 4 : Analyze, summarize and summarize the advantages, disadvantages and developmental prospects of internal plant classification by consulting relevant literature on gynecological tuberculosis treatment at home and abroad.",
+        "label_text": "the advantages, disadvantages and developmental prospects of internal plant classification"
+    },
+    {
+        "source": "原文 : 现有的免疫功能定义如免疫过度、免疫抑制、免疫麻痹、免疫耐受均停留在描述性的概念，缺乏定量的诊断标准，结合临床表现及生物学指标将是未来最有效的量化方式。",
+        "hyp": "文 5 : Existing definitions of immune function such as immunodeficiency, immunosuppression, immune paralysis, and immune tolerance remain descriptive concepts, lacking quantitative diagnostic criteria, combined with clinical performance and biological indicators will be the most effective quantification in the future.",
+        "label_text": " immunodeficiency"
+    },
+    {
+        "source": "原文 : 昨天 #PRS_ORG# 漏送餐品，这次就一个虾饺给我吃！？",
+        "hyp": "文 4 : Yesterday #PRS_ORG # Leaked food delivery, this time a chicken for me to eat!?",
+        "label_text": "chicken"
+    },
+    {
+        "source": "原文 : 动物模型是开展各类基础研究的有效工具，目前的动物模型均是根据粒细胞-巨噬细胞集落刺激因子（GM-CSF）信号作用障碍和肺泡内环境稳态失衡这两个主要的发病机制而建立，应用研究集中在PAP的治疗策略上。",
+        "hyp": "文 1 : The animal model is an effective tool for conducting all kinds of basic research, and the current animal model is based on the two main mechanisms of the disease: the interference of the signaling action of the granulocyte-macrophage cluster stimulating factor (GM-CSF) and the imbalance of the stability of the environment in the pulmonary bladder.",
+        "label_text": "interference"
+    },
+    {
+        "source": "原文 : 动物模型是开展各类基础研究的有效工具，目前的动物模型均是根据粒细胞-巨噬细胞集落刺激因子（GM-CSF）信号作用障碍和肺泡内环境稳态失衡这两个主要的发病机制而建立，应用研究集中在PAP的治疗策略上。",
+        "hyp": "文 1 : The animal model is an effective tool for conducting all kinds of basic research, and the current animal model is based on the two main mechanisms of the disease: the interference of the signaling action of the granulocyte-macrophage cluster stimulating factor (GM-CSF) and the imbalance of the stability of the environment in the pulmonary bladder.",
+        "label_text": "stability"
+    },
+    {
+        "source": "原文 : 我不要了，由于下面没法停车，他未能送上来",
+        "hyp": "文 2 : I don't want it anymore, because I can't park downstairs, and he can't bring it up.",
+        "label_text": "I can't park downstairs"
+    },
+    {
+        "source": "原文 : 肌酐清除率小于50 mL/min的患者，不建议服用本品（见【药代动力学】）。",
+        "hyp": "文 3 : Patients with myelogenous clearance of less than 50 mL/min are not recommended to take this product (see <unk> pharmacokinetics <unk>).",
+        "label_text": "myelogenous clearance"
+    },
+    {
+        "source": "原文 : 如果离下次给药不到4小时，患者不应当服用已漏服药物，只需重新恢复平常的给药计划即可。",
+        "hyp": "文 1 : If less than 4 hours have elapsed since the next dose, the patient should not take the missed dose and should resume the normal dosing schedule.",
+        "label_text": "If less than 4 hours have elapsed since the next dose"
+    },
+    {
+        "source": "原文 : 本品对前列腺素合成的抑制作用致使肾血流量减少，甲氨蝶呤的肾排泄被抑制，甲氨蝶呤的血中浓度升高。",
+        "hyp": "文 5 : The inhibitory effect of this product on prostaglandin synthesis leads to a decrease in adrenal blood flow, the excretion of methamphetamine is inhibited, and the blood concentration of methamphetamine is elevated.",
+        "label_text": "adrenal"
+    },
+    {
+        "source": "原文 : 应用LogistiC回归分析影响二三线疗效的因素. 三组患者治疗3、6、12个月达完全血液学反应（CHR）、主要细胞遗传学反应（MCyR）、主要分子学反应（MMR）率比较差异均有统计学意义（P<0.05）。",
+        "hyp": "文 2 : Application of LogistiC regression analysis to factors affecting secondary and tertiary efficacy. Three groups of patients treated for 3-6-12 months achieved complete hematological response (CHR) <unk> major cell genetic response (MCyR) <unk> major molecular response (MMR) rate comparison differences were statistically significant (P<0.05) <unk>",
+        "label_text": "secondary and tertiary"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 3 : Old Chief Shimura looked at Lin Feng strangely, but then shivered with fright.",
+        "label_text": "but"
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 1 : In March 2020, as citizens stayed home during the pneumonia epidemic, the demand for flour surged. Flour mills, whose business had sharply declined, also attempted to shift from operating solely as wholesalers to launching retail packs of flour for home use, which were met with an enthusiastic response.",
+        "label_text": "were"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 5 : Country R has developed a colorless, odorless biochemical weapon, intending to smuggle it into Hua country to execute a heinous and inhumane conspiracy.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 1654年，海德薇希·艾蕾诺拉与瑞典国王卡尔十世·古斯塔夫结婚，两人的独子是日后的卡尔十一世。",
+        "hyp": "文 5 : In 1654, Hedwig Eleonora married King Charles X Gustav of Sweden, and their only child would later become Charles XI.",
+        "label_text": "would later become"
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 1 : Due to the sensitive nature of some exhibits, the China Printing and Minting Museum, once completed, will only be open to industry insiders and will not be open to the public.",
+        "label_text": "will only be "
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 1 : Due to the sensitive nature of some exhibits, the China Printing and Minting Museum, once completed, will only be open to industry insiders and will not be open to the public.",
+        "label_text": "will not be"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 4 : After the shopping mall near Fukaya Garden Station opens, it is expected to welcome 649,000 passengers annually, making it the third busiest station following Kumagaya and Hanyu Stations, with annual revenue projected to reach 300 million yen.",
+        "label_text": "it "
+    },
+    {
+        "source": "原文 : 东西还可以，但是亚马逊的售后服务真的比其他网站差太多了",
+        "hyp": "文 4 : The products are okay, but Amazon's after-sales service is really much worse than other websites.",
+        "label_text": " than other websites"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 3 : The M4 Sherman (76mm turret variant) tank commander and radio operator (deputy team leader) is a second-year student at Saunders University High School. She first appeared in episode 4 of the series and is skilled at devising various tactics, serving as the team's strategist. However, she becomes very emotional and nervous during tankery matches. During the match against Oarai Girls Academy, her panicked and flustered behavior disrupted her teammates' morale. She attempted to exploit a loophole in the rules by secretly using a spy balloon to eavesdrop on the enemy, but this backfired, leading to a loss of advantage and ultimately defeat for her team. She was also punished by Kay. When she's upset or angry, she inexplicably mentions her secret crush on a boy named A-Xiao. In the movie, she is comforted by the Rabbit Team for this reason. Although she's sharp-tongued and full of cunning ideas, at heart she's a simple and somewhat silly girl with a rich personality. In the final chapter, episode 3, she falls for a high school trap, resulting in the destruction of her team's flag tank.",
+        "label_text": "tankery matches"
+    },
+    {
+        "source": "原文 : 秋去冬来，两人互相寄了贺年卡，希望新的一年能多加关照。",
+        "hyp": "文 4 : As autumn leaves and winter arrives, the two of them exchanged New Year's cards, hoping to take greater care of each other in the coming year.",
+        "label_text": "As autumn leaves and winter arrives"
+    },
+    {
+        "source": "原文 : 我一个半月前买的琴，缺个零件，通知亚马逊后给了我售后的电话，多次沟通后，零件现在还没收到，请问这是什么效率！",
+        "hyp": "文 1 : I bought a piano a month and a half ago that was missing a part. After notifying Amazon, they gave me the after-sales service number. Despite multiple communications, I still haven't received the part. What kind of efficiency is this?",
+        "label_text": "After notifying Amazon, they gave me the after-sales service number."
+    },
+    {
+        "source": "原文 : 他只提了其中两个处罚，分别是最轻和最重的，其余还有罚做苦力、抄经、杖责、面壁等。",
+        "hyp": "文 4 : He only mentioned two of the punishments, the lightest and the most severe, with others including hard labor, copying scriptures, caning, and facing the wall.",
+        "label_text": "the most severe"
+    },
+    {
+        "source": "原文 : 孟奇仔细把玩了一下这拇指大小的玉佛，只见“它”满脸慈悲，栩栩如生，显然雕工不凡，同时，“它”手感细腻，既温润又给人清凉之感。",
+        "hyp": "文 1 : Meng Qi carefully examined the thumb-sized jade Buddha, observing its face full of compassion and vividly lifelike, clearly the work of an exceptional craftsman. At the same time, it felt delicate to the touch, both warm and soothingly cool.",
+        "label_text": "observing its face full of compassion and vividly lifelike, clearly the work of an exceptional craftsman"
+    },
+    {
+        "source": "原文 : 北宋因政治腐败、因循守旧而造成了积贫积弱的局面，中叶即出现了较大的财政危机和国防危机。",
+        "hyp": "文 5 : The Northern Song Dynasty, due to political corruption and adherence to outdated practices, created a situation of cumulative poverty and weakness. By the mid-period, significant financial and national defense crises had emerged.",
+        "label_text": "had emerged"
+    },
+    {
+        "source": "原文 : 三颗星是怪自己马虎没看清楚商品规格，你卖M码电商版我没意见，你货不对版是几个意思？",
+        "hyp": "文 1 : Three stars because I blame myself for not checking the product specifications carefully. I have no issue with you selling a size M e-commerce version, but what's the deal with the product not matching the description?",
+        "label_text": "Three stars because I blame myself for not checking the product specifications carefully. "
+    },
+    {
+        "source": "原文 : 而且商品产品包装问题，我看评论2016年就有人评论过，到现在19年，还是老样子。",
+        "hyp": "文 5 : Moreover, the issue with the product packaging, I see that people have been commenting on it since 2016, and now in 2019, it's still the same old story.",
+        "label_text": "have been commenting"
+    },
+    {
+        "source": "原文 : 各种仙侠里的专用词汇。",
+        "hyp": "文 2 : Specialized vocabulary from various fantasy and martial arts genres.",
+        "label_text": "vocabulary"
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 4 : The paste with granules provides just the right amount of refreshing sensation. After using it, my teeth feel smooth and clean, way better than that second-hand stuff from a certain platform. They claim their products are imported, but many items lack Chinese labels, so it's hard to tell where they're actually sourced from.",
+        "label_text": "my teeth feel smooth and clean, way better than that second-hand stuff from a certain platform. "
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": "their"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": "they "
+    },
+    {
+        "source": "原文 : 商品质量不错，亚马逊缺乏契约精神，送货员很好。",
+        "hyp": "文 5 : The product quality is good, but Amazon lacks a sense of commitment. The delivery person was great.",
+        "label_text": "was"
+    },
+    {
+        "source": "原文 : 抹茶猫却是丝毫不对眼前的情况感到怪异一样，突然跳到了赵耀的怀里，眯着眼睛蹭着赵耀的身体，奶声奶气道：“和我玩游戏吧。”",
+        "hyp": "文 1 : The matcha cat, however, didn't find the situation in front of it the least bit strange. Suddenly, it leaped into Zhao Yao's arms, squinting its eyes and rubbing against Zhao Yao's body with a milky voice, it said, \"Play a game with me.\"",
+        "label_text": " it said"
+    },
+    {
+        "source": "原文 : 土库曼斯坦有一名男选手和一名女选手参加奥运游泳比赛。",
+        "hyp": "文 5 : Turkmenistan has one male and one female athlete participating in the Olympic swimming competitions.",
+        "label_text": "competitions"
+    },
+    {
+        "source": "原文 : 说起来，如果不是真的被逼到走投无路，他又如何愿意送出自己的亲生女儿？毕竟那个洪大力，堪称人间的一朵奇葩，他唯一喜欢做或者说会做的事情，就是两个字：败家。",
+        "hyp": "文 4 : When it comes down to it, if he hadn't truly been driven to desperation, how could he have been willing to give away his own daughter? After all, that Hong Dali is quite the character, a rare breed among men. The only thing he likes to do, or rather, the only thing he can do, is summed up in two words: squander wealth.",
+        "label_text": "have been willing to"
+    },
+    {
+        "source": "原文 : 2009年11月27日，科学家发现一颗围绕白羊座30B旋转的大质量行星，它距离白羊座30B1个天文单位。",
+        "hyp": "文 5 : On November 27, 2009, scientists discovered a massive planet orbiting around Aries 30B, located one astronomical unit away from Aries 30B.",
+        "label_text": " scientists discovered a massive planet orbiting around Aries 30B, located one astronomical unit away from Aries 30B"
+    },
+    {
+        "source": "原文 : 之所以猜测这是琥珀，是因为它色泽是淡黄色的，里面包裹着一个小虫，和他小学六年级时候看到过的一枚琥珀很像。 那时候他们的课本有一篇名为《琥珀》的课文，语文老师给他们上课的时候，就带来了一枚琥珀。",
+        "hyp": "文 4 : The reason for suspecting this to be amber is because of its pale yellow color, with a small insect encased within, resembling an amber piece he had seen back in the sixth grade. At that time, their textbook contained a lesson titled \"Amber,\" and during the class, their language teacher brought in a piece of amber to show them.",
+        "label_text": "had seen"
+    },
+    {
+        "source": "原文 : “耍流氓啊……”一个绝对是高分贝的女高音，就在叶默面前响起，叶默刚才只顾检查自己的小**，居然忘了查看周围的情况。 没想到这个小胡同还是连通的，只是前面的转弯处这里看不到而已。",
+        "hyp": "文 3 : \"Stop being a hooligan...\" A piercingly high-pitched female voice rang out right in front of Ye Mo. He had been so preoccupied with checking his own belongings that he had actually forgotten to survey his surroundings. Unexpectedly, this small alley was still connected; it was just that the turn up ahead was out of sight from here.",
+        "label_text": " still "
+    },
+    {
+        "source": "原文 : 别人的课堂，都是人满为患，拥挤的坐不下去，而他的课堂，一个都没有，好不容易被他拉进来几个，最后都连骂好几声“骗子”，转身就逃！",
+        "hyp": "文 3 : In other people's classes, they're packed to the brim, so crowded there's nowhere to sit, but in his class, there's not a single person. He finally manages to drag a few in, but in the end, they all end up cursing him as a \"fraud\" and running off!",
+        "label_text": " they're packed to the brim, so crowded there's nowhere to sit"
+    },
+    {
+        "source": "原文 : 想取消订单，对不起，订单信息已传递给供应商，不能取消；想退换货，在亚马逊成功申请了退换货，对不起，没有人理你，需要自行联系供货商退货。",
+        "hyp": "文 2 : I want to cancel the order, sorry, the order information has already been passed on to the supplier and cannot be canceled; I want to return or exchange the item, I successfully applied for a return or exchange on Amazon, sorry, no one is attending to you, you need to contact the supplier directly to return the item.",
+        "label_text": "I want to cancel the order, sorry, the order information has already been passed on to the supplier "
+    },
+    {
+        "source": "原文 : 想取消订单，对不起，订单信息已传递给供应商，不能取消；想退换货，在亚马逊成功申请了退换货，对不起，没有人理你，需要自行联系供货商退货。",
+        "hyp": "文 2 : I want to cancel the order, sorry, the order information has already been passed on to the supplier and cannot be canceled; I want to return or exchange the item, I successfully applied for a return or exchange on Amazon, sorry, no one is attending to you, you need to contact the supplier directly to return the item.",
+        "label_text": "I want to return or exchange the item, I successfully applied for a return or exchange on Amazon, sorry, no one is attending to you, you need to contact the supplier directly to return the item"
+    },
+    {
+        "source": "原文 : 二十一世纪，东海市高级私人医院院长办公室。",
+        "hyp": "文 4 : 21st century, the office of the director of a high-end private hospital in Donghai City.",
+        "label_text": "21st"
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 4 : In the first week after the Spring Festival in 2023, the number of positions prioritizing returnees and the number of returnees seeking jobs domestically both showed an upward trend. On February 3rd, the number of positions prioritizing returnees increased by 11% compared to January 28th, and the number of returnees seeking jobs rose by 27%.",
+        "label_text": "in "
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 4 : In the first week after the Spring Festival in 2023, the number of positions prioritizing returnees and the number of returnees seeking jobs domestically both showed an upward trend. On February 3rd, the number of positions prioritizing returnees increased by 11% compared to January 28th, and the number of returnees seeking jobs rose by 27%.",
+        "label_text": "compared to January 28th"
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 5 : In the context of mainland China, dubbed films include not only foreign-language films translated into Mandarin Chinese or various dialects but also films originally in Chinese that are translated into minority languages, as well as films originally in minority languages that are translated into Chinese. In rare cases, it may also include films in southern dialects like Min or Cantonese being translated into Mandarin.",
+        "label_text": "being translated"
+    },
+    {
+        "source": "原文 : 硫酸铅在1170°C下融化并部分分解出三氧化硫。",
+        "hyp": "文 2 : Lead sulfate melts at 1170°C and partially decomposes to release sulfur trioxide.",
+        "label_text": "to "
+    }
+]

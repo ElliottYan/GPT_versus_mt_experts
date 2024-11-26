@@ -1,0 +1,47 @@
+[
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 5 : 我已经列出了我能想到的所有问题 (有很多,好笑), 所以如果有人能花时间回答它们,",
+        "label_text": "好笑"
+    },
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 5 : 我已经列出了我能想到的所有问题 (有很多,好笑), 所以如果有人能花时间回答它们,",
+        "label_text": "好笑"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "不必要的性行为"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "增加报告"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 4 : 瓦齐里补充说,Djehuty 是国家财政部的监督员,并在哈切普苏特女王统治期间监督了工匠和艺术家的作品.",
+        "label_text": "监督员"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 4 : 瓦齐里补充说,Djehuty 是国家财政部的监督员,并在哈切普苏特女王统治期间监督了工匠和艺术家的作品.",
+        "label_text": "监督员"
+    },
+    {
+        "source": "原文 : Honestly, most of the posts or memes here are either from people who read the novels or the manga.",
+        "hyp": "文 4 : 诚实地说,这里的大部分帖子或模因都是读小说或漫画的人写的.",
+        "label_text": "模因"
+    },
+    {
+        "source": "原文 : On April 6, 1860, at a General Conference of the New Organization of the church in Amboy, Illinois, Joseph Smith III joined with the group and was sustained to follow in his father's role as President of the Church.",
+        "hyp": "文 3 : 1860年4月6日,在伊利诺伊州安博伊的新教会组织大会上,约瑟夫·史密斯三世加入了这个团体,并被支持接替他的父亲担任教会主席 ⁇",
+        "label_text": "教会主席"
+    },
+    {
+        "source": "原文 : My issue is that he seems to have no ambition anymore.",
+        "hyp": "文 3 : 我的问题是,他似乎不再有野心了 ⁇",
+        "label_text": " "
+    }
+]

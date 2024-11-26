@@ -1,0 +1,342 @@
+[
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 4 : 我想到了所有我能想到的问题（有点多，哈哈），如果有人能花时间回答它们，我会非常感激。",
+        "label_text": "想到了"
+    },
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 4 : 我想到了所有我能想到的问题（有点多，哈哈），如果有人能花时间回答它们，我会非常感激。",
+        "label_text": "想到了"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "未被报告"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "报告率"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "未被报告"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "报告率"
+    },
+    {
+        "source": "原文 : I don’t care if your dog/child is friendly or “dog savvy”.",
+        "hyp": "文 5 : 我不在乎你的狗/孩子是否友好或者“懂狗”。",
+        "label_text": "“懂狗”"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 4 : 无论如何，我在聊天框里输入了那些话（“我不会在这个游戏里作弊！”），然后它告诉我要付费给服务器并关闭广告拦截。",
+        "label_text": "付费给服务器"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 4 : 我并不是说他们变成女孩子就应该感到羞耻，也不是我对成为女孩子有成见，但我想说的是，他们可能不喜欢这样做，因为他们是有自己选择的人，不同意变成女孩子并不意味着他们反对女性。",
+        "label_text": "成为"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 4 : 我并不是说他们变成女孩子就应该感到羞耻，也不是我对成为女孩子有成见，但我想说的是，他们可能不喜欢这样做，因为他们是有自己选择的人，不同意变成女孩子并不意味着他们反对女性。",
+        "label_text": "成为"
+    },
+    {
+        "source": "原文 : user765123: No, I just had the “is now playing” thing show up.",
+        "hyp": "文 4 : user765123: 不，我只是看到了“正在播放”的提示。",
+        "label_text": "看到了"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 3 : 所以，这可能会成为第二件稀有词汇中的一个空白部分——",
+        "label_text": "第二件"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 3 : 所以，这可能会成为第二件稀有词汇中的一个空白部分——",
+        "label_text": "空白部分"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 3 : 所以，这可能会成为第二件稀有词汇中的一个空白部分——",
+        "label_text": "第二件稀有词汇"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 3 : 所以，这可能会成为第二件稀有词汇中的一个空白部分——",
+        "label_text": "空白部分"
+    },
+    {
+        "source": "原文 : Cruse briefly wrote a column in a comic book review magazine, \"Comics Scene,\" under the rhyming masthead \"Loose Cruse.\"",
+        "hyp": "文 2 : 克鲁斯曾在一本名为《漫画现场》的漫画书评杂志上简短地撰写专栏，专栏的押韵标题是“松散的克鲁斯”（Loose Cruse）。",
+        "label_text": "简短地"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 5 : 在最基本的层面上，电负性是由因素决定的，比如核电荷（原子拥有的质子越多，它对电子的“吸引力”就越大）以及原子壳层中其他电子的数量和位置（原子拥有的电子越多，价电子距离原子核就越远，因此它们所经历的正电荷就越少——这既因为它们与原子核的距离增加，也因为较低能量核心轨道上的其他电子会起到屏蔽作用，使价电子不那么受到正电荷原子核的影响）。",
+        "label_text": "由因素决定的"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 5 : 在最基本的层面上，电负性是由因素决定的，比如核电荷（原子拥有的质子越多，它对电子的“吸引力”就越大）以及原子壳层中其他电子的数量和位置（原子拥有的电子越多，价电子距离原子核就越远，因此它们所经历的正电荷就越少——这既因为它们与原子核的距离增加，也因为较低能量核心轨道上的其他电子会起到屏蔽作用，使价电子不那么受到正电荷原子核的影响）。",
+        "label_text": "经历的"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 5 : 在最基本的层面上，电负性是由因素决定的，比如核电荷（原子拥有的质子越多，它对电子的“吸引力”就越大）以及原子壳层中其他电子的数量和位置（原子拥有的电子越多，价电子距离原子核就越远，因此它们所经历的正电荷就越少——这既因为它们与原子核的距离增加，也因为较低能量核心轨道上的其他电子会起到屏蔽作用，使价电子不那么受到正电荷原子核的影响）。",
+        "label_text": "在最基本的层面上，电负性是由因素决定的，"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 5 : 在最基本的层面上，电负性是由因素决定的，比如核电荷（原子拥有的质子越多，它对电子的“吸引力”就越大）以及原子壳层中其他电子的数量和位置（原子拥有的电子越多，价电子距离原子核就越远，因此它们所经历的正电荷就越少——这既因为它们与原子核的距离增加，也因为较低能量核心轨道上的其他电子会起到屏蔽作用，使价电子不那么受到正电荷原子核的影响）。",
+        "label_text": "经历的"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 5 : 在最基本的层面上，电负性是由因素决定的，比如核电荷（原子拥有的质子越多，它对电子的“吸引力”就越大）以及原子壳层中其他电子的数量和位置（原子拥有的电子越多，价电子距离原子核就越远，因此它们所经历的正电荷就越少——这既因为它们与原子核的距离增加，也因为较低能量核心轨道上的其他电子会起到屏蔽作用，使价电子不那么受到正电荷原子核的影响）。",
+        "label_text": "起到屏蔽作用"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 5 : 嗨，大家好，我一直在交朋友方面遇到很多困难，我认为自己有时候有点冷淡和尴尬（你们知道的，巨蟹座上升）。但是一旦你们接受了这点，你会发现我其实挺随和的。",
+        "label_text": "接受了这点"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 5 : 嗨，大家好，我一直在交朋友方面遇到很多困难，我认为自己有时候有点冷淡和尴尬（你们知道的，巨蟹座上升）。但是一旦你们接受了这点，你会发现我其实挺随和的。",
+        "label_text": "接受了这点"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 5 : 该设备的精确度和稳定性对我的应用来说非常好，但我无法通过蓝牙连接到iPhone或iPad（尝试了好几个）。",
+        "label_text": "尝试了好几个"
+    },
+    {
+        "source": "原文 : I am a Canadian citizen, but for enrolment it is required to appear for the IELTS exam.",
+        "hyp": "文 2 : 我是加拿大公民，但是注册时需要参加雅思考试。",
+        "label_text": "注册时"
+    },
+    {
+        "source": "原文 : I am a Canadian citizen, but for enrolment it is required to appear for the IELTS exam.",
+        "hyp": "文 2 : 我是加拿大公民，但是注册时需要参加雅思考试。",
+        "label_text": "注册时"
+    },
+    {
+        "source": "原文 : While still living in the north King Mangrai was visited by some merchants from the Mon Kingdom, and hearing of the wealth of Lamphun he determined to conquer it, even against the advice of his councillors.",
+        "hyp": "文 2 : 在北方居住时，孟萊国王接待了来自孟族王国的一些商人，听说了南奔府的富饶，他决心要征服它，即使他的顾问们都不赞成。",
+        "label_text": "顾问"
+    },
+    {
+        "source": "原文 : With a strict mentality of how certain things would go down.",
+        "hyp": "文 5 : 带着对事情进展的严格心态。",
+        "label_text": "严格心态"
+    },
+    {
+        "source": "原文 : With a strict mentality of how certain things would go down.",
+        "hyp": "文 5 : 带着对事情进展的严格心态。",
+        "label_text": "严格心态"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 1 : 单体链霉亲和素是一种经过重组的链霉亲和素，它通过突变打破四聚体结构形成单体，并增强了结果孤立亚基的溶解性。",
+        "label_text": "结果孤立"
+    },
+    {
+        "source": "原文 : Play a scuffed 24hr WOW livestream filled with condescending undertones,belittling, & shitty halfassed ill prepared gameplay.",
+        "hyp": "文 5 : 进行一场粗糙的24小时魔兽世界直播，充满了居高临下的语气、贬低他人以及拙劣、准备不足的游戏表现。",
+        "label_text": "进行"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 1 : 迪克希塔是节奏（tala）的大师，他是唯一一位创作了卡纳提克音乐体系中所有七种基本节奏的作曲家。",
+        "label_text": "唯一一位创作了卡纳提克音乐体系中所有七种基本节奏的作曲家"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 1 : 迪克希塔是节奏（tala）的大师，他是唯一一位创作了卡纳提克音乐体系中所有七种基本节奏的作曲家。",
+        "label_text": "唯一一位创作了卡纳提克音乐体系中所有七种基本节奏的作曲家"
+    },
+    {
+        "source": "原文 : It’s just a white screen or it times out loading it, or the page becomes unresponsive!",
+        "hyp": "文 4 : 它只是一个白屏，要么是加载时超时，要么页面变得无响应了！",
+        "label_text": " 它只是一个白屏"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 3 : 2007年6月，纳迪埃洛拒绝了巴恩斯利提供的新合同，并且在挥别了来自诺里奇城的兴趣后，签下了与同为冠军联赛球队女王公园巡游者的两年合同，此举遭到了巴恩斯利当时的主席戈登·谢泼德的批评。",
+        "label_text": "挥别了来自诺里奇城的兴趣后"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 3 : 2007年6月，纳迪埃洛拒绝了巴恩斯利提供的新合同，并且在挥别了来自诺里奇城的兴趣后，签下了与同为冠军联赛球队女王公园巡游者的两年合同，此举遭到了巴恩斯利当时的主席戈登·谢泼德的批评。",
+        "label_text": "兴趣"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 3 : 2007年6月，纳迪埃洛拒绝了巴恩斯利提供的新合同，并且在挥别了来自诺里奇城的兴趣后，签下了与同为冠军联赛球队女王公园巡游者的两年合同，此举遭到了巴恩斯利当时的主席戈登·谢泼德的批评。",
+        "label_text": "兴趣"
+    },
+    {
+        "source": "原文 : It is the bar with the team composition and the status of each character that is used to follow “report team” (like in the actual World Cup).",
+        "hyp": "文 4 : 这是一个用来追踪“报告队伍”（就像在实际的世界杯中一样）的工具栏，上面显示了每个角色的团队组成和状态。",
+        "label_text": "追踪“报告队伍”"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 5 : 在之前与RED Distribution合作过后，Deathwish于2016年3月与Alternative Distribution Alliance（ADA）签订了一项全球协议。ADA是华纳音乐集团旗下的一个独立发行标签，也与其他朋克唱片公司如Epitaph Records、Rise Records和Run for Cover Records等建立了合作伙伴关系。",
+        "label_text": "独立发行标签"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 5 : 在之前与RED Distribution合作过后，Deathwish于2016年3月与Alternative Distribution Alliance（ADA）签订了一项全球协议。ADA是华纳音乐集团旗下的一个独立发行标签，也与其他朋克唱片公司如Epitaph Records、Rise Records和Run for Cover Records等建立了合作伙伴关系。",
+        "label_text": "独立发行标签"
+    },
+    {
+        "source": "原文 : Hi guys, I was drinking with my friends from the US and my boyfriend and everyone’s fallen asleep, and I want to play some truth or dare or drink, so if you have Discord or Kik, just message me, owo",
+        "hyp": "文 4 : 嗨伙计们，我刚才和我在美国的朋友们还有我的男朋友一起喝酒，现在大家都睡着了，我想玩真心话大冒险或者喝酒游戏，所以如果你们有Discord或者Kik，就给我发消息吧，owo。",
+        "label_text": "喝酒游戏"
+    },
+    {
+        "source": "原文 : The Tab A is heavy so if your laying down watching a video the case slips in your hand so you have to make frequent adjustments.",
+        "hyp": "文 4 : Tab A比较重，所以如果你躺着看视频，壳子会在手中滑动，因此你需要频繁调整位置。",
+        "label_text": "壳子会在手中滑动"
+    },
+    {
+        "source": "原文 : When the plate of which it was a part subducted under another plate, the terrane failed to subduct, detached from its transporting plate, and accreted onto the overriding plate.",
+        "hyp": "文 5 : 当它所属的板块在另一块板块下俯冲时，这块地体没有随之俯冲，而是从其所属的板块上脱离，并与上覆板块发生了碰撞并吸附。",
+        "label_text": "在另一块板块下俯冲"
+    },
+    {
+        "source": "原文 : Am I the asshole if I confront him about the mess or should I let it go and not bother asking in future?",
+        "hyp": "文 2 : 如果我因为这个混乱而找他对质，我是不是个混蛋？还是我应该放过他，以后也不再问了？",
+        "label_text": "这个混乱"
+    },
+    {
+        "source": "原文 : In \"The Ladykillers\" (1955) a gang of criminals rent a room from the elderly Mrs Wilberforce while they're pretending to be a string quintet looking for a space to practice.",
+        "hyp": "文 2 : 在1955年的电影《杀人不眨眼》中，一伙罪犯租了老太太威尔伯福斯的房间，假装是一个弦乐五重奏团，寻找练习的空间。",
+        "label_text": "空间"
+    },
+    {
+        "source": "原文 : The Indian cormorant makes short dives to capture the fish and a group will often fish communally, forming a broad front to drive fish into a corner.",
+        "hyp": "文 3 : 印度鸬鹚进行短暂的潜水来捕捉鱼类，一群鸬鹚通常会集体捕鱼，它们会形成一个宽阔的阵线，将鱼群赶到角落里。",
+        "label_text": "短暂的潜水"
+    },
+    {
+        "source": "原文 : Polis stated that he wishes that more time was spent on the issue of immigration during the meeting of governors at the White House, but the issue \"came up.\"",
+        "hyp": "文 5 : 波利斯表示，他希望在白宫州长会议期间能花更多时间讨论移民问题，但这个问题“被提及了”。",
+        "label_text": "但这个问题“被提及了”"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 5 : 我敢打赌你根本没仔细看那一串数字，也没注意到我放进去的那个字母，然后现在你会回头去检查，结果才发现根本没有那个字母。",
+        "label_text": "我放进去的"
+    },
+    {
+        "source": "原文 : The thematic park includes miniature replicas that represent the monuments and other elements from the cultural heritage and patrimony in Portugal and world, divided into three thematic areas.",
+        "hyp": "文 1 : 这个主题公园包括代表葡萄牙和世界文化遗产及财产的微缩复制品，分为三个主题区域。",
+        "label_text": "财产"
+    },
+    {
+        "source": "原文 : The first boy I hung out with was really nice, but then we got high and I did very regrettable things I do not like.",
+        "hyp": "文 5 : 我第一次和一个男孩出去玩的时候，他人真的很好，但后来我们一起吸食了毒品，我做了一些非常后悔的事情，我不喜欢那样的自己。",
+        "label_text": "我第一次和一个男孩出去玩的时候，他人真的很好"
+    },
+    {
+        "source": "原文 : The first boy I hung out with was really nice, but then we got high and I did very regrettable things I do not like.",
+        "hyp": "文 5 : 我第一次和一个男孩出去玩的时候，他人真的很好，但后来我们一起吸食了毒品，我做了一些非常后悔的事情，我不喜欢那样的自己。",
+        "label_text": "吸食了毒品"
+    },
+    {
+        "source": "原文 : like we’re out here doing stuff that im pretty sure is supposed to get sent out to affinity based on what i see on here.",
+        "hyp": "文 1 : 我们在这里做的事情，我很确定根据我在这里看到的，应该是要发送给亲和力相关的人。",
+        "label_text": "给亲和力相关的人"
+    },
+    {
+        "source": "原文 : On April 6, 1860, at a General Conference of the New Organization of the church in Amboy, Illinois, Joseph Smith III joined with the group and was sustained to follow in his father's role as President of the Church.",
+        "hyp": "文 4 : 1860年4月6日，在伊利诺伊州安博伊举行的新教会组织大会上，约瑟夫·史密斯三世与该团体联合，并被确认继承其父亲的职位，成为教会的总会长。",
+        "label_text": "与该团体联合"
+    },
+    {
+        "source": "原文 : Towards the end, my husband sends me a Facebook message saying he’s ready for her to leave (she’d been there 2 hours at this point) and then he starts passive-aggressive cleaning in front of us.",
+        "hyp": "文 1 : 到最后，我丈夫给我发了一条Facebook消息，说他希望她离开（她在这儿已经待了两个小时了），然后他开始在我们面前做一些被动攻击性的打扫。",
+        "label_text": "被动攻击性的打扫"
+    },
+    {
+        "source": "原文 : I have a passport from a while ago from before transitioning, so that doesn’t have an updated name either.",
+        "hyp": "文 5 : 我有一本很久以前的护照，那是在我变性之前的，所以上面的名字也没有更新。",
+        "label_text": "变性之前的"
+    },
+    {
+        "source": "原文 : I recently had surgery and am not meant to lift too much or stretch but felt OK and thought I could do it alone.",
+        "hyp": "文 3 : 我最近做了手术，本来不应该举重或伸展，但我感觉还好，以为自己能够独自应付。",
+        "label_text": "举重"
+    },
+    {
+        "source": "原文 : When Maria returned to the present day and arrived at the Christmas party at Holby City Hospital to which she had been preparing to go before the Ghosts of Christmas Past, Present and Future had shown up, she made her peace with Donna (with whom she had argued earlier in the day), telling her that she was the best mate she had ever had, and told Sam that she wouldn't be going to live in New York with him and Kieron - thus ensuring that the events of 2011 that she had seen would never happen.",
+        "hyp": "文 5 : 当玛丽亚回到现实，来到她之前一直准备参加的霍尔比市医院的圣诞派对时，圣诞节的过去、现在和未来的幽灵已经离开了。她与唐娜和解了（她们俩早些时候有过争执），告诉她唐娜是她有过的最好的朋友，并且告诉萨姆，她不会和他以及基尔恩一起去纽约生活——这样一来，她所看到的2011年的事件就永远不会发生了。",
+        "label_text": "回到现实"
+    },
+    {
+        "source": "原文 : When Maria returned to the present day and arrived at the Christmas party at Holby City Hospital to which she had been preparing to go before the Ghosts of Christmas Past, Present and Future had shown up, she made her peace with Donna (with whom she had argued earlier in the day), telling her that she was the best mate she had ever had, and told Sam that she wouldn't be going to live in New York with him and Kieron - thus ensuring that the events of 2011 that she had seen would never happen.",
+        "hyp": "文 5 : 当玛丽亚回到现实，来到她之前一直准备参加的霍尔比市医院的圣诞派对时，圣诞节的过去、现在和未来的幽灵已经离开了。她与唐娜和解了（她们俩早些时候有过争执），告诉她唐娜是她有过的最好的朋友，并且告诉萨姆，她不会和他以及基尔恩一起去纽约生活——这样一来，她所看到的2011年的事件就永远不会发生了。",
+        "label_text": "圣诞节的过去、现在和未来的幽灵已经离开了"
+    },
+    {
+        "source": "原文 : I’ll keep you updated on what she says bc she only said my name in all caps and then an nvm.",
+        "hyp": "文 1 : 我会随时告诉你她的最新情况，因为她只是全大写地说了我的名字，然后又说了个“算了”。",
+        "label_text": "说了我的名字"
+    },
+    {
+        "source": "原文 : Note that the mic doesn't work with every app unfortunately.",
+        "hyp": "文 1 : 请注意，这个麦克风并不幸地不适用于所有应用程序。",
+        "label_text": "并不幸地不适用于所有应用程序"
+    },
+    {
+        "source": "原文 : I don’t want to jinx it and call them out by name, but I’m talking with a company and I’m hoping it works out!",
+        "hyp": "文 1 : 我不想说出它们的名字以免给自己带来不好的运气，但我正在和一家公司接洽，希望一切顺利！",
+        "label_text": "说出它们的名字"
+    },
+    {
+        "source": "原文 : You honestly deserve to get scammed if you give a random guy on the internet like 300€ worth of fake internet points, like wtf are you doing honestly LOL",
+        "hyp": "文 1 : 如果你真的给网上的一个陌生人大约300欧元的假网络积分，你真的活该被骗，你到底在干什么，真是太荒谬了，哈哈。",
+        "label_text": "假网络积分"
+    },
+    {
+        "source": "原文 : if I do I will be in my mid 30’s cuz I wanna live life my way",
+        "hyp": "文 4 : 如果我这么做的话，我会到了三十多岁，因为我想按照自己的方式过生活。",
+        "label_text": " 如果我这么做的话，我会到了三十多岁"
+    },
+    {
+        "source": "原文 : He has health concerns atm but we also have Daley entering his 2nd year and is a decent safety net.",
+        "hyp": "文 1 : 他目前有健康问题，但我们还有戴利进入他的第二年，他是一个不错的安全保障。",
+        "label_text": "但我们还有戴利进入他的第二年"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 5 : 在过去大约四年的时间里，我一直穿着Lane Bryant的休闲文胸，所以这是很长一段时间以来我第一次穿带钢圈的文胸。",
+        "label_text": "一直穿着"
+    },
+    {
+        "source": "原文 : One day she got kicked out of Mewny (her home dimension) by her mean mom >:-( just because she made a mistake.",
+        "hyp": "文 2 : 有一天，她因为犯了一个错误，就被她那刻薄的妈妈赶出了她的家乡维尼维度（Mewny）。>:-(",
+        "label_text": "维尼维度"
+    },
+    {
+        "source": "原文 : I go to take it out and how tf am i supposed to do this with my long ass acrylic nails.",
+        "hyp": "文 3 : 我要去取东西，但我的长长的亚克力指甲到底该怎么做才行啊。",
+        "label_text": "取东西"
+    },
+    {
+        "source": "原文 : I’m not positive, but I think the owners are aware and did it to cut corners.",
+        "hyp": "文 4 : 我不是很确定，但我认为业主们已经意识到了，并且这么做是为了走捷径。",
+        "label_text": "已经意识到了，并且这么做是为了走捷径。"
+    }
+]

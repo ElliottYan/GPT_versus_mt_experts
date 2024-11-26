@@ -1,0 +1,42 @@
+[
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 3 : Shock and allergic symptoms may occur (frequency is unknown*). Therefore, sufficient observation should be performed. Medication should be stopped and corresponding measures should be taken in case of chest distress, aversion to cold, cold sweat, dyspnea, numbness of limbs, blood pressure decreased, angioedema, urticaria, etc.",
+        "label_text": "dyspnea, numbness of limbs"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 3 : Shock and allergic symptoms may occur (frequency is unknown*). Therefore, sufficient observation should be performed. Medication should be stopped and corresponding measures should be taken in case of chest distress, aversion to cold, cold sweat, dyspnea, numbness of limbs, blood pressure decreased, angioedema, urticaria, etc.",
+        "label_text": "blood pressure decreased"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 1 : Acute renal failure, interstitial nephritis, and nephrotic syndrome may occur (frequency is unknown*). Therefore, sufficient observation should be performed. Medication should be stopped and corresponding measures should be taken in case of oliguria, hematuria, protein urine, BUN/serum creatinine increased, hyperkalemia, hypoproteinaemia, etc.",
+        "label_text": "hematuria"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 1 : Acute renal failure, interstitial nephritis, and nephrotic syndrome may occur (frequency is unknown*). Therefore, sufficient observation should be performed. Medication should be stopped and corresponding measures should be taken in case of oliguria, hematuria, protein urine, BUN/serum creatinine increased, hyperkalemia, hypoproteinaemia, etc.",
+        "label_text": "hypoproteinaemia"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 5 : 2. The buyer is in urgent need of the product or there is time limit. It is recommended to select SF-Express and use freight collect, as SF-Express is relatively secure, and payment will be made after change of the freight.",
+        "label_text": "select SF-Express and use freight collect"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 5 : 2. The buyer is in urgent need of the product or there is time limit. It is recommended to select SF-Express and use freight collect, as SF-Express is relatively secure, and payment will be made after change of the freight.",
+        "label_text": "payment will be made"
+    },
+    {
+        "source": "原文 : 中性粒细胞减少症2、贫血2、血小板减少症1",
+        "hyp": "文 2 : Two subjects with neutropenia, 2 subjects with anemia and 1 patient with thrombocytopenia",
+        "label_text": "subjects"
+    },
+    {
+        "source": "原文 : 中性粒细胞减少症2、贫血2、血小板减少症1",
+        "hyp": "文 2 : Two subjects with neutropenia, 2 subjects with anemia and 1 patient with thrombocytopenia",
+        "label_text": "patient"
+    }
+]

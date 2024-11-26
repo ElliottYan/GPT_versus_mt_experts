@@ -1,0 +1,87 @@
+[
+    {
+        "source": "原文 : Пользуясь случаем, желаю Вам крепкого здоровья и многих лет жизни\".",
+        "hyp": "文 3 : I take this opportunity to wish you good health and many happy returns.\"",
+        "label_text": "I take this opportunity"
+    },
+    {
+        "source": "原文 : Может светскую беседу вести, и огнетушителем по морде съездить, но не в силах пропустить ни одной юбки.",
+        "hyp": "文 1 : He can make small talk, and slap a fire extinguisher right in the face, but he can't miss a single girl's butt.",
+        "label_text": "can't miss a single girl's butt"
+    },
+    {
+        "source": "原文 : В Англии, в портовом городе Грейт-Ярмут, в пятницу взорвалась авиабомба времен Второй мировой войны, которую пытались обезвредить саперы.",
+        "hyp": "文 5 : In the harbour town of Great Yarmouth, England, a World War II-era air bomb detonated on Friday as combat engineers tried to disarm it.",
+        "label_text": "disarm "
+    },
+    {
+        "source": "原文 : По информации ведомства, инцидент произошел вечером пятницы на 218 километре автодороги Р-22 в Михайловском районе.",
+        "hyp": "文 5 : According to the agency, the accident happened on Friday evening at kilometre 218 of R-22 motorway in the Mikhailovsky district.",
+        "label_text": "kilometre 218"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 4 : On the whole, you look maximally natural on screen, which many people, frankly speaking, did not expect.",
+        "label_text": "maximally natural"
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 2 : Turkish Anadolu Agency gives other data and writes that the Margara-Alican border checkpoint was last used to deliver humanitarian cargoes to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": "eliminate the consequences"
+    },
+    {
+        "source": "原文 : Вопрос проработаем с учетом камер \"Безопасный регион\", - рассказал глава муниципалитета Сергей Никитенко.",
+        "hyp": "文 2 : \"We will look into the issue taking into account Safe Region cameras,\" said the municipality head Sergey Nikitenko.",
+        "label_text": "We will look into the issue taking into account"
+    },
+    {
+        "source": "原文 : Даже сын 14 лет, пошел просто за компанию, а сказал, что очень хорошее представление.",
+        "hyp": "文 5 : Even my 14-year-old son went there just to join the crowd, and said that it was a very good performance.",
+        "label_text": "went there just to join the crowd"
+    },
+    {
+        "source": "原文 : От души рекомендую, единственная клиника где не хотят нагреть на деньги на моей памяти.",
+        "hyp": "文 1 : I recommend it with all my heart; it is the only clinic within my memory where they do not want to make a good thing of me.",
+        "label_text": "with all my heart"
+    },
+    {
+        "source": "原文 : Разработка данных показателей в перспективе может привести к новому подходу в здравоохранении, направленному на повышение качества оказания медицинской помощи и на создание максимально комфортной среды для работников медицинской организации.",
+        "hyp": "文 4 : The development of these measures in the future may result in a new approach in health care aimed at improving the quality of health care delivery and creating the most comfort environment for employees of the healthcare provider.",
+        "label_text": "aimed at"
+    },
+    {
+        "source": "原文 : Каково же разочарование бизнесмена, когда Настя в борьбе за независимость и в пику отцу выбирает его сверстника и делового партнера.",
+        "hyp": "文 1 : How big the businessman's disappointment was when Nastya, in her struggle for independence and in spite of her father, chooses someone of his age and business partner.",
+        "label_text": " How big"
+    },
+    {
+        "source": "原文 : Дано определение понятия «биологическая травма» — нарушение структуры и функции организма в результате особого повреждающего воздействия, свойственного представителям живой природы (животным, растениям).",
+        "hyp": "文 2 : The definition of the \"biological damage\" concept is presented: it means an impairment of the body structure and function as a result of a special damaging effect typical for wildlife representatives (animals, plants).",
+        "label_text": "body"
+    },
+    {
+        "source": "原文 : В подтверждение тому Bloomberg сообщает о запланированном на конец февраля выездном совещании для лидеров Республиканской партии и представителей власти.",
+        "hyp": "文 1 : In support of this, Bloomberg reports on a visiting meeting for Republican Party leaders and public officers scheduled for late February.",
+        "label_text": "In support of this"
+    },
+    {
+        "source": "原文 : В 2023 году на поддержку бортевого пчеловодства в регионе направят 20 млн рублей.",
+        "hyp": "文 4 : In 2023, RUB 20 million will be allocated to support forest bee-keeping in the region.",
+        "label_text": "RUB 20 million"
+    },
+    {
+        "source": "原文 : Связалась напрямую с мастером Александром, который объяснил все тонкости ремонта и сразу обозначил ценовые рамки.",
+        "hyp": "文 4 : I contacted Alexander directly, he explained to me all the intricacies of the repair and outlined the price range straight away.",
+        "label_text": "outlined "
+    },
+    {
+        "source": "原文 : Примечательно, что это третий такой случай в Зелёной Околице на моей памяти.",
+        "hyp": "文 5 : It is particularly remarkable that this is the third such case in Zelyonaya Okolitsa in my memory.",
+        "label_text": "It is particularly remarkable that this is"
+    },
+    {
+        "source": "原文 : Завершить прогулку нужно пятиминутной ходьбой в спокойном темпе и несколькими упражнениями на растяжку.",
+        "hyp": "文 5 : You should finish your walk with a five-minute walk at a leisurely pace and several stretching exercises.",
+        "label_text": "walk with a five-minute walk"
+    }
+]

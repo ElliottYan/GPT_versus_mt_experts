@@ -1,0 +1,42 @@
+[
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 4 : 【PERSON9】已开始收集数据，但我想在【PROJECT5】设置中看到该领域自适应的优势。",
+        "label_text": "PERSON9"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 4 : 【PERSON9】已开始收集数据，但我想在【PROJECT5】设置中看到该领域自适应的优势。",
+        "label_text": "PROJECT5"
+    },
+    {
+        "source": "原文 : Just to clarify, when I say “anything” I mean anything within the FM’s current power.",
+        "hyp": "文 5 : 澄清一下，我所说的“任何事情”是指目前FM权力范围内的任何事情。",
+        "label_text": "FM"
+    },
+    {
+        "source": "原文 : The first reference to the estuary stingray in scientific literature was probably a record by 19th-century English naturalist William Saville-Kent of a \"Trygon pastinaca\" feeding on oysters in a Queensland estuary.",
+        "hyp": "文 1 : 科学文献中第一次提到河口黄貂鱼可能是19世纪英国博物学家威廉·萨维尔·肯特(William Savile Kent) 的记录，记录中讲述了“Trygon Pastinaka”在昆士兰河口以牡蛎为食的情况。",
+        "label_text": "“Trygon Pastinaka"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 3 : 近年来，Cote最著名的案件包括世通公司前雇员或投资者针对世通公司前董事和高管、审计公司（安达信会计师事务所）以及10多家出售世通公司证券的投资银行提起的联邦证券和《雇员退休保障法》集体诉讼。",
+        "label_text": "Cote"
+    },
+    {
+        "source": "原文 : If you three could meet and double check what is [PROJECT5] doing with the -",
+        "hyp": "文 1 : 如果你们三人能见面并仔细检查【PROJECT5】正在做什么",
+        "label_text": "PROJECT5"
+    },
+    {
+        "source": "原文 : TLDR: tips/support to get a 2-month baby sleeping beyond one sleep cycle in bassinet (currently replacing pacifier every hour).",
+        "hyp": "文 1 : TLDR：让2个月大的婴儿在摇篮中睡觉超过一个睡眠周期的小窍门/帮助(目前每小时更换一次奶嘴)。",
+        "label_text": "TLDR"
+    },
+    {
+        "source": "原文 : So, we are now [PERSON14] putting that together to just one technical solution.",
+        "hyp": "文 5 : 所以现在我们使用【PERSON14】将它组合为一个技术解决方案。",
+        "label_text": "【PERSON14】"
+    }
+]

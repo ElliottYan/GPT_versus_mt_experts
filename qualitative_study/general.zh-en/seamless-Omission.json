@@ -1,0 +1,282 @@
+[
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 5 : The blue ceiling, the white clouds like cotton candy, the different facial expressions, the noisy environment, all this is familiar, but so strange, as if it were thousands of miles away.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 5 : The blue ceiling, the white clouds like cotton candy, the different facial expressions, the noisy environment, all this is familiar, but so strange, as if it were thousands of miles away.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 2 : However, this address space may increase the burden of routers on the Internet, as this address may not be able to efficiently aggregate in a classless interdomain routing system.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 2 : However, this address space may increase the burden of routers on the Internet, as this address may not be able to efficiently aggregate in a classless interdomain routing system.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 2 : It's a luxury for ordinary people to eat once a month, where can they have a snack like him?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 5 : In March 2020, there was a sharp increase in the demand for flour during the pneumonia epidemic, and the flour factory, whose business was declining, also tried to launch home-made flour from a wholesale-only operation.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 5 : In March 2020, there was a sharp increase in the demand for flour during the pneumonia epidemic, and the flour factory, whose business was declining, also tried to launch home-made flour from a wholesale-only operation.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 5 : Eight hundred years ago, the Nine Emperors of the Song Dynasty became a thing of the past and disappeared into the mists of history.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 1 : He was wounded, and it was a very troublesome thing, and the common medicine stone was useless.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 楚离不理他，冲赵颖笑着抱抱拳。",
+        "hyp": "文 1 : Chu ignored him and laughed and grabbed his fist.",
+        "label_text": " laughed and grabbed his fist"
+    },
+    {
+        "source": "原文 : 楚离不理他，冲赵颖笑着抱抱拳。",
+        "hyp": "文 1 : Chu ignored him and laughed and grabbed his fist.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 晶莹剔透，闪烁着绚烂深泽。 最为美丽的是，水晶雕像的女子，空灵唯美，仿佛狐仙，那样美若天仙，那样令人痴迷。",
+        "hyp": "文 2 : The most beautiful is the woman with the crystal statue, the empty spirit is beautiful, as if she were a fox, as beautiful as a fairy, as fascinating as a fairy.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 5 : During the seminar, all participants were guided by Xi Jinping's ideology of socialism with Chinese characteristics in the new era, seriously studied the spirit of the Party's Twenty Principles and the important speeches of Xi Jinping's General Secretary at the opening of the seminar, deepened their understanding of a series of major theoretical and practical issues of Chinese modernization, strengthened their confidence and determination to fully promote the great revival of the Chinese nation under the strong leadership of Xi Jinping.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 5 : During the seminar, all participants were guided by Xi Jinping's ideology of socialism with Chinese characteristics in the new era, seriously studied the spirit of the Party's Twenty Principles and the important speeches of Xi Jinping's General Secretary at the opening of the seminar, deepened their understanding of a series of major theoretical and practical issues of Chinese modernization, strengthened their confidence and determination to fully promote the great revival of the Chinese nation under the strong leadership of Xi Jinping.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 3悲剧的是等了近3天，这个专员联系了我，我手机离开了一会，没有接到这个专员的电话。",
+        "hyp": "文 5 : The tragedy is that I waited for almost three days, the commissioner contacted me, my phone was gone for a while, I didn't receive the commissioner's call.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 3悲剧的是等了近3天，这个专员联系了我，我手机离开了一会，没有接到这个专员的电话。",
+        "hyp": "文 5 : The tragedy is that I waited for almost three days, the commissioner contacted me, my phone was gone for a while, I didn't receive the commissioner's call.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 3 : The nine organs were first located in Beijing, then the main engineering and production departments moved to the West Hai Town of Haiyang County, Qinghai Province, i.e. 221 factories; in 1970, the main engineering and production departments moved to Sichuan, distributed in the mountainous areas of northern Sichuan.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 3 : The nine organs were first located in Beijing, then the main engineering and production departments moved to the West Hai Town of Haiyang County, Qinghai Province, i.e. 221 factories; in 1970, the main engineering and production departments moved to Sichuan, distributed in the mountainous areas of northern Sichuan.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 5 : With the rise of concert culture, Rowan has repeatedly held solo concerts at the Lee Theater, and has expanded his acting career overseas, becoming the first Oriental singer to perform at the Royal Albert Hall in London (1978), and the first Chinese singer to perform at the Lincoln Center in New York (1980), as well as performing solo concerts at Madison Square Garden and the National Theatre in Singapore.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 东西还可以，但是亚马逊的售后服务真的比其他网站差太多了",
+        "hyp": "文 2 : Things are fine, but Amazon's after-sales service is really much worse than other websites.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": " the women's school"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "and "
+    },
+    {
+        "source": "原文 : 聂耳小提琴是云南省博物馆参加综艺节目《国家宝藏》第二季的三件文物之一，由张若昀担任明星守护人。",
+        "hyp": "文 4 : The violin is one of the three artifacts in the second season of the Yunnan Provincial Museum's variety show \"National Treasure\".",
+        "label_text": " The violin"
+    },
+    {
+        "source": "原文 : 聂耳小提琴是云南省博物馆参加综艺节目《国家宝藏》第二季的三件文物之一，由张若昀担任明星守护人。",
+        "hyp": "文 4 : The violin is one of the three artifacts in the second season of the Yunnan Provincial Museum's variety show \"National Treasure\".",
+        "label_text": " The violin"
+    },
+    {
+        "source": "原文 : 林锋正在心里骂娘，村口突然起了骚动，看样子是狩猎队伍回来了。",
+        "hyp": "文 1 : Lin Feng was cursing his daughter in his heart, and suddenly there was a commotion in the village, and it looked like the hunting party had returned.",
+        "label_text": "in the village"
+    },
+    {
+        "source": "原文 : 一辆出租车在他前面下客，他快步走上前，然后钻了进去。 唐恩在车上看了躺在寒风中享受“晚餐”的乞丐最后一眼，让司机将他带回那个陌生的家。",
+        "hyp": "文 4 : A taxi pulled up in front of him, and he walked up to it, and then he drilled in, and Don looked at the beggar in the car, who was enjoying his dinner in the cold wind, and asked the driver to take him back to the stranger's house.",
+        "label_text": "A taxi pulled up"
+    },
+    {
+        "source": "原文 : 徐缺一脸贱笑，眉毛一挑，伸手就直接扒向女子的裙摆。",
+        "hyp": "文 4 : Xu laughed with a low face, raised his eyebrows, and stretched out his hand to the woman's neck.",
+        "label_text": "Xu"
+    },
+    {
+        "source": "原文 : “哈哈，玄藏师兄你吩咐的事情，师弟我哪敢担一句‘劳烦’？ 这等小事，何需如此？” 玄心一口答应了下来。",
+        "hyp": "文 2 : Haha, what you commanded, Master, how dare I take on such a small task? Why is this necessary?",
+        "label_text": "Master"
+    },
+    {
+        "source": "原文 : 那玉石在他手心，就在他右手掌心里，居然融化起来。",
+        "hyp": "文 5 : The jewel in his hand, in his right hand, in his heart, melted.",
+        "label_text": "melted"
+    },
+    {
+        "source": "原文 : “娘亲放心，我明天肯定能够开启‘神武印记’！”张若尘道。",
+        "hyp": "文 1 : Don't worry, I'm sure I'll be able to open the Shinto printing press tomorrow!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 4 : It is a species of ray-finned fish in the family ray-finned fishes.",
+        "label_text": "It "
+    },
+    {
+        "source": "原文 : 过了片刻，他看见一名穿着道袍的女子走来，连忙上去打招呼。",
+        "hyp": "文 1 : After a moment, he saw a woman in a robe coming and hurried up to greet him.",
+        "label_text": "robe"
+    },
+    {
+        "source": "原文 : 他只提了其中两个处罚，分别是最轻和最重的，其余还有罚做苦力、抄经、杖责、面壁等。",
+        "hyp": "文 2 : He only mentions two of them, the lightest and the heaviest, and the rest are punishable by hard work, copying the scriptures, blaming the staff, and so on.",
+        "label_text": "and "
+    },
+    {
+        "source": "原文 : 打天九和麻将一样，都是中国国粹，但天九在中原几近失传，即使在香港，懂得玩天九的亦越来越少。",
+        "hyp": "文 5 : It's the same as mahjong, but it's almost lost in China, and even in Hong Kong, there are fewer and fewer people who know how to play it.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 2 : Administratively, Castilla-La Mancha is part of the French region of Nouvelle-Aquitaine, in the department of Lot-et-Garonne; in local elections, Castilla-La Mancha is the seat of the central polling station, and the entire territory of the municipality is divided into: in social administration, Castilla-La Mancha is part of the canton.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 5 : After a long time, Lin Feng gradually adapted to the changes in his body, and his heart was relieved: \"It's a bit of self-preservation, but the ultimate goal of the system is to build the first gate in history, to become the first ancestor in history, and Lin Feng was under a lot of pressure, and he was busy checking the new gift bags and other things\".",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 赵甫好奇走上前，握住那颗晶石，漂浮在半空中晶石毫无反应的被赵甫一把握住。",
+        "hyp": "文 2 : Curious, he walked up and grabbed the crystal, which floated in mid-air without reacting, and grabbed it.",
+        "label_text": "he"
+    },
+    {
+        "source": "原文 : 北宋因政治腐败、因循守旧而造成了积贫积弱的局面，中叶即出现了较大的财政危机和国防危机。",
+        "hyp": "文 1 : North Korea's political corruption, its adherence to the old system, and the accumulation of poverty have led to a major financial and defense crisis in the middle of the year.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2014年10月2日，孙延在代表韩国出战在韩国仁川举行的仁川亚运艺术体操女子个人全能项目，她在决赛的圈操、带操和棒操分别取得18.216分、18.083分和18.100分的成绩，尽管在最后一项的球操环节出现失误，仅取得17.300分，她仍然以总分71.699分荣获金牌，成为首位达到此成绩的韩国选手。",
+        "hyp": "文 3 : In the women's individual all-around event at the 2014 Asian Games in Incheon, South Korea, Sun won the gold medal with a total score of 71.69, becoming the first South Korean athlete to achieve this result, despite making a mistake in the last round.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2014年10月2日，孙延在代表韩国出战在韩国仁川举行的仁川亚运艺术体操女子个人全能项目，她在决赛的圈操、带操和棒操分别取得18.216分、18.083分和18.100分的成绩，尽管在最后一项的球操环节出现失误，仅取得17.300分，她仍然以总分71.699分荣获金牌，成为首位达到此成绩的韩国选手。",
+        "hyp": "文 3 : In the women's individual all-around event at the 2014 Asian Games in Incheon, South Korea, Sun won the gold medal with a total score of 71.69, becoming the first South Korean athlete to achieve this result, despite making a mistake in the last round.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 三颗星是怪自己马虎没看清楚商品规格，你卖M码电商版我没意见，你货不对版是几个意思？",
+        "hyp": "文 4 : I don't have a problem with you selling the M code e-commerce version, how many meanings do you have that your product is not the right version?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 4 : In an article published in the August 2021 issue of Billboard magazine, the group noted that the group's fans have been drilling through the gaps in the charts by using brilliant tactics, including the use of crowdfunding in the U.S. to help the group stay in the top 100 for weeks in a row, while the group's chart performance is largely driven by sales (most of which come from the band's online store, which allows fans to buy multiple copies of a song, unlike iTunes) and fan-driven crowdfunding campaigns (including the use of crowdfunding to sell songs on services such as Apple Pay).",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2、绘画部分的解说很棒，有构图分析、草稿分析和历史背景（比如最后的晚餐），但不知道是印刷还是书尺寸问题，有些阴影部分县的太深了，看不清细节，有点遗憾。",
+        "hyp": "文 2 : There's a great explanation of the painting part, there's a composition analysis, there's a draft analysis and a historical background (like the last dinner), but I don't know if it's the printing or the size of the book, some of the shadows are too deep in the county, I can't see the details, a little bit of regret.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “五行杂灵根，这是最最低等的灵根，难怪前身虽然无比努力，却只有炼体二层的修为。” “于我而言，五行杂灵根虽然有点棘手，但辅以丹药，最多四百年我必然还能重临巅峰！”",
+        "hyp": "文 1 : It's not surprising that the first one, although it's a lot of work, is only the second level of the alchemy. As far as I'm concerned, the fifth one, although it's a bit tricky, but with the help of dan medicine, I'll surely reach the peak in four hundred years!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 机长、副机长决定在无法完全控制飞机的情况下遵循飞机左转的势头绕圈并降落，飞机继续向西北方向飞行。",
+        "hyp": "文 2 : The captain and co-captain decided to follow the left turn of the aircraft without being able to fully control the aircraft, and the aircraft continued to fly in a northwesterly direction.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “小宇，别喊了，赶紧睡觉。”",
+        "hyp": "文 1 : Don't cry, go to sleep.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 2 : There's a lot of stuff that's imported, but there's a lot of stuff that doesn't have a Chinese label, and I don't know where it's coming from.",
+        "label_text": "T"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 2 : The second season of \"Kyoto Color Diaries\" will begin airing on July 17, 2013 at 1:58 p.m. on the third Wednesday of each month (equivalent to Thursday morning), in addition to the end of each episode will also maintain the first season of \"Kyoto Color Diaries\", but the second season will be a review and summary of the episode with Yokohama's hand-drawn diary.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : 说起来，如果不是真的被逼到走投无路，他又如何愿意送出自己的亲生女儿？毕竟那个洪大力，堪称人间的一朵奇葩，他唯一喜欢做或者说会做的事情，就是两个字：败家。",
+        "hyp": "文 1 : After all, the only thing he likes to do or say he's going to do is two words: defeat the family.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 3 : It is a national key cultural relics protection unit, the type of stone cave temple and stone carvings.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “耍流氓啊……”一个绝对是高分贝的女高音，就在叶默面前响起，叶默刚才只顾检查自己的小**，居然忘了查看周围的情况。 没想到这个小胡同还是连通的，只是前面的转弯处这里看不到而已。",
+        "hyp": "文 4 : A woman's high-pitched voice, which was definitely high-pitched, was heard in front of Yemer, who had just checked his little **, and had forgotten to look around. He didn't think that this little street was connected, but he couldn't see it at the turn in front.",
+        "label_text": ": "
+    },
+    {
+        "source": "原文 : “这谁点的三会传？”他随口问了句小厮。",
+        "hyp": "文 1 : \"Who's going to take care of this?\" he asked casually.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 据巴黎大众运输公司(RATP)的数据， 2011年伊普莱桑斯站的入站乘客总人次数为4647935人次。",
+        "hyp": "文 3 : According to the Paris Public Transport Company (RATP), the total number of passengers at the Ypres station in 2011 was 464,7935 passengers.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 百善孝为先，张汉当初虽说叛逆，但心底对父母的爱也不低于他人。",
+        "hyp": "文 5 : Although Zhang Han initially said that he was a rebel, his love for his parents was no less than that of others.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 4 : In the context of mainland China, translation production includes not only the translation of foreign-language films into Mandarin Chinese or dialects, but also the translation of films originally in Mandarin Chinese into minority languages or films originally in minority languages into Mandarin Chinese, and in very rare cases may include films translated into Mandarin from southern dialects such as Cantonese.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 5 : In April 1943, Rui and the Yan'an Academy of Natural Sciences merged to form Yan'an University, which became the Lu Xun Academy of Arts and Letters of Yan'an University, a theater music department, abbreviated as theater sound department.",
+        "label_text": " "
+    }
+]

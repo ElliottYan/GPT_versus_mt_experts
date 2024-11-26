@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 1 : With its excellence, Sonata once set the \"record of 600,000 vehicles sold in 33 months\" in the last century. When its fifth-generation model was introduced into China, this new model was chosen by a variety of people, with its representative \"peanut-shape lights\" soon appeared in  almost every street and alley.",
+        "label_text": " \""
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 4 : With the introduction of the new subframe, the load is distributed to the front and rear assembly supports effectively, which not only improves the strength but also  reduces the vibration and harshness during driving.",
+        "label_text": "  "
+    }
+]

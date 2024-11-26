@@ -1,0 +1,62 @@
+[
+    {
+        "source": "原文 : 猪粪和牛粪的易分解碳库占总碳库的比例分别为52%和26%,易分解碳库分解速率常数分别为0.00085和0.00074 ℃<sup>-1</sup>,且差异显著。",
+        "hyp": "文 3 : The proportions of labile organic carbons to total carbons in pig and cattle manure were 52% and 26%, respectively, and the decomposition rate constants of labile organic carbons were 0.00085 and 0.00074 °C-1, respectively, with significant differences.",
+        "label_text": "-1"
+    },
+    {
+        "source": "原文 : \"心衰患者缺氧和肾功能不全的风险更高。稳定性慢性心衰的患者在定期检查心、肾功能的情况下可以服用二甲双胍。\"",
+        "hyp": "文 1 : Patients with heart failure are at an increased risk of hypoxia and renal insufficiency. Patients with stable chronic heart failure can take metformin provided that they have their cardiac and renal function checked regularly.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 严重的肾功能衰竭（eGFR<45mL/min/1.73m2）；",
+        "hyp": "文 1 : Patients with severe renal failure (eGFR < 45 mL/min/1.73 m2);",
+        "label_text": "2"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 3 : The intravascular injection of iodinated contrasts may result in radiographic contrast nephropathy, potentially causing an accumulation of metformin and increasing the risk of lactic acidosis.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 3 : Of the 121 pathogen isolates, 76 (62.8%) were Gram-negative (G-), 40 (33.1%) were Gram-positive (G+) and 5 (4.1%) were fungi.",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 3 : Of the 121 pathogen isolates, 76 (62.8%) were Gram-negative (G-), 40 (33.1%) were Gram-positive (G+) and 5 (4.1%) were fungi.",
+        "label_text": "+"
+    },
+    {
+        "source": "原文 : ACE抑制剂如依那普利等",
+        "hyp": "文 2 : ACE inhibitors: enalapril, etc.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : β受体阻滞剂如普萘洛尔等",
+        "hyp": "文 5 : Beta receptor blockers: propranolol, etc.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : 浸润性癌12例、原位癌3例；肿瘤分期：T <sub>is</sub>N <sub>0</sub>M <sub>0</sub> 3例，T <sub>1</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>1</sub>N <sub>2</sub>M <sub>0</sub> 2例，T <sub>2</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>2</sub>N <sub>1</sub>M <sub>0</sub> 2例。",
+        "hyp": "文 3 : Tumor type: invasive carcinoma (n = 12); carcinoma in situ (n = 3). Tumor stage: TisN0M0 (n = 3); T1N0M0 (n = 4); T1N2M0 (n = 2); T2N0M0 (n = 4); T2N1M0 (n = 2).",
+        "label_text": "TisN0M0 (n = 3); T1N0M0 (n = 4); T1N2M0 (n = 2); T2N0M0 (n = 4); T2N1M0 (n = 2)"
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 5 : N-acetyltransferase 2 gene (NAT2) polymorphism and protease (NAT2) phenotypic polymorphism significantly affects plasma levels of isoniazid.",
+        "label_text": "(NAT2)"
+    },
+    {
+        "source": "原文 : 中性粒细胞减少症2、贫血2、血小板减少症1",
+        "hyp": "文 4 : Neutropenia (n = 2), anemia (n = 2) and thrombocytopenia (n = 1),",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 4 : The data from Phase IIb to IIIb clinical trials was pooled and analyzed. The analysis revealed that adverse reactions observed with combined therapy (dolutegravir+abacavir/lamivudine were generally consistent with those observed with monotherapy (dolutegravir/abacavir/lamivudine).",
+        "label_text": " "
+    }
+]

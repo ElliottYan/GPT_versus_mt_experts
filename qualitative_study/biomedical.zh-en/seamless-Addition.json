@@ -1,0 +1,82 @@
+[
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 1 : Toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (SIDS) are the most common causes of blindness.",
+        "label_text": "(SIDS)"
+    },
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 1 : Toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (SIDS) are the most common causes of blindness.",
+        "label_text": "are the most common causes of blindness"
+    },
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 1 : Toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (SIDS) are the most common causes of blindness.",
+        "label_text": "(SIDS)"
+    },
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 1 : Toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (SIDS) are the most common causes of blindness.",
+        "label_text": "are the most common causes of blindness"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 4 : 4 Hanhoo red pomegranate freshly chopped six sets (skin care cosmetics set waterproofing student girl washing face milk refreshing skin lotion tears gift box properly packed)",
+        "label_text": "waterproofing"
+    },
+    {
+        "source": "原文 : 复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 1 : Relapses are generally more severe than those of the initial attack and may include life-threatening low blood pressure and death.",
+        "label_text": "those of"
+    },
+    {
+        "source": "原文 : 这种超敏反应复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 5 : The recurrence of this hypersensitivity reaction is generally more severe than the first attack, and may include life-threatening low blood pressure and death.",
+        "label_text": "reaction"
+    },
+    {
+        "source": "原文 : 应当根据国家指南采取预防措施防止传播。",
+        "hyp": "文 4 : Precautions should be taken to prevent the spread of measles in accordance with national guidelines.",
+        "label_text": "of measles"
+    },
+    {
+        "source": "原文 : 可能影响肾功能的急性病情，如：脱水、严重感染、休克；",
+        "hyp": "文 5 : Acute conditions that may affect kidney function, such as: dehydration, severe kidney infection, kidney shock;",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 可能影响肾功能的急性病情，如：脱水、严重感染、休克；",
+        "hyp": "文 5 : Acute conditions that may affect kidney function, such as: dehydration, severe kidney infection, kidney shock;",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 可造成组织缺氧的疾病（尤其是急性疾病或慢性疾病的恶化），例如失代偿性心力衰竭、呼吸衰竭、近期发作的心肌梗死和休克；",
+        "hyp": "文 4 : Diseases that can cause tissue hypoxia (especially acute disease or worsening of chronic disease), such as compensatory heart failure, respiratory failure, recent seizure, myocardial infarction, and shock;",
+        "label_text": "seizure, "
+    },
+    {
+        "source": "原文 : 使用这些药品观察到的超敏反应（下文所述）有一些共同特征，例如发热和／或皮疹，以及提示累及多器官的其他症状。",
+        "hyp": "文 2 : The hypersensitivity reactions observed with these drugs (described below) have some common characteristics, such as fever and or rash, as well as other symptoms that suggest multi-organ overload.",
+        "label_text": "reactions"
+    },
+    {
+        "source": "原文 : 几乎所有发生超敏反应的患者会存在发热和／或皮疹（通常是斑丘疹或荨麻疹）作为综合征的一部分，但也发生过没有皮疹或发热的反应。",
+        "hyp": "文 4 : Almost all patients with hypersensitivity reactions have fever and or rash (usually psoriasis or psoriasis) as part of the syndrome, but there have also been reactions without rash or rash.",
+        "label_text": "reactions"
+    },
+    {
+        "source": "原文 : 继续治疗会使与超敏反应相关的症状加重，可能危及生命，罕见情况下可能致命。",
+        "hyp": "文 1 : Continued treatment may worsen symptoms associated with hypersensitivity reactions, may be life-threatening, and in rare cases may be fatal.",
+        "label_text": "reactions"
+    },
+    {
+        "source": "原文 : 浸润性癌12例、原位癌3例；肿瘤分期：T <sub>is</sub>N <sub>0</sub>M <sub>0</sub> 3例，T <sub>1</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>1</sub>N <sub>2</sub>M <sub>0</sub> 2例，T <sub>2</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>2</sub>N <sub>1</sub>M <sub>0</sub> 2例。",
+        "hyp": "文 5 : The following is a summary of the findings of the study: T < sub> is a tumor stage N < sub>0 < sub>M < sub>0 < sub>3 case, T < sub>1 < sub>N < sub>0 < sub>4 case, T < sub>1 < sub>N < sub>2 < sub>M < sub>0 < sub>2 case, T < sub>2 < sub>N < sub>0 < sub>M < sub>0 < sub>4 case, T < sub>2 < sub>N < sub>1 < sub>M < sub>0 < sub>0 < sub> 2 < sub> case.",
+        "label_text": "The following is a summary of the findings of the study"
+    },
+    {
+        "source": "原文 : 糖尿病肾病(diabetic kidney disease，DKD)是糖尿病严重的微血管并发症之一，也是进展为终末期肾病的主要原因，目前临床治疗手段有限。",
+        "hyp": "文 3 : Diabetic kidney disease (DKD) is one of the most serious microvascular complications of diabetes mellitus, and is the leading cause of advanced end-stage kidney disease, with limited clinical treatment available.",
+        "label_text": "advanced "
+    }
+]

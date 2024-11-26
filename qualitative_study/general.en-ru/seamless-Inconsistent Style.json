@@ -1,0 +1,127 @@
+[
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 5 : Я носила лифчик Lane Bryants Lounge Bras последние четыре года, и это был первый раз за очень долгое время, когда я носила лифчик с проволокой.",
+        "label_text": "лифчик"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 5 : Я носила лифчик Lane Bryants Lounge Bras последние четыре года, и это был первый раз за очень долгое время, когда я носила лифчик с проволокой.",
+        "label_text": "лифчик"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 5 : Товарищи и друзья, позвольте мне в заключение призвать всех вас, жителей Зимбабве, направить свою энергию на ускоренное развитие нашей страны.",
+        "label_text": "жителей Зимбабве"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 5 : Товарищи и друзья, позвольте мне в заключение призвать всех вас, жителей Зимбабве, направить свою энергию на ускоренное развитие нашей страны.",
+        "label_text": "жителей Зимбабве"
+    },
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 1 : В любом случае, эти ужасные воспоминания преследовали меня, так что вчера я наконец-то набралась мужества написать ему.",
+        "label_text": "набралась мужества"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 2 : И я сделал это и узнал на втором или третьем посто, что The AJ Show был заблокирован на YouTube, я не фанат правых вещей и на самом деле была причиной, по которой я перестал смотреть его 2 года назад, хотя небольшой аромат свободы был так трудно найти среди 90% национального капитализма, который сайт может предложить, но в любом случае, у меня появилась идея нецензурирующего видеосайта, как LiveLeak, но гораздо более простого и менее \"новостного\".",
+        "label_text": "узнал"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 2 : И я сделал это и узнал на втором или третьем посто, что The AJ Show был заблокирован на YouTube, я не фанат правых вещей и на самом деле была причиной, по которой я перестал смотреть его 2 года назад, хотя небольшой аромат свободы был так трудно найти среди 90% национального капитализма, который сайт может предложить, но в любом случае, у меня появилась идея нецензурирующего видеосайта, как LiveLeak, но гораздо более простого и менее \"новостного\".",
+        "label_text": "правых вещей"
+    },
+    {
+        "source": "原文 : The funny thing is that right now these same hard-line conservatives declare that we must not run deficits in times of economic crisis.",
+        "hyp": "文 5 : Забавно то, что прямо сейчас эти же жесткие консерваторы заявляют, что мы не должны иметь дефицит во времена экономического кризиса.",
+        "label_text": "жесткие"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 1 : Таким образом, я хотел бы, чтобы [PERSON4] был в контакте с [PERSON2].",
+        "label_text": "контакте"
+    },
+    {
+        "source": "原文 : It’s getting old, and you look like an idiot when you spell like this.",
+        "hyp": "文 1 : Это становится старым, и ты выглядишь как идиот, когда пишешь так.",
+        "label_text": "становится старым"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 3 : Я ездил только на местном уровне, так что потребовалась большая часть недели, чтобы понять, что я не могу поставить его на 60 миль в час, или что я должен был положить его, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": "на местном уровне"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 2 : Уверен, вы не прочитали все число или не заметили букву, которую я вставил, а теперь вернетесь, чтобы проверить, только чтобы понять, что не было никакой буквы.",
+        "label_text": "Уверен"
+    },
+    {
+        "source": "原文 : Mine’s ending and all my grades are passable except for biology in which I have an F.",
+        "hyp": "文 3 : У меня заканчивается, и все мои оценки приемлемы, за исключением биологии, в которой у меня F.",
+        "label_text": "F"
+    },
+    {
+        "source": "原文 : I texted her in the night yesterday asking if she’s mad, and like she said she’s only a bit let down.",
+        "hyp": "文 3 : Вчера ночью я написал ей, спрашивая, злится ли она, и, как она сказала, она только немного разочарована.",
+        "label_text": "злится"
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 3 : Экономика Японии выросла на более сильные, чем ожидалось, 3,5 процента в годовом выражении в прошлом квартале, что дало премьер-министру Шинзо Абэ импульс, поскольку его правительство занимается реформами, необходимыми для обеспечения устойчивого восстановления после двух десятилетий неблагополучия.",
+        "label_text": "неблагополучия"
+    },
+    {
+        "source": "原文 : Cleaning pipes maintenance is the most important but wearing work to operate the Type 93 torpedo.",
+        "hyp": "文 5 : Уборка труб является наиболее важной, но утомительной работой при эксплуатации торпеды типа 93.",
+        "label_text": "Уборка"
+    },
+    {
+        "source": "原文 : South Korean companies have kept their workers there, in some cases extending their stays, to keep the plants running despite shortages of food and gas and the risk of their employees becoming caught in the middle of the stand-off.",
+        "hyp": "文 2 : Южнокорейские компании сохранили своих работников там, в некоторых случаях продлевая их пребывание, чтобы сохранить работы заводов, несмотря на нехватку продовольствия и газа и риск того, что их сотрудники окажутся в центре конфликта.",
+        "label_text": "в центре конфликта"
+    },
+    {
+        "source": "原文 : As long as an event is not disruptive to the school day or event, administrators do not get involved.",
+        "hyp": "文 2 : До тех пор, пока событие не нарушает школьный день или событие, администраторы не участвуют.",
+        "label_text": " До тех пор"
+    },
+    {
+        "source": "原文 : However, his shield’s gun is overpowered and his rewind ability is somewhat annoying.",
+        "hyp": "文 5 : Тем не менее, пистолет его щита подавлен, и его способность отворачиваться несколько раздражает.",
+        "label_text": "Тем не менее"
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 5 : Военачальник Украины генерал Валерий Залужный заявил, что российские войска запустили 71 крылатую ракету, 35 ракет С-300 и семь беспилотников \"Шахид\" в период с позднего четверга по полдень пятницы, добавив, что украинская противовоздушная оборона сбила 61 крылатую ракету и пять беспилотников.",
+        "label_text": "противовоздушная оборона"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical \"u shud be good but ur not so im gunna giveu unrealistIC GOals\", or should i be at 1:49?",
+        "hyp": "文 2 : 1:49 - это просто мой тренер, который типично говорит: \"Ты должен быть хорошим, но ты не такой, чтобы давать нереалистичные цели\", или я должен быть в 1:49?",
+        "label_text": "это просто мой тренер"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 2 : n так я не узнал на de 2nd или 3rd пост dät The AJ Show был заблокирован на YT, я не фанат правых вещей n был acctully de причина я перестал смотреть его 2 года назад tho небольшой аромат свободы был dät трудно ты найти amoung 90% национальный капитализм de сайт имеет tu предложение, но в любом случае я получил d идею не цензуры видео сайт как liveleak но гораздо более просто n менее \"newsy\" dät any1 может опубликовать на нет содержимого wud b удален❤️",
+        "label_text": " YT,"
+    },
+    {
+        "source": "原文 : And then Mom-O decides to go to the gym to do a quick workout, whatever that is.",
+        "hyp": "文 4 : А потом Мама-О решает пойти в тренажерный зал, чтобы сделать быструю тренировку, что бы это ни было.",
+        "label_text": "тренажерный зал,"
+    },
+    {
+        "source": "原文 : I look on it again i see jane but this time i can look at there conversation history throughout this whole year and last.",
+        "hyp": "文 5 : Я смотрю на него снова. Я вижу Джейн, но на этот раз я могу посмотреть на историю разговоров на протяжении всего этого года и в прошлом.",
+        "label_text": "прошлом"
+    },
+    {
+        "source": "原文 : Finally they seem to want to engage w/ me and basically tell me they’re going to an event and they’d hope to see me there, which they reaffirm the next day and then day of.",
+        "hyp": "文 4 : Наконец, они, кажется, хотят связаться со мной и в основном говорят мне, что собираются на мероприятие и они надеются увидеть меня там, что они подтверждают на следующий день и на следующий день.",
+        "label_text": "на следующий день"
+    }
+]

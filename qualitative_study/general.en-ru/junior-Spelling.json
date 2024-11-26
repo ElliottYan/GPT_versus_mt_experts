@@ -1,0 +1,197 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 3 : Не знаю, наверно у нас разные тела.",
+        "label_text": "разные тела"
+    },
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 2 : Крайний нападающий наверно нам нужен, и зависит от ФА, а это хороший пацан который из Айовы (не могу продиктовать его имя), но у него ещё большой разрыв.",
+        "label_text": "ФА"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 1 : Есть такой человек продавал набор за 100 тысяч на сервере, я подумал: \"Нет, черт,это не стоит 100 тысяч\",брат",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 2 : Он создает впечатление,что XVG - это тонущий корабль и у него все хорошо.",
+        "label_text": " XVG"
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 2 : Он создает впечатление,что XVG - это тонущий корабль и у него все хорошо.",
+        "label_text": " XVG"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 2 : Я предполагаю, что в команду с тотемом роста войдут 2 танка, маг \nс умениями контроля, танкующий воин и манипулятор, который может соло все, если захочет.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 1 : Я думаю, что делаю маневры нормально, но интрактор говорит, что мне нужно еще попрактиковаться.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 4 : Ламбет снял флаг, и Айскью пришлось сдаться Тропе на корабле \"Гауда\" - первый и последний случай в истории, когда британский адмирал столь высокого ранга был захвачен в плен на море.",
+        "label_text": "Айскью"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 4 : Ламбет снял флаг, и Айскью пришлось сдаться Тропе на корабле \"Гауда\" - первый и последний случай в истории, когда британский адмирал столь высокого ранга был захвачен в плен на море.",
+        "label_text": "Айскью"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 1 : Еще один резервный (добровольческий) отряд был создан в 1981 году и состоял из неоплачиваемых гражданских лиц, желающих выполнять ограниченные полицейские обязанности.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 1 : Как ваш настоящий друг, когда дело доходит до всех взаимных уступок, вы можете соответствующим образом понизить ее статус (например, с друга до «того, кого я знаю»).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 1 : Как ваш настоящий друг, когда дело доходит до всех взаимных уступок, вы можете соответствующим образом понизить ее статус (например, с друга до «того, кого я знаю»).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 5 : Говорят что солдаты украли еще 1 440 000 франков КФА (2 845 долларов) у других людей.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 1 : Могу поспорить, что вы не удосужились прочитать весь номер или заметили букву, которую я туда вставил, и теперь вы вернетесь, чтобы проверить, и обнаружите, что буквы не было.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 3 : Я слишком уродлива,даже не могу кричать в Snapchat,поэтому на reddit.",
+        "label_text": " Я"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 3 : Я слишком уродлива,даже не могу кричать в Snapchat,поэтому на reddit.",
+        "label_text": "r"
+    },
+    {
+        "source": "原文 : It actually hurts my brain trying to add the T, and I sound American if I do or still say wut-ta.",
+        "hyp": "文 5 : Мой мозг болит, когда я пытаюсь добавить \"t\", тогда как если я произношу \"woot-ta\" или какой-то другой звук, я звучу как американец.",
+        "label_text": "oo"
+    },
+    {
+        "source": "原文 : One of her friend said that she was sad as fuck all day because of me but didn’t want to say why.",
+        "hyp": "文 4 : Одна из ее подруг сказала, что весь день была грустной, как черт, из-за меня, но не захотела сказать, почему.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m most scared that in the future when I’m working, people will look down on SMU like elitism discrimination all that, I don’t know, man.",
+        "hyp": "文 2 : Больше всего меня пугает, что в будущем, когда я буду работать, люди будут смотреть на SMU свысока, как на элитарную дискриминацию и все такое, я не знаю,брат.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 4 : Я знаю, что натуральные продукты не будут пахнуть так же красиво, как синтетические, но мне кажется, что все больше и больше натуральных линий просто не заботятся об этом, потому что это все равно будет продаваться, и теперь все пахнет как тесто для игры.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 4 : Я знаю, что натуральные продукты не будут пахнуть так же красиво, как синтетические, но мне кажется, что все больше и больше натуральных линий просто не заботятся об этом, потому что это все равно будет продаваться, и теперь все пахнет как тесто для игры.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 4 : Я знаю, что натуральные продукты не будут пахнуть так же красиво, как синтетические, но мне кажется, что все больше и больше натуральных линий просто не заботятся об этом, потому что это все равно будет продаваться, и теперь все пахнет как тесто для игры.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 1 : Я еще учусь, и игры — моя мечта… и эти цены наводят на меня депрессию и безысходность от жизни…честно говорю…",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : its a bit unnerving to manage expenses on 1 persons salary in this place....",
+        "hyp": "文 3 : Немного нервирует то, что в этом месте приходится справляться с расходами на зарплату одного человека....",
+        "label_text": "Н"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 5 : Не было выявлено существенных различий в распространенности радиологической пневмонии или сердечно-сосудистых нарушений, а также в 28-дневной смертности между детьми с тяжелой гипоксемией (SpO<sub>2</sub>: < 80%) и детьми с легкой гипоксемией (SpO<sub >2</sub>: от 80 до < 92%).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 5 : Не было выявлено существенных различий в распространенности радиологической пневмонии или сердечно-сосудистых нарушений, а также в 28-дневной смертности между детьми с тяжелой гипоксемией (SpO<sub>2</sub>: < 80%) и детьми с легкой гипоксемией (SpO<sub >2</sub>: от 80 до < 92%).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 5 : Не было выявлено существенных различий в распространенности радиологической пневмонии или сердечно-сосудистых нарушений, а также в 28-дневной смертности между детьми с тяжелой гипоксемией (SpO<sub>2</sub>: < 80%) и детьми с легкой гипоксемией (SpO<sub >2</sub>: от 80 до < 92%).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : It is with a broken heart that I must tell you of the death of my beloved wife, husband John Furlong confirmed in a statement on Friday morning.",
+        "hyp": "文 2 : С разбитым сердцем я должен сообщить вам о смерти моей любимой жены, - подтвердил муж Джон Ферлонг в своем заявлении в пятницу утром.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I dont know how long this is gonna take but probably quite awhile.",
+        "hyp": "文 3 : Я не знаю, сколько времени это займет, но, вероятно, довольно долго.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I dont know how long this is gonna take but probably quite awhile.",
+        "hyp": "文 4 : Я не знаю, сколько времени это займет, но, вероятно, довольно долго.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",
+        "hyp": "文 3 : Так увлекательно, нервно, стрессово и все то хорошее, что мне нравится в работе над играми.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : We are probably not getting him the ball as much as we need.",
+        "hyp": "文 2 : Возможно, мы не даем ему мяч так нужн, как нам нужно.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Okay, so I’ve got less than a chapter left in Gardens of the Moon and I still can’t understand what the fuck Oponn is trying to achieve through all their/its meddling.",
+        "hyp": "文 1 : Итак, до конца \"Садов Луны\" осталось меньше главы, а я все еще не могу понять, какого хрена Опонн пытается добиться своим вмешательством.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Okay, so I’ve got less than a chapter left in Gardens of the Moon and I still can’t understand what the fuck Oponn is trying to achieve through all their/its meddling.",
+        "hyp": "文 1 : Итак, до конца \"Садов Луны\" осталось меньше главы, а я все еще не могу понять, какого хрена Опонн пытается добиться своим вмешательством.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I don't like when ppl mumble on the phone or if they ramble on and it's all about then.",
+        "hyp": "文 5 : Мне не нравится, когда люди бормочут по телефону или если они болтают, и все дело в этом.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Tell me about yourself and we can go from there.",
+        "hyp": "文 3 : Расскажи мне о себе, и мы пойдем дальше.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Vacuum won’t stop sucking. Please send help. Is it going to blow?",
+        "hyp": "文 1 : Пылесос не перестает сосать. Пожалуйста, пришлите помощь. Он собирается взорваться?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 3 : Вратарю \"Эвертона\" Тиму Ховарду пришлось спасать от Сандро, Кайла Уокера и Льюиса Холтби, а мародерствующему левому защитнику \"шпор\" Яну Вертонгену пришлось отказать в назначении пенальти после того, как его подрезал Шеймус Коулмэн.",
+        "label_text": "шпор"
+    },
+    {
+        "source": "原文 : From a previous marriage, she has a daughter named Cheyan and a son named Dakota.",
+        "hyp": "文 1 : От предыдущего брака у нее есть дочь Чеян и сын Дакота.",
+        "label_text": "Чеян"
+    }
+]

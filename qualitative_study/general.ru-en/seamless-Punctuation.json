@@ -1,0 +1,472 @@
+[
+    {
+        "source": "原文 : Сельхозтоваропроизводители округа эту роль с честью выполняют, - подчеркнул Анатолий Прокопьев.",
+        "hyp": "文 1 : The agricultural producers of the district are fulfilling this role with honor, Anatoly Prokopyev stressed.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Сельхозтоваропроизводители округа эту роль с честью выполняют, - подчеркнул Анатолий Прокопьев.",
+        "hyp": "文 1 : The agricultural producers of the district are fulfilling this role with honor, Anatoly Prokopyev stressed.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 2 : The author is also interested in the screwdriver that explores the electric meter, and the piece of unsalted cream that floats on the cast-iron pan, all of which turns the story of the unemployed miner, his rare-toothed lover and her head-brother into a real dock-canvas of oil.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 2 : The author is also interested in the screwdriver that explores the electric meter, and the piece of unsalted cream that floats on the cast-iron pan, all of which turns the story of the unemployed miner, his rare-toothed lover and her head-brother into a real dock-canvas of oil.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 4 : Watch George Clooney team up with rock photographer-now-director Anton Corbijn (Control) for a very curious existential study of the psychology of an aging assassin hiding from the people of a small Italian town and belatedly grasping human nature.",
+        "label_text": "("
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 4 : Watch George Clooney team up with rock photographer-now-director Anton Corbijn (Control) for a very curious existential study of the psychology of an aging assassin hiding from the people of a small Italian town and belatedly grasping human nature.",
+        "label_text": ") "
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 4 : Watch George Clooney team up with rock photographer-now-director Anton Corbijn (Control) for a very curious existential study of the psychology of an aging assassin hiding from the people of a small Italian town and belatedly grasping human nature.",
+        "label_text": "("
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 4 : Watch George Clooney team up with rock photographer-now-director Anton Corbijn (Control) for a very curious existential study of the psychology of an aging assassin hiding from the people of a small Italian town and belatedly grasping human nature.",
+        "label_text": ") "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 3 : Most often, viral proteins were observed in the head and neck of sperm, less often in the middle and tail, rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 3 : Most often, viral proteins were observed in the head and neck of sperm, less often in the middle and tail, rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 3 : Most often, viral proteins were observed in the head and neck of sperm, less often in the middle and tail, rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 3 : Most often, viral proteins were observed in the head and neck of sperm, less often in the middle and tail, rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 5 : Hereditary optic neuropathies (HON) are a group of neurodegenerative diseases characterized by the primary loss of structure and function of retinal ganglion cells with subsequent death of their axons, development of partial atrophy of the optic nerves.",
+        "label_text": "are"
+    },
+    {
+        "source": "原文 : И обязательно рекомендую русский корпус нижегородского художественного музея - неожиданно прекрасная крллекция",
+        "hyp": "文 4 : And I would definitely recommend the Russian building of the Nizhny Novgorod Art Museum - an unexpectedly beautiful collection.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : И обязательно рекомендую русский корпус нижегородского художественного музея - неожиданно прекрасная крллекция",
+        "hyp": "文 4 : And I would definitely recommend the Russian building of the Nizhny Novgorod Art Museum - an unexpectedly beautiful collection.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 5 : At the moment, Rossoneri have moved up to third place in the standings with 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 5 : At the moment, Rossoneri have moved up to third place in the standings with 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 5 : At the moment, Rossoneri have moved up to third place in the standings with 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 5 : At the moment, Rossoneri have moved up to third place in the standings with 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 1 : She'll set up one accident after another, run through the walls of the Matrix and, like children, scatter strong men in the same strict suits.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 1 : She'll set up one accident after another, run through the walls of the Matrix and, like children, scatter strong men in the same strict suits.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 1 : She'll set up one accident after another, run through the walls of the Matrix and, like children, scatter strong men in the same strict suits.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 1 : She'll set up one accident after another, run through the walls of the Matrix and, like children, scatter strong men in the same strict suits.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Кроме того, этот проект — еще одно подтверждение самых долгих любовных отношений в жизни Клуни - с Италией: съемки проходили в живописном городке Кастель-дель-Монте в Абруццо.",
+        "hyp": "文 5 : In addition, this project is another confirmation of the longest love affair in Clooney's life - with Italy: the filming took place in the picturesque town of Castel del Monte in Abruzzo.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 1 : The use of the drug \"Brainmax\" led to a significant improvement in cognitive performance (concentration and maintenance of attention, working memory, visual-constructive skills, volume and speed of switching attention, speed of information processing and executive functions), reduction in the severity of asthenia and improvement in quality of life.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 1 : The use of the drug \"Brainmax\" led to a significant improvement in cognitive performance (concentration and maintenance of attention, working memory, visual-constructive skills, volume and speed of switching attention, speed of information processing and executive functions), reduction in the severity of asthenia and improvement in quality of life.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 1 : The use of the drug \"Brainmax\" led to a significant improvement in cognitive performance (concentration and maintenance of attention, working memory, visual-constructive skills, volume and speed of switching attention, speed of information processing and executive functions), reduction in the severity of asthenia and improvement in quality of life.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 1 : The use of the drug \"Brainmax\" led to a significant improvement in cognitive performance (concentration and maintenance of attention, working memory, visual-constructive skills, volume and speed of switching attention, speed of information processing and executive functions), reduction in the severity of asthenia and improvement in quality of life.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 2 : The most complex film \"The Cinematographer\" has already been selected for the Karlovy Vary competition. The director's star is born.",
+        "label_text": ". "
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 2 : The most complex film \"The Cinematographer\" has already been selected for the Karlovy Vary competition. The director's star is born.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 5 : At a round table devoted to the fate of the Russian art house, the chairman of the Foundation for the Support of Russian Cinema, Sergei Tolstykov, had a picturesque quarrel with the critics: \"Do you even read the articles in the press that I read?\" he asked the audience.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 5 : At a round table devoted to the fate of the Russian art house, the chairman of the Foundation for the Support of Russian Cinema, Sergei Tolstykov, had a picturesque quarrel with the critics: \"Do you even read the articles in the press that I read?\" he asked the audience.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Ваш партнер по фильму Александр Яценко совершенно не похож на своего героя.",
+        "hyp": "文 1 : Your partner in the film, Alexander Yatsenko, is nothing like his hero.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : СПОРТСМЕНЫ, ТРЕНЕРЫ, ПРЕДСТАВИТЕЛИ ОБЯЗАНЫ ПРЕДОСТАВИТЬ В СЕКРЕТАРИАТ СПРАВКУ С ОТРИЦАТЕЛЬНЫМ РЕЗУЛЬТАТОМ ППР-ТЕСТА НА СОУШ-19, С ДАТОЙ ЗАБОРА БИОМАТЕРИАЛА НЕ ПОЗДНЕЕ 72 ЧАСОВ ОТ МОМЕНТА ЯВКИ НА МАНДАТНУЮ КОМИССИЮ.",
+        "hyp": "文 4 : \"Sportsmen, coaches, representatives are obliged to submit to the Secretariat of the Ministry of Health with a negative result of the PCR test no later than 72 hours from the date of collection of the biomaterials.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : СПОРТСМЕНЫ, ТРЕНЕРЫ, ПРЕДСТАВИТЕЛИ ОБЯЗАНЫ ПРЕДОСТАВИТЬ В СЕКРЕТАРИАТ СПРАВКУ С ОТРИЦАТЕЛЬНЫМ РЕЗУЛЬТАТОМ ППР-ТЕСТА НА СОУШ-19, С ДАТОЙ ЗАБОРА БИОМАТЕРИАЛА НЕ ПОЗДНЕЕ 72 ЧАСОВ ОТ МОМЕНТА ЯВКИ НА МАНДАТНУЮ КОМИССИЮ.",
+        "hyp": "文 4 : \"Sportsmen, coaches, representatives are obliged to submit to the Secretariat of the Ministry of Health with a negative result of the PCR test no later than 72 hours from the date of collection of the biomaterials.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 3 : Turkey's state-run Anadolu news agency cited other sources as saying that the Marghar-Alijan border crossing was last used to deliver humanitarian aid to Armenia to deal with the aftermath of the devastating 1988 earthquake.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 3 : Turkey's state-run Anadolu news agency cited other sources as saying that the Marghar-Alijan border crossing was last used to deliver humanitarian aid to Armenia to deal with the aftermath of the devastating 1988 earthquake.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 3 : Turkey's state-run Anadolu news agency cited other sources as saying that the Marghar-Alijan border crossing was last used to deliver humanitarian aid to Armenia to deal with the aftermath of the devastating 1988 earthquake.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 3 : Turkey's state-run Anadolu news agency cited other sources as saying that the Marghar-Alijan border crossing was last used to deliver humanitarian aid to Armenia to deal with the aftermath of the devastating 1988 earthquake.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В соответствии с классификацией PASCAL у 93% пациентов НЦН ООО может рассматриваться в качестве вероятной причины ИИ, тогда как в группе ГКБ №4 вероятная причинно-следственная связь прослеживалась только в 51% случаев, у 18% пациентов роль аномалии в развитии инсульта была маловероятной.",
+        "hyp": "文 2 : According to the PASCAL classification, in 93% of patients, NCDs can be considered as a probable cause of stroke, whereas in the GBC-4 group, a probable causal relationship was detected only in 51% of cases; in 18% of patients, the role of the abnormality in stroke development was unlikely.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Девушка отвечает, дескать, нет у них чашек объемом 300 мл.",
+        "hyp": "文 4 : The girl replies, \"They say they don't have 300 ml cups\".",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Девушка отвечает, дескать, нет у них чашек объемом 300 мл.",
+        "hyp": "文 4 : The girl replies, \"They say they don't have 300 ml cups\".",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Вопрос проработаем с учетом камер \"Безопасный регион\", - рассказал глава муниципалитета Сергей Никитенко.",
+        "hyp": "文 1 : \"We will work on this issue, taking into account the Safe Region cameras,\" said the head of the municipality, Sergei Nikitinko.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Вопрос проработаем с учетом камер \"Безопасный регион\", - рассказал глава муниципалитета Сергей Никитенко.",
+        "hyp": "文 1 : \"We will work on this issue, taking into account the Safe Region cameras,\" said the head of the municipality, Sergei Nikitinko.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Иногда бывает мало места пройти между рядами , а также не очень приятно когда товар стоит прямо на полу , без поддонов, но это скорее замечание к организации, а не к конкретному магазину",
+        "hyp": "文 4 : Sometimes there is little room to pass between the rows, and it is also not very pleasant when the product stands directly on the floor, without pallets, but this is more a remark to the organization, and not to the specific store.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : В результате осадки выпадают раньше, чем планировалось, и именно в том месте, где произошло воздействие на облако».",
+        "hyp": "文 2 : As a result, precipitation falls earlier than planned, and precisely in the place where the cloud was affected.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Я конкретно про \"лягушонок\", Тренер наш Анастасия Витальевна очень нравится ребенку и профессиональна!!",
+        "hyp": "文 5 : I'm specifically talking about the frog, our coach Anastasia Vitalyevna is very fond of the child and professional!!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Я конкретно про \"лягушонок\", Тренер наш Анастасия Витальевна очень нравится ребенку и профессиональна!!",
+        "hyp": "文 5 : I'm specifically talking about the frog, our coach Anastasia Vitalyevna is very fond of the child and professional!!",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : \"В 2023 году это число может вырасти до 10 тыс\"., - говорил он.",
+        "hyp": "文 1 : \"In 2023, this number could rise to 10,000,\" he said.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"В 2023 году это число может вырасти до 10 тыс\"., - говорил он.",
+        "hyp": "文 4 : \"In 2023, this number could rise to 10,000,\" he said.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Переход на армяно-турецкой границе открыли впервые за десятилетия для доставки гуманитарной помощи",
+        "hyp": "文 2 : The Armenian-Turkish border crossing was opened for the first time in decades for the delivery of humanitarian aid.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Машину расчитывал получить месяца через 3-3,5 (как было оговорено), но факту вышло 4,5 месяца - задержка была вызвана обстановкой на границе Литвы с Белоруссией (Литва исполняла).",
+        "hyp": "文 4 : The car was expected to arrive in three to three and a half months, but in fact it took four and a half months - the delay was caused by the situation on the border of Lithuania with Belarus.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Машину расчитывал получить месяца через 3-3,5 (как было оговорено), но факту вышло 4,5 месяца - задержка была вызвана обстановкой на границе Литвы с Белоруссией (Литва исполняла).",
+        "hyp": "文 4 : The car was expected to arrive in three to three and a half months, but in fact it took four and a half months - the delay was caused by the situation on the border of Lithuania with Belarus.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Цукерберг запускает сайт по целому ряду причин: отчасти из-за озлобленности на окружающий мир, отчасти из-за спортивного интереса и отчасти просто потому, что ЭТО «круто».",
+        "hyp": "文 5 : Zuckerberg is launching the site for a number of reasons: partly out of anger at the world around him, partly out of sporting interest, and partly simply because it's cool.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Использование интраоперационного нейрофизиологического картирования коры головного мозга у пациентки в сознании по протоколу <i>asleep-awake-sedation</i> позволило верифицировать локализацию речевой зоны Вернике.",
+        "hyp": "文 2 : The use of intraoperative neurophysiological mapping of the cerebral cortex in a conscious patient according to the asleep-awake-sedation protocol allowed to verify the localization of the speech zone of Wernicke.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Использование интраоперационного нейрофизиологического картирования коры головного мозга у пациентки в сознании по протоколу <i>asleep-awake-sedation</i> позволило верифицировать локализацию речевой зоны Вернике.",
+        "hyp": "文 2 : The use of intraoperative neurophysiological mapping of the cerebral cortex in a conscious patient according to the asleep-awake-sedation protocol allowed to verify the localization of the speech zone of Wernicke.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Так было со спагетти-вестернами Серджио Леоне, с гангстерскими боевиками Квентина Тарантино, с упомянутым «Индианой Джонсом» (ему тут и поклон сделали, и высмеяли), наконец, с тем же «Пятым элементом».",
+        "hyp": "文 4 : So it was with Sergio Leone's spaghetti westerns, with Quentin Tarantino's gangster action movies, with the aforementioned Indiana Jones (who was bowed down and ridiculed), and finally with the same Fifth Element.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Так было со спагетти-вестернами Серджио Леоне, с гангстерскими боевиками Квентина Тарантино, с упомянутым «Индианой Джонсом» (ему тут и поклон сделали, и высмеяли), наконец, с тем же «Пятым элементом».",
+        "hyp": "文 4 : So it was with Sergio Leone's spaghetti westerns, with Quentin Tarantino's gangster action movies, with the aforementioned Indiana Jones (who was bowed down and ridiculed), and finally with the same Fifth Element.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Так было со спагетти-вестернами Серджио Леоне, с гангстерскими боевиками Квентина Тарантино, с упомянутым «Индианой Джонсом» (ему тут и поклон сделали, и высмеяли), наконец, с тем же «Пятым элементом».",
+        "hyp": "文 4 : So it was with Sergio Leone's spaghetti westerns, with Quentin Tarantino's gangster action movies, with the aforementioned Indiana Jones (who was bowed down and ridiculed), and finally with the same Fifth Element.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Так было со спагетти-вестернами Серджио Леоне, с гангстерскими боевиками Квентина Тарантино, с упомянутым «Индианой Джонсом» (ему тут и поклон сделали, и высмеяли), наконец, с тем же «Пятым элементом».",
+        "hyp": "文 4 : So it was with Sergio Leone's spaghetti westerns, with Quentin Tarantino's gangster action movies, with the aforementioned Indiana Jones (who was bowed down and ridiculed), and finally with the same Fifth Element.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Тонкому артхаусному артисту пока удалось отвоевать в Голливуде лишь острохарактерные роли второго плана, но очень хочется верить, что после «Центуриона» ситуация изменится.",
+        "hyp": "文 2 : The thin arthouse artist has so far managed to win only high-profile supporting roles in Hollywood, but it's hard to believe that things will change after Centurion.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Тонкому артхаусному артисту пока удалось отвоевать в Голливуде лишь острохарактерные роли второго плана, но очень хочется верить, что после «Центуриона» ситуация изменится.",
+        "hyp": "文 2 : The thin arthouse artist has so far managed to win only high-profile supporting roles in Hollywood, but it's hard to believe that things will change after Centurion.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : \"Трансформация в массовом сознании гендерных представлений об исследовательской компетентности женщин способствует привлечению молодых женщин в науку, развитию их творческого потенциала, формированию успешной ролевой модели женщины-ученого, в том числе путем передачи опыта и института наставничества\", - отметила Алеся Соловей.",
+        "hyp": "文 4 : \"The transformation in the mass consciousness of gender perceptions about women's research competence contributes to attracting young women to science, developing their creative potential, forming a successful role model of a woman scientist, including through the transfer of experience and the institute of mentoring,\" said Alesya Solovey.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В качестве возможных преемников называются Дэвид Иейтс, закончивший съемки саги о Гарри Поттере, и Нил Бломкамп, чей фильм «Район №9», спродюсированный Джексоном, получил номинацию на «Оскар».",
+        "hyp": "文 1 : David Yates, who finished filming the Harry Potter saga, and Neil Blomkamp, whose film District 9, produced by Jackson, received an Oscar nomination, are mentioned as possible successors.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В качестве возможных преемников называются Дэвид Иейтс, закончивший съемки саги о Гарри Поттере, и Нил Бломкамп, чей фильм «Район №9», спродюсированный Джексоном, получил номинацию на «Оскар».",
+        "hyp": "文 1 : David Yates, who finished filming the Harry Potter saga, and Neil Blomkamp, whose film District 9, produced by Jackson, received an Oscar nomination, are mentioned as possible successors.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Продолжение истории про школьницу Беллу (Кристен Стюарт) и ее сложные отношения с двумя крайне перспективными молодыми людьми — бледнолицым вампиром Эдвардом (Роберт Паттинсон) и оборотнем-культуристом Джейкобом (Тэйлор Лотнер).",
+        "hyp": "文 1 : The sequel to the story of schoolgirl Bella (Kristen Stewart) and her complex relationship with two extremely promising young men, the pale-faced vampire Edward (Robert Pattinson) and the werewolf bodybuilder Jacob (Taylor Lautner).",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Интересные уроки в школьном музее, разные мероприятия проводятся в течении учебного года",
+        "hyp": "文 3 : Interesting lessons in the school museum, various events are held during the school year.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Матчи аравийцев тоже получались достаточно яркими: в 1/4 финала оформили ничью 1:1 и победу в серии пенальти, а в полуфинале - драматичные 3:2.",
+        "hyp": "文 4 : The matches of the Arabs also turned out to be quite bright: in the quarterfinals they drew 1-1 and won the penalty shootout, and in the semi-finals - dramatic 3:2.",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : При утяжелении степени РПГИС пропорционально возрастают ишемические изменения во всех капиллярных слоях центральных отделов сетчатки по сравнению с группой контроля в 1,15 раза при легкой степени, в 1,24 раза при средней степени, в 1,5 раза при тяжелой степени.",
+        "hyp": "文 2 : When the severity of RPGIS increases, ischemic changes in all capillary layers of the central part of the retina increase proportionally compared to the control group: 1.15 times in mild cases, 1.24 times in moderate cases, 1.5 times in severe cases.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Такой же анализ проводился в случае с поврежденным радиатором корабля \"Союз МС-22\".",
+        "hyp": "文 4 : The same analysis was carried out in the case of the damaged radiator of the Soyuz MS-22.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Такой же анализ проводился в случае с поврежденным радиатором корабля \"Союз МС-22\".",
+        "hyp": "文 4 : The same analysis was carried out in the case of the damaged radiator of the Soyuz MS-22.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 3 : Severstal has 64 points and occupies the seventh place in the tournament table of the Western Conference, Amur also has 64 points, the team is in ninth place in the East.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 3 : Severstal has 64 points and occupies the seventh place in the tournament table of the Western Conference, Amur also has 64 points, the team is in ninth place in the East.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 3 : Severstal has 64 points and occupies the seventh place in the tournament table of the Western Conference, Amur also has 64 points, the team is in ninth place in the East.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 3 : Severstal has 64 points and occupies the seventh place in the tournament table of the Western Conference, Amur also has 64 points, the team is in ninth place in the East.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Были в баре дважды, все понравилось, вежливый персонал, вкусные блюда и самое главное - отличная музыка, диджеи знают своё дело.",
+        "hyp": "文 3 : We've been to the bar twice, everything was great, the staff was polite, the food was delicious, and most importantly, the music was great, the DJs knew their stuff.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Не спать, не есть сутками - и все равно, хоть гром, хоть град.",
+        "hyp": "文 3 : Not sleeping, not eating for days and nights, and all the same, thunder, hail.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Пусть годаровские монтажные ходы в истории о двух школьниках, один из которых мечтает сделать бомбу, а другой — сыграть Баха задом наперед, выглядят странно, но за редкую попытку поэтизации окружающей реальности — спасибо.",
+        "hyp": "文 5 : The story of two schoolchildren, one of whom dreams of making a bomb and the other of playing Bach backwards, looks strange, but for a rare attempt to poeticise the surrounding reality, thank you.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Возникшие у беременных россиянок проблемы с въездом в Аргентину объяснили",
+        "hyp": "文 2 : Pregnant Russian women have problems entering Argentina.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Если судить по трейлеру, визуальные эксперименты Корбайна, приправленные пепельной шевелюрой Клуни (фильм похож на длинный клип 02), вышли на качественно новый уровень.",
+        "hyp": "文 1 : Judging by the trailer, Corbyn's visual experiments, spiced with Clooney's ashtray (the film is similar to the long clip of '02), have reached a qualitatively new level.",
+        "label_text": "'"
+    },
+    {
+        "source": "原文 : Ранее доводилось делать узи сердца, но чтобы так - впервые (к сожалению, не знаю имя врача, молодой мужчина).",
+        "hyp": "文 4 : I've done heart surgery before, but this is the first time I've done it. Unfortunately, I don't know the name of the doctor.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Важно, чтобы логистические службы компаний постоянно взаимодействовали с нашими \"смежниками\" (портами, операторами, морским транспортом) и находили оптимальные ценовые условия для перевозки своей продукции по новым схемам, - подчеркнул Алексей Шило.",
+        "hyp": "文 2 : \"It is important that the logistics services of the companies constantly interact with our interlocutors (ports, operators, sea transport) and find the optimal price conditions for the transportation of their products according to new schemes,\" Shilo said.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Важно, чтобы логистические службы компаний постоянно взаимодействовали с нашими \"смежниками\" (портами, операторами, морским транспортом) и находили оптимальные ценовые условия для перевозки своей продукции по новым схемам, - подчеркнул Алексей Шило.",
+        "hyp": "文 2 : \"It is important that the logistics services of the companies constantly interact with our interlocutors (ports, operators, sea transport) and find the optimal price conditions for the transportation of their products according to new schemes,\" Shilo said.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Важно, чтобы логистические службы компаний постоянно взаимодействовали с нашими \"смежниками\" (портами, операторами, морским транспортом) и находили оптимальные ценовые условия для перевозки своей продукции по новым схемам, - подчеркнул Алексей Шило.",
+        "hyp": "文 2 : \"It is important that the logistics services of the companies constantly interact with our interlocutors (ports, operators, sea transport) and find the optimal price conditions for the transportation of their products according to new schemes,\" Shilo said.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Важно, чтобы логистические службы компаний постоянно взаимодействовали с нашими \"смежниками\" (портами, операторами, морским транспортом) и находили оптимальные ценовые условия для перевозки своей продукции по новым схемам, - подчеркнул Алексей Шило.",
+        "hyp": "文 2 : \"It is important that the logistics services of the companies constantly interact with our interlocutors (ports, operators, sea transport) and find the optimal price conditions for the transportation of their products according to new schemes,\" Shilo said.",
+        "label_text": ",\""
+    },
+    {
+        "source": "原文 : Впрочем, и деловые мероприятия на «Кинотавре» носили ощутимый отпечаток шоу — не было скучно ни на одном.",
+        "hyp": "文 3 : However, the business events at the \"Kinotavr\" also had a tangible imprint of the show. It was not boring at all.",
+        "label_text": ". "
+    }
+]

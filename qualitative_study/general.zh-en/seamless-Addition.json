@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 5 : Eight hundred years ago, the Nine Emperors of the Song Dynasty became a thing of the past and disappeared into the mists of history.",
+        "label_text": " of the Song Dynasty "
+    },
+    {
+        "source": "原文 : 目前根据官方统计，周一的地震已经在土耳其造成超过2万人死亡，邻国叙利亚的死亡人数估计在3500人以上。",
+        "hyp": "文 2 : Currently, according to official statistics, Monday's earthquake has already killed more than 20,000 people in Turkey, and the death toll in neighboring Syria is estimated at more than 3,500 people.",
+        "label_text": "Currently, "
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 2 : Administratively, Castilla-La Mancha is part of the French region of Nouvelle-Aquitaine, in the department of Lot-et-Garonne; in local elections, Castilla-La Mancha is the seat of the central polling station, and the entire territory of the municipality is divided into: in social administration, Castilla-La Mancha is part of the canton.",
+        "label_text": "the canton"
+    },
+    {
+        "source": "原文 : 赵甫好奇走上前，握住那颗晶石，漂浮在半空中晶石毫无反应的被赵甫一把握住。",
+        "hyp": "文 2 : Curious, he walked up and grabbed the crystal, which floated in mid-air without reacting, and grabbed it.",
+        "label_text": ", and grabbed it"
+    },
+    {
+        "source": "原文 : 唐恩躺在地上，他的浅灰色西服已经湿透，皱巴巴的沾着草屑和泥土，看上去就好像刚被用过的抹布。",
+        "hyp": "文 2 : Don was lying on the ground, his light gray suit was wet, his pants were covered with grass and dirt, and he looked as if he had just been worn out.",
+        "label_text": " his pants"
+    }
+]

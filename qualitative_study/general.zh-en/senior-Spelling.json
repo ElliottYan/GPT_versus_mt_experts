@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 1 : The fantasy costume drama Magic Star: Young Heroes Saving the World starred by Wu Lei was first shown on January 3, 2017, and he portrayed a half-human, half-demon young hero, Zhan Xiongfei in the drama. This drama had garnered over 1.3 billion views by the end of its run. Then, he co-starred with Lin Yun in another fantasy costume drama Battle Through the Heaven adapted from the novel of the same name by Heavenly Silkworm Potato, and played the role Xiao Yan. On February 3, he joined the reality show Twenty-Four Hours Season 2. In March, he joined the cast of the drama film Shadow. On May 5, he joined the culture-based mystery show 72 Floors of Mystery as a regular host. On September 30, his action movie Smart Chase was on show, in which he portrayed Tang Dingdang, a genius juvenile proficient in various high-end technologies. In the same year, he also starred in the adventure drama Sand Sea as the key haracter Li Cu.",
+        "label_text": "haracter"
+    },
+    {
+        "source": "原文 : “将外星飞船与气象气球混为一谈的讽刺意味很令人惊讶，但这不值得引发一场星际冲突，”梅杰说。",
+        "hyp": "文 4 : Peter Meijer twittered, \"...; the irony of confusing an alien spacecraft for a weather balloon would be amazing but not worth starting an interstellar conflict.\"",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 3 : An articled published in the Billboard in August 2021 noted: The fans of BTS exploited an advantage concerning the billboard \"in an aboveboard way\" to promote the rankings of BTS's singles including Butter in the United States, listing them in the first group of the Top 100 for weeks. Although the list of Top 100 Singles usually depends on the streaming media and amount of playing, the ranking of Butter is primarily based on the sales (mostly via BTS's online store, which, different from iTunes, allows fans to purchase multiple copies of a song) and fan-led crowdfunding activities (including using fund raised from global fans to make purchases that are only taken into account in American sales via PayPal and the like services). But an article published in The Korea Times refuted the allegation of billboard manipulation, arguing that the fans of other singers, including Justin Bieber and Ariana Grande, had also taken the similar promotional measures, which were neither illegal nor immoral, and that these fans are simply \"intelligent-device-based consumers that lead a global trend\".",
+        "label_text": "articled"
+    },
+    {
+        "source": "原文 : 他知道，这一刻起，他将以段凌天的身份融入这个陌生的世界。",
+        "hyp": "文 1 : He realized that from this moment on, he would immerse himself into this strange world under the identity of Duan Ling Tian.",
+        "label_text": "Ling Tian"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 4 : Despite this, Ning Cheng's grandfather, Ning Hongchang, still admitted Ji Luofei into their household.  He intended to let the two marry once Ning Cheng truly cultivated his qi.",
+        "label_text": "qi"
+    }
+]

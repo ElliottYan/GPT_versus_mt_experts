@@ -1,0 +1,57 @@
+[
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 3 : 我列出了我能想到的所有问题（好像很多，笑死了），所以要是有人花时间回答这些问题，我真的会感激不尽。",
+        "label_text": "好像很多，笑死了"
+    },
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 3 : 我列出了我能想到的所有问题（好像很多，笑死了），所以要是有人花时间回答这些问题，我真的会感激不尽。",
+        "label_text": "好像很多，笑死了"
+    },
+    {
+        "source": "原文 : If there's a ghost in the house, why the HELL would you go in the darkest and creepiest place in the house?!",
+        "hyp": "文 5 : 如果这房子里有鬼，那你TM为啥跑到房子最黑最吓人的地方去？",
+        "label_text": "TM"
+    },
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 2 : 如此一来，Humberto可以让同一角色的叙述声音表里不一，从而使同一现实有两个主观视角。一方面，可以根据叙述内容的背景对叙述内容进行直接、现实的解读，这个背景就是Humberto Peñaloza是一个中产阶级的法学生和作家，正在攀爬当代智利严格按阶层划分的社会阶梯。另一方面，也可以根据叙述内容那种模棱两可、暧昧不清的特征来解读叙述内容。之所以说模棱两可、暧昧不清是因为没有定义身份认同本身，历史是荒诞的产物，物质与精神世界的边界是破损且变化的，因而看起来是在反对现实世界和成熟社会的团结和永恒性，觉得在现实世界和成熟社会里，个人为了在社会中获得立足之地，不至于被边缘化，被迫失去部分身份认同和自由。",
+        "label_text": "模棱两可、暧昧不清"
+    },
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 2 : 如此一来，Humberto可以让同一角色的叙述声音表里不一，从而使同一现实有两个主观视角。一方面，可以根据叙述内容的背景对叙述内容进行直接、现实的解读，这个背景就是Humberto Peñaloza是一个中产阶级的法学生和作家，正在攀爬当代智利严格按阶层划分的社会阶梯。另一方面，也可以根据叙述内容那种模棱两可、暧昧不清的特征来解读叙述内容。之所以说模棱两可、暧昧不清是因为没有定义身份认同本身，历史是荒诞的产物，物质与精神世界的边界是破损且变化的，因而看起来是在反对现实世界和成熟社会的团结和永恒性，觉得在现实世界和成熟社会里，个人为了在社会中获得立足之地，不至于被边缘化，被迫失去部分身份认同和自由。",
+        "label_text": "暧昧不清"
+    },
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 2 : 如此一来，Humberto可以让同一角色的叙述声音表里不一，从而使同一现实有两个主观视角。一方面，可以根据叙述内容的背景对叙述内容进行直接、现实的解读，这个背景就是Humberto Peñaloza是一个中产阶级的法学生和作家，正在攀爬当代智利严格按阶层划分的社会阶梯。另一方面，也可以根据叙述内容那种模棱两可、暧昧不清的特征来解读叙述内容。之所以说模棱两可、暧昧不清是因为没有定义身份认同本身，历史是荒诞的产物，物质与精神世界的边界是破损且变化的，因而看起来是在反对现实世界和成熟社会的团结和永恒性，觉得在现实世界和成熟社会里，个人为了在社会中获得立足之地，不至于被边缘化，被迫失去部分身份认同和自由。",
+        "label_text": "暧昧不清"
+    },
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 2 : 如此一来，Humberto可以让同一角色的叙述声音表里不一，从而使同一现实有两个主观视角。一方面，可以根据叙述内容的背景对叙述内容进行直接、现实的解读，这个背景就是Humberto Peñaloza是一个中产阶级的法学生和作家，正在攀爬当代智利严格按阶层划分的社会阶梯。另一方面，也可以根据叙述内容那种模棱两可、暧昧不清的特征来解读叙述内容。之所以说模棱两可、暧昧不清是因为没有定义身份认同本身，历史是荒诞的产物，物质与精神世界的边界是破损且变化的，因而看起来是在反对现实世界和成熟社会的团结和永恒性，觉得在现实世界和成熟社会里，个人为了在社会中获得立足之地，不至于被边缘化，被迫失去部分身份认同和自由。",
+        "label_text": "暧昧不清"
+    },
+    {
+        "source": "原文 : On April 6, 1860, at a General Conference of the New Organization of the church in Amboy, Illinois, Joseph Smith III joined with the group and was sustained to follow in his father's role as President of the Church.",
+        "hyp": "文 2 : 1860年4月6日，在伊利诺斯州安博伊教会新组织大会上，Joseph Smith III与该团体联手，获得支持，追随其父脚步，担任教会会长。",
+        "label_text": "联手"
+    },
+    {
+        "source": "原文 : I’m pretty funny, not only because I manage to trip over air and choke on my own saliva far too often, but also because I’m just fucking hilarious to be honest.",
+        "hyp": "文 5 : 我这人挺有趣的，不仅仅是因为我经常走平路也能绊倒，被自己的口水呛到，还因为我真的太TM搞笑了，不骗你。",
+        "label_text": "TM"
+    },
+    {
+        "source": "原文 : You honestly deserve to get scammed if you give a random guy on the internet like 300€ worth of fake internet points, like wtf are you doing honestly LOL",
+        "hyp": "文 3 : 说实话，如果你随随便便就给一个网上认识的人300英镑的虚假网络积分，那你活该被骗，真的，你TM为啥会这样啊，笑死。",
+        "label_text": "TM"
+    },
+    {
+        "source": "原文 : I go to take it out and how tf am i supposed to do this with my long ass acrylic nails.",
+        "hyp": "文 5 : 我得把它取出来，但是我的美甲这么长，我TM该怎么取啊。",
+        "label_text": "TM"
+    }
+]

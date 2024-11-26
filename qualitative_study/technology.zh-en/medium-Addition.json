@@ -1,0 +1,7 @@
+[
+    {
+        "source": "原文 : 日前，乘联会发布3月乘用车市场分析，3月狭义乘用车零售销量158.7万台，同比增长0.3%，环比增长14.3%，其中MPV市场销量同比增长明显，达到38.6%。新能源汽车3月零售销量合计54.3万台，同比增长21.9%，环比增长23.6%。",
+        "hyp": "文 4 : A few days ago, CPCA released an analysis report of the passenger car market in March. The retail sales volume of special passenger cars in March was 1.587 million units, up 0.3% year-on-year and 14.3% month-on-month, among which the sales volume of MPVs increased significantly, up 38.6% year-on-year. The retail sales volume of NEVs in March totaled 543,000 units, up 21.9% year-on-year and 23.6% month-on-month.",
+        "label_text": "volume"
+    }
+]

@@ -1,0 +1,237 @@
+[
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 1 : Country R has developed a colorless and tasteless bioweapon, intending to transport it into China for a brutal conspiracy.",
+        "label_text": "China"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 5 : The mall near the Deep Valley Gardens Station is expected to receive 649,000 passengers a year, making it the third-busiest station after Kumagaya and Hanyū stations, and generating 300 million yen a year in revenue.",
+        "label_text": " Deep Valley Gardens Station "
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 5 : The mall near the Deep Valley Gardens Station is expected to receive 649,000 passengers a year, making it the third-busiest station after Kumagaya and Hanyū stations, and generating 300 million yen a year in revenue.",
+        "label_text": "Hanyū"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 5 : The mall near the Deep Valley Gardens Station is expected to receive 649,000 passengers a year, making it the third-busiest station after Kumagaya and Hanyū stations, and generating 300 million yen a year in revenue.",
+        "label_text": " Deep Valley Gardens Station "
+    },
+    {
+        "source": "原文 : 为了避免引起外界不必要的忧虑，误以为香港政府的财政实力及宏观经济的基础转弱，而影响香港的信贷评级，因此建议中的未来基金将仍然被列为香港政府财政储备的一部分。",
+        "hyp": "文 3 : To avoid the rise of unnecessary concern that the financial strength and macroeconomic fundamentals of the Hong Kong Government have been weakened, which would affect Hong Kong's credit rating, the proposed Mirae Fund will continue to be included as part of the Hong Kong Government's fiscal reserves.",
+        "label_text": "Mirae Fund"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 2 : The Type 25A bus, one of the air-conditioned buses of the Chinese Railways featuring centralized power supply, was manufactured by several domestic railroad factories after an international bidding process and with the use of loans. It is commonly referred to as the \"168\" bus, as 168 units were produced in total.",
+        "label_text": "Chinese Railways"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 2 : The Type 25A bus, one of the air-conditioned buses of the Chinese Railways featuring centralized power supply, was manufactured by several domestic railroad factories after an international bidding process and with the use of loans. It is commonly referred to as the \"168\" bus, as 168 units were produced in total.",
+        "label_text": "Chinese Railways"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 4 : With the rise of concert culture, Luo Wen held many solo concerts at the Lee Theatre starting from 1978 and then expanded his career overseas, becoming the first Oriental singer to perform at the Royal Albert Hall in London (1979) and the first Chinese singer to perform at Lincoln Center in New York City (1980). He also held solo concerts at Madison Square in New York City and the National Theatre in Singapore, becoming the first Chinese singer to hold a solo concert at the former.",
+        "label_text": "Luo Wen"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 4 : With the rise of concert culture, Luo Wen held many solo concerts at the Lee Theatre starting from 1978 and then expanded his career overseas, becoming the first Oriental singer to perform at the Royal Albert Hall in London (1979) and the first Chinese singer to perform at Lincoln Center in New York City (1980). He also held solo concerts at Madison Square in New York City and the National Theatre in Singapore, becoming the first Chinese singer to hold a solo concert at the former.",
+        "label_text": "Madison Square"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 4 : With the rise of concert culture, Luo Wen held many solo concerts at the Lee Theatre starting from 1978 and then expanded his career overseas, becoming the first Oriental singer to perform at the Royal Albert Hall in London (1979) and the first Chinese singer to perform at Lincoln Center in New York City (1980). He also held solo concerts at Madison Square in New York City and the National Theatre in Singapore, becoming the first Chinese singer to hold a solo concert at the former.",
+        "label_text": " Luo Wen"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 1 : Captain and Communicator (Vice-Captain of the Chariot Department) of M4 Sherman (76mm turret type) Chariot, a sophomore at Sandals University High School, who first appeared in the 4th episode of this story, is good at devising tactics and serves as the team's military advisor, but would get very emotional and easily tense during chariot road races. In a race with the Oarai Women's Academy, she panicked and messed up, affecting the morale of her teammates. Taking advantage of a loophole in the rules, she secretly used a spy balloon to eavesdrop on information, but was backfired on, causing the whole team to lose the advantage and lose the battle. She was punished by Kaye for that. When she is sad or angry, she would inexplicably mention the boy she has a crush on (Takashi), and is consoled by the Bunny Team for this reason in the theatrical version. She is a tough talker and is always full of ideas. She is just a girl with a rich character and a silly personality. In the 3rd episode of the final chapter, she falls for the Continuation High School's trap, which leads to the destruction of the flag car she is in.",
+        "label_text": "Sandals University High School"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 1 : Captain and Communicator (Vice-Captain of the Chariot Department) of M4 Sherman (76mm turret type) Chariot, a sophomore at Sandals University High School, who first appeared in the 4th episode of this story, is good at devising tactics and serves as the team's military advisor, but would get very emotional and easily tense during chariot road races. In a race with the Oarai Women's Academy, she panicked and messed up, affecting the morale of her teammates. Taking advantage of a loophole in the rules, she secretly used a spy balloon to eavesdrop on information, but was backfired on, causing the whole team to lose the advantage and lose the battle. She was punished by Kaye for that. When she is sad or angry, she would inexplicably mention the boy she has a crush on (Takashi), and is consoled by the Bunny Team for this reason in the theatrical version. She is a tough talker and is always full of ideas. She is just a girl with a rich character and a silly personality. In the 3rd episode of the final chapter, she falls for the Continuation High School's trap, which leads to the destruction of the flag car she is in.",
+        "label_text": "Kaye"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 1 : Captain and Communicator (Vice-Captain of the Chariot Department) of M4 Sherman (76mm turret type) Chariot, a sophomore at Sandals University High School, who first appeared in the 4th episode of this story, is good at devising tactics and serves as the team's military advisor, but would get very emotional and easily tense during chariot road races. In a race with the Oarai Women's Academy, she panicked and messed up, affecting the morale of her teammates. Taking advantage of a loophole in the rules, she secretly used a spy balloon to eavesdrop on information, but was backfired on, causing the whole team to lose the advantage and lose the battle. She was punished by Kaye for that. When she is sad or angry, she would inexplicably mention the boy she has a crush on (Takashi), and is consoled by the Bunny Team for this reason in the theatrical version. She is a tough talker and is always full of ideas. She is just a girl with a rich character and a silly personality. In the 3rd episode of the final chapter, she falls for the Continuation High School's trap, which leads to the destruction of the flag car she is in.",
+        "label_text": "flag car"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 1 : Captain and Communicator (Vice-Captain of the Chariot Department) of M4 Sherman (76mm turret type) Chariot, a sophomore at Sandals University High School, who first appeared in the 4th episode of this story, is good at devising tactics and serves as the team's military advisor, but would get very emotional and easily tense during chariot road races. In a race with the Oarai Women's Academy, she panicked and messed up, affecting the morale of her teammates. Taking advantage of a loophole in the rules, she secretly used a spy balloon to eavesdrop on information, but was backfired on, causing the whole team to lose the advantage and lose the battle. She was punished by Kaye for that. When she is sad or angry, she would inexplicably mention the boy she has a crush on (Takashi), and is consoled by the Bunny Team for this reason in the theatrical version. She is a tough talker and is always full of ideas. She is just a girl with a rich character and a silly personality. In the 3rd episode of the final chapter, she falls for the Continuation High School's trap, which leads to the destruction of the flag car she is in.",
+        "label_text": "Sandals University High School"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 1 : Captain and Communicator (Vice-Captain of the Chariot Department) of M4 Sherman (76mm turret type) Chariot, a sophomore at Sandals University High School, who first appeared in the 4th episode of this story, is good at devising tactics and serves as the team's military advisor, but would get very emotional and easily tense during chariot road races. In a race with the Oarai Women's Academy, she panicked and messed up, affecting the morale of her teammates. Taking advantage of a loophole in the rules, she secretly used a spy balloon to eavesdrop on information, but was backfired on, causing the whole team to lose the advantage and lose the battle. She was punished by Kaye for that. When she is sad or angry, she would inexplicably mention the boy she has a crush on (Takashi), and is consoled by the Bunny Team for this reason in the theatrical version. She is a tough talker and is always full of ideas. She is just a girl with a rich character and a silly personality. In the 3rd episode of the final chapter, she falls for the Continuation High School's trap, which leads to the destruction of the flag car she is in.",
+        "label_text": " Oarai Women's Academy"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 1 : Captain and Communicator (Vice-Captain of the Chariot Department) of M4 Sherman (76mm turret type) Chariot, a sophomore at Sandals University High School, who first appeared in the 4th episode of this story, is good at devising tactics and serves as the team's military advisor, but would get very emotional and easily tense during chariot road races. In a race with the Oarai Women's Academy, she panicked and messed up, affecting the morale of her teammates. Taking advantage of a loophole in the rules, she secretly used a spy balloon to eavesdrop on information, but was backfired on, causing the whole team to lose the advantage and lose the battle. She was punished by Kaye for that. When she is sad or angry, she would inexplicably mention the boy she has a crush on (Takashi), and is consoled by the Bunny Team for this reason in the theatrical version. She is a tough talker and is always full of ideas. She is just a girl with a rich character and a silly personality. In the 3rd episode of the final chapter, she falls for the Continuation High School's trap, which leads to the destruction of the flag car she is in.",
+        "label_text": "Bunny Team"
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 3 : Julio Rios, Spain's well-known China expert and an honorary adviser to China Policy Watch Network, said in a recent interview with us that China's pandemic response has entered a new stage and the vitality of its economic and social development will be further released.",
+        "label_text": "Julio Rios"
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 3 : Julio Rios, Spain's well-known China expert and an honorary adviser to China Policy Watch Network, said in a recent interview with us that China's pandemic response has entered a new stage and the vitality of its economic and social development will be further released.",
+        "label_text": "China Policy Watch Network"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 2 : On February 22, 2017, Ilyasova was traded to the Atlanta Hawks after 53 games with the 76ers, who in turn got center Tiago Splitter, a 2017 second-round pick, and the right to swap second-round picks with the Hawks.",
+        "label_text": "Ilyasova"
+    },
+    {
+        "source": "原文 : 由于与Bootstrap等其他传统CSS框架的基本概念不同，因此了解Tailwind是如何建立的理念及其基本用法非常重要。",
+        "hyp": "文 2 : Tailwind is different from other traditional CSS architectures such as Bootstrap in terms of their basic concepts. It is important to understand how Tailwind is built and its basic use.",
+        "label_text": "architectures"
+    },
+    {
+        "source": "原文 : 2015年8月，经济学人集团从培生集团手中回购了价值2.84亿美元的500万股股份，而培生集团所持有的其余价值4.47亿美元的股份则被出售给意大利投资公司。",
+        "hyp": "文 2 : In August 2015, the Economist Group repurchased 5 million shares from Pearson Group for $284 million. The remaining stake of $447 million was sold to an Italian investment firm.",
+        "label_text": "the Economist Group"
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 1 : In terms of administration, Casteljaloux is under the jurisdiction of the district of Nerac in the Lot-et-Garonne department of Nouvelle-Aquitaine; in terms of local elections, Casteljaloux is home to the central polling station and the entirety of the town is included; and in terms of social governance, it is an integral part...",
+        "label_text": "the district of Nerac"
+    },
+    {
+        "source": "原文 : “叶默，叶默，你没事吧，快点起来啊，马上要上课了，这节课是无情冰的，你赶紧起来。” 一个有些急的声音在叶默的耳边响起，叶默有一种很奇怪的感觉。",
+        "hyp": "文 3 : \"Ye Mo, Ye Mo, are you okay? Wake up, it's time for class. The lecture is going to be delivered by Ruthless. Hurry and get up,\" a hurried voice called out near Ye's ears, leaving him with a strange feeling.",
+        "label_text": "Ruthless"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 1 : The fantasy costume drama Magic Star: Young Heroes Saving the World starred by Wu Lei was first shown on January 3, 2017, and he portrayed a half-human, half-demon young hero, Zhan Xiongfei in the drama. This drama had garnered over 1.3 billion views by the end of its run. Then, he co-starred with Lin Yun in another fantasy costume drama Battle Through the Heaven adapted from the novel of the same name by Heavenly Silkworm Potato, and played the role Xiao Yan. On February 3, he joined the reality show Twenty-Four Hours Season 2. In March, he joined the cast of the drama film Shadow. On May 5, he joined the culture-based mystery show 72 Floors of Mystery as a regular host. On September 30, his action movie Smart Chase was on show, in which he portrayed Tang Dingdang, a genius juvenile proficient in various high-end technologies. In the same year, he also starred in the adventure drama Sand Sea as the key haracter Li Cu.",
+        "label_text": "Magic Star: Young Heroes Saving the World"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 1 : The fantasy costume drama Magic Star: Young Heroes Saving the World starred by Wu Lei was first shown on January 3, 2017, and he portrayed a half-human, half-demon young hero, Zhan Xiongfei in the drama. This drama had garnered over 1.3 billion views by the end of its run. Then, he co-starred with Lin Yun in another fantasy costume drama Battle Through the Heaven adapted from the novel of the same name by Heavenly Silkworm Potato, and played the role Xiao Yan. On February 3, he joined the reality show Twenty-Four Hours Season 2. In March, he joined the cast of the drama film Shadow. On May 5, he joined the culture-based mystery show 72 Floors of Mystery as a regular host. On September 30, his action movie Smart Chase was on show, in which he portrayed Tang Dingdang, a genius juvenile proficient in various high-end technologies. In the same year, he also starred in the adventure drama Sand Sea as the key haracter Li Cu.",
+        "label_text": "Sand Sea"
+    },
+    {
+        "source": "原文 : 2014年10月2日，孙延在代表韩国出战在韩国仁川举行的仁川亚运艺术体操女子个人全能项目，她在决赛的圈操、带操和棒操分别取得18.216分、18.083分和18.100分的成绩，尽管在最后一项的球操环节出现失误，仅取得17.300分，她仍然以总分71.699分荣获金牌，成为首位达到此成绩的韩国选手。",
+        "hyp": "文 5 : On October 2, 2014, Sun Yan represented the Republic of Korea in the Women's Rhythmic Gymnastics Individual All-Around Competition at the Incheon 2014 Asian Games. In the finals, she achieved scores of 18.216, 18.083, and 18.100 in the hoop, ribbon, and clubs routines, respectively, but only 17.300 in the final ball routine due to a mistake. Despite this, she still won the gold medal with a total score of 71.699 and became the first South Korean athlete to achieve this good result.",
+        "label_text": "Sun Yan"
+    },
+    {
+        "source": "原文 : 科湼夫现在知道了德军正在突围、因而被激怒及决心兑现对史达林不给任何“希特勒分子”或“法西斯分子”逃出包围圈，但是苏联的情报机构在这时高估了德军第3装甲军的装甲力量，因此科湼夫全力出击，这时苏军第20坦克军属下的坦克旅将新型的约瑟夫·史达林式重型坦克带到科尔逊战场，科湼夫命令所有可以使用的装甲车辆及火炮向突围部队开火，切断弧立的敌人及将他们打散，两个负责封锁的苏军步兵师，第206狙击师及第5亲卫空降师已被德军解围部队击败；没有步兵支援的苏军坦克只好从远距离向突围的德军开火，由于没有反坦克武器在战场， T-34型坦克冲入没有掩护的德军，司令部单位、落伍的士兵及救护兵均受攻击。",
+        "hyp": "文 4 : Learning that the German army was attempting a breakout, Konev was provoked and determined to fulfill his commitment to Stalin that no \"Hitlerites\" or \"Fascists\" would be allowed to escape the encirclement. However, Soviet intelligence agencies overestimated the armored strength of the German 3rd Panzer Army at this time. As a result, Konev launched a full-scale attack and a tank brigade under the Soviet 20th Tank Corps brought the novel Joseph Stalin heavy tanks to the Korsun battlefield. Konev ordered all available armored vehicles and artillery to open fire on the breakout forces, cutting off the isolated enemies and dispersing them. The two Soviet infantry divisions responsible for blocking, the 206th Sniper Division and the 5th Guards Airborne Division, were defeated by the German breakout forces. Without support from the infantry, the Soviet tanks were forced to engage the breakout German troops from a distance. Since there were no anti-tank weapons on the battlefield, T-34 tanks charged into the unprotected German positions, attacking headquarters units, stragglers, and medics.",
+        "label_text": "the 206th Sniper Division"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 3 : However, he has a younger sister, Ye Ling and a younger brother, Ye Zifeng, who are half-siblings from the same father. Three years ago, his father, Ye Tianwen, seemed to see that he owed Ye Mo a lot and proposed to Grandpa Ye, the family leader, to choose a wife for Ye Mo from Ning's family. Ye Tianwen probably knew that he was not to be long for this world due to health problem, so he wanted to find Ye Mo a patron. This was why he chose the Ning's family in Beijing.",
+        "label_text": "Beijing"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 1 : For the second Totes, there are three deficiencies. First, this umbrella is not provided with a chute boot. Second, its handle is made of poor materials. Third, although marked with \"Large\", it is in fact an umbrella for one person. It may be hard to shield two person.",
+        "label_text": "chute boot"
+    },
+    {
+        "source": "原文 : 这些著作推动了罗马法向司法实践最底层的进一步渗透，对当时的法盲们也有潜移默化的影响。",
+        "hyp": "文 3 : These works promoted the further infiltration of the legislation of Rome into the bottom judicial practice and had influenced the legal illiterates unconsciously at that time.",
+        "label_text": "legislation of Rome"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 3 : An articled published in the Billboard in August 2021 noted: The fans of BTS exploited an advantage concerning the billboard \"in an aboveboard way\" to promote the rankings of BTS's singles including Butter in the United States, listing them in the first group of the Top 100 for weeks. Although the list of Top 100 Singles usually depends on the streaming media and amount of playing, the ranking of Butter is primarily based on the sales (mostly via BTS's online store, which, different from iTunes, allows fans to purchase multiple copies of a song) and fan-led crowdfunding activities (including using fund raised from global fans to make purchases that are only taken into account in American sales via PayPal and the like services). But an article published in The Korea Times refuted the allegation of billboard manipulation, arguing that the fans of other singers, including Justin Bieber and Ariana Grande, had also taken the similar promotional measures, which were neither illegal nor immoral, and that these fans are simply \"intelligent-device-based consumers that lead a global trend\".",
+        "label_text": "Top 100"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 3 : An articled published in the Billboard in August 2021 noted: The fans of BTS exploited an advantage concerning the billboard \"in an aboveboard way\" to promote the rankings of BTS's singles including Butter in the United States, listing them in the first group of the Top 100 for weeks. Although the list of Top 100 Singles usually depends on the streaming media and amount of playing, the ranking of Butter is primarily based on the sales (mostly via BTS's online store, which, different from iTunes, allows fans to purchase multiple copies of a song) and fan-led crowdfunding activities (including using fund raised from global fans to make purchases that are only taken into account in American sales via PayPal and the like services). But an article published in The Korea Times refuted the allegation of billboard manipulation, arguing that the fans of other singers, including Justin Bieber and Ariana Grande, had also taken the similar promotional measures, which were neither illegal nor immoral, and that these fans are simply \"intelligent-device-based consumers that lead a global trend\".",
+        "label_text": "Top 100"
+    },
+    {
+        "source": "原文 : 别看只是女人走路，里面可是有很多学问。 而莫问成天守在工地上，对面就是马路与人行道。",
+        "hyp": "文 3 : Although it's just a woman walking, we can learn a lot from it. Mo Men has always been on the construction site, the opposite of which is the road and the sidewalk.",
+        "label_text": "Mo Men"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 4 : After the first season themed around sound came to a close, the second season of \"Kyoto Irodori Diary\" pivoted towards \"color\" as its central subject. This show began airing at 1:58 am, equivalent to early morning Thursday, on the third Wednesday night of every month starting July 17, 2013. A key segment, \"Yui's Diary\", carried over from season one, was capped off each episode; however, the second season showcased Yokoyama's recaps and summaries via her personally hand-drawn diary entries. Furthermore, on the episode that aired on June 11, 2014, Yokoyama announced that the second season would extend into its second year of broadcasting and spearheaded the creation of its first special episode since the show's inception. Not only was Kitahara Rie, a fellow member of AKB48, invited as a special guest, but this distinctive episode also extended the usual runtime to 90 minutes.",
+        "label_text": "Kyoto Irodori Diary"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 4 : After the first season themed around sound came to a close, the second season of \"Kyoto Irodori Diary\" pivoted towards \"color\" as its central subject. This show began airing at 1:58 am, equivalent to early morning Thursday, on the third Wednesday night of every month starting July 17, 2013. A key segment, \"Yui's Diary\", carried over from season one, was capped off each episode; however, the second season showcased Yokoyama's recaps and summaries via her personally hand-drawn diary entries. Furthermore, on the episode that aired on June 11, 2014, Yokoyama announced that the second season would extend into its second year of broadcasting and spearheaded the creation of its first special episode since the show's inception. Not only was Kitahara Rie, a fellow member of AKB48, invited as a special guest, but this distinctive episode also extended the usual runtime to 90 minutes.",
+        "label_text": "Kitahara Rie"
+    },
+    {
+        "source": "原文 : 2009年11月27日，科学家发现一颗围绕白羊座30B旋转的大质量行星，它距离白羊座30B1个天文单位。",
+        "hyp": "文 3 : On November 27, 2009, astronomers spotted a large-mass planet orbiting around Aries 30B at a distance of one astronomical unit.",
+        "label_text": "Aries 30B"
+    },
+    {
+        "source": "原文 : 2022年6月，新加坡旅游局举办了首届健康养生节，为公众提供了130多项各类健康活动和体验。",
+        "hyp": "文 1 : In June 2022, the Singapore Tourism Board organized its inaugural Health and Wellness Festival, offering over 130 diverse health-related activities and experiences to the public.",
+        "label_text": "Health and Wellness Festival"
+    },
+    {
+        "source": "原文 : 据巴黎大众运输公司(RATP)的数据， 2011年伊普莱桑斯站的入站乘客总人次数为4647935人次。",
+        "hyp": "文 1 : According to RATP, the total number of inbound passengers at Iplesance station in 2011 was 4,647,935.",
+        "label_text": "Iplesance"
+    },
+    {
+        "source": "原文 : 2009年11月16日，有线电视宣布投得2010年至2013年三季英超香港独家播映权，但由于英超已经安排于当时的高清200-205台、有线301-306台及有线690台作收费播放，意味著英超台不可能于Ch63重开。",
+        "hyp": "文 1 : On November 16, 2009, Cable TV announced that it had won the exclusive rights to broadcast the English Premier League in Hong Kong for the 2010-2013 seasons. However, the English Premier League was already scheduled to be broadcast on a paid basis on HD channels 200-205, Cable TV channels 301-306, and Cable TV channel 690, so the English Premier League channel could not be reopened on Channel 63.",
+        "label_text": " English Premier League"
+    },
+    {
+        "source": "原文 : 2009年11月16日，有线电视宣布投得2010年至2013年三季英超香港独家播映权，但由于英超已经安排于当时的高清200-205台、有线301-306台及有线690台作收费播放，意味著英超台不可能于Ch63重开。",
+        "hyp": "文 1 : On November 16, 2009, Cable TV announced that it had won the exclusive rights to broadcast the English Premier League in Hong Kong for the 2010-2013 seasons. However, the English Premier League was already scheduled to be broadcast on a paid basis on HD channels 200-205, Cable TV channels 301-306, and Cable TV channel 690, so the English Premier League channel could not be reopened on Channel 63.",
+        "label_text": "English Premier League"
+    },
+    {
+        "source": "原文 : 2009年11月16日，有线电视宣布投得2010年至2013年三季英超香港独家播映权，但由于英超已经安排于当时的高清200-205台、有线301-306台及有线690台作收费播放，意味著英超台不可能于Ch63重开。",
+        "hyp": "文 1 : On November 16, 2009, Cable TV announced that it had won the exclusive rights to broadcast the English Premier League in Hong Kong for the 2010-2013 seasons. However, the English Premier League was already scheduled to be broadcast on a paid basis on HD channels 200-205, Cable TV channels 301-306, and Cable TV channel 690, so the English Premier League channel could not be reopened on Channel 63.",
+        "label_text": "English Premier League channel"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 1 : Gu Jinhui was born and bred in Tsuen Wan, Hong Kong. He began his football career in the Tsuen Wan Football Association and later transferred to the Eastern Salon Football Team in 1983. Gu became a core player of the SCAA Football Team ever since he transferred to the Team upon the invitation of Lin Jianyue in 1984. During his service on this team, he had won the award of \"Eleven Best Footballers\" for eight consecutive times. In 1987, he won the Hong Kong Top Footballers Awards. Gu retired from the Team and became an assistant instead when he was 38. On June 19, 2017, the board of directors of the SCAA Football Team convened a meeting and reached a consensus on a transfer to C League to cultivate young football players. To cut expenditure, all players of the Team except Gu Jinhui were dismissed. Only Gu who had served on the Team for over 30 years stayed.",
+        "label_text": "Gu Jinhui"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 1 : Gu Jinhui was born and bred in Tsuen Wan, Hong Kong. He began his football career in the Tsuen Wan Football Association and later transferred to the Eastern Salon Football Team in 1983. Gu became a core player of the SCAA Football Team ever since he transferred to the Team upon the invitation of Lin Jianyue in 1984. During his service on this team, he had won the award of \"Eleven Best Footballers\" for eight consecutive times. In 1987, he won the Hong Kong Top Footballers Awards. Gu retired from the Team and became an assistant instead when he was 38. On June 19, 2017, the board of directors of the SCAA Football Team convened a meeting and reached a consensus on a transfer to C League to cultivate young football players. To cut expenditure, all players of the Team except Gu Jinhui were dismissed. Only Gu who had served on the Team for over 30 years stayed.",
+        "label_text": "Eastern Salon Football Team"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 1 : Gu Jinhui was born and bred in Tsuen Wan, Hong Kong. He began his football career in the Tsuen Wan Football Association and later transferred to the Eastern Salon Football Team in 1983. Gu became a core player of the SCAA Football Team ever since he transferred to the Team upon the invitation of Lin Jianyue in 1984. During his service on this team, he had won the award of \"Eleven Best Footballers\" for eight consecutive times. In 1987, he won the Hong Kong Top Footballers Awards. Gu retired from the Team and became an assistant instead when he was 38. On June 19, 2017, the board of directors of the SCAA Football Team convened a meeting and reached a consensus on a transfer to C League to cultivate young football players. To cut expenditure, all players of the Team except Gu Jinhui were dismissed. Only Gu who had served on the Team for over 30 years stayed.",
+        "label_text": "Lin Jianyue"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 1 : Gu Jinhui was born and bred in Tsuen Wan, Hong Kong. He began his football career in the Tsuen Wan Football Association and later transferred to the Eastern Salon Football Team in 1983. Gu became a core player of the SCAA Football Team ever since he transferred to the Team upon the invitation of Lin Jianyue in 1984. During his service on this team, he had won the award of \"Eleven Best Footballers\" for eight consecutive times. In 1987, he won the Hong Kong Top Footballers Awards. Gu retired from the Team and became an assistant instead when he was 38. On June 19, 2017, the board of directors of the SCAA Football Team convened a meeting and reached a consensus on a transfer to C League to cultivate young football players. To cut expenditure, all players of the Team except Gu Jinhui were dismissed. Only Gu who had served on the Team for over 30 years stayed.",
+        "label_text": "Eleven Best Footballers"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 1 : Gu Jinhui was born and bred in Tsuen Wan, Hong Kong. He began his football career in the Tsuen Wan Football Association and later transferred to the Eastern Salon Football Team in 1983. Gu became a core player of the SCAA Football Team ever since he transferred to the Team upon the invitation of Lin Jianyue in 1984. During his service on this team, he had won the award of \"Eleven Best Footballers\" for eight consecutive times. In 1987, he won the Hong Kong Top Footballers Awards. Gu retired from the Team and became an assistant instead when he was 38. On June 19, 2017, the board of directors of the SCAA Football Team convened a meeting and reached a consensus on a transfer to C League to cultivate young football players. To cut expenditure, all players of the Team except Gu Jinhui were dismissed. Only Gu who had served on the Team for over 30 years stayed.",
+        "label_text": "C League"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 1 : Gu Jinhui was born and bred in Tsuen Wan, Hong Kong. He began his football career in the Tsuen Wan Football Association and later transferred to the Eastern Salon Football Team in 1983. Gu became a core player of the SCAA Football Team ever since he transferred to the Team upon the invitation of Lin Jianyue in 1984. During his service on this team, he had won the award of \"Eleven Best Footballers\" for eight consecutive times. In 1987, he won the Hong Kong Top Footballers Awards. Gu retired from the Team and became an assistant instead when he was 38. On June 19, 2017, the board of directors of the SCAA Football Team convened a meeting and reached a consensus on a transfer to C League to cultivate young football players. To cut expenditure, all players of the Team except Gu Jinhui were dismissed. Only Gu who had served on the Team for over 30 years stayed.",
+        "label_text": "Gu Jinhui"
+    }
+]

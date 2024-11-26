@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : （3）消化性溃疡、胃肠出血、溃疡性结肠炎",
+        "hyp": "文 3 : (3) Digestive ulcers, stomach and intestinal bleeding, and ulcerative colitis",
+        "label_text": "stomach and intestinal bleeding"
+    },
+    {
+        "source": "原文 : 如果患者漏服一次本品，并且离下次服药还有4小时以上，应当尽快服用本品。",
+        "hyp": "文 5 : If the patient misses taking the product once, and there are more than 4 hours before the next dose, the product should be taken as soon as possible.",
+        "label_text": "patient misses taking"
+    },
+    {
+        "source": "原文 : 如果患者漏服一次本品，并且离下次服药还有4小时以上，应当尽快服用本品。",
+        "hyp": "文 5 : If the patient misses taking the product once, and there are more than 4 hours before the next dose, the product should be taken as soon as possible.",
+        "label_text": "product should be taken"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "source": "原文 : 产品名称 :Redmi AirDots 2 真无线蓝牙耳机",
+        "hyp": "文 4 : Product name: Redmi AirDots 2 truly wireless Bluetooth headphones",
+        "label_text": "truly wireless"
+    },
+    {
+        "source": "原文 : 产品名称 :Redmi AirDots 2 真无线蓝牙耳机",
+        "hyp": "文 4 : Product name: Redmi AirDots 2 truly wireless Bluetooth headphones",
+        "label_text": "B"
+    },
+    {
+        "source": "原文 : 产品名称 :Redmi AirDots 2 真无线蓝牙耳机",
+        "hyp": "文 4 : Product name: Redmi AirDots 2 truly wireless Bluetooth headphones",
+        "label_text": "h"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 4 : In an article published in the August 2021 issue of Billboard magazine, the group noted that the group's fans have been drilling through the gaps in the charts by using brilliant tactics, including the use of crowdfunding in the U.S. to help the group stay in the top 100 for weeks in a row, while the group's chart performance is largely driven by sales (most of which come from the band's online store, which allows fans to buy multiple copies of a song, unlike iTunes) and fan-driven crowdfunding campaigns (including the use of crowdfunding to sell songs on services such as Apple Pay).",
+        "label_text": "the group"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 4 : In an article published in the August 2021 issue of Billboard magazine, the group noted that the group's fans have been drilling through the gaps in the charts by using brilliant tactics, including the use of crowdfunding in the U.S. to help the group stay in the top 100 for weeks in a row, while the group's chart performance is largely driven by sales (most of which come from the band's online store, which allows fans to buy multiple copies of a song, unlike iTunes) and fan-driven crowdfunding campaigns (including the use of crowdfunding to sell songs on services such as Apple Pay).",
+        "label_text": "the group"
+    },
+    {
+        "source": "原文 : 之所以猜测这是琥珀，是因为它色泽是淡黄色的，里面包裹着一个小虫，和他小学六年级时候看到过的一枚琥珀很像。 那时候他们的课本有一篇名为《琥珀》的课文，语文老师给他们上课的时候，就带来了一枚琥珀。",
+        "hyp": "文 1 : The reason I'm guessing it's amber is because it's pale yellow, and it's wrapped in a worm, and it's very similar to the amber that he saw in the sixth grade in elementary school, and there's a textbook called \"Amber\", and the grammar teacher brings them a piece of amber.",
+        "label_text": " I"
+    },
+    {
+        "source": "原文 : 之所以猜测这是琥珀，是因为它色泽是淡黄色的，里面包裹着一个小虫，和他小学六年级时候看到过的一枚琥珀很像。 那时候他们的课本有一篇名为《琥珀》的课文，语文老师给他们上课的时候，就带来了一枚琥珀。",
+        "hyp": "文 1 : The reason I'm guessing it's amber is because it's pale yellow, and it's wrapped in a worm, and it's very similar to the amber that he saw in the sixth grade in elementary school, and there's a textbook called \"Amber\", and the grammar teacher brings them a piece of amber.",
+        "label_text": "he "
+    }
+]

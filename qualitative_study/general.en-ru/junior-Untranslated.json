@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 4 : Как сообщила в октябре газета Washington Post, в отказе отмечалось, что бывший помощник Пенса Марк Шорт, например, «вероятно, обладал информацией, важной для уголовного расследования Министерства юстиции о нападении на Капитолий 6 января 2021 года, которая не была доступна из других источников».",
+        "label_text": "Washington Post"
+    },
+    {
+        "source": "原文 : However, the expression level of the NUP153 gene from the alternative LINE-1 promoter was 17 times higher in chorionic villi and 23 times higher in extraembryonic mesoderm than in lymphocytes (p < 0.05).",
+        "hyp": "文 1 : Однако уровень экспрессии гена NUP153 с альтернативного промотора LINE-1 был в 17 раз выше в хорионических ворсинках и в 23 раза выше в экстраэмбриональной мезодерме, чем в лимфоцитах (p < 0,05).",
+        "label_text": "LINE"
+    },
+    {
+        "source": "原文 : Their careers range from infectious disease doctors to psychologists to mindfulness teachers - and they all had great advice to give on how to stay motivated and keep the ball rolling.",
+        "hyp": "文 1 : Они занимаются самыми разными профессиями от врачей-инфекционистов до психологов и преподавателей по методике mindfulness - и все они дали отличные советы о том, как сохранить мотивацию и продолжать работать.",
+        "label_text": "mindfulness "
+    }
+]

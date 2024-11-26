@@ -1,0 +1,432 @@
+[
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 2 : 一开始我并不知道该说什么，但是后来我又想起了一些事情，所以我就说了“但是我没有。”",
+        "label_text": "但是后来我又想起了一些事情，"
+    },
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 2 : 一开始我并不知道该说什么，但是后来我又想起了一些事情，所以我就说了“但是我没有。”",
+        "label_text": "所以我就说了"
+    },
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 2 : 一开始我并不知道该说什么，但是后来我又想起了一些事情，所以我就说了“但是我没有。”",
+        "label_text": "但是后来我又想起了一些事情，"
+    },
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 2 : 一开始我并不知道该说什么，但是后来我又想起了一些事情，所以我就说了“但是我没有。”",
+        "label_text": "所以我就说了"
+    },
+    {
+        "source": "原文 : I don’t care if your dog/child is friendly or “dog savvy”.",
+        "hyp": "文 1 : 我并不在乎你的狗/孩子是否友善或“聪明机智”。",
+        "label_text": "聪明机智"
+    },
+    {
+        "source": "原文 : I will always be the one to give in so that the fight wont continue anymore",
+        "hyp": "文 5 : 我将一直做出让步，这样争吵就会停止了。",
+        "label_text": "一直做出让步"
+    },
+    {
+        "source": "原文 : I will always be the one to give in so that the fight wont continue anymore",
+        "hyp": "文 5 : 我将一直做出让步，这样争吵就会停止了。",
+        "label_text": "一直做出让步"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 5 : 我并不是说她们应该为变成女孩而感到羞耻，也不是说我对变成女孩持有偏见，我是说因为她们是人，有自己的选择，所以她们不会喜欢这样做，并且我不同意变成女孩就不能让她们成为反女性主义者。",
+        "label_text": "变成"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 5 : 我并不是说她们应该为变成女孩而感到羞耻，也不是说我对变成女孩持有偏见，我是说因为她们是人，有自己的选择，所以她们不会喜欢这样做，并且我不同意变成女孩就不能让她们成为反女性主义者。",
+        "label_text": "变成"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 5 : 我并不是说她们应该为变成女孩而感到羞耻，也不是说我对变成女孩持有偏见，我是说因为她们是人，有自己的选择，所以她们不会喜欢这样做，并且我不同意变成女孩就不能让她们成为反女性主义者。",
+        "label_text": "所以"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 5 : 我并不是说她们应该为变成女孩而感到羞耻，也不是说我对变成女孩持有偏见，我是说因为她们是人，有自己的选择，所以她们不会喜欢这样做，并且我不同意变成女孩就不能让她们成为反女性主义者。",
+        "label_text": "并且我不同意变成女孩就不能让她们成为反女性主义者"
+    },
+    {
+        "source": "原文 : user765123: No, I just had the “is now playing” thing show up.",
+        "hyp": "文 2 : 用户765123：没有，我只是让“正在播放”显示出来了。",
+        "label_text": "我只是让“正在播放”显示出来了"
+    },
+    {
+        "source": "原文 : user765123: No, I just had the “is now playing” thing show up.",
+        "hyp": "文 2 : 用户765123：没有，我只是让“正在播放”显示出来了。",
+        "label_text": "我只是让“正在播放”显示出来了"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 2 : 因此，它会成为生僻字第二部分的空缺部分——",
+        "label_text": "第二部分的空缺部分"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 2 : 因此，它会成为生僻字第二部分的空缺部分——",
+        "label_text": "第二部分的空缺部分"
+    },
+    {
+        "source": "原文 : Cruse briefly wrote a column in a comic book review magazine, \"Comics Scene,\" under the rhyming masthead \"Loose Cruse.\"",
+        "hyp": "文 5 : 克鲁斯（Cruse）曾为漫画评论杂志《漫画现场》（Comics Scene）撰写了一篇专栏（押韵的标题：“放荡的克鲁斯”（Loose Cruse））。",
+        "label_text": "放荡的"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 4 : 大家好，我一直都很难交到朋友，有时候觉得自己有点冷漠并且会觉得尴尬（你们知道的，尴尬症严重），但如果你让我不觉得尴尬，我就会相对放松一点。",
+        "label_text": "尴尬症严重"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 4 : 大家好，我一直都很难交到朋友，有时候觉得自己有点冷漠并且会觉得尴尬（你们知道的，尴尬症严重），但如果你让我不觉得尴尬，我就会相对放松一点。",
+        "label_text": "但如果你让我不觉得尴尬，我就会相对放松一点。"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 1 : 就精确度和稳定性而言，该设备非常适合我的应用程序，但我却无法通过蓝牙连接到iPhone或iPad（iPhone和iPad都尝试了几次）。",
+        "label_text": "我的应用程序"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 1 : 就精确度和稳定性而言，该设备非常适合我的应用程序，但我却无法通过蓝牙连接到iPhone或iPad（iPhone和iPad都尝试了几次）。",
+        "label_text": "我的应用程序"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 3 : 因此，我和我的朋友又开始玩《无畏契约》游戏（val），想学习诸如天啊之类的交流常用语，",
+        "label_text": "天啊之类的交流常用语"
+    },
+    {
+        "source": "原文 : I alrdy taught him the basics like planting the spike and things like that.",
+        "hyp": "文 5 : 我已经教了他一些如安包之类的基本技巧。",
+        "label_text": "安包"
+    },
+    {
+        "source": "原文 : I felt my heart rate increase and started sweating more.",
+        "hyp": "文 3 : 我感觉我心率加快了并且开始大量出汗了。",
+        "label_text": "开始大量"
+    },
+    {
+        "source": "原文 : hiii guys i wsa drinking with mmy friends from the us and my bf annd everyooes fell asleep and i wanna play some truth/dare or driink sooo if u have diiscord or kikk just msg mee owo",
+        "hyp": "文 1 : 大家好，我正和美国来的朋友还有我的男朋友一起喝酒，他们都睡着了，我想玩真心话、大冒险或喝酒，如果你有Discord或Kik，就给我发消息吧，欧窝（可爱的表情包）。",
+        "label_text": "欧窝"
+    },
+    {
+        "source": "原文 : hiii guys i wsa drinking with mmy friends from the us and my bf annd everyooes fell asleep and i wanna play some truth/dare or driink sooo if u have diiscord or kikk just msg mee owo",
+        "hyp": "文 1 : 大家好，我正和美国来的朋友还有我的男朋友一起喝酒，他们都睡着了，我想玩真心话、大冒险或喝酒，如果你有Discord或Kik，就给我发消息吧，欧窝（可爱的表情包）。",
+        "label_text": "欧窝（可爱的表情包）"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 2 : 怎么区分她是生我的气还是只是生气？因为眼下我对此感到十分困惑。",
+        "label_text": "只是生气"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 2 : 怎么区分她是生我的气还是只是生气？因为眼下我对此感到十分困惑。",
+        "label_text": "只是生气"
+    },
+    {
+        "source": "原文 : With a strict mentality of how certain things would go down.",
+        "hyp": "文 3 : 以严谨的心态应对某些事情的发展。",
+        "label_text": "严谨的心态"
+    },
+    {
+        "source": "原文 : With a strict mentality of how certain things would go down.",
+        "hyp": "文 3 : 以严谨的心态应对某些事情的发展。",
+        "label_text": "严谨的心态"
+    },
+    {
+        "source": "原文 : The conglomeratic sandstones and silty mudstones of the formation were deposited in an alluvial environment.",
+        "hyp": "文 2 : 该组的砾岩砂岩和粉砂质泥岩在冲积环境中沉积。",
+        "label_text": "该组"
+    },
+    {
+        "source": "原文 : The conglomeratic sandstones and silty mudstones of the formation were deposited in an alluvial environment.",
+        "hyp": "文 2 : 该组的砾岩砂岩和粉砂质泥岩在冲积环境中沉积。",
+        "label_text": "该组"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 2 : 单体链霉亲和素是一种重组的链霉亲和素变体，将分解四聚体为单体，提高所得分离亚基的溶解度。",
+        "label_text": "将分解四聚体为单体"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 2 : 单体链霉亲和素是一种重组的链霉亲和素变体，将分解四聚体为单体，提高所得分离亚基的溶解度。",
+        "label_text": "将分解四聚体为单体"
+    },
+    {
+        "source": "原文 : They could even go woah eee ahh ahh/oh eee ahh.",
+        "hyp": "文 1 : 他们甚至会说哇偶，啊哈哈哈（woah eee ahh ahh）/噢，啊哈哈（oh eee ahh）。",
+        "label_text": "哈哈哈"
+    },
+    {
+        "source": "原文 : Play a scuffed 24hr WOW livestream filled with condescending undertones,belittling, & shitty halfassed ill prepared gameplay.",
+        "hyp": "文 3 : 开启了24小时的魔兽世界直播，直播中语气居高临下、态度轻蔑、游戏设置劣质、杂乱且准备不充分。",
+        "label_text": "开启了"
+    },
+    {
+        "source": "原文 : Play a scuffed 24hr WOW livestream filled with condescending undertones,belittling, & shitty halfassed ill prepared gameplay.",
+        "hyp": "文 3 : 开启了24小时的魔兽世界直播，直播中语气居高临下、态度轻蔑、游戏设置劣质、杂乱且准备不充分。",
+        "label_text": "游戏设置劣质"
+    },
+    {
+        "source": "原文 : Play a scuffed 24hr WOW livestream filled with condescending undertones,belittling, & shitty halfassed ill prepared gameplay.",
+        "hyp": "文 3 : 开启了24小时的魔兽世界直播，直播中语气居高临下、态度轻蔑、游戏设置劣质、杂乱且准备不充分。",
+        "label_text": "开启了"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 3 : 迪克希塔尔（Dikshitar）是塔拉（Tala）大师，是卡纳提克（Carnatic）计划中唯一一位在所有七个基本塔拉（Tala）中有克里提斯（Kritis）的作曲家。",
+        "label_text": "卡纳提克（Carnatic）计划"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 3 : 迪克希塔尔（Dikshitar）是塔拉（Tala）大师，是卡纳提克（Carnatic）计划中唯一一位在所有七个基本塔拉（Tala）中有克里提斯（Kritis）的作曲家。",
+        "label_text": "卡纳提克（Carnatic）计划"
+    },
+    {
+        "source": "原文 : It’s just a white screen or it times out loading it, or the page becomes unresponsive!",
+        "hyp": "文 2 : 只是白屏，或加载超时，或页面无响应！",
+        "label_text": " 只是"
+    },
+    {
+        "source": "原文 : It’s just a white screen or it times out loading it, or the page becomes unresponsive!",
+        "hyp": "文 2 : 只是白屏，或加载超时，或页面无响应！",
+        "label_text": "只是"
+    },
+    {
+        "source": "原文 : Never because one had issues or broke, just because I wanted to stay upgraded and \"in the loop\" and I did.",
+        "hyp": "文 1 : 从不因为一个有问题或出故障而做这件事，只是因为我想进行升级和了解情况，我做到了。",
+        "label_text": "了解情况"
+    },
+    {
+        "source": "原文 : Never because one had issues or broke, just because I wanted to stay upgraded and \"in the loop\" and I did.",
+        "hyp": "文 1 : 从不因为一个有问题或出故障而做这件事，只是因为我想进行升级和了解情况，我做到了。",
+        "label_text": "了解情况"
+    },
+    {
+        "source": "原文 : Hi guys, I was drinking with my friends from the US and my boyfriend and everyone’s fallen asleep, and I want to play some truth or dare or drink, so if you have Discord or Kik, just message me, owo",
+        "hyp": "文 2 : 大家好，我正和美国来的朋友还有我的男朋友一起喝酒，大家都睡着了，我想玩真心话、大冒险或喝酒，如果你有Discord或Kik，就给我发消息吧，欧窝（可爱的表情包）。",
+        "label_text": "欧窝（可爱的表情包）"
+    },
+    {
+        "source": "原文 : Hi guys, I was drinking with my friends from the US and my boyfriend and everyone’s fallen asleep, and I want to play some truth or dare or drink, so if you have Discord or Kik, just message me, owo",
+        "hyp": "文 2 : 大家好，我正和美国来的朋友还有我的男朋友一起喝酒，大家都睡着了，我想玩真心话、大冒险或喝酒，如果你有Discord或Kik，就给我发消息吧，欧窝（可爱的表情包）。",
+        "label_text": "欧窝（可爱的表情包）"
+    },
+    {
+        "source": "原文 : The Tab A is heavy so if your laying down watching a video the case slips in your hand so you have to make frequent adjustments.",
+        "hyp": "文 2 : Tab A很重，因此你躺下看视频时，而手中的壳子会滑动，所以你必须经常对其进行调整。",
+        "label_text": "手中的壳子会滑动"
+    },
+    {
+        "source": "原文 : But I can imagine that you want to rewrite a sentence that it is not written by male, but it is written by a female instead or, I do not know, like you can have a scientific and unscientific explanation of certain phenomena.",
+        "hyp": "文 5 : 但我可以想象，你想重写一句由女性写的（而非男性写的）句子，或者，我不知道，就像你可以对某些现象做出科学和不科学的解释一样。",
+        "label_text": "你想重写一句由女性写的（而非男性写的）句子"
+    },
+    {
+        "source": "原文 : Basically, he was very disappointed in me, and actually took time to convince her that I didn’t feel like telling her, because it’s private to me... until today.",
+        "hyp": "文 1 : 总之，他对我很失望，其实他花了时间说服她，说因为这是我的隐私，所以我不想告诉她……直到今天。",
+        "label_text": "其实他花了时间说服她，说因为这是我的隐私，所以我不想告诉她"
+    },
+    {
+        "source": "原文 : preferrably eu as we are eu and some stuff happening is basically exclusive to eu lol, but i guess it could be nae aswell.",
+        "hyp": "文 3 : 最好是欧盟国家，因为我们是欧盟国家，有些优惠是欧盟国家独有的（大笑）；但我猜它也有可能是国家分配实体（NAE）。",
+        "label_text": "国家分配实体（NAE）"
+    },
+    {
+        "source": "原文 : I’ve still 2 walls left unfinished and have spent the last 45 minutes picking up wallpaper from everything.",
+        "hyp": "文 1 : 我还有2面墙未完工，花了45分钟一直在捡墙纸。",
+        "label_text": "捡墙纸"
+    },
+    {
+        "source": "原文 : This is because I made the mistake of turning things into her desk and not the bin, meaning I have like 4 or 5 assignments that I’ve done but are nowhere in the books,",
+        "hyp": "文 5 : 这是因为我犯一个错误（我没有把东西倒在垃圾桶里而是倒在了她的桌子上），意味着我大概有4或5份做了但不是在课本上的作业。",
+        "label_text": "这是因为我犯一个错误（我没有把东西倒在垃圾桶里而是倒在了她的桌子上）"
+    },
+    {
+        "source": "原文 : This is because I made the mistake of turning things into her desk and not the bin, meaning I have like 4 or 5 assignments that I’ve done but are nowhere in the books,",
+        "hyp": "文 5 : 这是因为我犯一个错误（我没有把东西倒在垃圾桶里而是倒在了她的桌子上），意味着我大概有4或5份做了但不是在课本上的作业。",
+        "label_text": "不是在课本上"
+    },
+    {
+        "source": "原文 : Polis stated that he wishes that more time was spent on the issue of immigration during the meeting of governors at the White House, but the issue \"came up.\"",
+        "hyp": "文 1 : 波利斯（Polis）表示，他希望花更多时间在白宫举行的州长会议上讨论移民问题，但这个问题 “被提出了\"。",
+        "label_text": "被提出了"
+    },
+    {
+        "source": "原文 : I finally decided I’m done paying $300 electric bills so it can be 48 degrees in my house with no hot water.",
+        "hyp": "文 1 : 经过最终决定，我支付完了300美元的电费，这样家里就有48°C了，但没有热水。",
+        "label_text": "我支付完了300美元的电费，这样家里就有48°C了，但没有热水。"
+    },
+    {
+        "source": "原文 : Hey, F/19 , bored af , I enjoy talking to new ppl,hmu?!",
+        "hyp": "文 1 : 嘿，19楼，无聊死了，我喜欢和新朋友聊天，你呢?！",
+        "label_text": "19楼"
+    },
+    {
+        "source": "原文 : Hey, F/19 , bored af , I enjoy talking to new ppl,hmu?!",
+        "hyp": "文 1 : 嘿，19楼，无聊死了，我喜欢和新朋友聊天，你呢?！",
+        "label_text": "你呢"
+    },
+    {
+        "source": "原文 : In one way, it kind of helped me find the cup lowkey grip, but god damn was it difficult trying not to stab myself.",
+        "hyp": "文 4 : 从某种意义上说，它帮助我了解杯子的低调握法，但努力不刺伤自己却很困难。",
+        "label_text": "杯子的低调握法"
+    },
+    {
+        "source": "原文 : Me and my real life friends need a team that we (or especially I) can VOD review in order to learn about tarping, switching layers and positioning.",
+        "hyp": "文 4 : 我和我现实生活中的朋友需要一个团队，这样我们(或特别是我)就可以开展VOD审查，了解铺防水布系统，交换层和定位。",
+        "label_text": "铺防水布系统"
+    },
+    {
+        "source": "原文 : The bot that searches your in-game chat for toxic behavior after a report doesn’t understand the context.",
+        "hyp": "文 2 : 报告后，搜索你在游戏中聊天的不良行为的机器人不了解语境。",
+        "label_text": "报告后"
+    },
+    {
+        "source": "原文 : The first boy I hung out with was really nice, but then we got high and I did very regrettable things I do not like.",
+        "hyp": "文 1 : 第一个和我一起出去玩的男孩很优秀，但后来我们吸毒了，我做了让我非常后悔的事情（我不喜欢的事情）。",
+        "label_text": "出去玩"
+    },
+    {
+        "source": "原文 : The first boy I hung out with was really nice, but then we got high and I did very regrettable things I do not like.",
+        "hyp": "文 1 : 第一个和我一起出去玩的男孩很优秀，但后来我们吸毒了，我做了让我非常后悔的事情（我不喜欢的事情）。",
+        "label_text": "吸毒了"
+    },
+    {
+        "source": "原文 : Looking for single bedroom flats or flatshares is a legit issue as 3 letting agents in the city own them all, and are only letting to students.",
+        "hyp": "文 1 : 找单人公寓或合租公寓是合法的，该市有3家房屋出租中介有这些资源，并且他们只出租给学生。",
+        "label_text": "是合法的"
+    },
+    {
+        "source": "原文 : So, we are now [PERSON14] putting that together to just one technical solution.",
+        "hyp": "文 5 : 所以现在我们使用【PERSON14】将它组合为一个技术解决方案。",
+        "label_text": "使用【PERSON14】"
+    },
+    {
+        "source": "原文 : Towards the end, my husband sends me a Facebook message saying he’s ready for her to leave (she’d been there 2 hours at this point) and then he starts passive-aggressive cleaning in front of us.",
+        "hyp": "文 5 : 快结束时，我丈夫给我发了一条脸书消息（他准备让她离开(此时她已经呆了两个小时)），然后他开始在我面前不情愿地打扫卫生。",
+        "label_text": "不情愿地打扫卫生"
+    },
+    {
+        "source": "原文 : I live in a house with a single mother whos first language is Thai and I barely HEARD english until I was like 4.",
+        "hyp": "文 5 : 我和单身母亲（母语是泰语）生活在一起，我很少听见她说英语，直到我4岁的时候才听见她说英语。",
+        "label_text": "直到我4岁的时候才听见她说英语"
+    },
+    {
+        "source": "原文 : While this plumage only develops during the third or fourth year of life when the black-billed spoonbill is sexually mature, only about half of black-faced spoonbills with this plumage breed each breeding season, which contributes to the very slow pace at which the population numbers are increasing.",
+        "hyp": "文 3 : 虽然这种羽毛在黑脸琵鹭三或四岁性成熟时才长出来，由于在繁殖季节只有约一半的黑脸琵鹭有这种羽毛，所以导致族群数量增长速度非常缓慢。",
+        "label_text": "由于在繁殖季节只有约一半的黑脸琵鹭有这种羽毛"
+    },
+    {
+        "source": "原文 : I recently had surgery and am not meant to lift too much or stretch but felt OK and thought I could do it alone.",
+        "hyp": "文 1 : 最近我做了一次手术，不打算抬太高或做拉伸，但我感觉很好，我想我可以自己完成。",
+        "label_text": "不打算"
+    },
+    {
+        "source": "原文 : Is it just me cringing at the Twitter posts by Albatross?",
+        "hyp": "文 1 : 只有我害怕信天翁（Albatross）推特帖子？",
+        "label_text": "信天翁（Albatross）"
+    },
+    {
+        "source": "原文 : All of niobium's isomers decay by isomeric transition or beta decay except Nb, which has a minor electron capture branch.",
+        "hyp": "文 4 : 除Nb进行少量电子捕获之外，铌的所有同核异构体的衰变方式为同核异构体转换或β衰变。",
+        "label_text": "除Nb进行少量电子捕获之外"
+    },
+    {
+        "source": "原文 : I’ll keep you updated on what she says bc she only said my name in all caps and then an nvm.",
+        "hyp": "文 2 : 我会告诉你她的最新情况，因为只有她说了我的全大写名字，然后说了一句不要介意。",
+        "label_text": "因为只有她说了我的全大写名字"
+    },
+    {
+        "source": "原文 : Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",
+        "hyp": "文 3 : 也就是说，缺少足够的箱子和标识来说明照明颜色的重要性。",
+        "label_text": "箱子"
+    },
+    {
+        "source": "原文 : I don’t want to jinx it and call them out by name, but I’m talking with a company and I’m hoping it works out!",
+        "hyp": "文 3 : 我不想乌鸦嘴，不想喊出他们的名字，但我正与一家公司交谈，我希望能顺利进行。",
+        "label_text": "不想喊出他们的名字"
+    },
+    {
+        "source": "原文 : You honestly deserve to get scammed if you give a random guy on the internet like 300€ worth of fake internet points, like wtf are you doing honestly LOL",
+        "hyp": "文 2 : 老实讲，如果你随便为互联网上的陌生人花价值300欧元的虚假互联网积分，你就应该被骗，就像你现在正在做的事情，哈哈哈。",
+        "label_text": "虚假互联网积分"
+    },
+    {
+        "source": "原文 : if I do I will be in my mid 30’s cuz I wanna live life my way",
+        "hyp": "文 1 : 如果我这样做了，我的年龄就35岁左右，因为我想过自己的生活。",
+        "label_text": "如果我这样做了，我的年龄就35岁左右，因为我想过自己的生活。"
+    },
+    {
+        "source": "原文 : So yeah, I think this is actual lols, she thinks it doesn’t exist.",
+        "hyp": "文 3 : 所以是的，我认为这是真的，哈哈哈，但是她认为这不存在。",
+        "label_text": "我认为这是真的"
+    },
+    {
+        "source": "原文 : I’m going to skip the Oscar-bait shit like The Post, because there’s only some much concentrated rage at milquetoast Democrats making movies about how (extremely wonky nasal nerd voice) “politics used to be more polite.",
+        "hyp": "文 3 : 我将略过如《华盛顿邮报》等吊奥斯卡评委口味的电影，因为只有部分人对软弱的民主党人（拍摄政治过去如何（极靠不住带鼻音的书呆子声音）有礼貌的电影）感到十分愤怒。",
+        "label_text": "只有部分人"
+    },
+    {
+        "source": "原文 : I’m going to skip the Oscar-bait shit like The Post, because there’s only some much concentrated rage at milquetoast Democrats making movies about how (extremely wonky nasal nerd voice) “politics used to be more polite.",
+        "hyp": "文 3 : 我将略过如《华盛顿邮报》等吊奥斯卡评委口味的电影，因为只有部分人对软弱的民主党人（拍摄政治过去如何（极靠不住带鼻音的书呆子声音）有礼貌的电影）感到十分愤怒。",
+        "label_text": "（极靠不住带鼻音的书呆子声音）"
+    },
+    {
+        "source": "原文 : She could see the date I opened my first line and then the second.",
+        "hyp": "文 3 : 她能看到我第一次打开短信息和第二次打开短信息的日期。",
+        "label_text": "第一次打开短信息和第二次打开短信息"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 4 : 我依旧会学习，游戏是我的梦想……老实说……这些价格让我觉得沮丧且生活无望……",
+        "label_text": "依旧会学习"
+    },
+    {
+        "source": "原文 : I’m short, so if my classes are far, I might as well rollerskate my way through campus, just kidding.",
+        "hyp": "文 1 : 我走路慢，如果教室离我很远，我还不如在校园里穿滑冰鞋滑过去呢，开玩笑。",
+        "label_text": "走路慢"
+    },
+    {
+        "source": "原文 : So, we need a filter for the ASRs, so that the ASR is silent if it's the wrong language and it is the recognized text if it's the correct language.",
+        "hyp": "文 5 : 所以，我们需要筛选ASR，如果为错误的语言，ASR不作用，如果为正确的语言，则ASR可识别文本。",
+        "label_text": "ASR不作用"
+    },
+    {
+        "source": "原文 : One day she got kicked out of Mewny (her home dimension) by her mean mom >:-( just because she made a mistake.",
+        "hyp": "文 5 : 一天就因为她犯了一个错误，她就被她那刻薄的妈妈赶出了Mewny（她的房间） >:-( ",
+        "label_text": "她的房间"
+    },
+    {
+        "source": "原文 : I love my boyfriend and desperately want to keep his system happy.",
+        "hyp": "文 2 : 我爱我的男朋友，我非常想让他的身体舒服。",
+        "label_text": "让他的身体舒服"
+    },
+    {
+        "source": "原文 : So I already have an orange golden chinchilla (Toto, 2 months old) and we have had Toto for 3 weeks now and felt she needed company, so we got Terri (2-month Himalayan Ragdoll) to keep each other company.",
+        "hyp": "文 1 : 我已经养了一只两个月大的橙色金栗鼠——Toto，我们三个星期前买了Toto，觉得它需要一个伙伴，所以我们又买了两个月大的喜马拉雅布偶猫——Terri，让它们彼此陪伴。",
+        "label_text": "橙色金栗鼠"
+    },
+    {
+        "source": "原文 : When the Sydney underground railways (now part of the Sydney Trains network) were constructed in 1927, Wynyard railway station was constructed by excavating the park and then rebuilding the park after the station had been constructed.",
+        "hyp": "文 1 : 1927年悉尼地下铁路（现悉尼列车网络的一部分）建成时，通过推翻公园来修建温亚站，然后在该站建成后再重建公园。",
+        "label_text": "推翻公园"
+    },
+    {
+        "source": "原文 : I’m not positive, but I think the owners are aware and did it to cut corners.",
+        "hyp": "文 2 : 我不太确定，但我认为业主们知道这件事并且在偷工减料。",
+        "label_text": "并且在偷工减料。"
+    }
+]

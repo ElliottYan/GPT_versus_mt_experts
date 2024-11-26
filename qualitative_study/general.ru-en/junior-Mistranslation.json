@@ -1,0 +1,122 @@
+[
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 3 : After a slight decrease in the number of protesters last Tuesday compared to the first two \"mobilisation days\", the unions hope to bring more protesters to the streets this time around, taking into account those citizens who were not able to participate in demonstrations on a weekday.",
+        "label_text": "on a weekday"
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 4 : The author is interested in both a screwdriver examining an electric meter and a piece of unsalted butter drifting across a cast-iron skillet - all of which make the story of an unemployed miner, his sparse-toothed lover and her criminal brother into a real butter doc canvas.",
+        "label_text": "doc"
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 1 : Look out for George Clooney, who teams up with rock photographer-now-director Anton Corbijn (\"Control\") for a very curious existential exploration of the psychology of an aging assassin who hides from people in a small Italian town with a belated understanding of human nature.",
+        "label_text": "Look out for"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 2 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "In general"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 2 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "organic"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 2 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "organic"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 5 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "organic"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 5 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "organic"
+    },
+    {
+        "source": "原文 : Потому что просрать свой потенциал так, как Кокорин, не смог никто.",
+        "hyp": "文 4 : Because no one could ruin his potential like Kokorin.",
+        "label_text": "ruin"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 1 : The most difficult film at \"Kinotavr\" has already been selected for the Karlovy Vary competition - a director's star has been borned.",
+        "label_text": "film"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 3 : At a round table dedicated to the fate of Russian arthouse, the chairman of the Russian Cinema Support Fund, Sergei Tolstikov, started a picturesque quarrel with critics: \"Do you even read the articles in the press, which I read?\" - he threateningly asked the audience.",
+        "label_text": "picturesque "
+    },
+    {
+        "source": "原文 : Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.",
+        "hyp": "文 4 : Having achieved nothing and having shot the unfortunate bandit, the women start clawing, fighting with each other and the periodically arriving scumbags from somewhere, as well as regular kissing and squeezing.",
+        "label_text": "squeezing"
+    },
+    {
+        "source": "原文 : Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.",
+        "hyp": "文 4 : Having achieved nothing and having shot the unfortunate bandit, the women start clawing, fighting with each other and the periodically arriving scumbags from somewhere, as well as regular kissing and squeezing.",
+        "label_text": "squeezing"
+    },
+    {
+        "source": "原文 : Ваш партнер по фильму Александр Яценко совершенно не похож на своего героя.",
+        "hyp": "文 2 : Your partner in the film Alexander Yatsenko is completely different from his hero.",
+        "label_text": "hero"
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 5 : The Turkish Anadolu Agency provides other data and writes that the Margara-Alijan border point was last used to deliver humanitarian supplies to Armenia to deal with the aftermath of the devastating 1988 earthquake.",
+        "label_text": "provides"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 2 : Please describe the actions for your employees in this case, if you are trying to contact the service.",
+        "label_text": "contact the service"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 2 : Please describe the actions for your employees in this case, if you are trying to contact the service.",
+        "label_text": "contact the service"
+    },
+    {
+        "source": "原文 : А потом длинными многочасовыми репетициями мы приходим к той органике, о которой вы говорите.",
+        "hyp": "文 4 : And then, through long hours of rehearsals we come to that organics you're talking about.",
+        "label_text": "organics "
+    },
+    {
+        "source": "原文 : Марина, прекрасно понимая в каком состоянии находятся близкие, давала советы, как будет лучше и просто по-человечески сочувствовала нам.",
+        "hyp": "文 5 : Marina, understanding perfectly well the condition of loved ones, gave advice on how it would be better and simply sympathised with us in a human way.",
+        "label_text": " in a human way"
+    },
+    {
+        "source": "原文 : В свою очередь, Кариньяно ранее утверждала, что в 2022 году в Аргентину прибыли около 10,5 тыс. граждан России, а за последние месяцы - более 5,8 тыс. беременных женщин.",
+        "hyp": "文 5 : Meanwhile, Carignano previously claimed that some 10,500 Russian citizens have arrived in Argentina in 2022, with more than 5,800 pregnant women arriving in recent months.",
+        "label_text": "Meanwhile"
+    },
+    {
+        "source": "原文 : Пациенты в зависимости от степени атеросклеротического стеноза внутренней сонной артерии и картины глазного дна были разделены на две группы.",
+        "hyp": "文 5 : Patients were divided into two groups depending on the degree of atherosclerotic stenosis of the internal carotid artery and the ocular fundus picture.",
+        "label_text": "picture"
+    },
+    {
+        "source": "原文 : Я ему рассказывала обо всех своих страхах, о всех переживаниях, о том, что я боюсь, что у меня не получится, и просила у него какого-то совета и помощи, и он с радостью этот совет и эту помощь мне давал.",
+        "hyp": "文 5 : I told him about all my fears, about all my worries, that I was afraid that I would fail, and I asked him for some advice and help, and he was happy to give me that advice and help.",
+        "label_text": "worries"
+    },
+    {
+        "source": "原文 : Не спать, не есть сутками - и все равно, хоть гром, хоть град.",
+        "hyp": "文 2 : No sleep, no food for days - and still, even thunder or hail.",
+        "label_text": "and still"
+    },
+    {
+        "source": "原文 : При анализе данных мф-ЭРГ в исследуемой группе обнаружено статистически значимое по сравнению с группой контроля снижение плотности биопотенциала Р1 (нВ/град<sup>2</sup>) центральной зоны сетчатки (0—27,7°; <i>p</i><0,05), отличия латентности Р1 (ms) были статистически незначимы (<i>p</i>>0,05).",
+        "hyp": "文 2 : When analysing mf-ERG in the study group, a statistically significant decrease in the P1 biopotential density (nV/grade<sup>2</sup>) of the central retinal zone (0-27.7°) was found compared with the control group/i<0.05), differences in P1 latency (ms) were statistically insignificant (<i>p</i>>0.05).",
+        "label_text": "0-27.7°) was found compared with the control group/i<0.05"
+    }
+]

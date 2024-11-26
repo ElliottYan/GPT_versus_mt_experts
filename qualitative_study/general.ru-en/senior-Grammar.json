@@ -1,0 +1,102 @@
+[
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 1 : In the settlement of Granovschina, Prime Minister checked out the work of a new educational institution – a school of Granovschina, which was opened in September 2022.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Врач уточняет, что небольшие дозы алкогольных напитков способствуют расслаблению и не влияют на сон.",
+        "hyp": "文 2 : The doctor clarifies that small doses of alcoholic drinks have a relaxing effect and do not affect sleeping.",
+        "label_text": "sleeping"
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 5 : After a certain decrease in the number of protesters last Tuesday as compared to the first two \"mobilization days\", trade unions hope to bring out more protesters this time, with account for those citizens who were unable to participate in demonstrations on weekdays.",
+        "label_text": "to"
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 2 : Hereditary optic neuropathies (HON) are a group of neurodegenerative diseases characterised by primary loss of structure and function of retinal ganglion cells with subsequent death of their axons and development of partial optic atrophy.",
+        "label_text": "and "
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 3 : A scene of extermination the Ninth Legion, which required a good deal of budget money, is directly inspired by the opening scolding in Germanic woods from now benchmark Gladiator by Sir Ridley Scott's, however, for some reason, I absolutely do not want to try to catch Marshall in plagiary: he is fair and straightforward in his work.",
+        "label_text": "by Sir Ridley Scott's"
+    },
+    {
+        "source": "原文 : По информации ведомства, инцидент произошел вечером пятницы на 218 километре автодороги Р-22 в Михайловском районе.",
+        "hyp": "文 5 : According to the agency, the accident happened on Friday evening at kilometre 218 of R-22 motorway in the Mikhailovsky district.",
+        "label_text": "at kilometre 218"
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 5 : The administration of Brainmax resulted in a significant improvement in cognitive performance (concentration and sustained attention, working memory, visual-constructive skills, attention span and switching rate, information processing rate, and executive functions), reduction in severity of asthenic symptoms, and improvement of the quality of life measures.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 1 : The indomitable Armenian-Iranian relations anchored on centuries-old history and mutual respect are of special importance for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 1 : The indomitable Armenian-Iranian relations anchored on centuries-old history and mutual respect are of special importance for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 5 : The most challenging film of Kinotavr has already been selected for the competition in Karlovy Vary – a directing star is born.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 4 : Please detail the actions for your employees for this case, since you are trying to get into this service.",
+        "label_text": "since"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 4 : Please detail the actions for your employees for this case, since you are trying to get into this service.",
+        "label_text": "since"
+    },
+    {
+        "source": "原文 : В постановки, в которых он принимал участие, пригласи артистов из второго состава.",
+        "hyp": "文 3 : Please invite understudies to productions he took part in.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Уверен, что закаленные в атмосфере взаимного уважения и доверия армяно-иранские дружеские отношения в дальнейшем будет иметь еще большие достижения на благо народов Армении и Ирана.",
+        "hyp": "文 3 : I am confident that the Armenian-Iranian friendly relations shaped in the atmosphere of mutual respect and trust will record greater achievements in the future for the benefit of the peoples of Armenia and Iran.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Переход на армяно-турецкой границе открыли впервые за десятилетия для доставки гуманитарной помощи",
+        "hyp": "文 5 : A crossing on the Armenian-Turkish border was opened for the first time in decades to deliver humanitarian aid",
+        "label_text": " Armenian-Turkish"
+    },
+    {
+        "source": "原文 : Погодные условия осложнялись порывистым ветром, скорость которого временами достигала 20-25 метров в секунду.",
+        "hyp": "文 1 : Weather conditions were complicated by gusting wind, whose speed reached 20–25 meters per second from time to time.",
+        "label_text": "whose"
+    },
+    {
+        "source": "原文 : Праздник учрежден для приобщения женщин и девочек к сфере науки, поощрения развития женщинами научной карьеры и признания достижения женщин в науке.",
+        "hyp": "文 3 : The holiday is established to familiarize women and girls with science, encourage women to develop academic career. in science and recognise the achievements of women in science.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : Каково же разочарование бизнесмена, когда Настя в борьбе за независимость и в пику отцу выбирает его сверстника и делового партнера.",
+        "hyp": "文 1 : How big the businessman's disappointment was when Nastya, in her struggle for independence and in spite of her father, chooses someone of his age and business partner.",
+        "label_text": "was"
+    },
+    {
+        "source": "原文 : Пусть годаровские монтажные ходы в истории о двух школьниках, один из которых мечтает сделать бомбу, а другой — сыграть Баха задом наперед, выглядят странно, но за редкую попытку поэтизации окружающей реальности — спасибо.",
+        "hyp": "文 3 : Even if Godard's montage moves in the story about two schoolboys, one of whom dreams of making a bomb and the other of playing Bach other way round, look strange, however I appreciate an uncommon attempt to poeticize the surrounding reality.",
+        "label_text": "an"
+    },
+    {
+        "source": "原文 : В Крыму проходят съемки интернационального боевика Максима Коростышевского под рабочим названием «Солдаты удачи».",
+        "hyp": "文 4 : In the Crimea, an international action movie by Maxim Korostyshevsky under the working title of Soldiers of Fortune is being filmed.",
+        "label_text": " the"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : 2021成都车展前夕，上汽大众旗下新款帕萨特家族正式上市，新车共推出13款车型，其中10款燃油版车型，3款PHEV车型，售价区间为17.99-25.09万元。",
+        "hyp": "文 4 : On the eve of the 2021 Chengdu Auto Show, SAIC Volkswagen officially launched the new Passat family, introducing a total of 13 models. Among these, there are 10 gasoline-powered versions and 3 plug-in hybrid electric vehicle (PHEV) models, with prices ranging from 179,900 to 250,900 yuan.",
+        "label_text": "plug-in hybrid electric vehicle"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 2 : If you've purchased a used car, you should confirm and delete any registered Bluetooth keys. Additionally, please inform the customer service center or the dealership about your purchase of a used car.",
+        "label_text": "customer service center"
+    }
+]

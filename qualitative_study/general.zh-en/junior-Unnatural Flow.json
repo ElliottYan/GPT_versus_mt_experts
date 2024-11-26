@@ -1,0 +1,117 @@
+[
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 3 : It is a luxury for ordinary people to eat once a month, so how could he afford to have it every meal?",
+        "label_text": "to eat"
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 2 : In March 2020, the demand for flour soared during the COVID-19 pandemic. Under the circumstances, the flour factory with a slump in business started to transform its wholesale operation model by introducing flour suitable for household use, receiving a good response.",
+        "label_text": "receiving a good response"
+    },
+    {
+        "source": "原文 : 第二次世界大战期间，英国政府买下该岛，将其作为生化武器试验基地，试验将炭疽热作为生化武器使用。",
+        "hyp": "文 4 : During the Second World War, the British government bought the island and constructed it into a biochemical weapons testing base to experiment with the use of anthrax as a biochemical weapon.",
+        "label_text": "constructed it into a biochemical weapons testing base"
+    },
+    {
+        "source": "原文 : 晶莹剔透，闪烁着绚烂深泽。 最为美丽的是，水晶雕像的女子，空灵唯美，仿佛狐仙，那样美若天仙，那样令人痴迷。",
+        "hyp": "文 5 : It is crystal clear, shimmering with splendid brilliance. The most beautiful thing is that the crystal female statue is ethereal and beautiful, like a fox fairy, so beautiful and so fascinating.",
+        "label_text": " The most beautiful thing is that the crystal female statue is ethereal and beautiful,"
+    },
+    {
+        "source": "原文 : 晶莹剔透，闪烁着绚烂深泽。 最为美丽的是，水晶雕像的女子，空灵唯美，仿佛狐仙，那样美若天仙，那样令人痴迷。",
+        "hyp": "文 5 : It is crystal clear, shimmering with splendid brilliance. The most beautiful thing is that the crystal female statue is ethereal and beautiful, like a fox fairy, so beautiful and so fascinating.",
+        "label_text": "and beautiful, like a fox fairy, so beautiful "
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 2 : With the rise of concert culture, Roman Tam performed alone multiple times at the Lee Theatre since 1978. At the same time, he also developed his performing career abroad. He was invited to perform at the Royal Albert Hall, London, in 1979, and the Lincoln Center in New York in 1980, becoming the first Chinese singer to be invited to sing at these two venues. He was the first Chinese singer to hold a solo concert at Madison Square Park in New York. Moreover, he also held a solo concert at the National Theatre in Singapore.",
+        "label_text": " performed alone"
+    },
+    {
+        "source": "原文 : 这鞋很“窄”，虽然前面还留着距离，但是感觉紧紧的。",
+        "hyp": "文 4 : The shoes are \"narrow\". Although there is space at the tip, I feel these shoes are a bit too tight.",
+        "label_text": "I feel these shoes are a bit too tight"
+    },
+    {
+        "source": "原文 : 那笑容在时光看来，像嘲讽。",
+        "hyp": "文 4 : That smile seemed like a mockery to the time.",
+        "label_text": "to the time"
+    },
+    {
+        "source": "原文 : 徐缺一脸贱笑，眉毛一挑，伸手就直接扒向女子的裙摆。",
+        "hyp": "文 2 : Xu Que had a wicked smile and raised his eyebrows, stretching out his hand directly to the lady's skirt's hemline.",
+        "label_text": "the lady's skirt's hemline"
+    },
+    {
+        "source": "原文 : 那玉石在他手心，就在他右手掌心里，居然融化起来。",
+        "hyp": "文 1 : The jade was in his palm, right the palm of his right hand, and it melted.",
+        "label_text": "right the palm of his right hand"
+    },
+    {
+        "source": "原文 : 宗族冲突可能导致械斗和造成流血事件，参与者人口可能数十人到几万人。",
+        "hyp": "文 4 : Clan warfare could lead to fights with weapons between groups of people and bloody incidents, involving dozens of people to tens of thousands of people.",
+        "label_text": "fights with weapons between groups of people"
+    },
+    {
+        "source": "原文 : 北宋因政治腐败、因循守旧而造成了积贫积弱的局面，中叶即出现了较大的财政危机和国防危机。",
+        "hyp": "文 4 : During the Northern Song Dynasty, the political corruption and rigid old ways sowed the seeds of \"accumulated poverty and weakness\", resulting in significant fiscal and defense crises in the middle period.",
+        "label_text": "rigid old ways"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 1 : An article published by the Billboard in August 2021 pointed out that the band's fans have \"through above-board means\" taken advantage of loopholes in chart tabulations to boost the ranks of singles such as \"Butter\" in the US and help the song top the Hot 100 for multiple weeks. While the chart performance of singles on the Hot 100 typically depends on streaming and airplay, that of \"Butter\" was notably driven mostly by sales (the bulk of which came from BTS' webstore, which allows fans to buy multiple copies of a song, unlike iTunes) and by fan-led crowdfunding efforts (including using money collected from fans worldwide on services like PayPal to make purchases that count toward US sales only). However, an article in The Korea Times pushed back against claims of chart manipulation. It opined that fanbases of other artists such as Justin Bieber and Ariana Grande have employed similar promotional measures, such measures were neither illegal nor unethical, and fans engaged in those measures were merely \"intelligent consumers leading global trends\".",
+        "label_text": "have \"through above-board means\" taken advantage of loopholes in chart tabulations"
+    },
+    {
+        "source": "原文 : “五行杂灵根，这是最最低等的灵根，难怪前身虽然无比努力，却只有炼体二层的修为。” “于我而言，五行杂灵根虽然有点棘手，但辅以丹药，最多四百年我必然还能重临巅峰！”",
+        "hyp": "文 4 : \"The Five Elements Mixed Spirit Base is the worst Spirit Base. It's no wonder that my predecessor worked so hard, but he only had the cultivation of Tier II body refining. To me, although the Five Elements Mixed Spirit Base is a little troublesome, with the help of alchemy, I will definitely reach the peak again in at most four hundred years!\"",
+        "label_text": "had the cultivation of Tier II body refining"
+    },
+    {
+        "source": "原文 : 机长、副机长决定在无法完全控制飞机的情况下遵循飞机左转的势头绕圈并降落，飞机继续向西北方向飞行。",
+        "hyp": "文 4 : The captain and first officer decided to follow the trend of the plane's left turn to circle and land if they completely lost control of the plane. However, the plane continued to fly in the northwest direction.",
+        "label_text": "in the northwest direction"
+    },
+    {
+        "source": "原文 : 《计划》还提到，加强卫星与地面通信融合应用、布局低空网络基础设施建设、推进海上5G网络深度覆盖。",
+        "hyp": "文 2 : According to the Plan, efforts will also be made to strengthen the convergence applications of satellite and terrestrial communications, plan the construction of low-altitude network infrastructure, and promote the extensive coverage of the 5G sea network.",
+        "label_text": "convergence applications"
+    },
+    {
+        "source": "原文 : 遗憾的是版型属于瘦型的，更适合年轻人。",
+        "hyp": "文 2 : Unfortunately, this pattern is thinner and is more suitable for young people.",
+        "label_text": "this pattern is thinner"
+    },
+    {
+        "source": "原文 : 2016年10月27日，珠海大剧院举行全面运营启动暨开票仪式，首场演出1550张门票于开票后两小时内全部售出。",
+        "hyp": "文 1 : On October 27, 2016, the inauguration and ticketing ceremony of the Zhuhai Grand Theater took place, with 1,550 tickets for the first performance sold out within just two hours of going on sale.",
+        "label_text": " two hours of going on sale"
+    },
+    {
+        "source": "原文 : 冰雪肆虐着整片大地，莽莽群山千沟万壑皆是一片银装素裹，鹅毛大雪簌簌落下，遥遥望去天地浑然一色。",
+        "hyp": "文 4 : This is a world of ice and snow. The mountains and rivers are all covered with snow. Large snowflakes are falling. From a distance, there seems to be a uniform color between earth and sky.",
+        "label_text": "This is a world of ice and snow. The mountains and rivers are all covered with snow. "
+    },
+    {
+        "source": "原文 : 二十一世纪，东海市高级私人医院院长办公室。",
+        "hyp": "文 2 : The time is the 21st century, and the location is the Office of the Director of XX Advanced Private Hospital in Donghai City.",
+        "label_text": "the Office of the Director of"
+    },
+    {
+        "source": "原文 : 林锋琢磨着，脸上渐渐露出一副温暖阳光的笑容。",
+        "hyp": "文 5 : After pondering for a few moments, Lin Feng gradually gave a warm and sunny smile.",
+        "label_text": "gave a warm and sunny smile"
+    },
+    {
+        "source": "原文 : 梵盾吉普服饰，因为年轻，所以自信！",
+        "hyp": "文 5 : FANDUN JEEP, giving you confidence through youth!",
+        "label_text": "giving you confidence through youth"
+    },
+    {
+        "source": "原文 : 给个建议，亚马逊的app 上晒单怎么有时晒不了，希望能改进一些应用，会做的越来越好的！",
+        "hyp": "文 1 : Sometimes I tried to post my reviews on the Amazon APP and failed. I recommend that you make some improvements to the APP, to make the APP grow better and better!",
+        "label_text": "make the APP grow better and better"
+    }
+]

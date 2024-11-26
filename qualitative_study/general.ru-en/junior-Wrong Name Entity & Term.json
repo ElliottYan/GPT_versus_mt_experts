@@ -1,0 +1,82 @@
+[
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 4 : Somehow it doesn't make sense (performing at the Ruki vverkh Bar, in the Ruki vverkh Band).",
+        "label_text": "Ruki vverkh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 4 : Somehow it doesn't make sense (performing at the Ruki vverkh Bar, in the Ruki vverkh Band).",
+        "label_text": "Ruki vverkh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 4 : Somehow it doesn't make sense (performing at the Ruki vverkh Bar, in the Ruki vverkh Band).",
+        "label_text": "Ruki vverkh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 4 : Somehow it doesn't make sense (performing at the Ruki vverkh Bar, in the Ruki vverkh Band).",
+        "label_text": "Ruki vverkh"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 3 : All cases with diseases as the initial cause of death (ICD) were selected (all codes for external causes, injuries and poisoning were excluded).",
+        "label_text": "ICD"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 3 : All cases with diseases as the initial cause of death (ICD) were selected (all codes for external causes, injuries and poisoning were excluded).",
+        "label_text": "ICD"
+    },
+    {
+        "source": "原文 : В соответствии с классификацией PASCAL у 93% пациентов НЦН ООО может рассматриваться в качестве вероятной причины ИИ, тогда как в группе ГКБ №4 вероятная причинно-следственная связь прослеживалась только в 51% случаев, у 18% пациентов роль аномалии в развитии инсульта была маловероятной.",
+        "hyp": "文 5 : According to the PASCAL classification, in 93% of patients NCN LLC can be considered as a probable cause of AI, whereas in the group of CCH №4 a probable causal relationship was traced only in 51% of cases, in 18% of patients the role of the anomaly in the development of stroke was unlikely.",
+        "label_text": "NCN LLC"
+    },
+    {
+        "source": "原文 : В соответствии с классификацией PASCAL у 93% пациентов НЦН ООО может рассматриваться в качестве вероятной причины ИИ, тогда как в группе ГКБ №4 вероятная причинно-следственная связь прослеживалась только в 51% случаев, у 18% пациентов роль аномалии в развитии инсульта была маловероятной.",
+        "hyp": "文 5 : According to the PASCAL classification, in 93% of patients NCN LLC can be considered as a probable cause of AI, whereas in the group of CCH №4 a probable causal relationship was traced only in 51% of cases, in 18% of patients the role of the anomaly in the development of stroke was unlikely.",
+        "label_text": "AI"
+    },
+    {
+        "source": "原文 : Дэниел Рэдклифф сыграет главную роль в экранизации «На западном фронте без перемен» Ремарка",
+        "hyp": "文 2 : Daniel Radcliffe will star in the film adaptation of Remarque's \"On the Western Front Without Change\"",
+        "label_text": "On the Western Front Without Change"
+    },
+    {
+        "source": "原文 : На фоне применения Цитофлавина отмечено повышение показателей КЖ, уменьшение выраженности сенсорных нарушений и снижение уровня ФНО-α, что может указывать на возможный противовоспалительный механизм препарата.",
+        "hyp": "文 4 : The use of Cytoflavin resulted in an increase in QOL, a decrease in the severity of sensory disturbances and a decrease in TNF-α levels, which may indicate a possible anti-inflammatory mechanism of the drug.",
+        "label_text": "QOL"
+    },
+    {
+        "source": "原文 : При утяжелении степени РПГИС пропорционально возрастают ишемические изменения во всех капиллярных слоях центральных отделов сетчатки по сравнению с группой контроля в 1,15 раза при легкой степени, в 1,24 раза при средней степени, в 1,5 раза при тяжелой степени.",
+        "hyp": "文 3 : As the degree of RPHIS worsens, ischaemic changes in all capillary layers of the central retina increase proportionally in comparison with the control group by 1.15 times in the mild degree, 1.24 times in the moderate degree, and 1.5 times in the severe degree.",
+        "label_text": "RPHIS"
+    },
+    {
+        "source": "原文 : Были выявлены статистически значимые корреляционные связи между ИКЭФ и общим баллом по субтестам РАТ на понимание и воспроизведение речи до операции, но не в катамнезе.",
+        "hyp": "文 2 : Statistically significant correlations were found between ICEF and the total score on the RAT subtests of speech comprehension and production before surgery but not in the catamnesis.",
+        "label_text": "ICEF"
+    },
+    {
+        "source": "原文 : Аналитики ПСБ отмечают, что на относительную устойчивость отрасли оказали влияние программы государственной поддержки.",
+        "hyp": "文 5 : BCOP analysts note that the relative resilience of the industry has been influenced by government support programmes.",
+        "label_text": "BCOP"
+    },
+    {
+        "source": "原文 : Под наблюдением находились пациенты мужского пола 35–74 лет с функциональной патологией ВНЧС.",
+        "hyp": "文 3 : Male patients aged 35-74 years with functional TMJ pathology were under observation.",
+        "label_text": "TMJ"
+    },
+    {
+        "source": "原文 : Легкая степень тяжести РПГИС характеризовалась уменьшением показателей плотности поверхностного сосудистого сплетения и плотности глубокого сосудистого сплетения на 13,5 и 10,5% соответственно по сравнению с контролем, средняя степень — на 19,7 и 14,6%, тяжелая степень — на 35,9 и 28% соответственно.",
+        "hyp": "文 5 : Mild severity of RPGIS was characterised by a 13.5 and 10.5% decrease in superficial vascular plexus density and deep vascular plexus density indices, respectively, compared to controls, medium severity by 19.7 and 14.6%, and severe severity by 35.9 and 28%, as well.",
+        "label_text": "RPGIS"
+    },
+    {
+        "source": "原文 : Проведено комплексное обследование 114 пациентов в возрасте от 18 до 55 лет с ИИ по механизму парадоксальной эмболии.",
+        "hyp": "文 3 : A comprehensive examination of 114 patients aged 18 to 55 years with AI by the mechanism of paradoxical embolism was carried out.",
+        "label_text": "AI"
+    }
+]

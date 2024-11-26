@@ -1,0 +1,82 @@
+[
+    {
+        "source": "原文 : \"Нам надо провести глубокий анализ, чтобы убедиться, что эта причина не распространяется на подобные конструкции на будущих пусках.",
+        "hyp": "文 2 : \"We need to conduct a thorough analysis to ensure that this cause does not apply to similar structures in future launches.\"",
+        "label_text": "this cause does not apply to"
+    },
+    {
+        "source": "原文 : Врач уточняет, что небольшие дозы алкогольных напитков способствуют расслаблению и не влияют на сон.",
+        "hyp": "文 5 : The doctor clarifies that small doses of alcoholic beverages can aid relaxation and do not affect sleep.",
+        "label_text": "can aid relaxation "
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 1 : After a slight decrease in the number of participants in the protest actions last Tuesday compared to the first two \"days of mobilization,\" the unions hope to bring a larger number of protesters to the streets this time, taking into account those citizens who were unable to participate in the weekday demonstrations.",
+        "label_text": "days of mobilization,"
+    },
+    {
+        "source": "原文 : Из электронной базы данных Главного управления ЗАГС Московской области (система ЕГР ЗАГС) за 2021 г.",
+        "hyp": "文 5 : From the electronic database of the Civil Registry Office of the Moscow Region (Unified State Register of Civil Status Records system) for the year 2021.",
+        "label_text": "Unified State Register of Civil Status Records system"
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 5 : Pay attention to George Clooney, who has teamed up with rock photographer-turned-director Anton Corbijn (\"Control\") for a rather intriguing existential exploration of the psychology of an aging hitman hiding from people in a small Italian town and belatedly coming to understand human nature.",
+        "label_text": "belatedly coming to understand human nature"
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 3 : The use of the drug Brainmax led to a significant improvement in cognitive function indicators (concentration and attention maintenance, working memory, visual-constructive skills, the scope and speed of attention switching, information processing speed, and executive functions), a reduction in the severity of asthenic symptoms, and an increase in quality of life indicators.",
+        "label_text": "indicators"
+    },
+    {
+        "source": "原文 : Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.",
+        "hyp": "文 2 : Having achieved nothing and having shot the unfortunate bandit, the women start to claw at each other, fight among themselves and with periodically arriving thugs from who knows where, as well as regularly kissing and fondling each other.",
+        "label_text": "claw at each other, fight among themselves"
+    },
+    {
+        "source": "原文 : Вопрос проработаем с учетом камер \"Безопасный регион\", - рассказал глава муниципалитета Сергей Никитенко.",
+        "hyp": "文 3 : \"We will address the issue taking into account the 'Safe Region' cameras,\" explained Sergey Nikitenko, the head of the municipality.",
+        "label_text": "We will address the issue taking into account"
+    },
+    {
+        "source": "原文 : От души рекомендую, единственная клиника где не хотят нагреть на деньги на моей памяти.",
+        "hyp": "文 2 : I wholeheartedly recommend it; it's the only clinic I've been to where they don't try to overcharge you.",
+        "label_text": "wholeheartedly "
+    },
+    {
+        "source": "原文 : Тонкому артхаусному артисту пока удалось отвоевать в Голливуде лишь острохарактерные роли второго плана, но очень хочется верить, что после «Центуриона» ситуация изменится.",
+        "hyp": "文 4 : So far, the nuanced art-house actor has only managed to secure sharply defined supporting roles in Hollywood, but one really hopes that after \"Centurion,\" the situation will change.",
+        "label_text": "sharply defined supporting roles in Hollywood"
+    },
+    {
+        "source": "原文 : Разработка данных показателей в перспективе может привести к новому подходу в здравоохранении, направленному на повышение качества оказания медицинской помощи и на создание максимально комфортной среды для работников медицинской организации.",
+        "hyp": "文 3 : The development of these indicators could lead to a new approach in healthcare, aimed at improving the quality of medical care and creating the most comfortable environment possible for the staff of medical organizations.",
+        "label_text": "aimed at"
+    },
+    {
+        "source": "原文 : Праздник учрежден для приобщения женщин и девочек к сфере науки, поощрения развития женщинами научной карьеры и признания достижения женщин в науке.",
+        "hyp": "文 4 : The holiday was established to engage women and girls in the field of science, to encourage the development of scientific careers by women, and to recognize the achievements of women in science.",
+        "label_text": "engage "
+    },
+    {
+        "source": "原文 : Полости среднего уха находятся в фазе хронического гнойного процесса, когда костные структуры морфологически дезорганизуются по патологическому типу, причем склерозирование с зарастанием ячеистой структуры сосцевидного отростка считается благоприятным исходом для отграничения очага воспаления в пирамиде височной кости.",
+        "hyp": "文 3 : The cavities of the middle ear are in a phase of chronic purulent process, during which the bone structures become morphologically disorganized in a pathological manner. Sclerosis with the overgrowth of the mastoid process's cellular structure is considered a favorable outcome for isolating the inflammation focus within the temporal bone pyramid.",
+        "label_text": "isolating "
+    },
+    {
+        "source": "原文 : Связалась напрямую с мастером Александром, который объяснил все тонкости ремонта и сразу обозначил ценовые рамки.",
+        "hyp": "文 5 : I got in touch directly with the craftsman Alexander, who explained all the nuances of the repair and immediately outlined the price range.",
+        "label_text": "outlined "
+    },
+    {
+        "source": "原文 : Персонал внимательный, подскажут, направят, проконсультируют даже если пришел не в приемные дни.",
+        "hyp": "文 2 : The staff is attentive; they will assist, direct, and even consult with you even if you come on non-reception days.",
+        "label_text": "even consult with you even if"
+    },
+    {
+        "source": "原文 : Примечательно, что это третий такой случай в Зелёной Околице на моей памяти.",
+        "hyp": "文 1 : It's noteworthy that this is the third such incident in Zelyonaya Okolitsa in my memory.",
+        "label_text": " It's noteworthy that this is"
+    }
+]

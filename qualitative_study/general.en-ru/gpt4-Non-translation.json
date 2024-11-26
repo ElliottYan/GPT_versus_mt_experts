@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 3 : Итак, я узнал из второго или третьего поста, что шоу AJ заблокировали на YouTube. Я не фанат правых взглядов и, на самом деле, это была причина, по которой я перестал смотреть его два года назад, хотя и было трудно найти хоть крупицу свободы среди 90% национал-капитализма, который предлагает сайт. Но тем не менее, у меня возникла идея о видеохостинге без цензуры, типа LiveLeak, но гораздо проще и менее \"новостным\", где каждый мог бы размещать контент и ничего бы не удалялось❤️",
+        "label_text": "шоу AJ"
+    },
+    {
+        "source": "原文 : In the merger a provisional central committee was constituted, with PW leader Ganapati as General Secretary.",
+        "hyp": "文 3 : В результате слияния был образован временный центральный комитет, лидер ПВ Ганапати стал генеральным секретарём.",
+        "label_text": "ПВ"
+    }
+]

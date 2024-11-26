@@ -1,0 +1,662 @@
+[
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 2 : Ethanol gasoline (also known as alcohol gasoline) is a blended fuel consisting of ethanol (also referred to as grain alcohol) and gasoline. In the market, there are also gasolines containing methanol (also known as wood alcohol) or ethanol gasoline that are sold as alternatives to leaded or unleaded gasoline.",
+        "label_text": " gasolines"
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 2 : Ethanol gasoline (also known as alcohol gasoline) is a blended fuel consisting of ethanol (also referred to as grain alcohol) and gasoline. In the market, there are also gasolines containing methanol (also known as wood alcohol) or ethanol gasoline that are sold as alternatives to leaded or unleaded gasoline.",
+        "label_text": "are"
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 2 : Ethanol gasoline (also known as alcohol gasoline) is a blended fuel consisting of ethanol (also referred to as grain alcohol) and gasoline. In the market, there are also gasolines containing methanol (also known as wood alcohol) or ethanol gasoline that are sold as alternatives to leaded or unleaded gasoline.",
+        "label_text": " gasolines"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 1 : An immersive, driver-centered cockpit with a 10.25-inch smart dual-screen, equipped with the Intelligent Network Connection System 4.0, enables a multitude of personalized application interconnectivity, allowing you to fully enjoy the convenience of smart technology. With control at your fingertips, experience limitless connectivity at will.",
+        "label_text": "a multitude of "
+    },
+    {
+        "source": "原文 : 启用喇叭反馈功能时，按下遥控钥匙上的门锁闭锁按钮闭锁所有门锁后，如果在4秒钟内再次按下门锁闭锁按钮时，喇叭反馈声响1次，表示所有门锁已经闭锁(如有配备遥控钥匙)。",
+        "hyp": "文 3 : When the horn feedback feature is activated, if you press the lock button on the remote key to lock all doors and then press the lock button again within 4 seconds, the horn will sound once to indicate that all doors have been locked (if equipped with a remote key).",
+        "label_text": " (if equipped with a remote key)"
+    },
+    {
+        "source": "原文 : 启用喇叭反馈功能时，按下遥控钥匙上的门锁闭锁按钮闭锁所有门锁后，如果在4秒钟内再次按下门锁闭锁按钮时，喇叭反馈声响1次，表示所有门锁已经闭锁(如有配备遥控钥匙)。",
+        "hyp": "文 3 : When the horn feedback feature is activated, if you press the lock button on the remote key to lock all doors and then press the lock button again within 4 seconds, the horn will sound once to indicate that all doors have been locked (if equipped with a remote key).",
+        "label_text": "if equipped with a remote key"
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累积信息时，按住方向盘上的[OK]按钮持续1秒钟以上。此时，小计里程、平均油耗和累计时间会同时被初始化。",
+        "hyp": "文 5 : To manually initialize, hold down the [OK] button on the steering wheel for more than 1 second while the cumulative information is displayed. At this point, the trip mileage, average fuel consumption, and cumulative time will all be reset simultaneously.",
+        "label_text": "To manually initialize"
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累积信息时，按住方向盘上的[OK]按钮持续1秒钟以上。此时，小计里程、平均油耗和累计时间会同时被初始化。",
+        "hyp": "文 5 : To manually initialize, hold down the [OK] button on the steering wheel for more than 1 second while the cumulative information is displayed. At this point, the trip mileage, average fuel consumption, and cumulative time will all be reset simultaneously.",
+        "label_text": "To manually initialize"
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 5 : Let's first take a look at the exterior of the Kustu. The front end of the Kustu features a very solid and steady design, giving it a look that's both stable and imposing. The front headlights are very much in line with consumer aesthetics, offering a strong visual impact. The vehicle is equipped with LED daytime running lights, headlight height adjustment, automatic on/off, adaptive high and low beams, and a delayed shut-off feature. Moving to the side of the vehicle, the dimensions of the Kustu are 4950mm by 1850mm by 1734mm. It adopts a fashionable and minimalist line design, giving the body a very dominant presence, complemented by large, thick-walled tires that enhance its sporty appearance. At the rear, the overall design of the Kustu's tail echoes the front, with taillights that exude a very individual and bold character, plus uniquely shaped exhaust pipes that add to its distinctiveness.",
+        "label_text": "It"
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 5 : Let's first take a look at the exterior of the Kustu. The front end of the Kustu features a very solid and steady design, giving it a look that's both stable and imposing. The front headlights are very much in line with consumer aesthetics, offering a strong visual impact. The vehicle is equipped with LED daytime running lights, headlight height adjustment, automatic on/off, adaptive high and low beams, and a delayed shut-off feature. Moving to the side of the vehicle, the dimensions of the Kustu are 4950mm by 1850mm by 1734mm. It adopts a fashionable and minimalist line design, giving the body a very dominant presence, complemented by large, thick-walled tires that enhance its sporty appearance. At the rear, the overall design of the Kustu's tail echoes the front, with taillights that exude a very individual and bold character, plus uniquely shaped exhaust pipes that add to its distinctiveness.",
+        "label_text": "echoes the front"
+    },
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 2 : If the front-view camera installed on the windshield or the sensors are obstructed by foreign objects such as snow or rain, it will reduce the sensors' detection performance. This may cause the Forward Collision-Avoidance Assist (FCA) feature to pause or shut off.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 1 : When driving around a curve, it can significantly impact the detection performance of the forward collision-avoidance assist sensors. The Forward Collision-Avoidance Assist (FCA) feature may not detect vehicles or pedestrians ahead on the curve. This could result in a failure to issue collision danger warnings or to engage emergency braking assist control measures when necessary.",
+        "label_text": "around "
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 1 : When driving around a curve, it can significantly impact the detection performance of the forward collision-avoidance assist sensors. The Forward Collision-Avoidance Assist (FCA) feature may not detect vehicles or pedestrians ahead on the curve. This could result in a failure to issue collision danger warnings or to engage emergency braking assist control measures when necessary.",
+        "label_text": "it "
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 1 : When driving around a curve, it can significantly impact the detection performance of the forward collision-avoidance assist sensors. The Forward Collision-Avoidance Assist (FCA) feature may not detect vehicles or pedestrians ahead on the curve. This could result in a failure to issue collision danger warnings or to engage emergency braking assist control measures when necessary.",
+        "label_text": "around "
+    },
+    {
+        "source": "原文 : 当检测到从左后侧面/右后侧面驶近的目标车辆时，外后视镜上的[BCW]警告灯闪烁，并在仪表盘LCD显示屏上显示“紧急制动”的警告信息，同时发出警报声的方式，向驾驶员发出碰撞危险预警。如果后视监视器(RVM)功能在启动状态，通过信息娱乐系统显示屏也会发出警报。",
+        "hyp": "文 3 : When a target vehicle approaching from the left rear side/right rear side is detected, the [BCW] warning light on the side mirror flashes, and a \"Emergency Braking\" warning message is displayed on the instrument panel's LCD screen, accompanied by an audible alarm, to alert the driver of a potential collision risk. If the Rear View Monitor (RVM) feature is activated, an alert will also be displayed on the infotainment system screen.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 当检测到从左后侧面/右后侧面驶近的目标车辆时，外后视镜上的[BCW]警告灯闪烁，并在仪表盘LCD显示屏上显示“紧急制动”的警告信息，同时发出警报声的方式，向驾驶员发出碰撞危险预警。如果后视监视器(RVM)功能在启动状态，通过信息娱乐系统显示屏也会发出警报。",
+        "hyp": "文 3 : When a target vehicle approaching from the left rear side/right rear side is detected, the [BCW] warning light on the side mirror flashes, and a \"Emergency Braking\" warning message is displayed on the instrument panel's LCD screen, accompanied by an audible alarm, to alert the driver of a potential collision risk. If the Rear View Monitor (RVM) feature is activated, an alert will also be displayed on the infotainment system screen.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 将千斤顶支撑在靠近需更换车轮的指定顶起位置。千斤顶顶起的指定位置是，在车架纵梁上焊接的，带有2个凹槽的钢板。禁止把千斤顶支撑在除了指定位置外的其它车辆部位上。否则，会损坏车辆侧面密封或其它部件。",
+        "hyp": "文 1 : Position the jack under the designated lifting point near the wheel that needs to be replaced. The designated lifting point for the jack is a steel plate welded to the vehicle's frame rail, featuring two notches. Do not support the jack on any part of the vehicle other than the designated points. Otherwise, it may damage the vehicle's side seals or other components.",
+        "label_text": "under"
+    },
+    {
+        "source": "原文 : 将千斤顶支撑在靠近需更换车轮的指定顶起位置。千斤顶顶起的指定位置是，在车架纵梁上焊接的，带有2个凹槽的钢板。禁止把千斤顶支撑在除了指定位置外的其它车辆部位上。否则，会损坏车辆侧面密封或其它部件。",
+        "hyp": "文 1 : Position the jack under the designated lifting point near the wheel that needs to be replaced. The designated lifting point for the jack is a steel plate welded to the vehicle's frame rail, featuring two notches. Do not support the jack on any part of the vehicle other than the designated points. Otherwise, it may damage the vehicle's side seals or other components.",
+        "label_text": " featuring two notches"
+    },
+    {
+        "source": "原文 : 最后再来看下仪表盘和座椅，仪表盘设计可圈可点，设计比较稳重。该车采用了仿皮座椅，座椅包裹性到位，用料讲究，乘坐舒适。",
+        "hyp": "文 1 : Finally, let's take a look at the dashboard and seats. The dashboard design is noteworthy and quite stable. The car features faux leather seats that are well-contoured, made with quality materials, and offer a comfortable ride.",
+        "label_text": "that are well-contoured, made with quality materials, and offer a comfortable ride"
+    },
+    {
+        "source": "原文 : 最后再来看下仪表盘和座椅，仪表盘设计可圈可点，设计比较稳重。该车采用了仿皮座椅，座椅包裹性到位，用料讲究，乘坐舒适。",
+        "hyp": "文 1 : Finally, let's take a look at the dashboard and seats. The dashboard design is noteworthy and quite stable. The car features faux leather seats that are well-contoured, made with quality materials, and offer a comfortable ride.",
+        "label_text": "that are well-contoured, made with quality materials, and offer a comfortable ride"
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 4 : Leveraging exceptional capabilities, the Sonata set a record in the last century with \"sales of 600,000 units in 33 months\"; and when its fifth-generation model was introduced domestically, the iconic 'peanut lights' quickly became pervasive in streets and alleys, even creating a spectacle that left the streets deserted as everyone clamored to see it.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 1 : The addition of an all-new subframe effectively distributes the load to the front/rear mounting brackets, which not only increases strength but also further improves the smoothness of the ride by reducing vibrations and unevenness.",
+        "label_text": ", which"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 1 : The addition of an all-new subframe effectively distributes the load to the front/rear mounting brackets, which not only increases strength but also further improves the smoothness of the ride by reducing vibrations and unevenness.",
+        "label_text": "increases strength"
+    },
+    {
+        "source": "原文 : 以百度3.0智能网联平台为基础，可高度识别自然语言指令，带来更轻松的语音控制。以BLE手机蓝牙钥匙为核心的IT配置，实现了多项个性化配置及跨越空间的人车联动。",
+        "hyp": "文 4 : Based on the Baidu 3.0 intelligent connected platform, it can highly recognize natural language commands, offering a more effortless voice control experience. With the BLE smartphone Bluetooth key as the core of its IT configuration, it has achieved numerous personalized settings and cross-space vehicle interaction.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 以百度3.0智能网联平台为基础，可高度识别自然语言指令，带来更轻松的语音控制。以BLE手机蓝牙钥匙为核心的IT配置，实现了多项个性化配置及跨越空间的人车联动。",
+        "hyp": "文 4 : Based on the Baidu 3.0 intelligent connected platform, it can highly recognize natural language commands, offering a more effortless voice control experience. With the BLE smartphone Bluetooth key as the core of its IT configuration, it has achieved numerous personalized settings and cross-space vehicle interaction.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 专属运动美学风格惊艳登场，动感造型独具个性，运动基因燃动驾控渴望，唤醒驾驶激情。",
+        "hyp": "文 3 : An exclusive sports aesthetic style makes a stunning entrance, with dynamic design that boasts individuality, igniting the desire for control through its sporty DNA, awakening a passion for driving.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 专属运动美学风格惊艳登场，动感造型独具个性，运动基因燃动驾控渴望，唤醒驾驶激情。",
+        "hyp": "文 3 : An exclusive sports aesthetic style makes a stunning entrance, with dynamic design that boasts individuality, igniting the desire for control through its sporty DNA, awakening a passion for driving.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : PM1.0级空调过滤器增加含有熔喷布的高性能集尘层，0.3~0.5?尘埃过滤效率≥97%，过滤效果超过N95口罩，即便车外尘土飞扬，车内空气依然如清晨一般洁净。智能车机系统预装大量APP令旅途不枯燥，而高度便捷的自然语音识别系统，即便在你双手紧握方向盘时，依然可以操作车辆的各种功能。",
+        "hyp": "文 3 : The PM1.0-grade air conditioning filter features a high-performance dust collection layer that includes melt-blown fabric, with a dust filtration efficiency of ≥97% for particles between 0.3 to 0.5 micrometers, surpassing the filtering effect of N95 masks. Even when the outside is dusty, the air inside the car remains as clean as the early morning. The smart vehicle system comes preloaded with a multitude of apps to keep the journey from becoming dull, and the highly convenient natural voice recognition system allows you to operate various car functions even with both hands firmly on the steering wheel.",
+        "label_text": "as clean as the early morning"
+    },
+    {
+        "source": "原文 : PM1.0级空调过滤器增加含有熔喷布的高性能集尘层，0.3~0.5?尘埃过滤效率≥97%，过滤效果超过N95口罩，即便车外尘土飞扬，车内空气依然如清晨一般洁净。智能车机系统预装大量APP令旅途不枯燥，而高度便捷的自然语音识别系统，即便在你双手紧握方向盘时，依然可以操作车辆的各种功能。",
+        "hyp": "文 3 : The PM1.0-grade air conditioning filter features a high-performance dust collection layer that includes melt-blown fabric, with a dust filtration efficiency of ≥97% for particles between 0.3 to 0.5 micrometers, surpassing the filtering effect of N95 masks. Even when the outside is dusty, the air inside the car remains as clean as the early morning. The smart vehicle system comes preloaded with a multitude of apps to keep the journey from becoming dull, and the highly convenient natural voice recognition system allows you to operate various car functions even with both hands firmly on the steering wheel.",
+        "label_text": "as clean as the early morning"
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 1 : The hybrid system has a combined output of 193 horsepower and 350 Newton-meters of torque. Unlike Toyota, which uses an E-CVT transmission, this system opts for a 6-speed automatic transmission. The dashboard still features a traditional tachometer.",
+        "label_text": "a combined output of 193 horsepower and 350 Newton-meters of torque"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 5 : When fully pressing down on the brake pedal, the braking force is still not strong enough, and combined with the tires' mediocre grip, the vehicle has a noticeable tendency to slide forward. The results of ten consecutive tests were all around 43 meters, which is unsatisfactory. In the braking section, which has a full score of 5 points, it only scored 0.9 points, far below the average level for its class.",
+        "label_text": "When fully pressing down on the brake pedal, the braking force is still not strong enough"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 5 : When fully pressing down on the brake pedal, the braking force is still not strong enough, and combined with the tires' mediocre grip, the vehicle has a noticeable tendency to slide forward. The results of ten consecutive tests were all around 43 meters, which is unsatisfactory. In the braking section, which has a full score of 5 points, it only scored 0.9 points, far below the average level for its class.",
+        "label_text": "which"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 5 : When fully pressing down on the brake pedal, the braking force is still not strong enough, and combined with the tires' mediocre grip, the vehicle has a noticeable tendency to slide forward. The results of ten consecutive tests were all around 43 meters, which is unsatisfactory. In the braking section, which has a full score of 5 points, it only scored 0.9 points, far below the average level for its class.",
+        "label_text": "When fully pressing down on the brake pedal, the braking force is still not strong enough"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 5 : When fully pressing down on the brake pedal, the braking force is still not strong enough, and combined with the tires' mediocre grip, the vehicle has a noticeable tendency to slide forward. The results of ten consecutive tests were all around 43 meters, which is unsatisfactory. In the braking section, which has a full score of 5 points, it only scored 0.9 points, far below the average level for its class.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 4 : The new car has not changed in terms of design, featuring the latest family-style front fascia and wheel designs that are currently available on the entry-level models. The dimensions of the car are 4750/1820/1488mm (length/width/height), with a wheelbase of 2730mm, which remains consistent with the current model.",
+        "label_text": "which remains"
+    },
+    {
+        "source": "原文 : 帕萨特在外形设计上相比老款运动得多，整体不再是一板一眼的传统三厢轿车设计，C柱的线条更加流畅，营造出了微微溜背的感觉。",
+        "hyp": "文 1 : The Passat features a much sportier exterior design compared to the older model, moving away from the traditional three-box sedan design with its straight-laced look. The lines of the C-pillar are more fluid, creating a subtle fastback feel.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : 前排座椅降至最低，三款车的头部空间都是一拳，差别很小。",
+        "hyp": "文 2 : With the front seats lowered to their lowest position, the headroom in all three models is about one fist's worth, with very little difference.",
+        "label_text": "in"
+    },
+    {
+        "source": "原文 : 三车中最舒适的当属君越，柔软的座椅、安静的车厢、减振器对于细碎振动的处理也非常到位，在铺装路面上，君越有着堪比中大型车的NVH表现，非常适合高速巡航驾驶。",
+        "hyp": "文 1 : Among the three vehicles, the most comfortable is undoubtedly the Regal. With its soft seats, quiet cabin, and shock absorbers that handle minor vibrations very well, the Regal delivers NVH (Noise, Vibration, and Harshness) performance on par with mid-to-large size cars when driving on paved roads, making it very suitable for high-speed cruising.",
+        "label_text": " the"
+    },
+    {
+        "source": "原文 : 三车中最舒适的当属君越，柔软的座椅、安静的车厢、减振器对于细碎振动的处理也非常到位，在铺装路面上，君越有着堪比中大型车的NVH表现，非常适合高速巡航驾驶。",
+        "hyp": "文 1 : Among the three vehicles, the most comfortable is undoubtedly the Regal. With its soft seats, quiet cabin, and shock absorbers that handle minor vibrations very well, the Regal delivers NVH (Noise, Vibration, and Harshness) performance on par with mid-to-large size cars when driving on paved roads, making it very suitable for high-speed cruising.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 三车中最舒适的当属君越，柔软的座椅、安静的车厢、减振器对于细碎振动的处理也非常到位，在铺装路面上，君越有着堪比中大型车的NVH表现，非常适合高速巡航驾驶。",
+        "hyp": "文 1 : Among the three vehicles, the most comfortable is undoubtedly the Regal. With its soft seats, quiet cabin, and shock absorbers that handle minor vibrations very well, the Regal delivers NVH (Noise, Vibration, and Harshness) performance on par with mid-to-large size cars when driving on paved roads, making it very suitable for high-speed cruising.",
+        "label_text": "driving"
+    },
+    {
+        "source": "原文 : 传统的6挡手自一体变速箱动力衔接更平顺，特别是在低速拥堵路况时，其平顺性要明显好于大众的DQ380。",
+        "hyp": "文 4 : The traditional 6-speed manual-automatic transmission offers smoother power transitions, especially in low-speed congested traffic conditions, where its smoothness is noticeably superior to Volkswagen's DQ380.",
+        "label_text": "where"
+    },
+    {
+        "source": "原文 : 雅阁的前后车灯都加入了LED光源，除了2.0L车型之外，2.4L和3.0L不但拥有LED日间行车灯，近光灯也同样采用了LED光源。",
+        "hyp": "文 1 : The front and rear lights of the Accord have incorporated LED sources. Apart from the 2.0L model, the 2.4L and 3.0L not only feature LED daytime running lights but also use LED sources for their low beam headlights.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 5 : After all, within the mid-size car segment, the Regal takes a youthful and sporty approach, while the LaCrosse is positioned as stable and business-oriented. Following its redesign, the LaCrosse has also joined the trend of playing with lighting, with daytime running lights and side marker lights designed to complement each other, making it easily recognizable at night.",
+        "label_text": "the LaCrosse"
+    },
+    {
+        "source": "原文 : 检查驱动轴、防尘套和卡箍是否龟裂、变质或损坏。必要时更换损坏的部件或补充润滑脂。",
+        "hyp": "文 3 : Inspect the drive shaft, dust cover, and clamps for any cracks, deterioration, or damage. If necessary, replace damaged parts or replenish the grease.",
+        "label_text": "clamps"
+    },
+    {
+        "source": "原文 : 检查驱动轴、防尘套和卡箍是否龟裂、变质或损坏。必要时更换损坏的部件或补充润滑脂。",
+        "hyp": "文 3 : Inspect the drive shaft, dust cover, and clamps for any cracks, deterioration, or damage. If necessary, replace damaged parts or replenish the grease.",
+        "label_text": "cracks"
+    },
+    {
+        "source": "原文 : 新一代蒙迪欧酷似阿斯顿·马丁的中网给人带来更多的新鲜感，这也成为消费者对它最多的评价。蒙迪欧的亮点除了它的外形，这台2.0T发动机242马力和350牛·米最大功率和扭矩也足够抢眼，这也使得它成为了很多追求运动风格消费者的最终选择。",
+        "hyp": "文 4 : The new generation Mondeo's front grille, which closely resembles that of an Aston Martin, brings a fresh appeal that has become the most frequent compliment from consumers. Beyond its appearance, the Mondeo's highlights include its 2.0T engine, which delivers an impressive 242 horsepower and 350 Newton-meters of torque, making it an eye-catching choice for many consumers seeking a sporty style.",
+        "label_text": "the Mondeo"
+    },
+    {
+        "source": "原文 : 至于轴距，11款车的差别还是挺大的，最短的是迈锐宝2737mm，最长的则是两款偏向于运动的蒙迪欧和锐志，它们俩的轴距完全相同，均为2850mm。",
+        "hyp": "文 1 : As for the wheelbase, there's quite a difference among the 11 models. The shortest is the Malibu at 2737mm, while the longest is shared by two models that lean towards sportiness, the Mondeo and the Reiz, both with an identical wheelbase of 2850mm.",
+        "label_text": "the Malibu"
+    },
+    {
+        "source": "原文 : 至于轴距，11款车的差别还是挺大的，最短的是迈锐宝2737mm，最长的则是两款偏向于运动的蒙迪欧和锐志，它们俩的轴距完全相同，均为2850mm。",
+        "hyp": "文 1 : As for the wheelbase, there's quite a difference among the 11 models. The shortest is the Malibu at 2737mm, while the longest is shared by two models that lean towards sportiness, the Mondeo and the Reiz, both with an identical wheelbase of 2850mm.",
+        "label_text": "the Mondeo and the Reiz"
+    },
+    {
+        "source": "原文 : 作为同一品牌下的车型，锐志在用料方面的表现要比凯美瑞厚道一些，中控台上部全部采用了软质材料，并不是那种在硬塑料上包裹一层类似皮革材料的感觉，而是搪塑工艺。",
+        "hyp": "文 3 : As models under the same brand, the Reiz is somewhat more generous in its material use compared to the Camry. The entire upper part of the dashboard is made of soft-touch materials, and it's not just a feeling of leather-like material wrapped over hard plastic, but rather a result of injection molding technology.",
+        "label_text": "the Reiz"
+    },
+    {
+        "source": "原文 : 作为同一品牌下的车型，锐志在用料方面的表现要比凯美瑞厚道一些，中控台上部全部采用了软质材料，并不是那种在硬塑料上包裹一层类似皮革材料的感觉，而是搪塑工艺。",
+        "hyp": "文 3 : As models under the same brand, the Reiz is somewhat more generous in its material use compared to the Camry. The entire upper part of the dashboard is made of soft-touch materials, and it's not just a feeling of leather-like material wrapped over hard plastic, but rather a result of injection molding technology.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 蒙迪欧中控台的用料和装配工艺都表现不错，方向盘的手感在众多对手中的表现也相当出色，功能按键的位置使用起来感受也很好。",
+        "hyp": "文 1 : The materials and assembly craftsmanship of the Mondeo's center console are quite impressive, and the steering wheel feels great to the touch compared to many of its rivals. The placement of the function buttons is also very user-friendly.",
+        "label_text": "the Mondeo"
+    },
+    {
+        "source": "原文 : 加注发动机机油时，避免将机油溅洒在发动机部件和车身表面上。如果发动机机油溅洒在发动机舱内，请立即擦拭干净。",
+        "hyp": "文 5 : When adding engine oil, avoid spilling the oil on engine components and the body of the vehicle. If engine oil splashes inside the engine compartment, please wipe it off immediately.",
+        "label_text": " and "
+    },
+    {
+        "source": "原文 : 雅阁座椅的软硬程度在此次11款车型当中属于偏软的范围，座椅对身体的支撑也表现不错，坐垫的长度对腿部的支撑也很明显。",
+        "hyp": "文 2 : The seat firmness of the Accord falls on the softer side among these 11 models, offering commendable support for the body. The length of the seat cushion also provides significant support for the legs.",
+        "label_text": "the Accord "
+    },
+    {
+        "source": "原文 : 如果仪表指针指示超过正常工作温度范围，而移向“H”位置，表示发动机温度过高，这会导致发动机损坏。",
+        "hyp": "文 1 : If the gauge needle indicates beyond the normal operating temperature range, moving towards the \"H\" position, it means the engine temperature is too high, which can lead to engine damage.",
+        "label_text": "If the gauge needle indicates beyond the normal operating temperature range"
+    },
+    {
+        "source": "原文 : 如果估计里程小于1千米，行车电脑会将续航里程显示为“---”符号。",
+        "hyp": "文 3 : If the estimated mileage is less than 1 kilometer, the trip computer will display the remaining range as \"---\" symbols.",
+        "label_text": "s"
+    },
+    {
+        "source": "原文 : 迈腾的后备厢看上去最为规整，容积也比较大，原因在于它的后备厢支杆位置更加合理，关闭时不至于占用太多的空间。",
+        "hyp": "文 1 : The trunk of the Magotan appears the most orderly and has a larger volume, which is due to the more rational placement of its trunk support struts that don't take up too much space when closed.",
+        "label_text": "the Magotan"
+    },
+    {
+        "source": "原文 : 迈腾的后备厢看上去最为规整，容积也比较大，原因在于它的后备厢支杆位置更加合理，关闭时不至于占用太多的空间。",
+        "hyp": "文 1 : The trunk of the Magotan appears the most orderly and has a larger volume, which is due to the more rational placement of its trunk support struts that don't take up too much space when closed.",
+        "label_text": "when closed"
+    },
+    {
+        "source": "原文 : 凯美瑞在后备厢的细节方面并不太讲究，支杆完全没有进行包裹，内部空间规整度一般，后备厢顶部的空气净化系统占据了一定空间，导致最小高度只有350mm，而且这辆顶配凯美瑞的后排座椅还无法放倒，实用性大打折扣。",
+        "hyp": "文 1 : The Camry doesn't pay much attention to the details in the trunk; the support rods are not covered at all, and the internal space organization is mediocre. The air purification system at the top of the trunk occupies some space, resulting in a minimum height of only 350mm. Moreover, the rear seats of this top-of-the-line Camry cannot be folded down, which significantly reduces its practicality.",
+        "label_text": "The Camry"
+    },
+    {
+        "source": "原文 : 绕桩是蒙迪欧的强项，它的转向精度、车身灵活性和悬架支撑性都非常出色。",
+        "hyp": "文 1 : Slalom is a strong suit of the Mondeo, with its steering precision, body agility, and suspension support all being exceptionally outstanding.",
+        "label_text": "the Mondeo"
+    },
+    {
+        "source": "原文 : 天籁的转向系统会过滤掉大部分的路感，但是转向力度比预想得要大，低速时甚至略显沉重，但这并不是欧洲车的那种沉稳，因为它的行驶稳定性相对来说要逊色一些。",
+        "hyp": "文 1 : The steering system of the Tianlai filters out most of the road feel, but the steering effort is heavier than expected, even feeling somewhat heavy at low speeds. However, this heaviness is not the same as the solid feel of European cars, as its driving stability is somewhat inferior by comparison.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 它的方向盘指向较为模糊，激烈驾驶时回馈力度有点轻，悬架很软，车身响应偏慢。",
+        "hyp": "文 3 : Its steering is somewhat vague, the feedback is a bit light during aggressive driving, the suspension is very soft, and the body response is on the slower side.",
+        "label_text": " the feedback is a bit light during aggressive driving, the suspension is very soft"
+    },
+    {
+        "source": "原文 : 迈锐宝：激烈操控时悬架偏软，但仍具备不错的运动潜质。",
+        "hyp": "文 1 : Malibu: The suspension is somewhat soft during aggressive handling, but it still possesses decent sporting potential.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 绕桩时迈锐宝的转向比较灵敏且足够准确，回馈十分线性，底盘整体感很强，典型的欧洲车风格。",
+        "hyp": "文 4 : When maneuvering around pylons, the Malibu's steering is quite responsive and sufficiently precise, with very linear feedback. The chassis has a strong overall feel, typical of European car styling.",
+        "label_text": " the Malibu"
+    },
+    {
+        "source": "原文 : 迈锐宝的发动机采用SIDI燃油缸内直喷技术，发动机与天籁、雅阁同为186马力。",
+        "hyp": "文 5 : The Malibu's engine features SIDI direct injection technology, and its engine, like the Teana and Accord, produces 186 horsepower.",
+        "label_text": "The Malibu"
+    },
+    {
+        "source": "原文 : 迈锐宝的发动机采用SIDI燃油缸内直喷技术，发动机与天籁、雅阁同为186马力。",
+        "hyp": "文 5 : The Malibu's engine features SIDI direct injection technology, and its engine, like the Teana and Accord, produces 186 horsepower.",
+        "label_text": "its engine, like the Teana and Accord, "
+    },
+    {
+        "source": "原文 : 2007年，当迈腾B6第一次来到中国的时候，就成为了标杆级的产品，那一代产品以运动见长，也为中型车市场树立了新的标杆，比如经典的1.8T和2.0T缸内直喷发动机，DSG双离合变速箱，多连杆后悬架。",
+        "hyp": "文 3 : In 2007, when the Magotan B6 first arrived in China, it immediately set the benchmark for its category. That generation was known for its sporty performance and established new standards for the midsize car market, with classic features like the 1.8T and 2.0T direct injection engines, DSG dual-clutch transmission, and multi-link rear suspension.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 5 : The introduction of the Magotan B7 in 2011 once again solidified its status as a benchmark in the mid-size car segment. It came equipped with an abundance of comfort, luxury, and safety electronic systems, making it arguably the smartest mid-size car. Features included active braking, driver fatigue monitoring, automatic high beams, lateral XDS electronic differential lock, tire pressure monitoring, lane departure warning, rear vehicle approach alert, parking assist system, speed limit sign recognition, noise suppression, and automatic parking, among others.",
+        "label_text": " the Magotan "
+    },
+    {
+        "source": "原文 : 眼下，大众迈腾B9可能是大众燃油中型车市场的最后一搏，同时推出一款相同定位的中级电动车，以冲击新能源市场。",
+        "hyp": "文 2 : Currently, the Volkswagen Passat B9 might be Volkswagen's last effort in the fuel-powered midsize car market, while also launching a similarly positioned midsize electric vehicle to make a foray into the new energy market.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 眼下，大众迈腾B9可能是大众燃油中型车市场的最后一搏，同时推出一款相同定位的中级电动车，以冲击新能源市场。",
+        "hyp": "文 2 : Currently, the Volkswagen Passat B9 might be Volkswagen's last effort in the fuel-powered midsize car market, while also launching a similarly positioned midsize electric vehicle to make a foray into the new energy market.",
+        "label_text": "midsize"
+    },
+    {
+        "source": "原文 : 今年，大众汽车集团在中国燃油车市场的份额从18%提升到了20%，未来几年，大众将继续通过新款途观、速腾、迈腾及奥迪Q4和Q8等新车型强化产品阵容，到2030年，大众将推出共计17款全新燃油车型。",
+        "hyp": "文 4 : This year, Volkswagen Group's market share in China's fuel vehicle market increased from 18% to 20%. In the coming years, Volkswagen will continue to strengthen its product lineup with new models such as the Tiguan, Sagitar, Magotan, and the Audi Q4 and Q8. By 2030, Volkswagen plans to launch a total of 17 new fuel vehicle models.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 今年，大众汽车集团在中国燃油车市场的份额从18%提升到了20%，未来几年，大众将继续通过新款途观、速腾、迈腾及奥迪Q4和Q8等新车型强化产品阵容，到2030年，大众将推出共计17款全新燃油车型。",
+        "hyp": "文 4 : This year, Volkswagen Group's market share in China's fuel vehicle market increased from 18% to 20%. In the coming years, Volkswagen will continue to strengthen its product lineup with new models such as the Tiguan, Sagitar, Magotan, and the Audi Q4 and Q8. By 2030, Volkswagen plans to launch a total of 17 new fuel vehicle models.",
+        "label_text": " the"
+    },
+    {
+        "source": "原文 : 如果档位不在“P(驻车)”档或“N(空档)”档的状态，试图起动发动机，就会显示此警告信息。",
+        "hyp": "文 5 : If the gear is not in the \"P (Park)\" or \"N (Neutral)\" position when attempting to start the engine, this warning message will be displayed.",
+        "label_text": "when attempting to"
+    },
+    {
+        "source": "原文 : 如果单论发动机的实力，蒙迪欧确实要强于大众两车，不过在变速箱的表现上，蒙迪欧的6挡手自一体变速箱换挡速度要慢于DSG，换挡时动力的流失也要更多。",
+        "hyp": "文 5 : If we're talking purely about engine power, the Mondeo is indeed superior to the two Volkswagen models. However, when it comes to the performance of the transmission, the Mondeo's 6-speed automatic manual transmission is slower to shift than the DSG, and there's also more power loss during gear changes.",
+        "label_text": " the "
+    },
+    {
+        "source": "原文 : 如果单论发动机的实力，蒙迪欧确实要强于大众两车，不过在变速箱的表现上，蒙迪欧的6挡手自一体变速箱换挡速度要慢于DSG，换挡时动力的流失也要更多。",
+        "hyp": "文 5 : If we're talking purely about engine power, the Mondeo is indeed superior to the two Volkswagen models. However, when it comes to the performance of the transmission, the Mondeo's 6-speed automatic manual transmission is slower to shift than the DSG, and there's also more power loss during gear changes.",
+        "label_text": " to shift"
+    },
+    {
+        "source": "原文 : 在加速性能测试中，雅阁就表现出了这个级别自然吸气车型的顶级实力。没想到在油耗环节，雅阁再一次拔得头筹，证明了“地球梦科技”系列技术的先进性。",
+        "hyp": "文 5 : In the acceleration performance test, the Accord demonstrated top-tier prowess among naturally aspirated vehicles of its class. Surprisingly, the Accord once again came out on top in fuel efficiency, proving the advanced nature of the \"Earth Dreams Technology\" suite.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 迈锐宝悬架偏软，刹车时车身前倾比较厉害，但刹车力度非常稳定，ABS工作细腻，踏板力度也很柔和，给人不错的刹车信心。",
+        "hyp": "文 1 : The Malibu's suspension is on the softer side, resulting in a noticeable forward pitch of the car body during braking. However, the braking force is very stable, the ABS operates smoothly, and the pedal feel is quite gentle, which instills a good sense of confidence in the braking system.",
+        "label_text": "The"
+    },
+    {
+        "source": "原文 : 全新Passat的外观很大程度上汲取了“ID”家族的设计语言，这与我们传统印象中偏向商务、沉稳的风格截然不同。",
+        "hyp": "文 4 : The all-new Passat's exterior design draws heavily from the \"ID\" family's design language, which is a stark departure from the traditional business-like and composed style we're accustomed to.",
+        "label_text": ", which"
+    },
+    {
+        "source": "原文 : 车尾部分，迈腾与帕萨特依旧采用两种不同的尾灯造型，虽然延续贯穿式设计，但帕萨特由于没有任何可参考图片，其整体造型主要借鉴于海外旅行版。",
+        "hyp": "文 1 : At the rear, the Magotan and the Passat still adopt two different taillight designs. Although they continue with the through-type design, the overall shape of the Passat is mainly inspired by the overseas wagon version, as there are no reference images available.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 车尾部分，迈腾与帕萨特依旧采用两种不同的尾灯造型，虽然延续贯穿式设计，但帕萨特由于没有任何可参考图片，其整体造型主要借鉴于海外旅行版。",
+        "hyp": "文 1 : At the rear, the Magotan and the Passat still adopt two different taillight designs. Although they continue with the through-type design, the overall shape of the Passat is mainly inspired by the overseas wagon version, as there are no reference images available.",
+        "label_text": "the Passat "
+    },
+    {
+        "source": "原文 : 车尾部分，迈腾与帕萨特依旧采用两种不同的尾灯造型，虽然延续贯穿式设计，但帕萨特由于没有任何可参考图片，其整体造型主要借鉴于海外旅行版。",
+        "hyp": "文 1 : At the rear, the Magotan and the Passat still adopt two different taillight designs. Although they continue with the through-type design, the overall shape of the Passat is mainly inspired by the overseas wagon version, as there are no reference images available.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 车尾部分，迈腾与帕萨特依旧采用两种不同的尾灯造型，虽然延续贯穿式设计，但帕萨特由于没有任何可参考图片，其整体造型主要借鉴于海外旅行版。",
+        "hyp": "文 1 : At the rear, the Magotan and the Passat still adopt two different taillight designs. Although they continue with the through-type design, the overall shape of the Passat is mainly inspired by the overseas wagon version, as there are no reference images available.",
+        "label_text": "version"
+    },
+    {
+        "source": "原文 : B7时代的帕萨特和迈腾都是基于PQ平台打造，B8时代两款车型都采用的是MQB平台，所以帕萨特和迈腾最直观的差别是造型。",
+        "hyp": "文 3 : In the B7 era, both the Passat and the Magotan were built on the PQ platform, while in the B8 era, both models adopted the MQB platform. Therefore, the most noticeable difference between the Passat and the Magotan is their styling.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : B7时代的帕萨特和迈腾都是基于PQ平台打造，B8时代两款车型都采用的是MQB平台，所以帕萨特和迈腾最直观的差别是造型。",
+        "hyp": "文 3 : In the B7 era, both the Passat and the Magotan were built on the PQ platform, while in the B8 era, both models adopted the MQB platform. Therefore, the most noticeable difference between the Passat and the Magotan is their styling.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : B7时代的帕萨特和迈腾都是基于PQ平台打造，B8时代两款车型都采用的是MQB平台，所以帕萨特和迈腾最直观的差别是造型。",
+        "hyp": "文 3 : In the B7 era, both the Passat and the Magotan were built on the PQ platform, while in the B8 era, both models adopted the MQB platform. Therefore, the most noticeable difference between the Passat and the Magotan is their styling.",
+        "label_text": " the"
+    },
+    {
+        "source": "原文 : B7时代的帕萨特和迈腾都是基于PQ平台打造，B8时代两款车型都采用的是MQB平台，所以帕萨特和迈腾最直观的差别是造型。",
+        "hyp": "文 3 : In the B7 era, both the Passat and the Magotan were built on the PQ platform, while in the B8 era, both models adopted the MQB platform. Therefore, the most noticeable difference between the Passat and the Magotan is their styling.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 如果高位制动灯工作异常，就会显示此警告信息。此时可能需要更换高位制动灯灯泡。",
+        "hyp": "文 2 : If the high-mount brake light is not functioning properly, this warning message will be displayed. At this point, it may be necessary to replace the bulb of the high-mount brake light.",
+        "label_text": "mount"
+    },
+    {
+        "source": "原文 : 如果高位制动灯工作异常，就会显示此警告信息。此时可能需要更换高位制动灯灯泡。",
+        "hyp": "文 2 : If the high-mount brake light is not functioning properly, this warning message will be displayed. At this point, it may be necessary to replace the bulb of the high-mount brake light.",
+        "label_text": "mount "
+    },
+    {
+        "source": "原文 : SCC/LKA此组显示智能巡航控制(SCC)功能和车道保持辅助(LKA)功能的运行状态。",
+        "hyp": "文 4 : This group displays the operational status of the Smart Cruise Control (SCC) feature and the Lane Keeping Assist (LKA) feature.",
+        "label_text": "operational"
+    },
+    {
+        "source": "原文 : 为了确保行车安全，要操作用户设置模式变更功能设置，必须安全停车，并将档位挂入“P(驻车)”档和牢固啮合驻车制动器。",
+        "hyp": "文 3 : To ensure driving safety, to operate the user settings mode change function, you must safely park the vehicle, shift into \"P (Park)\" gear, and firmly engage the parking brake.",
+        "label_text": "To ensure driving safety, to operate the user settings mode change function, you must safely park the vehicle, shift into \"P (Park)\" gear,"
+    },
+    {
+        "source": "原文 : 在高速公路上行驶时，此功能可以帮助驾驶员控制车辆保持与前方车辆之间的车距和以设定速度恒速行驶，并控制车辆保持在本车道内行驶。",
+        "hyp": "文 4 : When driving on the highway, this feature can assist the driver in maintaining a safe distance from the vehicle ahead and cruising at a set speed, as well as keeping the vehicle within its lane.",
+        "label_text": "When driving on the highway"
+    },
+    {
+        "source": "原文 : 同时随着“年轻化”被越来越多厂商重视起来，新款车型还提供了两种不同的前脸满足更多用户的需求，近日，我们从福州某经销商处获悉，帕萨特目前最高可享3.50万元现金优惠。相当于打了8.2折。",
+        "hyp": "文 3 : At the same time, as \"youthfulness\" is increasingly valued by more manufacturers, the new models also offer two different front-end designs to meet the needs of more users. Recently, we learned from a dealership in Fuzhou that the Passat is currently available with a cash discount of up to 35,000 yuan, which is equivalent to a 18% discount.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 换档联动：如果将档位从“P(驻车)”档挂入“R(倒车)”档、“N(空档)”档或“D(前进)”档，自动闭锁所有车门。(仅在发动机运转时。)",
+        "hyp": "文 2 : Shift interlock: If the gear is shifted from \"P (Park)\" to \"R (Reverse)\", \"N (Neutral)\", or \"D (Drive)\", all vehicle doors will automatically lock. (Only when the engine is running.)",
+        "label_text": "all vehicle doors will automatically lock"
+    },
+    {
+        "source": "原文 : [P-档]联动：将档位挂入“P(驻车)”档时，自动开锁所有车门。(仅在发动机运转时。)",
+        "hyp": "文 4 : [P Gear] Interlock: When the gear is shifted into \"P (Park),\" all car doors automatically unlock. (Only when the engine is running.)",
+        "label_text": "all car doors automatically unlock"
+    },
+    {
+        "source": "原文 : 设置启用或停用喇叭反馈功能。启用喇叭反馈功能时，按下遥控钥匙上的门锁闭锁按钮闭锁所有门锁后，如果在4秒钟内再次按下门锁闭锁按钮时，喇叭反馈声响1次，表示所有门锁已经闭锁(如有配备遥控钥匙)。",
+        "hyp": "文 2 : Enable or disable the horn feedback feature. When the horn feedback feature is enabled, if you press the door lock button on the remote key to lock all doors and then press the door lock button again within 4 seconds, the horn will sound once to indicate that all doors have been locked (if equipped with a remote key).",
+        "label_text": "if equipped with a remote key"
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累计信息时，按住方向盘上的[OK]按钮。此时，小计里程、平均油耗和行车时间会同时被初始化。",
+        "hyp": "文 5 : To manually initialize, press and hold the [OK] button on the steering wheel when displaying cumulative information. At this point, the trip mileage, average fuel consumption, and driving time will all be reset simultaneously.",
+        "label_text": "To manually initialize"
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累计信息时，按住方向盘上的[OK]按钮。此时，小计里程、平均油耗和行车时间会同时被初始化。",
+        "hyp": "文 5 : To manually initialize, press and hold the [OK] button on the steering wheel when displaying cumulative information. At this point, the trip mileage, average fuel consumption, and driving time will all be reset simultaneously.",
+        "label_text": "press and hold the [OK] button on the steering wheel when displaying"
+    },
+    {
+        "source": "原文 : 车型选择方面，则更偏向于追求舒适的出行体验。热门车型中，不仅有小鹏G3、大众ID.4等新能源SUV，大众帕萨特、日产天籁等商务车型的占比也较往年有所提升，节前上新的日产轩逸、丰田雷凌、大众宝来等多款全新车辆，也吸引用户下单。",
+        "hyp": "文 1 : In terms of vehicle selection, there is a greater inclination towards pursuing a comfortable travel experience. Among the popular models, not only are there new energy SUVs like the XPeng G3 and Volkswagen ID.4, but the proportion of business models such as the Volkswagen Passat and Nissan Teana has also increased compared to previous years. The introduction of several new vehicles before the holiday, including the Nissan Sylphy, Toyota Corolla, and Volkswagen Bora, has also attracted customers to place orders.",
+        "label_text": "compared to previous years"
+    },
+    {
+        "source": "原文 : 点火后：车辆在发动机关闭状态保持4小时以上时，就会自动初始化平均油耗显示值。",
+        "hyp": "文 3 : After ignition: If the vehicle remains off for more than 4 hours, the average fuel consumption display value will automatically reset.",
+        "label_text": "value will automatically reset"
+    },
+    {
+        "source": "原文 : 加油后：加油超过6升(1.6加仑)时，一旦车速超过1km/h(1mph)，就会自动初始化平均油耗显示值。",
+        "hyp": "文 5 : After refueling: Once the vehicle exceeds a speed of 1 km/h (1 mph) after refueling more than 6 liters (1.6 gallons), the average fuel consumption display value will automatically initialize.",
+        "label_text": "initialize"
+    },
+    {
+        "source": "原文 : 两款车型长度都不到5米，轴距基本都在2800mm左右，在这一级别中都属于标准身材，相比之下帕萨特长度和轴距略占优，而凯美瑞在车身宽度略微领先。",
+        "hyp": "文 4 : Both models are less than 5 meters in length, with a wheelbase that's roughly around 2800mm, which is considered standard for this class. In comparison, the Passat has a slight advantage in length and wheelbase, while the Camry has a slight lead in body width.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 两款车型长度都不到5米，轴距基本都在2800mm左右，在这一级别中都属于标准身材，相比之下帕萨特长度和轴距略占优，而凯美瑞在车身宽度略微领先。",
+        "hyp": "文 4 : Both models are less than 5 meters in length, with a wheelbase that's roughly around 2800mm, which is considered standard for this class. In comparison, the Passat has a slight advantage in length and wheelbase, while the Camry has a slight lead in body width.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 帕萨特的优势在于提供了矩阵式LED大灯，前排无钥匙进入；而凯美瑞相比之下则多了前排多层隔音玻璃和后风挡遮阳帘。",
+        "hyp": "文 3 : The Passat has the advantage of offering matrix LED headlights and keyless entry for the front row; in comparison, the Camry adds multi-layer soundproofing glass for the front row and a rear windshield sunshade.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : 帕萨特的优势在于提供了矩阵式LED大灯，前排无钥匙进入；而凯美瑞相比之下则多了前排多层隔音玻璃和后风挡遮阳帘。",
+        "hyp": "文 3 : The Passat has the advantage of offering matrix LED headlights and keyless entry for the front row; in comparison, the Camry adds multi-layer soundproofing glass for the front row and a rear windshield sunshade.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 空间部分两台车尺较为接近，所表现出来的乘坐及后备厢容积也基本处在同一水平，相比之下帕萨特的优势主要体现在后排腿部空间表现更优，同时后备厢支持按照4/6比例放倒，扩展性更好。",
+        "hyp": "文 2 : In terms of space, the two vehicles are quite similar in size, resulting in comparable passenger seating and trunk capacity. However, the Passat has the advantage of offering more legroom in the rear seats. Additionally, its trunk features a more versatile 40/60 split-folding capability, enhancing its expandability.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 动力方面，帕萨特采用了2.0T涡轮增压发动机，最大功率为162kW，搭配7速双离合变速箱，而凯美瑞采用的2.5L发动机最大功率为143kW，搭配8速手自一体变速箱，两车的动力差距并不算大。",
+        "hyp": "文 5 : In terms of power, the Passat is equipped with a 2.0T turbocharged engine with a maximum output of 162kW, paired with a 7-speed dual-clutch transmission. On the other hand, the Camry uses a 2.5L engine with a maximum output of 143kW, coupled with an 8-speed automatic transmission. The difference in power between the two vehicles is not significant.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 动力方面，帕萨特采用了2.0T涡轮增压发动机，最大功率为162kW，搭配7速双离合变速箱，而凯美瑞采用的2.5L发动机最大功率为143kW，搭配8速手自一体变速箱，两车的动力差距并不算大。",
+        "hyp": "文 5 : In terms of power, the Passat is equipped with a 2.0T turbocharged engine with a maximum output of 162kW, paired with a 7-speed dual-clutch transmission. On the other hand, the Camry uses a 2.5L engine with a maximum output of 143kW, coupled with an 8-speed automatic transmission. The difference in power between the two vehicles is not significant.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 车门会开锁，危险警告灯闪烁2次。如果在信息娱乐系统显示屏上设置菜单中选择“门锁开锁联动”项，外后视镜会自动展开。",
+        "hyp": "文 4 : The car door will unlock, and the hazard warning lights will flash twice. If the \"Door Unlock Linked\" option is selected in the settings menu on the infotainment system display, the exterior rearview mirrors will automatically unfold.",
+        "label_text": "Linked"
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 1 : The Shanghai Volkswagen Lavida is set to receive a mid-cycle refresh later this year and will be fully redesigned by the beginning of next year. The successor to the Santana has also been confirmed for release in 2012, featuring a complete overhaul of the platform and powertrain, while still retaining the brand name.",
+        "label_text": " The"
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 1 : The Shanghai Volkswagen Lavida is set to receive a mid-cycle refresh later this year and will be fully redesigned by the beginning of next year. The successor to the Santana has also been confirmed for release in 2012, featuring a complete overhaul of the platform and powertrain, while still retaining the brand name.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 在君越的前、后车门上设计了密封层，主要是为了防止灰尘从外界进入到车内，与其他车型有所区别的是，君越的密封层是由一种类似于泡沫的材质制造而成的，比较坚韧不易损坏，且密封胶的粘性也很不错。",
+        "hyp": "文 3 : The Buick LaCrosse features a sealing layer on both the front and rear doors, primarily designed to prevent dust from entering the interior from the outside. What sets the LaCrosse apart from other models is that its sealing layer is made from a foam-like material that is quite durable and resistant to damage. Additionally, the adhesive used for the sealant is also very sticky.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : 在君越的前、后车门上设计了密封层，主要是为了防止灰尘从外界进入到车内，与其他车型有所区别的是，君越的密封层是由一种类似于泡沫的材质制造而成的，比较坚韧不易损坏，且密封胶的粘性也很不错。",
+        "hyp": "文 3 : The Buick LaCrosse features a sealing layer on both the front and rear doors, primarily designed to prevent dust from entering the interior from the outside. What sets the LaCrosse apart from other models is that its sealing layer is made from a foam-like material that is quite durable and resistant to damage. Additionally, the adhesive used for the sealant is also very sticky.",
+        "label_text": " the "
+    },
+    {
+        "source": "原文 : 君越前、后车门均采用的是单截面式防撞梁结构，目前欧、美品牌大多数车型都使用这种防撞梁结构，主要原因是可以承受较大力度的撞击，最大程度的保护乘客的安全。",
+        "hyp": "文 2 : The Buick Regal features single-section anti-collision beam structures in both the front and rear doors. This type of anti-collision beam structure is currently used by the majority of European and American car brands, primarily because it can withstand significant impact forces, offering maximum protection for the safety of the passengers.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : 君越车门防撞梁的面积和厚度基本上处于目前国产中型车的较高水平，尤其是80mm左右的宽度，在这个级别中是比较少见的，可以见得通用对于君越的被动安全性设计还是下了不少的心思。",
+        "hyp": "文 2 : The area and thickness of the anti-collision beams in the doors of the Buick Regal are essentially at the higher end for current domestic mid-size vehicles, particularly the width of about 80mm, which is relatively rare in this class. This shows that General Motors has put considerable thought into the passive safety design of the Regal.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 睿翼的车门板做工比较令人满意，隔音棉材质选择值得肯定，无论是从外观还是手感上来说，马自达还是较为在意这一点的。尽管车门板上的固定方式没有前几款车型来的花哨，但可以看出还是以实用为主，基本上以螺丝固定，这样可以保证长时间使用的耐久性。",
+        "hyp": "文 3 : The door panels of the Ruiyi are quite satisfactory in terms of craftsmanship, and the choice of soundproofing cotton material is commendable. Whether in terms of appearance or touch, Mazda still pays attention to this aspect. Although the method of securing the door panels is not as fancy as the previous models, it is evident that practicality is prioritized, with screws being used for fixation, which ensures durability over long-term use.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 睿翼的车门板做工比较令人满意，隔音棉材质选择值得肯定，无论是从外观还是手感上来说，马自达还是较为在意这一点的。尽管车门板上的固定方式没有前几款车型来的花哨，但可以看出还是以实用为主，基本上以螺丝固定，这样可以保证长时间使用的耐久性。",
+        "hyp": "文 3 : The door panels of the Ruiyi are quite satisfactory in terms of craftsmanship, and the choice of soundproofing cotton material is commendable. Whether in terms of appearance or touch, Mazda still pays attention to this aspect. Although the method of securing the door panels is not as fancy as the previous models, it is evident that practicality is prioritized, with screws being used for fixation, which ensures durability over long-term use.",
+        "label_text": "as the previous models"
+    },
+    {
+        "source": "原文 : 睿翼的车门密封方式与很多日系车也不太相同，并没有采用传统的密封膜的做法，而是借鉴了不少欧美车型的经验，就是用一整块塑料板覆盖住车门，在上面设计一些穿孔，为了让线束能够穿过，而不会出现密封不严的情况，这点值得肯定。",
+        "hyp": "文 1 : The door sealing method of the Ruiyi is quite different from many Japanese cars as well. Instead of using the traditional sealing film, it has drawn on the experience of many European and American models. That is, it uses a single piece of plastic panel to cover the door, with some holes designed in it to allow for the passage of wiring harnesses without compromising the seal. This is certainly a commendable feature.",
+        "label_text": " the"
+    },
+    {
+        "source": "原文 : 睿翼的车门密封方式与很多日系车也不太相同，并没有采用传统的密封膜的做法，而是借鉴了不少欧美车型的经验，就是用一整块塑料板覆盖住车门，在上面设计一些穿孔，为了让线束能够穿过，而不会出现密封不严的情况，这点值得肯定。",
+        "hyp": "文 1 : The door sealing method of the Ruiyi is quite different from many Japanese cars as well. Instead of using the traditional sealing film, it has drawn on the experience of many European and American models. That is, it uses a single piece of plastic panel to cover the door, with some holes designed in it to allow for the passage of wiring harnesses without compromising the seal. This is certainly a commendable feature.",
+        "label_text": "different from many Japanese cars as well"
+    },
+    {
+        "source": "原文 : 睿翼的车门密封方式与很多日系车也不太相同，并没有采用传统的密封膜的做法，而是借鉴了不少欧美车型的经验，就是用一整块塑料板覆盖住车门，在上面设计一些穿孔，为了让线束能够穿过，而不会出现密封不严的情况，这点值得肯定。",
+        "hyp": "文 1 : The door sealing method of the Ruiyi is quite different from many Japanese cars as well. Instead of using the traditional sealing film, it has drawn on the experience of many European and American models. That is, it uses a single piece of plastic panel to cover the door, with some holes designed in it to allow for the passage of wiring harnesses without compromising the seal. This is certainly a commendable feature.",
+        "label_text": " it"
+    },
+    {
+        "source": "原文 : 在车门上凯美瑞使用了比较常规的密封膜设计，这样的设计主要是成本方面的考虑，而使用效果方面，如果密封胶粘性够好的情况下，这样的设计也无可厚非。",
+        "hyp": "文 5 : The Camry employs a relatively conventional sealing film design on its doors, which is primarily a consideration of cost. In terms of performance, if the sealant is sufficiently adhesive, such a design is not without merit.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : 凯美瑞的扬声器形状为椭圆形，这是比较少见的，多数都是圆形设计。",
+        "hyp": "文 2 : The speakers in the Camry are oval-shaped, which is quite uncommon, as most are designed to be round.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 和一般车型不同的是，凯美瑞前车门上有一根管状防撞梁，而后车门上则有两根管状防撞梁，这主要是考虑到侧面碰撞时，对后排乘客的安全考虑。",
+        "hyp": "文 4 : Unlike typical models, the Camry features a tubular anti-collision beam on the front door and two tubular anti-collision beams on the rear door. This design primarily takes into account the safety of rear passengers in the event of a side impact.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 2 : If you've purchased a used car, you should confirm and delete any registered Bluetooth keys. Additionally, please inform the customer service center or the dealership about your purchase of a used car.",
+        "label_text": "purchase"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 2 : If you've purchased a used car, you should confirm and delete any registered Bluetooth keys. Additionally, please inform the customer service center or the dealership about your purchase of a used car.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : 车门板上隔音材质的手感也很不错，符合这个价格的水平，其他部件的安装方式虽然不像君越那样复杂，但是也运用了卡扣和螺丝，在耐久性方面应该没有问题。",
+        "hyp": "文 1 : The sound insulation material on the car door panel also feels quite nice, in line with what you'd expect for this price range. Although the installation method for other components isn't as complex as in the Regal, it still employs clips and screws, which should ensure good durability.",
+        "label_text": " the"
+    },
+    {
+        "source": "原文 : 索纳塔车门上没有传统的密封层，是一整块钢板覆盖在车门上，这样一来不仅到达了密封的效果，而且也增加了车门的刚性，在一定程度上可以说是对乘客起到保护作用。",
+        "hyp": "文 2 : The Sonata's doors lack the traditional sealing layer; instead, they are covered with a single piece of steel. This not only achieves a sealing effect but also increases the rigidity of the doors. To some extent, it can be said to provide protection for the passengers.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : 索纳塔前、后车门均采用的是管状梁结构，这种设计大多数都出现在日、韩品牌车型上，主要是出于成本的考虑。",
+        "hyp": "文 2 : The Sonata features tubular beam structures in both its front and rear doors, a design commonly found in Japanese and Korean brand vehicles, primarily for cost considerations.",
+        "label_text": "The"
+    },
+    {
+        "source": "原文 : 索纳塔前车门管状梁外径尺寸约为31.93mm，后管状防撞梁的外径尺寸约为31.21mm。",
+        "hyp": "文 2 : The outer diameter of the front door tubular beam of the Sonata is approximately 31.93mm, while the outer diameter of the rear tubular crash beam is approximately 31.21mm.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 现在取代RCD510系统的是眼前这套RCD310系统，其实在娱乐性和实用性上两者差别并不算大，主要是RCD310系统510系统上了6.5寸彩色可触摸的大屏幕，对整车车内视觉档次感影响比较大。",
+        "hyp": "文 2 : The RCD310 system you see here has now replaced the RCD510 system. In fact, there isn't a significant difference between the two in terms of entertainment and practicality. The main distinction is that the RCD510 system featured a 6.5-inch color touchscreen, which had a considerable impact on the visual quality and perceived class of the vehicle's interior.",
+        "label_text": "featured"
+    },
+    {
+        "source": "原文 : 菲翔全系配备了这款T-JET涡轮增压发动机，但有两种不同调校版本。高功率版本最大功率150马力（110kW）/5500rpm，最大扭矩230N·m/3000rpm，低功率版最大功率120马力（88kW）/5000rpm，最大扭矩206N·m/2500rpm。",
+        "hyp": "文 3 : The entire Feixiang lineup is equipped with this T-JET turbocharged engine, but it comes in two different tuning variants. The high-power version delivers a maximum output of 150 horsepower (110 kW) at 5500 rpm and a peak torque of 230 N·m at 3000 rpm, while the lower-power version produces a maximum of 120 horsepower (88 kW) at 5000 rpm and a peak torque of 206 N·m at 2500 rpm.",
+        "label_text": " it "
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 5 : The smart fortwo doesn't automatically come with a Mercedes engine; instead, it is equipped with the Mitsubishi 3B21T, a 1.0L turbocharged engine. The standard version of the smart fortwo has a maximum output of 84 horsepower (62kW) at 5250 rpm and a peak torque of 120 N·m. The BRABUS edition of the smart has a maximum output of 102 horsepower (75kW) at 6000 rpm and a peak torque of 147 N·m.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 5 : The smart fortwo doesn't automatically come with a Mercedes engine; instead, it is equipped with the Mitsubishi 3B21T, a 1.0L turbocharged engine. The standard version of the smart fortwo has a maximum output of 84 horsepower (62kW) at 5250 rpm and a peak torque of 120 N·m. The BRABUS edition of the smart has a maximum output of 102 horsepower (75kW) at 6000 rpm and a peak torque of 147 N·m.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 5 : The smart fortwo doesn't automatically come with a Mercedes engine; instead, it is equipped with the Mitsubishi 3B21T, a 1.0L turbocharged engine. The standard version of the smart fortwo has a maximum output of 84 horsepower (62kW) at 5250 rpm and a peak torque of 120 N·m. The BRABUS edition of the smart has a maximum output of 102 horsepower (75kW) at 6000 rpm and a peak torque of 147 N·m.",
+        "label_text": "the smart"
+    }
+]

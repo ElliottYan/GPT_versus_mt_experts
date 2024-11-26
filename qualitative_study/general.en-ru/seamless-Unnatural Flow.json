@@ -1,0 +1,102 @@
+[
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 1 : В любом случае, эти ужасные воспоминания преследовали меня, так что вчера я наконец-то набралась мужества написать ему.",
+        "label_text": "набралась мужества"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 2 : И я сделал это и узнал на втором или третьем посто, что The AJ Show был заблокирован на YouTube, я не фанат правых вещей и на самом деле была причиной, по которой я перестал смотреть его 2 года назад, хотя небольшой аромат свободы был так трудно найти среди 90% национального капитализма, который сайт может предложить, но в любом случае, у меня появилась идея нецензурирующего видеосайта, как LiveLeak, но гораздо более простого и менее \"новостного\".",
+        "label_text": "узнал"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 1 : Таким образом, я хотел бы, чтобы [PERSON4] был в контакте с [PERSON2].",
+        "label_text": "контакте"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 3 : Я ездил только на местном уровне, так что потребовалась большая часть недели, чтобы понять, что я не могу поставить его на 60 миль в час, или что я должен был положить его, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": "на местном уровне"
+    },
+    {
+        "source": "原文 : This study aims to find out, describe, and analyze techniques for applying group guidance to improve the quality of life of a person's disability at the Integrated Rehabilitation Centre for Persons with Disabilities.",
+        "hyp": "文 5 : Цель данного исследования - выявить, описать и проанализировать методы применения группового руководства для улучшения качества жизни человека с инвалидностью в Интегрированном реабилитационном центре для инвалидов.",
+        "label_text": "инвалидностью "
+    },
+    {
+        "source": "原文 : I wouldn’t do that to him of course, but I was just wondering how bad is it to cheat?",
+        "hyp": "文 5 : Конечно, я бы не сделала этого с ним, но я просто хотела спросить, насколько плохо изменять?",
+        "label_text": "Конечно, я бы не сделала этого с ним"
+    },
+    {
+        "source": "原文 : Also, why restaurants have to be set up like that?",
+        "hyp": "文 5 : Кроме того, зачем рестораны должны быть построены так?",
+        "label_text": "построены"
+    },
+    {
+        "source": "原文 : When Italian diplomats hinted about possible opposition by their government, the French replied that Tripoli would have been a counterpart for Italy.",
+        "hyp": "文 2 : Когда итальянские дипломаты намекали на возможную оппозицию со стороны их правительства, французы ответили, что Триполи был бы аналогом для Италии.",
+        "label_text": "на возможную оппозицию"
+    },
+    {
+        "source": "原文 : The French company Citroën has devised a high-pressure hydraulics system for cars which was used for all manner of systems, even power-adjustable seats.",
+        "hyp": "文 4 : Французская компания Citroën разработала гидравлическую систему высокого давления для автомобилей, которая использовалась для всех видов систем, даже для сидений с регулировкой мощности.",
+        "label_text": "регулировкой мощности"
+    },
+    {
+        "source": "原文 : I texted her in the night yesterday asking if she’s mad, and like she said she’s only a bit let down.",
+        "hyp": "文 3 : Вчера ночью я написал ей, спрашивая, злится ли она, и, как она сказала, она только немного разочарована.",
+        "label_text": "как она сказала"
+    },
+    {
+        "source": "原文 : I’m not a trans man, but I am interested in knowing someone’s perspectives who lived both as a woman and as a man (not a lot of people get to experience what it is like to be perceived as both genders) so thats kinda neat imo",
+        "hyp": "文 4 : Я не транс-мужчина, но я заинтересован в том, чтобы знать взгляды кого-то, кто жил как женщина, так и мужчина (не многие люди испытывают, каково это - быть воспринятым как оба пола), так что это довольно аккуратно.",
+        "label_text": "я заинтересован в том"
+    },
+    {
+        "source": "原文 : I found the built-in maps app seriously subpar, as I'm used to using Google Maps.",
+        "hyp": "文 4 : Я обнаружил, что встроенное приложение карт серьезно не соответствует требованиям, так как я привык использовать Google Maps.",
+        "label_text": "встроенное приложение карт"
+    },
+    {
+        "source": "原文 : David himself had lost his popularity and lost the respect of his nobles when he married the widow of a minor laird after the death of his English wife.",
+        "hyp": "文 2 : Сам Давид потерял свою популярность и уважение своих дворян, когда после смерти своей английской жены женился на вдове небольшого лорда.",
+        "label_text": "небольшого"
+    },
+    {
+        "source": "原文 : Kaylee, who just graduated from high school, is an accomplished figure skater.",
+        "hyp": "文 2 : Кейли, которая только что окончила среднюю школу, является опытным фигуристом.",
+        "label_text": "только что"
+    },
+    {
+        "source": "原文 : But now it seems that y'all done made grits without the butter and made us madder than a wet hen, I must say!",
+        "hyp": "文 4 : Но теперь кажется, что вы сделали кукурузу без масла и заставили нас злиться больше, чем мокрая курица, я должен сказать!",
+        "label_text": "злиться больше, чем мокрая курица"
+    },
+    {
+        "source": "原文 : Okay, so I’ve got less than a chapter left in Gardens of the Moon and I still can’t understand what the fuck Oponn is trying to achieve through all their/its meddling.",
+        "hyp": "文 2 : Ладно, у меня осталось меньше главы в \"Садах Луны\", и я до сих пор не могу понять, чего, черт возьми, Опонн пытается достичь всеми своими вмешательствами.",
+        "label_text": "достичь всеми своими вмешательствами"
+    },
+    {
+        "source": "原文 : These tutorial groups usually don't change so as to foster the ward / guardian relationship.",
+        "hyp": "文 3 : Эти учебные группы обычно не меняются, чтобы способствовать взаимоотношениям между опекунами и опекунами.",
+        "label_text": "между опекунами и опекунами"
+    },
+    {
+        "source": "原文 : It seems no matter what i do i literally can't keep the dust at bay for more than 24hrs and i am losing my mind.",
+        "hyp": "文 4 : Кажется, что бы я ни делал, я буквально не могу держать пыль в стороне более 24 часов, и я теряю разум.",
+        "label_text": "я теряю разум"
+    },
+    {
+        "source": "原文 : Vacuum won’t stop sucking. Please send help. Is it going to blow?",
+        "hyp": "文 5 : Вакуум не перестает сосать, пожалуйста, пошлите помощь, он взорвется?",
+        "label_text": "пошлите"
+    },
+    {
+        "source": "原文 : Also reintroduced with the Omens expansion was the Shyft faction, as well as the first 2.0 non-unique Mage Spawn figures.",
+        "hyp": "文 4 : Также был вновь представлен с расширением Omens фракция Shyft, а также первые 2.0 не-уникальные фигуры Mage Spawn.",
+        "label_text": "также первые 2.0 не-уникальные фигуры Mage Spawn"
+    }
+]

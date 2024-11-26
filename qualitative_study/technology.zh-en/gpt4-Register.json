@@ -1,0 +1,132 @@
+[
+    {
+        "source": "原文 : 将遥控钥匙存放在远离任何液体和热源的阴凉干燥的地方。如果遥控钥匙暴露在潮湿(液体进入)或高温环境下，可能会导致遥控钥匙内部电路发生故障，而且这种情况不在车辆有限保修范围内。",
+        "hyp": "文 3 : Store the remote key in a cool, dry place away from any liquids and heat sources. If the remote key is exposed to moisture (liquid intrusion) or high temperatures, it may cause the internal circuitry of the remote to malfunction, and such circumstances are not covered under the vehicle's limited warranty.",
+        "label_text": "Store"
+    },
+    {
+        "source": "原文 : 将遥控钥匙存放在远离任何液体和热源的阴凉干燥的地方。如果遥控钥匙暴露在潮湿(液体进入)或高温环境下，可能会导致遥控钥匙内部电路发生故障，而且这种情况不在车辆有限保修范围内。",
+        "hyp": "文 3 : Store the remote key in a cool, dry place away from any liquids and heat sources. If the remote key is exposed to moisture (liquid intrusion) or high temperatures, it may cause the internal circuitry of the remote to malfunction, and such circumstances are not covered under the vehicle's limited warranty.",
+        "label_text": "Store"
+    },
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 2 : If the front-view camera installed on the windshield or the sensors are obstructed by foreign objects such as snow or rain, it will reduce the sensors' detection performance. This may cause the Forward Collision-Avoidance Assist (FCA) feature to pause or shut off.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 2 : If the front-view camera installed on the windshield or the sensors are obstructed by foreign objects such as snow or rain, it will reduce the sensors' detection performance. This may cause the Forward Collision-Avoidance Assist (FCA) feature to pause or shut off.",
+        "label_text": "reduce"
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 1 : When driving around a curve, it can significantly impact the detection performance of the forward collision-avoidance assist sensors. The Forward Collision-Avoidance Assist (FCA) feature may not detect vehicles or pedestrians ahead on the curve. This could result in a failure to issue collision danger warnings or to engage emergency braking assist control measures when necessary.",
+        "label_text": "it "
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 4 : Leveraging exceptional capabilities, the Sonata set a record in the last century with \"sales of 600,000 units in 33 months\"; and when its fifth-generation model was introduced domestically, the iconic 'peanut lights' quickly became pervasive in streets and alleys, even creating a spectacle that left the streets deserted as everyone clamored to see it.",
+        "label_text": "domestically"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 5 : When fully pressing down on the brake pedal, the braking force is still not strong enough, and combined with the tires' mediocre grip, the vehicle has a noticeable tendency to slide forward. The results of ten consecutive tests were all around 43 meters, which is unsatisfactory. In the braking section, which has a full score of 5 points, it only scored 0.9 points, far below the average level for its class.",
+        "label_text": " pressing"
+    },
+    {
+        "source": "原文 : 在从A区进入B区的过程中，车辆的响应速度与转向的准确性都不错，并且在第一次变线时电子稳定系统便已开始介入，虽然强度不大， 但足以帮助车辆在进入B区后保持更好的轮胎抓地力。",
+        "hyp": "文 4 : During the transition from Area A to Area B, the vehicle's response speed and steering accuracy were both good. Moreover, the electronic stability system began to intervene during the first lane change. Although the intervention was not intense, it was sufficient to help the vehicle maintain better tire traction after entering Area B.",
+        "label_text": "transition "
+    },
+    {
+        "source": "原文 : 在从A区进入B区的过程中，车辆的响应速度与转向的准确性都不错，并且在第一次变线时电子稳定系统便已开始介入，虽然强度不大， 但足以帮助车辆在进入B区后保持更好的轮胎抓地力。",
+        "hyp": "文 4 : During the transition from Area A to Area B, the vehicle's response speed and steering accuracy were both good. Moreover, the electronic stability system began to intervene during the first lane change. Although the intervention was not intense, it was sufficient to help the vehicle maintain better tire traction after entering Area B.",
+        "label_text": "transition "
+    },
+    {
+        "source": "原文 : 至于轴距，11款车的差别还是挺大的，最短的是迈锐宝2737mm，最长的则是两款偏向于运动的蒙迪欧和锐志，它们俩的轴距完全相同，均为2850mm。",
+        "hyp": "文 1 : As for the wheelbase, there's quite a difference among the 11 models. The shortest is the Malibu at 2737mm, while the longest is shared by two models that lean towards sportiness, the Mondeo and the Reiz, both with an identical wheelbase of 2850mm.",
+        "label_text": "there's"
+    },
+    {
+        "source": "原文 : 迈腾的后备厢看上去最为规整，容积也比较大，原因在于它的后备厢支杆位置更加合理，关闭时不至于占用太多的空间。",
+        "hyp": "文 1 : The trunk of the Magotan appears the most orderly and has a larger volume, which is due to the more rational placement of its trunk support struts that don't take up too much space when closed.",
+        "label_text": "don't "
+    },
+    {
+        "source": "原文 : 凯美瑞在后备厢的细节方面并不太讲究，支杆完全没有进行包裹，内部空间规整度一般，后备厢顶部的空气净化系统占据了一定空间，导致最小高度只有350mm，而且这辆顶配凯美瑞的后排座椅还无法放倒，实用性大打折扣。",
+        "hyp": "文 1 : The Camry doesn't pay much attention to the details in the trunk; the support rods are not covered at all, and the internal space organization is mediocre. The air purification system at the top of the trunk occupies some space, resulting in a minimum height of only 350mm. Moreover, the rear seats of this top-of-the-line Camry cannot be folded down, which significantly reduces its practicality.",
+        "label_text": "doesn't"
+    },
+    {
+        "source": "原文 : 天籁全力刹车时车身也有明显前倾，但这款车给人的印象一贯是偏向舒适性，悬架偏软，相对来说这种车身姿态比预想中的要好一些。",
+        "hyp": "文 2 : When the Tianlai brakes hard, there is a noticeable forward pitch to the body, but this car has consistently given the impression of leaning towards comfort, with a softer suspension. Relatively speaking, this kind of body posture is somewhat better than expected.",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : 天籁全力刹车时车身也有明显前倾，但这款车给人的印象一贯是偏向舒适性，悬架偏软，相对来说这种车身姿态比预想中的要好一些。",
+        "hyp": "文 2 : When the Tianlai brakes hard, there is a noticeable forward pitch to the body, but this car has consistently given the impression of leaning towards comfort, with a softer suspension. Relatively speaking, this kind of body posture is somewhat better than expected.",
+        "label_text": "body posture"
+    },
+    {
+        "source": "原文 : 新车侧面线条营造出更加硬朗的视觉效果，一条腰线贯穿整个车身。车尾没有过多的下沉式设计，LED尾灯内部不规则的方块灯组看起来科技感十足。",
+        "hyp": "文 3 : The new car's side profile features more pronounced lines, creating a tougher visual effect, with a waistline that runs the length of the body. The rear of the car avoids excessive recessed designs, and the irregular block pattern within the LED taillights gives off a strong sense of technology.",
+        "label_text": "gives off"
+    },
+    {
+        "source": "原文 : 车身侧面部分，预计两车差别不会太大，可能最大的变化在于车侧末端以及车身尺寸。",
+        "hyp": "文 3 : For the side profile of the vehicle, it is expected that there won't be significant differences between the two models. The most notable changes might be at the rear end of the sides and the dimensions of the vehicle.",
+        "label_text": " won't"
+    },
+    {
+        "source": "原文 : 2021成都车展前夕，上汽大众旗下新款帕萨特家族正式上市，新车共推出13款车型，其中10款燃油版车型，3款PHEV车型，售价区间为17.99-25.09万元。",
+        "hyp": "文 4 : On the eve of the 2021 Chengdu Auto Show, SAIC Volkswagen officially launched the new Passat family, introducing a total of 13 models. Among these, there are 10 gasoline-powered versions and 3 plug-in hybrid electric vehicle (PHEV) models, with prices ranging from 179,900 to 250,900 yuan.",
+        "label_text": "gasoline-powered"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 2 : If you've purchased a used car, you should confirm and delete any registered Bluetooth keys. Additionally, please inform the customer service center or the dealership about your purchase of a used car.",
+        "label_text": "you should confirm"
+    },
+    {
+        "source": "原文 : 车门板上隔音材质的手感也很不错，符合这个价格的水平，其他部件的安装方式虽然不像君越那样复杂，但是也运用了卡扣和螺丝，在耐久性方面应该没有问题。",
+        "hyp": "文 1 : The sound insulation material on the car door panel also feels quite nice, in line with what you'd expect for this price range. Although the installation method for other components isn't as complex as in the Regal, it still employs clips and screws, which should ensure good durability.",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : 车门板上隔音材质的手感也很不错，符合这个价格的水平，其他部件的安装方式虽然不像君越那样复杂，但是也运用了卡扣和螺丝，在耐久性方面应该没有问题。",
+        "hyp": "文 1 : The sound insulation material on the car door panel also feels quite nice, in line with what you'd expect for this price range. Although the installation method for other components isn't as complex as in the Regal, it still employs clips and screws, which should ensure good durability.",
+        "label_text": "isn't "
+    },
+    {
+        "source": "原文 : 车门板上隔音材质的手感也很不错，符合这个价格的水平，其他部件的安装方式虽然不像君越那样复杂，但是也运用了卡扣和螺丝，在耐久性方面应该没有问题。",
+        "hyp": "文 1 : The sound insulation material on the car door panel also feels quite nice, in line with what you'd expect for this price range. Although the installation method for other components isn't as complex as in the Regal, it still employs clips and screws, which should ensure good durability.",
+        "label_text": "should"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 2 : Press the buttons on the infotainment system display as follows: Settings → Vehicle → Digital Key → Digital Key List → Select User → Delete.",
+        "label_text": "Press"
+    },
+    {
+        "source": "原文 : RCD510系统与原车的倒车雷达组合，可以显示模拟倒车影像。同时还支持原厂倒车摄像头，其6.5寸屏幕可用于显示倒车影像功能。",
+        "hyp": "文 3 : The RCD510 system integrates with the car's original parking sensors to display a simulated reversing image. It also supports the factory-installed reversing camera, with its 6.5-inch screen capable of displaying the reversing camera function.",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : 如果您拿着智能手机并且连接蓝牙钥匙的情况下按下车门、行李箱盖上的按钮，可执行闭锁、开锁动作。如果不能正常工作，可能是智能手机和车辆之间的通信不良，请调整智能手机的位置后重试。",
+        "hyp": "文 3 : If you press the buttons on the car door or trunk lid while holding your smartphone and it's connected to the Bluetooth key, you can lock or unlock the vehicle. If it doesn't work properly, there may be poor communication between the smartphone and the vehicle. Please adjust the position of your smartphone and try again.",
+        "label_text": "doesn't"
+    },
+    {
+        "source": "原文 : N13发动机与N55在技术装备上如出一辙，更形象的说，它就像是被“简配”掉两个气缸的N55发动机。它也配有双涡管技术的涡轮增压器、缸内直喷以及Valvetronic电子气门这三项技术。",
+        "hyp": "文 4 : The N13 engine is technically identical to the N55; to put it more vividly, it's like an N55 engine that has been \"downsized\" by two cylinders. It also comes equipped with a twin-scroll turbocharger, direct fuel injection, and Valvetronic electronic valve control—these three technologies.",
+        "label_text": "it's"
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 5 : The smart fortwo doesn't automatically come with a Mercedes engine; instead, it is equipped with the Mitsubishi 3B21T, a 1.0L turbocharged engine. The standard version of the smart fortwo has a maximum output of 84 horsepower (62kW) at 5250 rpm and a peak torque of 120 N·m. The BRABUS edition of the smart has a maximum output of 102 horsepower (75kW) at 6000 rpm and a peak torque of 147 N·m.",
+        "label_text": "doesn't "
+    }
+]

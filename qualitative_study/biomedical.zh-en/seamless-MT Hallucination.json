@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : 小编为大家带来洁面乳霜哪款好？",
+        "hyp": "文 2 : What's the best way to make a clean face cream for everyone?",
+        "label_text": "What's the best way to make a clean face cream for everyone?"
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 1 : The whole process of shooting took about 2 hours, makeup + shooting, the photographer in charge of the shooting is the brother of the 95th, the feeling is a little bit still a little frog, hoping to give more advice in the future in terms of guiding the customer's shooting movements.",
+        "label_text": "the feeling is a little bit still a little frog"
+    },
+    {
+        "source": "原文 : 磺酰脲类降糖药如氯磺丙脲、格列本脲等",
+        "hyp": "文 2 : It is also used in the treatment of diabetes mellitus, such as in the treatment of diabetes mellitus.",
+        "label_text": "It is also used in the treatment of diabetes mellitus, such as in the treatment of diabetes mellitus."
+    },
+    {
+        "source": "原文 : 白木耳的作用：味甘、性平，归肺、胃、肾经；有强精、补肾、润肠、益胃、补气、和血、强心、滋阴、润肺、生津、壮身、补脑、提神、美容、嫩肤、延年益寿之功效；用于治肺热咳嗽、肺燥干咳、妇女月经不调、胃炎、大便秘结等病症；对阴虚火旺不受参茸等温热滋补的病人是一种良好的补品",
+        "hyp": "文 1 : The effect of white wood ear: sweetness, smoothness, to the lungs, stomach, intestines, intestines, intestines, stomach, and blood, strong, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing",
+        "label_text": "The effect of white wood ear: sweetness, smoothness, to the lungs, stomach, intestines, intestines, intestines, stomach, and blood, strong, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing, nourishing"
+    }
+]

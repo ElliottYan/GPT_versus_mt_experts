@@ -1,0 +1,417 @@
+[
+    {
+        "source": "原文 : 如果轮胎气压低，就会显示此警告信息。车辆上的对应轮胎位置指示灯亮。详细信息请参考第8章的“轮胎气压监测系统(TPMS)”部分。",
+        "hyp": "文 3 : In case of low tire pressure, this warning message will pop up and the indicator corresponding to the tire will be on. See \"Tire Pressure Monitoring System (TPMS)\" Section in Chapter 8 for details.",
+        "label_text": "pop up "
+    },
+    {
+        "source": "原文 : 车辆驾驶最初1,000公里行驶里程内，请遵守下列几项简单的安全注意事项，这会有利于增强车辆性能和经济性，并能延长使用寿命。",
+        "hyp": "文 4 : Please observe the following simple safety precautions in the first 1,000 km driving. They will enhance the vehicle performance, improve the cost effectiveness and prolong the service life.",
+        "label_text": "They "
+    },
+    {
+        "source": "原文 : 如果在天窗处于打开状态下关闭发动机， 就会显示此警告信息。 驾驶员离开车辆时，检查确认天窗在完全关闭状态。",
+        "hyp": "文 3 : This warning message will pop up if the engine is shut down with the sunroof open. The driver should check if the sunroof is fully closed when leaving the vehicle.",
+        "label_text": "pop up "
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 3 : The worldwide pioneer CVVD technology is used on the 1.5T high-power engine to generate strong power up to 200 hp. Four tailpipes in total arranged on both side in a dynamic design brings deep sound waves. One-button SPORT+ driving mode features instant acceleration, giving you pleasant driving experience.",
+        "label_text": " side"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 3 : The worldwide pioneer CVVD technology is used on the 1.5T high-power engine to generate strong power up to 200 hp. Four tailpipes in total arranged on both side in a dynamic design brings deep sound waves. One-button SPORT+ driving mode features instant acceleration, giving you pleasant driving experience.",
+        "label_text": "side"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 3 : The worldwide pioneer CVVD technology is used on the 1.5T high-power engine to generate strong power up to 200 hp. Four tailpipes in total arranged on both side in a dynamic design brings deep sound waves. One-button SPORT+ driving mode features instant acceleration, giving you pleasant driving experience.",
+        "label_text": "brings"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 3 : The worldwide pioneer CVVD technology is used on the 1.5T high-power engine to generate strong power up to 200 hp. Four tailpipes in total arranged on both side in a dynamic design brings deep sound waves. One-button SPORT+ driving mode features instant acceleration, giving you pleasant driving experience.",
+        "label_text": " side"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 3 : The worldwide pioneer CVVD technology is used on the 1.5T high-power engine to generate strong power up to 200 hp. Four tailpipes in total arranged on both side in a dynamic design brings deep sound waves. One-button SPORT+ driving mode features instant acceleration, giving you pleasant driving experience.",
+        "label_text": "brings"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 3 : The worldwide pioneer CVVD technology is used on the 1.5T high-power engine to generate strong power up to 200 hp. Four tailpipes in total arranged on both side in a dynamic design brings deep sound waves. One-button SPORT+ driving mode features instant acceleration, giving you pleasant driving experience.",
+        "label_text": "giving you pleasant driving experience"
+    },
+    {
+        "source": "原文 : 有澎湃动力，探索世界的旅程就没有边界：搭载380T GDi发动机，配合8速自动变速箱与HTRAC智能四驱系统，不但动力强劲充沛，更提供超强抓地力，适合全地形驾驶， 打开世界，再无疆界。",
+        "hyp": "文 1 : No boundary for the journey of exploring the world with strong power: Equipped with a 380T GDi engine, an 8-speed automatic transmission and HTRAC intelligent four-wheel-drive system, it has both strong power and grip, suitable for all terrains. It will open up the world without boundaries.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 2 : When driving on a curve, the detection performance of the FCA sensor will be seriously affected. It may fail to detect vehicles or pedestrians ahead on the curve, resulting in no imminent collision warning or no emergency brake when necessary.",
+        "label_text": " brake"
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 2 : When driving on a curve, the detection performance of the FCA sensor will be seriously affected. It may fail to detect vehicles or pedestrians ahead on the curve, resulting in no imminent collision warning or no emergency brake when necessary.",
+        "label_text": " brake"
+    },
+    {
+        "source": "原文 : 如果选择“盲点安全”模式，外后视镜上的警告灯闪烁约3秒钟。此外，在设置启用“盲点安全”模式的状态，如果重新起动发动机，外后视镜上的警告灯闪烁约3秒钟。",
+        "hyp": "文 2 : If the Blind Spot Safety mode is activated, the warning light on the outside rearview mirror will flashes for about 3 seconds. In addition, if the engine is restarted with the Blind Spot Safety mode activated, the warning light on the outside rearview mirror will also flash for about 3 seconds.",
+        "label_text": "flashes"
+    },
+    {
+        "source": "原文 : 如果选择“盲点安全”模式，外后视镜上的警告灯闪烁约3秒钟。此外，在设置启用“盲点安全”模式的状态，如果重新起动发动机，外后视镜上的警告灯闪烁约3秒钟。",
+        "hyp": "文 2 : If the Blind Spot Safety mode is activated, the warning light on the outside rearview mirror will flashes for about 3 seconds. In addition, if the engine is restarted with the Blind Spot Safety mode activated, the warning light on the outside rearview mirror will also flash for about 3 seconds.",
+        "label_text": "flashes"
+    },
+    {
+        "source": "原文 : 在发动机过热状态，如果猛然加注低温冷却液，可能导致发动机缸体裂纹。因此，为了防止损坏发动机，必须少量缓慢加注冷却液。",
+        "hyp": "文 2 : When the engine is overheated, if the low-temperature coolant is filled in suddenly, the engine cylinder block may crack. Therefore, the coolant must be added slowly with a small amount to prevent damage to the engine.",
+        "label_text": "with a small amount"
+    },
+    {
+        "source": "原文 : 在发动机过热状态，如果猛然加注低温冷却液，可能导致发动机缸体裂纹。因此，为了防止损坏发动机，必须少量缓慢加注冷却液。",
+        "hyp": "文 2 : When the engine is overheated, if the low-temperature coolant is filled in suddenly, the engine cylinder block may crack. Therefore, the coolant must be added slowly with a small amount to prevent damage to the engine.",
+        "label_text": "with a small amount"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 5 : The tire pressure monitoring system (TPMS) detects whether the tire pressure is low via sensors in the tires to monitor changes to the tire rolling radius and vibration when the vehicle is running. For the normal operation, TPMS shall be initialized and the current tire pressure value shall be saved. After the initialization, if the pressure of a wheel or wheels is significantly lower than the saved pressure value, the warning indicator on the instrument panel will be on. In case of TPMS fault, the [TPMS] fault warning indicator will be on.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 5 : The tire pressure monitoring system (TPMS) detects whether the tire pressure is low via sensors in the tires to monitor changes to the tire rolling radius and vibration when the vehicle is running. For the normal operation, TPMS shall be initialized and the current tire pressure value shall be saved. After the initialization, if the pressure of a wheel or wheels is significantly lower than the saved pressure value, the warning indicator on the instrument panel will be on. In case of TPMS fault, the [TPMS] fault warning indicator will be on.",
+        "label_text": "TPMS fault"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 5 : The tire pressure monitoring system (TPMS) detects whether the tire pressure is low via sensors in the tires to monitor changes to the tire rolling radius and vibration when the vehicle is running. For the normal operation, TPMS shall be initialized and the current tire pressure value shall be saved. After the initialization, if the pressure of a wheel or wheels is significantly lower than the saved pressure value, the warning indicator on the instrument panel will be on. In case of TPMS fault, the [TPMS] fault warning indicator will be on.",
+        "label_text": "TPMS fault"
+    },
+    {
+        "source": "原文 : 突破美的期待，设计理念重新定义设计美学，通过严谨的比例感、结构感、造型感和技术感进行完美协调",
+        "hyp": "文 4 : The design concept go beyond the expectations of beauty, redefine the design aesthetics, and perfectly present the aesthetics by precise sense of proportion, structure, modeling and technology",
+        "label_text": "go"
+    },
+    {
+        "source": "原文 : 突破美的期待，设计理念重新定义设计美学，通过严谨的比例感、结构感、造型感和技术感进行完美协调",
+        "hyp": "文 4 : The design concept go beyond the expectations of beauty, redefine the design aesthetics, and perfectly present the aesthetics by precise sense of proportion, structure, modeling and technology",
+        "label_text": " redefine"
+    },
+    {
+        "source": "原文 : 突破美的期待，设计理念重新定义设计美学，通过严谨的比例感、结构感、造型感和技术感进行完美协调",
+        "hyp": "文 4 : The design concept go beyond the expectations of beauty, redefine the design aesthetics, and perfectly present the aesthetics by precise sense of proportion, structure, modeling and technology",
+        "label_text": "present"
+    },
+    {
+        "source": "原文 : 突破美的期待，设计理念重新定义设计美学，通过严谨的比例感、结构感、造型感和技术感进行完美协调",
+        "hyp": "文 4 : The design concept go beyond the expectations of beauty, redefine the design aesthetics, and perfectly present the aesthetics by precise sense of proportion, structure, modeling and technology",
+        "label_text": "by"
+    },
+    {
+        "source": "原文 : 突破美的期待，设计理念重新定义设计美学，通过严谨的比例感、结构感、造型感和技术感进行完美协调",
+        "hyp": "文 4 : The design concept go beyond the expectations of beauty, redefine the design aesthetics, and perfectly present the aesthetics by precise sense of proportion, structure, modeling and technology",
+        "label_text": "go"
+    },
+    {
+        "source": "原文 : 突破美的期待，设计理念重新定义设计美学，通过严谨的比例感、结构感、造型感和技术感进行完美协调",
+        "hyp": "文 4 : The design concept go beyond the expectations of beauty, redefine the design aesthetics, and perfectly present the aesthetics by precise sense of proportion, structure, modeling and technology",
+        "label_text": " redefine"
+    },
+    {
+        "source": "原文 : 突破美的期待，设计理念重新定义设计美学，通过严谨的比例感、结构感、造型感和技术感进行完美协调",
+        "hyp": "文 4 : The design concept go beyond the expectations of beauty, redefine the design aesthetics, and perfectly present the aesthetics by precise sense of proportion, structure, modeling and technology",
+        "label_text": " present "
+    },
+    {
+        "source": "原文 : 突破美的期待，设计理念重新定义设计美学，通过严谨的比例感、结构感、造型感和技术感进行完美协调",
+        "hyp": "文 4 : The design concept go beyond the expectations of beauty, redefine the design aesthetics, and perfectly present the aesthetics by precise sense of proportion, structure, modeling and technology",
+        "label_text": " by precise sense"
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 1 : With its excellence, Sonata once set the \"record of 600,000 vehicles sold in 33 months\" in the last century. When its fifth-generation model was introduced into China, this new model was chosen by a variety of people, with its representative \"peanut-shape lights\" soon appeared in  almost every street and alley.",
+        "label_text": "peanut-shape"
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 1 : With its excellence, Sonata once set the \"record of 600,000 vehicles sold in 33 months\" in the last century. When its fifth-generation model was introduced into China, this new model was chosen by a variety of people, with its representative \"peanut-shape lights\" soon appeared in  almost every street and alley.",
+        "label_text": "peanut-shape"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 4 : With the introduction of the new subframe, the load is distributed to the front and rear assembly supports effectively, which not only improves the strength but also  reduces the vibration and harshness during driving.",
+        "label_text": "and"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 4 : With the introduction of the new subframe, the load is distributed to the front and rear assembly supports effectively, which not only improves the strength but also  reduces the vibration and harshness during driving.",
+        "label_text": " which"
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 4 : The i-GMP platform technology is applied to SUVs for the first time, together with the worldwide pioneer CVVD technology. The 1.5T CVVD+8AT golden power combination can powerfully output 200 hp with the fuel consumption as low as 6.9 L/100 km. You can drive the vehicle smoothly and unleash your passion as you surge forward.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 4 : The i-GMP platform technology is applied to SUVs for the first time, together with the worldwide pioneer CVVD technology. The 1.5T CVVD+8AT golden power combination can powerfully output 200 hp with the fuel consumption as low as 6.9 L/100 km. You can drive the vehicle smoothly and unleash your passion as you surge forward.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 而全新搭载的8AT变速箱，更是让行车过程变得轻松流畅。8AT变速箱更大范围的速比设计，令起步加速响应更加灵敏，动力衔接更加紧密，能够精准了解驾驶者的驾驶意图。",
+        "hyp": "文 5 : The 8AT transmission, which is applied for the first time, makes the driving easier and smoother. With a larger speed ratio, the 8AT transmission enables more sensitive standing start acceleration, shorter power switching, and precise understanding of the driver's driving intention. ",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 而全新搭载的8AT变速箱，更是让行车过程变得轻松流畅。8AT变速箱更大范围的速比设计，令起步加速响应更加灵敏，动力衔接更加紧密，能够精准了解驾驶者的驾驶意图。",
+        "hyp": "文 5 : The 8AT transmission, which is applied for the first time, makes the driving easier and smoother. With a larger speed ratio, the 8AT transmission enables more sensitive standing start acceleration, shorter power switching, and precise understanding of the driver's driving intention. ",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 4 : After driving off the road, the driving difficulty suddenly increases, and the test for vehicles also becomes more severe. It requires not only powerful and continuous power output but also easy, consistent and smooth controls. Otherwise, the vehicle may get stuck on the sand once the power output increases suddenly. The complex and changing road conditions also requires that the vehicle should have excellent performance in all aspects.",
+        "label_text": " requires"
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 4 : After driving off the road, the driving difficulty suddenly increases, and the test for vehicles also becomes more severe. It requires not only powerful and continuous power output but also easy, consistent and smooth controls. Otherwise, the vehicle may get stuck on the sand once the power output increases suddenly. The complex and changing road conditions also requires that the vehicle should have excellent performance in all aspects.",
+        "label_text": " requires"
+    },
+    {
+        "source": "原文 : PM1.0级空调过滤器增加含有熔喷布的高性能集尘层，0.3~0.5?尘埃过滤效率≥97%，过滤效果超过N95口罩，即便车外尘土飞扬，车内空气依然如清晨一般洁净。智能车机系统预装大量APP令旅途不枯燥，而高度便捷的自然语音识别系统，即便在你双手紧握方向盘时，依然可以操作车辆的各种功能。",
+        "hyp": "文 1 : The high-performance duct collector containing meltblown cloth is added to the PM1.0 air-conditioning filter, improving the 0.3-0.5 µm dust filtration efficiency to not less than 97%, which is superior to N95 facial mask. Even if the dust swirls in the air outside the vehicle, the air inside is still as clean as the fresh air in the morning. A lot of Apps are pre-installed in the intelligent IVI system, making the journey full of fun. The highly convenient natural language recognition system enables you to invoke various functions of the vehicle even when you hold the steering wheel.",
+        "label_text": " which"
+    },
+    {
+        "source": "原文 : PM1.0级空调过滤器增加含有熔喷布的高性能集尘层，0.3~0.5?尘埃过滤效率≥97%，过滤效果超过N95口罩，即便车外尘土飞扬，车内空气依然如清晨一般洁净。智能车机系统预装大量APP令旅途不枯燥，而高度便捷的自然语音识别系统，即便在你双手紧握方向盘时，依然可以操作车辆的各种功能。",
+        "hyp": "文 1 : The high-performance duct collector containing meltblown cloth is added to the PM1.0 air-conditioning filter, improving the 0.3-0.5 µm dust filtration efficiency to not less than 97%, which is superior to N95 facial mask. Even if the dust swirls in the air outside the vehicle, the air inside is still as clean as the fresh air in the morning. A lot of Apps are pre-installed in the intelligent IVI system, making the journey full of fun. The highly convenient natural language recognition system enables you to invoke various functions of the vehicle even when you hold the steering wheel.",
+        "label_text": " which"
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 2 : In total, the power of the hybrid system is 193 hp, 350 N·m. Unlike Toyota and Honda, both of which adopts the E-CVT transmission, the 6AT transmission is equipped. However, the traditional speedometer is also installed in the instrument panel.",
+        "label_text": "adopts"
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 2 : In total, the power of the hybrid system is 193 hp, 350 N·m. Unlike Toyota and Honda, both of which adopts the E-CVT transmission, the 6AT transmission is equipped. However, the traditional speedometer is also installed in the instrument panel.",
+        "label_text": "adopts"
+    },
+    {
+        "source": "原文 : PilotAssist 智能领航辅助系统，在0-130公里/小时的时速区间提供精准驾控辅助。",
+        "hyp": "文 2 : The PilotAssist (an integrated adaptive cruise control system) provides accurate driving assistance in the speed range of 0-130 km/h.",
+        "label_text": "The"
+    },
+    {
+        "source": "原文 : PilotAssist 智能领航辅助系统，在0-130公里/小时的时速区间提供精准驾控辅助。",
+        "hyp": "文 2 : The PilotAssist (an integrated adaptive cruise control system) provides accurate driving assistance in the speed range of 0-130 km/h.",
+        "label_text": "The"
+    },
+    {
+        "source": "原文 : 流线型车身线条优雅而动感，让人感受到强烈的视觉冲击力。车辆的细节处理也非常到位，无论是车灯、进气口还是车身线条，都展现出精湛的工艺水平。",
+        "hyp": "文 2 : The streamlined lines on the body are elegant and dynamic, producing a strong visual impact. The details, including the lights, air intake and body lines are process appropriately, showing exquisite processes.",
+        "label_text": "are process "
+    },
+    {
+        "source": "原文 : 流线型车身线条优雅而动感，让人感受到强烈的视觉冲击力。车辆的细节处理也非常到位，无论是车灯、进气口还是车身线条，都展现出精湛的工艺水平。",
+        "hyp": "文 2 : The streamlined lines on the body are elegant and dynamic, producing a strong visual impact. The details, including the lights, air intake and body lines are process appropriately, showing exquisite processes.",
+        "label_text": "are process "
+    },
+    {
+        "source": "原文 : 此次最大的不同在于该车换装了型号为YG01的1.5T发动机，这款发动机的最大功率为127kW（现款1.6T为125kW）。",
+        "hyp": "文 1 : The major difference is that this model is equipped with YG01 1.5T engine, which has a maximum power of 127 kW (125 kW for the 1.6T engine used on the current model).",
+        "label_text": "with YG01 1.5T engine"
+    },
+    {
+        "source": "原文 : 车身的线条比较硬朗，流露出硬派的风范，车头有着犀利的大灯，以及大面积的进气格栅，看起来足够时尚。",
+        "hyp": "文 2 : The lines of the body are hard, consistent with its style. There are headlights in a sharp shape and large grille on the front face, both of which are fashionable.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 帕萨特在外形设计上相比老款运动得多，整体不再是一板一眼的传统三厢轿车设计，C柱的线条更加流畅，营造出了微微溜背的感觉。",
+        "hyp": "文 2 : Compared with the previous model, the new model of Passat looks much more sporty in appearance design. Rather than a traditional sedan design, the lines of the C-pillar is smoother, creating a slight fastback.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : 帕萨特在外形设计上相比老款运动得多，整体不再是一板一眼的传统三厢轿车设计，C柱的线条更加流畅，营造出了微微溜背的感觉。",
+        "hyp": "文 2 : Compared with the previous model, the new model of Passat looks much more sporty in appearance design. Rather than a traditional sedan design, the lines of the C-pillar is smoother, creating a slight fastback.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : 为了检验悬架在极端情况下的舒适性，我们用减速带组成一段颠簸路，模拟铺装不太好的路面。减速带前两组为平行摆放，之后则改为错落码放，因此悬架也将面对更大的挑战。",
+        "hyp": "文 5 : To test the comfort bringing by the suspension in extreme cases, we built a bumpy road with speed bumps to simulate a road with poor pavement. We put the first two groups of speed bumps in parallel but the rest in a staggered arrangement, making greater challenges to the suspension. ",
+        "label_text": "bringing"
+    },
+    {
+        "source": "原文 : 三车中最舒适的当属君越，柔软的座椅、安静的车厢、减振器对于细碎振动的处理也非常到位，在铺装路面上，君越有着堪比中大型车的NVH表现，非常适合高速巡航驾驶。",
+        "hyp": "文 2 : Among these three models, LaCrosse is superior in terms of comfort. The soft seats, quiet in-vehicle space and the appropriate handling of the minor vibration by the shock absorber enable LaCrosse to have NVH performance almost identical to medium and large size cars on the paved road, suitable for high-speed cruising.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 新一代蒙迪欧酷似阿斯顿·马丁的中网给人带来更多的新鲜感，这也成为消费者对它最多的评价。蒙迪欧的亮点除了它的外形，这台2.0T发动机242马力和350牛·米最大功率和扭矩也足够抢眼，这也使得它成为了很多追求运动风格消费者的最终选择。",
+        "hyp": "文 3 : For the new generation of Mondeo, its grille, which is much like the one of Aston Martin, presents a fresh appearance to the customers, which is the most common comments made by the customers. In addition to the appearance, Mondeo also features such highlight as its 2.0T engine, which outputs 242 hp and maximum power of 350 N·m. It is the determining factor for the customers favoring sport style to choose Mondeo in the end.",
+        "label_text": "highlight"
+    },
+    {
+        "source": "原文 : 作为同一品牌下的车型，锐志在用料方面的表现要比凯美瑞厚道一些，中控台上部全部采用了软质材料，并不是那种在硬塑料上包裹一层类似皮革材料的感觉，而是搪塑工艺。",
+        "hyp": "文 5 : As different models under the same brand, the materials used for REIZ are better than Camry. The upper part of the center console is manufactured by soft materials in slush molding process, which will not make people feel that this part is a hard plastic wrapped with leather-like material. ",
+        "label_text": " by"
+    },
+    {
+        "source": "原文 : 一定要把车辆停在平坦地面上，将档位挂入“P(驻车)”档并啮合驻车制动器，在车轮前后挡上轮挡，以防车辆移动。",
+        "hyp": "文 1 : The vehicle must be parked on a flat ground, with \"P\" gear and parking brake engaged. There must be chocks in and after the wheels to prevent vehicle from movement.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 驾驶习惯、气候条件、交通状况、机油品质等因素均会影૽机油消耗䟿。因此，建议您定期检查发动机机油䟿，按需要进行补充。",
+        "hyp": "文 2 : The motor oil consumption will be impacted by factors such as the driving habits, weather conditions, traffic conditions, and oil quality. Thus, it is suggested that you check the oil level regularly and replenish the oil as necessary.",
+        "label_text": " the "
+    },
+    {
+        "source": "原文 : 雅阁座椅的软硬程度在此次11款车型当中属于偏软的范围，座椅对身体的支撑也表现不错，坐垫的长度对腿部的支撑也很明显。",
+        "hyp": "文 4 : Among the 11 models tested, the seats of Accord are relatively soft, but provide proper support to the body. The length of the seat cushion also provide great support to the legs.",
+        "label_text": " provide"
+    },
+    {
+        "source": "原文 : C5的悬架调校并不是传统法国车那种偏硬的感觉，这辆车完全追求的是舒适风格。方向盘回馈力度略沉，路感几乎被完全抹去了，驾驶起来很轻松。虽然路面细碎振动的反馈较明显，但对稍大起伏的吸收效果出众，经过减速带时弹跳幅度很小，有效吸收冲击力，这一点给人留下了非常深刻的印象。",
+        "hyp": "文 3 : The suspension adjustment of C5 is not as hard as that of a traditional French vehicle. It is dedicated to the pursuit of comfort. The feedback of the steering wheel is slightly heavy, and the feeling of road conditions is almost completely filtered out, making this vehicle easy to drive. Although the feedback of minor vibration on the paved road is obvious, it performs an excellent absorption on large ups and downs. The bounce amplitude when passing through the speed bumps is very small, with impact forces absorbed effectively, impressing the people deeply.",
+        "label_text": "when passing through the speed bumps"
+    },
+    {
+        "source": "原文 : 眼下，大众迈腾B9可能是大众燃油中型车市场的最后一搏，同时推出一款相同定位的中级电动车，以冲击新能源市场。",
+        "hyp": "文 5 : For now, the Magotan B9 may be the last attempt of Volkswagen in the fuel-powered medium size car market. Volkswagen has also launched a mid-level electric vehicle with the same positioning to hit the new energy market.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 眼下，大众迈腾B9可能是大众燃油中型车市场的最后一搏，同时推出一款相同定位的中级电动车，以冲击新能源市场。",
+        "hyp": "文 5 : For now, the Magotan B9 may be the last attempt of Volkswagen in the fuel-powered medium size car market. Volkswagen has also launched a mid-level electric vehicle with the same positioning to hit the new energy market.",
+        "label_text": "car "
+    },
+    {
+        "source": "原文 : 蒙迪欧推出了长达1.1米的27英寸贯穿式多媒体触摸联屏，同时，起售价14.98万元起。",
+        "hyp": "文 1 : Mondeo launched a new model equipped with a 1.1m 27\" through-type multimedia touch screen, the price of which starts at RMB 149,800.",
+        "label_text": "the price of which"
+    },
+    {
+        "source": "原文 : 实际测试中，锐志的起步也确实要快于其余10款车型，直到速度达到50km/h以后，它才逐渐被一众增压车型超过。",
+        "hyp": "文 5 : In actual tests, REIZ showed a starting superior to other 10 models and became inferior to the supercharged models gradually only until the speed reached 50 km/h. 　",
+        "label_text": " superior "
+    },
+    {
+        "source": "原文 : 如果单论发动机的实力，蒙迪欧确实要强于大众两车，不过在变速箱的表现上，蒙迪欧的6挡手自一体变速箱换挡速度要慢于DSG，换挡时动力的流失也要更多。",
+        "hyp": "文 4 : In terms of engine alone, Mondeo is indeed stronger than Volkswagen products. However, in terms of transmission performance, Mondeo's 6 speed Tiptronic shifts slower than DSG but with more power loss.",
+        "label_text": "but"
+    },
+    {
+        "source": "原文 : 君越接近1.8吨的整备质量是本次横评最大的，所幸四条245mm的宽胎让它的制动成绩提供了保障。全力制动时，踏板脚感偏硬，可变阻尼悬架提供了不错的支撑，前倾的情况并不严重。",
+        "hyp": "文 1 : With its nearly 1.8t weight, LaCrosse is the heaviest in this transverse test in terms of the curb weight. Fortunately, its braking performance is guaranteed by its four 245 mm wide tires. In case of full braking, the driver may feel hard when depressing the pedal. The adaptive damper suspension provides good support, preventing severe forward lurching.",
+        "label_text": "245 mm wide"
+    },
+    {
+        "source": "原文 : 新车侧面线条营造出更加硬朗的视觉效果，一条腰线贯穿整个车身。车尾没有过多的下沉式设计，LED尾灯内部不规则的方块灯组看起来科技感十足。",
+        "hyp": "文 1 : The lines on the side of the new vehicle produces a harder visual effect. There is a waistline running through the entire vehicle body. There is not much sunken design in the rear part. The irregular square light set in the LED tail lights makes the vehicle full of high-tech sense.",
+        "label_text": " produces"
+    },
+    {
+        "source": "原文 : 在高速公路上行驶时，此功能可以帮助驾驶员控制车辆保持与前方车辆之间的车距和以设定速度恒速行驶，并控制车辆保持在本车道内行驶。",
+        "hyp": "文 3 : When driving on an expressway, this function can help the driver control the vehicle to keep a distance from the vehicle ahead, run at a set constant speed, and keep in its lane.",
+        "label_text": "When driving on an expressway,"
+    },
+    {
+        "source": "原文 : 从各大城市的行情来看，相比过去几个月，凯美瑞的让利幅度进一步加大。一方面是它的车型已经许久没有改款，另外，凯美瑞也需要加大优惠，为今年销量目标冲刺一把。",
+        "hyp": "文 5 : According to the market of major cities, Camry gives more discount compared with the past few months, because on one hand, no new model of Camry has been launched for a long time, and on the other hand, Camry needs to make every effort, including greater discount, to achieve its sales target. ",
+        "label_text": "discount"
+    },
+    {
+        "source": "原文 : 同时随着“年轻化”被越来越多厂商重视起来，新款车型还提供了两种不同的前脸满足更多用户的需求，近日，我们从福州某经销商处获悉，帕萨特目前最高可享3.50万元现金优惠。相当于打了8.2折。",
+        "hyp": "文 4 : At the same time, as more and more manufacturers pay attention to \"catering to the youth\", the new model is equipped with two front faces to meet the needs of more users. Recently, we learned from a dealer in Fuzhou that Passat has provided a cash discount up to RMB 35,000 for now, equal to an discount of 18%.",
+        "label_text": "an "
+    },
+    {
+        "source": "原文 : 新能源车依然保持在增长的快车道，48.05万辆的销量同比增长了117.24%，新能源化比重超过了25%。燃油车也在持续11个月同比下滑之后，首次取得了正增长，虽然增幅只有1.44%。",
+        "hyp": "文 5 : New energy vehicles remain fast growth, with the sales of 480,500 vehicles, increased by 117.24% YoY. The proportion of new energy vehicles exceeds 25%. Fuel vehicles also experience the positive growth for the first time, although only 1.44%, after 11 months' YoY decreasing.",
+        "label_text": "remain fast growth"
+    },
+    {
+        "source": "原文 : 新能源车依然保持在增长的快车道，48.05万辆的销量同比增长了117.24%，新能源化比重超过了25%。燃油车也在持续11个月同比下滑之后，首次取得了正增长，虽然增幅只有1.44%。",
+        "hyp": "文 5 : New energy vehicles remain fast growth, with the sales of 480,500 vehicles, increased by 117.24% YoY. The proportion of new energy vehicles exceeds 25%. Fuel vehicles also experience the positive growth for the first time, although only 1.44%, after 11 months' YoY decreasing.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 3闪、5闪、7闪：向上/向下轻微移动转向信号操纵杆时，转向信号灯闪烁3次、5次或7次。",
+        "hyp": "文 2 : 3 flashes, 5 flashes and 7 flashes: When the direction indicator lever is slightly moved upward/downward, indicator will flash for 3, 5 or 7 times.",
+        "label_text": " for 3, 5 or 7 times"
+    },
+    {
+        "source": "原文 : 加油后：加油超过6升(1.6加仑)时，一旦车速超过1km/h(1mph)，就会自动初始化平均油耗显示值。",
+        "hyp": "文 4 : After refueling: If over 6 liters (1.6 gallons) of fuel is filled, average fuel consumption display value will be initialized automatically when the vehicle speed exceeds 1km/h (1mph).",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 两款车型长度都不到5米，轴距基本都在2800mm左右，在这一级别中都属于标准身材，相比之下帕萨特长度和轴距略占优，而凯美瑞在车身宽度略微领先。",
+        "hyp": "文 3 : Both models are less than 5 m long and have a wheel base of about 2,800 mm, which is the standard size in its category. In contrast, Passat has a little advantage in the length and wheel base, while Camry has a wider body.",
+        "label_text": "its"
+    },
+    {
+        "source": "原文 : 两款车型长度都不到5米，轴距基本都在2800mm左右，在这一级别中都属于标准身材，相比之下帕萨特长度和轴距略占优，而凯美瑞在车身宽度略微领先。",
+        "hyp": "文 3 : Both models are less than 5 m long and have a wheel base of about 2,800 mm, which is the standard size in its category. In contrast, Passat has a little advantage in the length and wheel base, while Camry has a wider body.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 空间部分两台车尺较为接近，所表现出来的乘坐及后备厢容积也基本处在同一水平，相比之下帕萨特的优势主要体现在后排腿部空间表现更优，同时后备厢支持按照4/6比例放倒，扩展性更好。",
+        "hyp": "文 4 : In terms of space, these two models have similar sizes and almost the same seating capacity and trunk volume. By comparison, Passat has advantages in its rear room for legs and the trunk, which can be laid down according to a 4/6 ratio, producing better expansibility.",
+        "label_text": "which"
+    },
+    {
+        "source": "原文 : 就目前的优惠行情来看，2018款车型的优惠力度较大，并且这其中尤以混动版车型为主。而混动版车型也有着不俗的油耗表现。",
+        "hyp": "文 3 : According to the current discounts, there is greater discount for 2018 models, especially for hybrid ones, which also perform well in fuel consumption.",
+        "label_text": ", which"
+    },
+    {
+        "source": "原文 : 车门会开锁，危险警告灯闪烁2次。如果在信息娱乐系统显示屏上设置菜单中选择“门锁开锁联动”项，外后视镜会自动展开。",
+        "hyp": "文 1 : The door will be unlocked and the hazard warning indicator will flash for twice. If \"Door Unlocking Linkage\" in the setting menu is selected via the IVI display, the outside rearview mirrors will unfold automatically.",
+        "label_text": "for "
+    },
+    {
+        "source": "原文 : 如果您想使用蓝牙钥匙服务，首先应该安装Bluelink应用程序。苹果和安卓用户可在应用商城搜索“BlueLink”并下载该应用程序。",
+        "hyp": "文 3 : Please install the Bluelink app to access to the Bluetooth key service. Both iOS and Android users can search for \"BlueLink\" in the app store and download the app.",
+        "label_text": "access to "
+    },
+    {
+        "source": "原文 : 索纳塔前、后车门均采用的是管状梁结构，这种设计大多数都出现在日、韩品牌车型上，主要是出于成本的考虑。",
+        "hyp": "文 4 : There are tubular beams on the front and rear doors of Sonata. This design is mostly used by Japanese and Korean brands, mainly for sake of cost.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 现在取代RCD510系统的是眼前这套RCD310系统，其实在娱乐性和实用性上两者差别并不算大，主要是RCD310系统510系统上了6.5寸彩色可触摸的大屏幕，对整车车内视觉档次感影响比较大。",
+        "hyp": "文 5 : The RCD510 system is now replaced by the RCD310 system. In fact, there is not much difference between these two systems in entertainment and practicability. What differs most is that a 6.5\" color touch screen is equipped in the RCD310 system, which has significantly improve the inner visual effect of the vehicle.",
+        "label_text": "improve"
+    },
+    {
+        "source": "原文 : 如果您拿着智能手机并且连接蓝牙钥匙的情况下按下车门、行李箱盖上的按钮，可执行闭锁、开锁动作。如果不能正常工作，可能是智能手机和车辆之间的通信不良，请调整智能手机的位置后重试。",
+        "hyp": "文 2 : If you press the button on the door or trunk lid when you hold your smart phone that is connected the Bluetooth key, you can lock or unlock the door or trunk lid. In case of any malfunction, the communication between the smart phone and the vehicle may be poor. Please adjust the position of your smart phone and try again.",
+        "label_text": " is connected the Bluetooth key"
+    },
+    {
+        "source": "原文 : N13发动机与N55在技术装备上如出一辙，更形象的说，它就像是被“简配”掉两个气缸的N55发动机。它也配有双涡管技术的涡轮增压器、缸内直喷以及Valvetronic电子气门这三项技术。",
+        "hyp": "文 3 : The N13 engine has the same technical installations with the N55. To be more visualized, it is an N55 engine with two cylinders \"simplified\". This engine is also equipped with twin-scroll turbocharger, direct injection and Valvetronic technologies.",
+        "label_text": "with"
+    },
+    {
+        "source": "原文 : 目前，N1X系列拥有自然吸气版本的N12、N16以及涡轮增压版本的N14和N18，它们都是1.6L排量，且缸径和行程也都为77*85.8mm。",
+        "hyp": "文 1 : At present, there are naturally aspirated versions of N12 and N16 and turbocharged versions of N14 and N18 for N1X series, all of which are with a displacement of 1.6L and the cylinder diameter and stroke of 77*85.8 mm.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 4 : The smart fortwo is not equipped with a Mercedes-Benz engine. Instead, the Mitsubishi 3B21T, a 1.0L supercharged engine, is equipped. For smart fortwo, the maximum power is 84 hp (62 kW)/5,250 rpm and the maximum torque is 120 N·m for the ordinary version while 102 hp (75 kW)/6,000 rpm and 147N·m for BRABUS version.",
+        "label_text": "The"
+    }
+]

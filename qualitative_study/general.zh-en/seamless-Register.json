@@ -1,0 +1,147 @@
+[
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 5 : The blue ceiling, the white clouds like cotton candy, the different facial expressions, the noisy environment, all this is familiar, but so strange, as if it were thousands of miles away.",
+        "label_text": "noisy"
+    },
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 5 : The blue ceiling, the white clouds like cotton candy, the different facial expressions, the noisy environment, all this is familiar, but so strange, as if it were thousands of miles away.",
+        "label_text": "ceiling"
+    },
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 5 : The blue ceiling, the white clouds like cotton candy, the different facial expressions, the noisy environment, all this is familiar, but so strange, as if it were thousands of miles away.",
+        "label_text": "noisy"
+    },
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 1 : The old village chief of Shimura looked at Lin Feng in a strange way, but he was frightened.",
+        "label_text": "Shimura"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 4 : China has manufactured a colorless, odorless biochemical weapon and intends to export it to China to carry out a disastrous conspiracy.",
+        "label_text": " export"
+    },
+    {
+        "source": "原文 : 1654年，海德薇希·艾蕾诺拉与瑞典国王卡尔十世·古斯塔夫结婚，两人的独子是日后的卡尔十一世。",
+        "hyp": "文 1 : In 1654, Hildewig Eleonora married King Carl X Gustaf of Sweden, and their only child was the future Karl XI.",
+        "label_text": "future"
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 5 : Due to the secrecy of some of the exhibits, the China Coin Museum is open to visitors only and not to outsiders.",
+        "label_text": "secrecy"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 4 : I don't want to be a ghost! Let me go back, let me go back! Can Don En shout like that?",
+        "label_text": "that"
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 2 : (I counted, the shoes were over 4,000 yen, counted as 200rmb, choose one, I don't have shoes, the loss was 200 yuan.)",
+        "label_text": "counted"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "explains: "
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "you"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "explains: "
+    },
+    {
+        "source": "原文 : 种种情节开始浮现在安林的脑海里，那一切梦幻的开端，不就是眼前这一幕吗！",
+        "hyp": "文 5 : All sorts of plots began to emerge in An Lin's mind, the beginning of all the dreams, wasn't it this scene in front of us!",
+        "label_text": "plots"
+    },
+    {
+        "source": "原文 : 徐缺一脸贱笑，眉毛一挑，伸手就直接扒向女子的裙摆。",
+        "hyp": "文 4 : Xu laughed with a low face, raised his eyebrows, and stretched out his hand to the woman's neck.",
+        "label_text": "laughed with a low face"
+    },
+    {
+        "source": "原文 : “好小子，你有一套！我们走，赶紧扫货！”",
+        "hyp": "文 1 : Hey, kid, you got a set! Let's go, hurry up and sweep!",
+        "label_text": "sweep"
+    },
+    {
+        "source": "原文 : 由于与Bootstrap等其他传统CSS框架的基本概念不同，因此了解Tailwind是如何建立的理念及其基本用法非常重要。",
+        "hyp": "文 5 : Since it is different from the basic concepts of other traditional CSS frameworks such as Bootstrap, it is very important to understand how Tailwind is built and its basic usage.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 打天九和麻将一样，都是中国国粹，但天九在中原几近失传，即使在香港，懂得玩天九的亦越来越少。",
+        "hyp": "文 5 : It's the same as mahjong, but it's almost lost in China, and even in Hong Kong, there are fewer and fewer people who know how to play it.",
+        "label_text": "It's"
+    },
+    {
+        "source": "原文 : 听到招呼声，李杜起身道：“喔，是的，汉娜，有什么事吗？”",
+        "hyp": "文 5 : Hearing the greeting, Li Du stood up and said: \"Oh, yes, Hannah, what's wrong?\"",
+        "label_text": "what's wrong?"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 3 : The second one is Totes, 1. this one doesn't have a handle 2. the handle material is general 3. it's clearly written Large, it's actually a convenient umbrella for one person, two people use an estimate of enough.",
+        "label_text": "general"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 4 : In an article published in the August 2021 issue of Billboard magazine, the group noted that the group's fans have been drilling through the gaps in the charts by using brilliant tactics, including the use of crowdfunding in the U.S. to help the group stay in the top 100 for weeks in a row, while the group's chart performance is largely driven by sales (most of which come from the band's online store, which allows fans to buy multiple copies of a song, unlike iTunes) and fan-driven crowdfunding campaigns (including the use of crowdfunding to sell songs on services such as Apple Pay).",
+        "label_text": " brilliant"
+    },
+    {
+        "source": "原文 : “这位兄弟。 能不能把这玩意给我看看。”",
+        "hyp": "文 5 : \"Brother, can you show me this toy?\"",
+        "label_text": "Brother"
+    },
+    {
+        "source": "原文 : 楚阳的身躯缓缓从空中落下，缓缓倒了下去，便如晚秋飘零的枯叶，倒在尘埃，脸上带着淡淡的却温暖的笑，喃喃的道：“轻舞，若是有来生，伴君天下舞！”",
+        "hyp": "文 1 : Chu Yang's body slowly fell from the sky, slowly fell down, like the dried leaves of late autumn, poured into the dust, with a faint but warm smile on his face, and said: \"Light dance, if there is a birth, dance under the sky!\"",
+        "label_text": " poured"
+    },
+    {
+        "source": "原文 : 别看只是女人走路，里面可是有很多学问。 而莫问成天守在工地上，对面就是马路与人行道。",
+        "hyp": "文 2 : Don't look at it, it's just women walking, but there's a lot of education in it, and don't ask to be on the job, it's the road and the sidewalk across the street.",
+        "label_text": "education"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 2 : The killer's family came from three families, because the family's silk and practice the killer's tactics, originally the three families served the wealthy original Chinese family of the autumn moon, the father used to cooperate with the family of the silver field to carry out the task of removing the staff of the family, but after the death of his mother, the autumn moon family hired another killer, in order to avoid knowing the secret of the family of the autumn moon, the killer silenced the father, even himself and his sister were affected by this.",
+        "label_text": " knowing "
+    },
+    {
+        "source": "原文 : 肥龙脸上横肉乱抖，心底却颇为纠结。",
+        "hyp": "文 4 : The fat dragon's face is wrinkled, but his heart is tangled.",
+        "label_text": "tangled"
+    },
+    {
+        "source": "原文 : “耍流氓啊……”一个绝对是高分贝的女高音，就在叶默面前响起，叶默刚才只顾检查自己的小**，居然忘了查看周围的情况。 没想到这个小胡同还是连通的，只是前面的转弯处这里看不到而已。",
+        "hyp": "文 4 : A woman's high-pitched voice, which was definitely high-pitched, was heard in front of Yemer, who had just checked his little **, and had forgotten to look around. He didn't think that this little street was connected, but he couldn't see it at the turn in front.",
+        "label_text": "little"
+    },
+    {
+        "source": "原文 : 使用产品前请仔细阅读本说明书，并妥善保管。",
+        "hyp": "文 1 : Please read this instruction manual carefully before using the product and store it properly.",
+        "label_text": "store"
+    },
+    {
+        "source": "原文 : 李杜没见过这种虫子，奇怪的举起来想看清楚。",
+        "hyp": "文 3 : Li Du had never seen such an insect before, so he lifted it up strangely to see for himself.",
+        "label_text": "strangely"
+    },
+    {
+        "source": "原文 : 他知道，这一刻起，他将以段凌天的身份融入这个陌生的世界。",
+        "hyp": "文 4 : He knew that from that moment on, he would be integrated into this strange world as a transcendent being.",
+        "label_text": " integrated "
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 4 : 无论如何，我在聊天框里输入了那些话（“我不会在这个游戏里作弊！”），然后它告诉我要付费给服务器并关闭广告拦截。",
+        "label_text": "广告拦截"
+    },
+    {
+        "source": "原文 : When computing several derivatives in the N-jet simultaneously, discrete scale-space smoothing with the discrete analogue of the Gaussian kernel, or with a recursive filter approximation, followed by small support difference operators, may be both faster and more accurate than computing recursive approximations of each derivative operator.",
+        "hyp": "文 4 : 在同时计算N阶导数时，采用离散尺度空间平滑技术，结合离散高斯核的模拟或递归滤波器近似，然后再使用小支撑差分算子，可能比计算每个导数算子的递归近似更快也更精确。",
+        "label_text": "N阶导数"
+    }
+]

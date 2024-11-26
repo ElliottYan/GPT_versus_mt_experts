@@ -1,0 +1,237 @@
+[
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 2 : However, this address space may increase the burden of routers on the Internet, as this address may not be able to efficiently aggregate in a classless interdomain routing system.",
+        "label_text": "of"
+    },
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 2 : However, this address space may increase the burden of routers on the Internet, as this address may not be able to efficiently aggregate in a classless interdomain routing system.",
+        "label_text": " aggregate"
+    },
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 1 : The old village chief of Shimura looked at Lin Feng in a strange way, but he was frightened.",
+        "label_text": "but"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 4 : China has manufactured a colorless, odorless biochemical weapon and intends to export it to China to carry out a disastrous conspiracy.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 4 : China has manufactured a colorless, odorless biochemical weapon and intends to export it to China to carry out a disastrous conspiracy.",
+        "label_text": "intends"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 4 : China has manufactured a colorless, odorless biochemical weapon and intends to export it to China to carry out a disastrous conspiracy.",
+        "label_text": "colorless, odorless biochemical"
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 1 : He was wounded, and it was a very troublesome thing, and the common medicine stone was useless.",
+        "label_text": "and "
+    },
+    {
+        "source": "原文 : 产品名称 :Redmi AirDots 2 真无线蓝牙耳机",
+        "hyp": "文 4 : Product name: Redmi AirDots 2 truly wireless Bluetooth headphones",
+        "label_text": "truly"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 1 : After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, making it the third busiest station after Kumamoto Station and Honshu Station, with annual revenues of 300 million yen.",
+        "label_text": "After opening, the mall"
+    },
+    {
+        "source": "原文 : 听到可以成为新生第一，又夸她是天才，女孩脸上情不自禁的露出火热，连忙询问：“不过，什么？”",
+        "hyp": "文 5 : Hearing that she could be the first of the newborns, and praising her as a genius, the girl's face showed uncontrollable enthusiasm, and hurriedly asked: \"But what?\"",
+        "label_text": "praising her as a genius"
+    },
+    {
+        "source": "原文 : 听到可以成为新生第一，又夸她是天才，女孩脸上情不自禁的露出火热，连忙询问：“不过，什么？”",
+        "hyp": "文 5 : Hearing that she could be the first of the newborns, and praising her as a genius, the girl's face showed uncontrollable enthusiasm, and hurriedly asked: \"But what?\"",
+        "label_text": "praising her as a genius"
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 2 : (I counted, the shoes were over 4,000 yen, counted as 200rmb, choose one, I don't have shoes, the loss was 200 yuan.)",
+        "label_text": "choose one, I don't have shoes, the loss was 200 yuan"
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 2 : (I counted, the shoes were over 4,000 yen, counted as 200rmb, choose one, I don't have shoes, the loss was 200 yuan.)",
+        "label_text": " choose one, I don't have shoes, the loss was 200 yuan."
+    },
+    {
+        "source": "原文 : 就只能拜托卖家赶紧发货。",
+        "hyp": "文 2 : All I can do is ask the seller to hurry up with the shipment.",
+        "label_text": " is ask"
+    },
+    {
+        "source": "原文 : 就只能拜托卖家赶紧发货。",
+        "hyp": "文 2 : All I can do is ask the seller to hurry up with the shipment.",
+        "label_text": " is ask"
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 3 : Correspondingly, if the default option ‘-fno-exteznal-templates ⁇  is used during compilation, all template instances are explicitly set to built-in.",
+        "label_text": "set to built-in"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 3 : The nine organs were first located in Beijing, then the main engineering and production departments moved to the West Hai Town of Haiyang County, Qinghai Province, i.e. 221 factories; in 1970, the main engineering and production departments moved to Sichuan, distributed in the mountainous areas of northern Sichuan.",
+        "label_text": "factories"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again"
+    },
+    {
+        "source": "原文 : 东西还可以，但是亚马逊的售后服务真的比其他网站差太多了",
+        "hyp": "文 2 : Things are fine, but Amazon's after-sales service is really much worse than other websites.",
+        "label_text": "than other websites"
+    },
+    {
+        "source": "原文 : 2020年5月2日， JDG在2020LPL春季赛常规赛排名第二位，并在总决赛上3:2险胜TES获得总冠军，这也是他们队史第一个LPL冠军。",
+        "hyp": "文 2 : On May 2, 2020, JDG finished second in the regular season of the 2020 LPL Spring Season, and won the championship by defeating TES 3-2 in the final, which was also their first LPL championship in team history.",
+        "label_text": "in team history"
+    },
+    {
+        "source": "原文 : 这鞋很“窄”，虽然前面还留着距离，但是感觉紧紧的。",
+        "hyp": "文 1 : This shoe is very tight, although there is still a distance in front, but it feels tight.",
+        "label_text": "although there is still a distance in front, but it feels tight."
+    },
+    {
+        "source": "原文 : 这鞋很“窄”，虽然前面还留着距离，但是感觉紧紧的。",
+        "hyp": "文 1 : This shoe is very tight, although there is still a distance in front, but it feels tight.",
+        "label_text": "This shoe is very tight, although there is still a distance in front, but it feels tight"
+    },
+    {
+        "source": "原文 : 这鞋很“窄”，虽然前面还留着距离，但是感觉紧紧的。",
+        "hyp": "文 1 : This shoe is very tight, although there is still a distance in front, but it feels tight.",
+        "label_text": "in front"
+    },
+    {
+        "source": "原文 : 种种情节开始浮现在安林的脑海里，那一切梦幻的开端，不就是眼前这一幕吗！",
+        "hyp": "文 5 : All sorts of plots began to emerge in An Lin's mind, the beginning of all the dreams, wasn't it this scene in front of us!",
+        "label_text": "us"
+    },
+    {
+        "source": "原文 : 我一个半月前买的琴，缺个零件，通知亚马逊后给了我售后的电话，多次沟通后，零件现在还没收到，请问这是什么效率！",
+        "hyp": "文 4 : My piano, which I bought a month and a half ago, was missing a part, and after notifying Amazon, they called me after the sale, and after many conversations, the part has not been received yet, so please ask what is the efficiency!",
+        "label_text": "after notifying Amazon, they called me after the sale"
+    },
+    {
+        "source": "原文 : 我一个半月前买的琴，缺个零件，通知亚马逊后给了我售后的电话，多次沟通后，零件现在还没收到，请问这是什么效率！",
+        "hyp": "文 4 : My piano, which I bought a month and a half ago, was missing a part, and after notifying Amazon, they called me after the sale, and after many conversations, the part has not been received yet, so please ask what is the efficiency!",
+        "label_text": "after notifying Amazon, they called me after the sale"
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 4 : Julio Ríos, a well-known Spanish expert on China issues and honorary advisor to the China Policy Observatory Network, said in an interview with this newspaper that China's current epidemic prevention and control is entering a new phase, and the dynamism of economic and social development will be further released.",
+        "label_text": "is entering"
+    },
+    {
+        "source": "原文 : 一辆出租车在他前面下客，他快步走上前，然后钻了进去。 唐恩在车上看了躺在寒风中享受“晚餐”的乞丐最后一眼，让司机将他带回那个陌生的家。",
+        "hyp": "文 4 : A taxi pulled up in front of him, and he walked up to it, and then he drilled in, and Don looked at the beggar in the car, who was enjoying his dinner in the cold wind, and asked the driver to take him back to the stranger's house.",
+        "label_text": " in"
+    },
+    {
+        "source": "原文 : 7名歌手竞演结束后，由听众评审团投票排出名次，排在第7位的歌手将被淘汰，那个位置由新的歌手替换。",
+        "hyp": "文 4 : At the end of the seven-member contest, the judges are voted on by the audience, and the singer in seventh place will be eliminated, and that position will be replaced by a new singer.",
+        "label_text": "seventh"
+    },
+    {
+        "source": "原文 : 而且商品产品包装问题，我看评论2016年就有人评论过，到现在19年，还是老样子。",
+        "hyp": "文 1 : I'm not sure about the product packaging issue, I've seen comments from people in 2016, and it's been 19 years now, it's still the same.",
+        "label_text": " I've seen comments from people in 2016"
+    },
+    {
+        "source": "原文 : “烦恼落尽，红尘远离。”",
+        "hyp": "文 4 : The troubles are gone, the red dust is gone.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 2 : There's a lot of stuff that's imported, but there's a lot of stuff that doesn't have a Chinese label, and I don't know where it's coming from.",
+        "label_text": "it's"
+    },
+    {
+        "source": "原文 : 两名说话的狱卒这才看见侧边正站着一名身穿粗布麻衣的女子，这女子虽然穿着粗布麻衣，却依然能隐约看出她的不俗风姿。 唯一遗憾的是，她的脸已经毁容，被略微凌乱的头发遮掩，让人不愿再看第二眼。",
+        "hyp": "文 3 : The two prisoners who were talking saw a woman standing on the side, dressed in a thick linen cloth, who, although dressed in a thick linen cloth, could still see her unusual appearance. The only regret was that her face had been disfigured, covered by a slightly messy hair, making it unwilling to look at the second eye.",
+        "label_text": "making it unwilling to look at the second eye"
+    },
+    {
+        "source": "原文 : “不，我认真的。” 女子不知悔改的举了举手，肩头却不自觉下垂，显得更弱了，“你们真没必要出去找人报仇。”",
+        "hyp": "文 4 : \"No, I'm serious, the girl raised her hand unrepentantly, but her shoulders didn't fall down, she looked weaker, you really don't have to go out to get revenge\".",
+        "label_text": "No, I'm serious, the girl raised her hand unrepentantly, but her shoulders didn't fall down, she looked weaker, you really don't have to go out to get revenge"
+    },
+    {
+        "source": "原文 : 抹茶猫却是丝毫不对眼前的情况感到怪异一样，突然跳到了赵耀的怀里，眯着眼睛蹭着赵耀的身体，奶声奶气道：“和我玩游戏吧。”",
+        "hyp": "文 2 : The matcha cat, however, was not at all strange to the situation in front of him, suddenly jumped into the arms of Yang Yao, staring at Yang Yao's eyes, staring at Yang Yao's body, and said: \"Play a game with me\".",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 2 : The second season of \"Kyoto Color Diaries\" will begin airing on July 17, 2013 at 1:58 p.m. on the third Wednesday of each month (equivalent to Thursday morning), in addition to the end of each episode will also maintain the first season of \"Kyoto Color Diaries\", but the second season will be a review and summary of the episode with Yokohama's hand-drawn diary.",
+        "label_text": " in addition to the end of each episode will also maintain"
+    },
+    {
+        "source": "原文 : 之所以猜测这是琥珀，是因为它色泽是淡黄色的，里面包裹着一个小虫，和他小学六年级时候看到过的一枚琥珀很像。 那时候他们的课本有一篇名为《琥珀》的课文，语文老师给他们上课的时候，就带来了一枚琥珀。",
+        "hyp": "文 1 : The reason I'm guessing it's amber is because it's pale yellow, and it's wrapped in a worm, and it's very similar to the amber that he saw in the sixth grade in elementary school, and there's a textbook called \"Amber\", and the grammar teacher brings them a piece of amber.",
+        "label_text": "brings"
+    },
+    {
+        "source": "原文 : “这回可真是没话说了，我不无敌谁无敌？”",
+        "hyp": "文 1 : This time I didn't say anything, I'm not invincible, who is?",
+        "label_text": "This time I didn't say anything, I'm not invincible, who is"
+    },
+    {
+        "source": "原文 : 安林见状有些激动地问道：“这位漂亮的仙女姐姐，请问这里是什么地方，我初来乍到，对这个地方不是很懂呢。”",
+        "hyp": "文 4 : \"What is this place?\" asked the beautiful fairy sister. \"I've never been here before, but I don't know much about it\".",
+        "label_text": "but "
+    },
+    {
+        "source": "原文 : 别人的课堂，都是人满为患，拥挤的坐不下去，而他的课堂，一个都没有，好不容易被他拉进来几个，最后都连骂好几声“骗子”，转身就逃！",
+        "hyp": "文 4 : Other people's classrooms were full of people, crowded and unable to sit down, and his classroom, which had none, was not easy to be dragged in by him, and in the end he cursed a few times, \"Liar\", and turned and ran away!",
+        "label_text": " and"
+    },
+    {
+        "source": "原文 : 想取消订单，对不起，订单信息已传递给供应商，不能取消；想退换货，在亚马逊成功申请了退换货，对不起，没有人理你，需要自行联系供货商退货。",
+        "hyp": "文 1 : Want to cancel the order, sorry, the order information has been passed to the supplier, can't be canceled; want to return the goods, successfully applied for the return of the goods on Amazon, sorry, no one cares about you, need to contact the supplier yourself to return the goods",
+        "label_text": "Want to cancel the order, sorry, the order information has been passed to the supplier, can't be canceled"
+    },
+    {
+        "source": "原文 : 想取消订单，对不起，订单信息已传递给供应商，不能取消；想退换货，在亚马逊成功申请了退换货，对不起，没有人理你，需要自行联系供货商退货。",
+        "hyp": "文 1 : Want to cancel the order, sorry, the order information has been passed to the supplier, can't be canceled; want to return the goods, successfully applied for the return of the goods on Amazon, sorry, no one cares about you, need to contact the supplier yourself to return the goods",
+        "label_text": "want to return the goods, successfully applied for the return of the goods on Amazon, sorry, no one cares about you, need to contact the supplier yourself to return the goods"
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 2 : In the first week after the 2023 Spring Festival, the number of jobs preferred by Haitians and the number of jobs preferred by Haitians seeking jobs in the country all showed an upward trend, with the number of jobs preferred by Haitians on February 3 increased by 11% compared to January 28, and the number of jobs preferred by Haitians increased by 27%.",
+        "label_text": "compared to January 28"
+    },
+    {
+        "source": "原文 : 梵盾吉普服饰，因为年轻，所以自信！",
+        "hyp": "文 2 : Jeep clothing, because young, so confident!",
+        "label_text": "because young, so confident"
+    },
+    {
+        "source": "原文 : 随后库格尔下诏要求全国百姓都要模仿宫廷弄臣，用荒诞的言行来庆祝这个荒诞的一天，而这个习俗也成为一年一度的盛事。",
+        "hyp": "文 2 : Subsequently, King Kugel demanded that all the people of the country imitate the court's tricks and celebrate this absurd day with absurd words and deeds, and this custom also became an annual event.",
+        "label_text": "also"
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 5 : In April 1943, Rui and the Yan'an Academy of Natural Sciences merged to form Yan'an University, which became the Lu Xun Academy of Arts and Letters of Yan'an University, a theater music department, abbreviated as theater sound department.",
+        "label_text": "which"
+    },
+    {
+        "source": "原文 : 硫酸铅在1170°C下融化并部分分解出三氧化硫。",
+        "hyp": "文 5 : Sulfuric acid melts at 1170°C and partially decomposes to form sulfur trioxide.",
+        "label_text": "to form "
+    }
+]

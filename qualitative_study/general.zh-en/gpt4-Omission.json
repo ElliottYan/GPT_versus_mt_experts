@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 4 : A blue canopy of sky, clouds like cotton candy, faces of varying skin tones and expressions, a bustling environment—all of it feels so familiar, yet so foreign, as if it's a world away from me.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 3悲剧的是等了近3天，这个专员联系了我，我手机离开了一会，没有接到这个专员的电话。",
+        "hyp": "文 1 : Tragically, after nearly three days of waiting, the specialist finally contacted me, but I had stepped away from my phone for a moment and missed the call.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 3悲剧的是等了近3天，这个专员联系了我，我手机离开了一会，没有接到这个专员的电话。",
+        "hyp": "文 1 : Tragically, after nearly three days of waiting, the specialist finally contacted me, but I had stepped away from my phone for a moment and missed the call.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 东西还可以，但是亚马逊的售后服务真的比其他网站差太多了",
+        "hyp": "文 4 : The products are okay, but Amazon's after-sales service is really much worse than other websites.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 3 : The M4 Sherman (76mm turret variant) tank commander and radio operator (deputy team leader) is a second-year student at Saunders University High School. She first appeared in episode 4 of the series and is skilled at devising various tactics, serving as the team's strategist. However, she becomes very emotional and nervous during tankery matches. During the match against Oarai Girls Academy, her panicked and flustered behavior disrupted her teammates' morale. She attempted to exploit a loophole in the rules by secretly using a spy balloon to eavesdrop on the enemy, but this backfired, leading to a loss of advantage and ultimately defeat for her team. She was also punished by Kay. When she's upset or angry, she inexplicably mentions her secret crush on a boy named A-Xiao. In the movie, she is comforted by the Rabbit Team for this reason. Although she's sharp-tongued and full of cunning ideas, at heart she's a simple and somewhat silly girl with a rich personality. In the final chapter, episode 3, she falls for a high school trap, resulting in the destruction of her team's flag tank.",
+        "label_text": "deputy team leader"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 3 : The M4 Sherman (76mm turret variant) tank commander and radio operator (deputy team leader) is a second-year student at Saunders University High School. She first appeared in episode 4 of the series and is skilled at devising various tactics, serving as the team's strategist. However, she becomes very emotional and nervous during tankery matches. During the match against Oarai Girls Academy, her panicked and flustered behavior disrupted her teammates' morale. She attempted to exploit a loophole in the rules by secretly using a spy balloon to eavesdrop on the enemy, but this backfired, leading to a loss of advantage and ultimately defeat for her team. She was also punished by Kay. When she's upset or angry, she inexplicably mentions her secret crush on a boy named A-Xiao. In the movie, she is comforted by the Rabbit Team for this reason. Although she's sharp-tongued and full of cunning ideas, at heart she's a simple and somewhat silly girl with a rich personality. In the final chapter, episode 3, she falls for a high school trap, resulting in the destruction of her team's flag tank.",
+        "label_text": "deputy team leader"
+    },
+    {
+        "source": "原文 : 我一个半月前买的琴，缺个零件，通知亚马逊后给了我售后的电话，多次沟通后，零件现在还没收到，请问这是什么效率！",
+        "hyp": "文 1 : I bought a piano a month and a half ago that was missing a part. After notifying Amazon, they gave me the after-sales service number. Despite multiple communications, I still haven't received the part. What kind of efficiency is this?",
+        "label_text": "Amazon"
+    },
+    {
+        "source": "原文 : 那玉石在他手心，就在他右手掌心里，居然融化起来。",
+        "hyp": "文 4 : The jade stone in his palm, right there in the center of his right hand, began to melt away.",
+        "label_text": "began to melt away"
+    },
+    {
+        "source": "原文 : 2 已超过三包有效期;",
+        "hyp": "文 2 : The product has exceeded the warranty period.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 肠出血者应禁食，大量出血者应输血，并发肠穿孔时宜及早手术治疗。",
+        "hyp": "文 1 : Individuals with intestinal bleeding should fast, those with significant blood loss should receive blood transfusions, and in cases of intestinal perforation, timely surgical treatment is advisable.",
+        "label_text": "in cases of intestinal perforation"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 2 : On January 3, 2017, Wu Lei starred in the premiere of the ancient fantasy drama \"Magic Star,\" where he played the half-human, half-demon young hero Zhan Xiongfei. The series achieved over 1.3 billion views by its finale. Subsequently, he co-starred with Lin Yun in the fantasy drama \"Battle Through the Heavens,\" adapted from the novel of the same name by Tian Can Tu Dou, portraying the character Xiao Yan. On February 3, he continued his participation in the reality show \"24 Hours: Season 2.\" In March, he joined the cast of the drama film \"Shadow.\" On May 5, he became a regular host on the original cultural exploration program \"The Seventy-Two Layers.\" On September 30, the action movie he starred in, \"Ultimate Code,\" was released, where he played the genius teenager Tang Dingdong, adept in various high-end technologies. That same year, he also led the adventure-themed drama \"Sand Sea,\" playing the key explorer Li Cu.",
+        "label_text": "Magic Star"
+    },
+    {
+        "source": "原文 : 2、绘画部分的解说很棒，有构图分析、草稿分析和历史背景（比如最后的晚餐），但不知道是印刷还是书尺寸问题，有些阴影部分县的太深了，看不清细节，有点遗憾。",
+        "hyp": "文 3 : The commentary on the painting section is excellent, with analysis of composition, drafts, and historical context (such as The Last Supper), but I'm not sure if it's a printing issue or the size of the book, some of the shadowed areas are too dark, making it hard to see the details, which is a bit disappointing.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": " "
+    }
+]

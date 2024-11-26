@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 3 : With its outstanding performance, Sonata once set a sales record of \"600,000 units in 33 months\" in the last century. When its fifth-generation model was introduced in the domestic market, the iconic 'peanut style lights' quickly became well-known among the public, creating a grand spectacle that attracted massive attention.",
+        "label_text": "'"
+    },
+    {
+        "source": "原文 : 驾驶车辆行驶约7-10公里(或约10分钟)后，在安全地方停车。",
+        "hyp": "文 2 : After driving the vehicle for about 7-10 km (or about 10 minutes), stop the vehicle in a safe place",
+        "label_text": "place"
+    },
+    {
+        "source": "原文 : 在斜坡或弯道上，由于燃油箱内的燃油向一侧移动，燃油表指针可能发生波动或燃油量不足警告灯比平时提早亮。",
+        "hyp": "文 3 : The fuel in the fuel tank moves to one side if the vehicle is on a slope or curve, the pointer of the fuel gauge may fluctuate or low fuel indicator may light up earlier than usual.",
+        "label_text": ","
+    }
+]

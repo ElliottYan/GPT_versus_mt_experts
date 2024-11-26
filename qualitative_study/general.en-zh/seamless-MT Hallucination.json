@@ -1,0 +1,322 @@
+[
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 3 : 艾布隐藏着他的悲伤,很容易笑,而<unk>姆不怕哭泣,但不太喜欢粗鲁的幽默.",
+        "label_text": "<unk>姆"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 3 : 艾布隐藏着他的悲伤,很容易笑,而<unk>姆不怕哭泣,但不太喜欢粗鲁的幽默.",
+        "label_text": "<unk>姆"
+    },
+    {
+        "source": "原文 : Cruse briefly wrote a column in a comic book review magazine, \"Comics Scene,\" under the rhyming masthead \"Loose Cruse.\"",
+        "hyp": "文 1 : 克鲁斯在漫画评论杂志\"漫画场景\"上短暂地写了一篇专<unk>,",
+        "label_text": "专<unk>"
+    },
+    {
+        "source": "原文 : Cruse briefly wrote a column in a comic book review magazine, \"Comics Scene,\" under the rhyming masthead \"Loose Cruse.\"",
+        "hyp": "文 1 : 克鲁斯在漫画评论杂志\"漫画场景\"上短暂地写了一篇专<unk>,",
+        "label_text": "专<unk>"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 3 : 在最基本的层面上,电子负率取决于核电荷 (原子有越多的质子,它对电子的\"拉动\"越大) 和原子外<unk>中的其他电子的数量和位置 (原子有越多的电子,等价电子离核越远,因此,它们会经历的正电荷越少 - - 无论是因为它们与核的距离增加,还是因为较低能量核心轨道中的其他电子会保护等价电子免受正电荷的核.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 3 : 在最基本的层面上,电子负率取决于核电荷 (原子有越多的质子,它对电子的\"拉动\"越大) 和原子外<unk>中的其他电子的数量和位置 (原子有越多的电子,等价电子离核越远,因此,它们会经历的正电荷越少 - - 无论是因为它们与核的距离增加,还是因为较低能量核心轨道中的其他电子会保护等价电子免受正电荷的核.",
+        "label_text": "原子外<unk>中"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 1 : 嗨,伙计们,我一直很难交朋友,有时觉得自己有点冷漠和<unk>尬(癌症上升,你知道的),但一旦你过去了,你会很冷静.",
+        "label_text": "<unk>尬"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 1 : 嗨,伙计们,我一直很难交朋友,有时觉得自己有点冷漠和<unk>尬(癌症上升,你知道的),但一旦你过去了,你会很冷静.",
+        "label_text": "<unk>尬"
+    },
+    {
+        "source": "原文 : I alrdy taught him the basics like planting the spike and things like that.",
+        "hyp": "文 3 : 我已经教了他种植尖<unk>之类的基本知识.",
+        "label_text": "种植尖<unk>之类"
+    },
+    {
+        "source": "原文 : I alrdy taught him the basics like planting the spike and things like that.",
+        "hyp": "文 3 : 我已经教了他种植尖<unk>之类的基本知识.",
+        "label_text": "种植尖<unk>之类"
+    },
+    {
+        "source": "原文 : While still living in the north King Mangrai was visited by some merchants from the Mon Kingdom, and hearing of the wealth of Lamphun he determined to conquer it, even against the advice of his councillors.",
+        "hyp": "文 1 : 在北方生活期间,曼格莱国王受到了蒙王国的商人来访,他听说了兰<unk>的财富,决定征服它,即使违背了他的顾问的建议.",
+        "label_text": "兰<unk>"
+    },
+    {
+        "source": "原文 : While still living in the north King Mangrai was visited by some merchants from the Mon Kingdom, and hearing of the wealth of Lamphun he determined to conquer it, even against the advice of his councillors.",
+        "hyp": "文 1 : 在北方生活期间,曼格莱国王受到了蒙王国的商人来访,他听说了兰<unk>的财富,决定征服它,即使违背了他的顾问的建议.",
+        "label_text": "兰<unk>"
+    },
+    {
+        "source": "原文 : The conglomeratic sandstones and silty mudstones of the formation were deposited in an alluvial environment.",
+        "hyp": "文 1 : 这座岩层的<unk>石和泥<unk>石在<unk>流环境中沉积.",
+        "label_text": " 这座岩层的<unk>石和泥<unk>石在<unk>流环境中沉积."
+    },
+    {
+        "source": "原文 : The conglomeratic sandstones and silty mudstones of the formation were deposited in an alluvial environment.",
+        "hyp": "文 1 : 这座岩层的<unk>石和泥<unk>石在<unk>流环境中沉积.",
+        "label_text": " 这座岩层的<unk>石和泥<unk>石在<unk>流环境中沉积."
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 3 : 单体<unk>氨酸是<unk>氨酸的重组形式,具有突变,可以将四<unk>体分解为单体,并提高产生的分离子单元的溶解度.",
+        "label_text": "单体<unk>氨酸是<unk>氨酸的重组形式,具有突变,可以将四<unk>体分解为单体,"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 3 : 单体<unk>氨酸是<unk>氨酸的重组形式,具有突变,可以将四<unk>体分解为单体,并提高产生的分离子单元的溶解度.",
+        "label_text": "单体<unk>氨酸是<unk>氨酸的重组形式,具有突变,可以将四<unk>体分解为单体,"
+    },
+    {
+        "source": "原文 : Play a scuffed 24hr WOW livestream filled with condescending undertones,belittling, & shitty halfassed ill prepared gameplay.",
+        "hyp": "文 4 : 播放一个24小时的WOW直播, 充满了<unk>低的底色, 贬低,",
+        "label_text": "<unk>低的底色, "
+    },
+    {
+        "source": "原文 : He said yes n today came to do it , after a bit said he was done and leaving, I gave him £20 n said how greatful I am for the help .",
+        "hyp": "文 3 : 我给了他20英<unk>, 说我很感谢他的帮助.",
+        "label_text": "英<unk>"
+    },
+    {
+        "source": "原文 : He said yes n today came to do it , after a bit said he was done and leaving, I gave him £20 n said how greatful I am for the help .",
+        "hyp": "文 3 : 我给了他20英<unk>, 说我很感谢他的帮助.",
+        "label_text": "英<unk>"
+    },
+    {
+        "source": "原文 : It is the bar with the team composition and the status of each character that is used to follow “report team” (like in the actual World Cup).",
+        "hyp": "文 5 : 这是带有球队组成和每个角色的状态的<unk>杆,用于跟踪\"报告团队\" (就像实际的世界杯一样).",
+        "label_text": "<unk>杆"
+    },
+    {
+        "source": "原文 : It is the bar with the team composition and the status of each character that is used to follow “report team” (like in the actual World Cup).",
+        "hyp": "文 5 : 这是带有球队组成和每个角色的状态的<unk>杆,用于跟踪\"报告团队\" (就像实际的世界杯一样).",
+        "label_text": "<unk>杆"
+    },
+    {
+        "source": "原文 : all the things she screams @ ppl to NOT do to her she turns around and does the exact same rude petty shit to any/everyone else that doesn’t agree with her",
+        "hyp": "文 3 : 她向所有不同意她的人<unk>叫不要对她做的事情. 她转过身来,对任何不同意她的人做同样粗鲁的小事.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : When the plate of which it was a part subducted under another plate, the terrane failed to subduct, detached from its transporting plate, and accreted onto the overriding plate.",
+        "hyp": "文 1 : 当它组成的板块在另一个板块下<unk>下时,地板未能<unk>下,从运输板块中脱离,并<unk>积到覆盖板块上.",
+        "label_text": "下<unk>下"
+    },
+    {
+        "source": "原文 : When the plate of which it was a part subducted under another plate, the terrane failed to subduct, detached from its transporting plate, and accreted onto the overriding plate.",
+        "hyp": "文 1 : 当它组成的板块在另一个板块下<unk>下时,地板未能<unk>下,从运输板块中脱离,并<unk>积到覆盖板块上.",
+        "label_text": "<unk>下"
+    },
+    {
+        "source": "原文 : When the plate of which it was a part subducted under another plate, the terrane failed to subduct, detached from its transporting plate, and accreted onto the overriding plate.",
+        "hyp": "文 1 : 当它组成的板块在另一个板块下<unk>下时,地板未能<unk>下,从运输板块中脱离,并<unk>积到覆盖板块上.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : helo, im looking for ppl to talk to, maybe play some games or watch anime together.",
+        "hyp": "文 5 : <unk>,我正在寻找与人交谈,也许玩一些游戏或一起看动漫.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : WIBTA if I was just be a bigger sarcastic Asshole to another Asshole?",
+        "hyp": "文 1 : 如果我只是一个更大的<unk>刺的<unk>子对另一个<unk>子?",
+        "label_text": "<unk>刺的<unk>子对另一个<unk>"
+    },
+    {
+        "source": "原文 : The Indian cormorant makes short dives to capture the fish and a group will often fish communally, forming a broad front to drive fish into a corner.",
+        "hyp": "文 2 : 印度<unk>鱼进行短暂的潜水来捕捉鱼类, 一群人经常共同捕鱼, 形成一个宽<unk>的前线,",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : The Indian cormorant makes short dives to capture the fish and a group will often fish communally, forming a broad front to drive fish into a corner.",
+        "hyp": "文 2 : 印度<unk>鱼进行短暂的潜水来捕捉鱼类, 一群人经常共同捕鱼, 形成一个宽<unk>的前线,",
+        "label_text": "宽<unk>"
+    },
+    {
+        "source": "原文 : The first reference to the estuary stingray in scientific literature was probably a record by 19th-century English naturalist William Saville-Kent of a \"Trygon pastinaca\" feeding on oysters in a Queensland estuary.",
+        "hyp": "文 4 : 在科学文献中,第一次提到河口<unk>鱼可能是19世纪英国自然学家威廉·萨维尔-肯特 (William Saville-Kent) 的记录,",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Hey, F/19 , bored af , I enjoy talking to new ppl,hmu?!",
+        "hyp": "文 3 : <unk>,F-19,无聊了,我喜欢与新人交谈,hmu?!",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 4 : 我敢打<unk>你没有打扰阅读整个数字,或注意到我放进来的字母,现在你会回去检查只有意识到没有字母.",
+        "label_text": "打<unk>"
+    },
+    {
+        "source": "原文 : The pelvis can be classified into four main types by measuring the pelvic diameters and conjugates at the pelvic inlet and outlet and as oblique diameters.",
+        "hyp": "文 5 : 通过测量盆腔直径和<unk>合体在盆腔入口和出口以及斜直径,可以将盆腔分类为四个主要类型.",
+        "label_text": "<unk>合体"
+    },
+    {
+        "source": "原文 : TLDR: tips/support to get a 2-month baby sleeping beyond one sleep cycle in bassinet (currently replacing pacifier every hour).",
+        "hyp": "文 4 : TLDR:让2个月大的婴儿在婴儿床上睡超过一个睡眠周期的技巧/支持 (目前每小时更换一个<unk>子).",
+        "label_text": "<unk>子"
+    },
+    {
+        "source": "原文 : The first boy I hung out with was really nice, but then we got high and I did very regrettable things I do not like.",
+        "hyp": "文 3 : 我和第一个男孩在一起真的很好, 但后来我们<unk>了, 我做了非常遗憾的事情,",
+        "label_text": "<unk>了"
+    },
+    {
+        "source": "原文 : Looking for single bedroom flats or flatshares is a legit issue as 3 letting agents in the city own them all, and are only letting to students.",
+        "hyp": "文 4 : 寻找单卧室公寓或共享公寓是一个合法的问题, 因为城市中的3个租<unk>代理人拥有它们,",
+        "label_text": "租<unk>代理人"
+    },
+    {
+        "source": "原文 : While this plumage only develops during the third or fourth year of life when the black-billed spoonbill is sexually mature, only about half of black-faced spoonbills with this plumage breed each breeding season, which contributes to the very slow pace at which the population numbers are increasing.",
+        "hyp": "文 2 : 虽然这种羽毛只在生命的第三或第四年发展,当黑嘴<unk>子在性成熟时,只有大约一半的黑脸<unk>子在每个繁殖季节繁殖,这有助于人口增长的非常缓慢速度.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : While this plumage only develops during the third or fourth year of life when the black-billed spoonbill is sexually mature, only about half of black-faced spoonbills with this plumage breed each breeding season, which contributes to the very slow pace at which the population numbers are increasing.",
+        "hyp": "文 2 : 虽然这种羽毛只在生命的第三或第四年发展,当黑嘴<unk>子在性成熟时,只有大约一半的黑脸<unk>子在每个繁殖季节繁殖,这有助于人口增长的非常缓慢速度.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : My GF faces just turned red because the treasure he found was her dildo.",
+        "hyp": "文 2 : 我的男朋友的脸刚刚变红了,因为他发现的宝藏是她的<unk>.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Is it just me cringing at the Twitter posts by Albatross?",
+        "hyp": "文 4 : 只有我对 Albatross 的推特帖子感到<unk>尬吗?",
+        "label_text": "<unk>尬"
+    },
+    {
+        "source": "原文 : Ex: I needed some1 to babysit our then 2mo for 3-4 hrs.",
+        "hyp": "文 5 : 例如:我需要一些人照顾我们当时的2mo3-4小时.",
+        "label_text": "2mo3-4小时"
+    },
+    {
+        "source": "原文 : All of niobium's isomers decay by isomeric transition or beta decay except Nb, which has a minor electron capture branch.",
+        "hyp": "文 2 : 所有<unk>的同位素都通过同位素转换或β分解衰变,除了Nb,它有一个小电子捕获分支.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : The reptarenavirus family, responsible for inclusion body disease in snakes, shows a very high degree of genetic diversity due to reassortment of genetic material from multiple strains in the same infected animal.",
+        "hyp": "文 3 : 蛇类<unk>虫病毒家族,负责蛇类<unk>虫体疾病,由于同一个受感染动物的多个菌株的遗传材料重新分类,表现出非常高的遗传多样性.",
+        "label_text": "蛇类<unk>虫病毒家族,负责蛇类<unk>虫体疾病,"
+    },
+    {
+        "source": "原文 : The population of spermatogonia is maintained by \"type Ad spermatogonia.\"",
+        "hyp": "文 4 : <unk>精菌种群是由\"Ad型<unk>精菌\"维持的.",
+        "label_text": "<unk>精菌种群"
+    },
+    {
+        "source": "原文 : The population of spermatogonia is maintained by \"type Ad spermatogonia.\"",
+        "hyp": "文 4 : <unk>精菌种群是由\"Ad型<unk>精菌\"维持的.",
+        "label_text": "Ad型<unk>精菌"
+    },
+    {
+        "source": "原文 : I’m going to skip the Oscar-bait shit like The Post, because there’s only some much concentrated rage at milquetoast Democrats making movies about how (extremely wonky nasal nerd voice) “politics used to be more polite.",
+        "hyp": "文 1 : 我会跳过\"邮报\"这样的奥斯卡诱<unk>, 因为只有一些非常集中的愤怒在牛奶东部的民主党人制作电影关于如何 (极其<unk>的鼻子<unk>的声音) 政治曾经是更礼貌的.",
+        "label_text": "奥斯卡诱<unk>"
+    },
+    {
+        "source": "原文 : I’m going to skip the Oscar-bait shit like The Post, because there’s only some much concentrated rage at milquetoast Democrats making movies about how (extremely wonky nasal nerd voice) “politics used to be more polite.",
+        "hyp": "文 1 : 我会跳过\"邮报\"这样的奥斯卡诱<unk>, 因为只有一些非常集中的愤怒在牛奶东部的民主党人制作电影关于如何 (极其<unk>的鼻子<unk>的声音) 政治曾经是更礼貌的.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : I’m going to skip the Oscar-bait shit like The Post, because there’s only some much concentrated rage at milquetoast Democrats making movies about how (extremely wonky nasal nerd voice) “politics used to be more polite.",
+        "hyp": "文 1 : 我会跳过\"邮报\"这样的奥斯卡诱<unk>, 因为只有一些非常集中的愤怒在牛奶东部的民主党人制作电影关于如何 (极其<unk>的鼻子<unk>的声音) 政治曾经是更礼貌的.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : This molecule was theorized in 2000 and is characterized by an electron density distribution that resembles the shape of a trilobite when plotted in cylindrical coordinates.",
+        "hyp": "文 2 : 这种分子在2000年被理论化,其特点是电子密度分布,在圆柱形坐标中绘制时类似于三<unk>生物的形状.",
+        "label_text": "三<unk>生物"
+    },
+    {
+        "source": "原文 : Out of fear for their children's safety, Adam and Eve have set their glen as the boundary, preventing them from going beyond the waterfall.",
+        "hyp": "文 1 : 由于担心他们的孩子的安全, 亚当和夏娃把他们的山谷作为边界, 阻止他们超越<unk>布.",
+        "label_text": "<unk>布"
+    },
+    {
+        "source": "原文 : When computing several derivatives in the N-jet simultaneously, discrete scale-space smoothing with the discrete analogue of the Gaussian kernel, or with a recursive filter approximation, followed by small support difference operators, may be both faster and more accurate than computing recursive approximations of each derivative operator.",
+        "hyp": "文 2 : 在N-jet中同时计算多个导数时,与高斯核的离散模拟或以递归过<unk>器近似进行离散尺度空间平滑,随后使用小支持差异运算符,可能比计算每个导数运算符的递归近似更快更准确.",
+        "label_text": "递归过<unk>器"
+    },
+    {
+        "source": "原文 : As the diocese that was growing and the world was changing, Bishop Ahr took part in all four sessions of the Second Vatican Council, 1962-1965, and subsequently guided implementation of the council's decrees in the diocese.",
+        "hyp": "文 3 : 随着教区的成长和世界的变化,阿赫尔主教参加了1962年至1965年第二次<unk>蒂冈公会的四次会议,并随后指导了教区执行公会的法令.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 2 : 我还在学习,游戏是我的梦想... 这些价格让我感到<unk>丧和绝望...",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : So, we need a filter for the ASRs, so that the ASR is silent if it's the wrong language and it is the recognized text if it's the correct language.",
+        "hyp": "文 3 : 所以,我们需要一个ASR的过<unk>器,这样如果是错误的语言,ASR就会保持沉默,如果是正确的语言,它就会被识别为文本.",
+        "label_text": "过<unk>器"
+    },
+    {
+        "source": "原文 : Good umbrella, would buy it again if I had to",
+        "hyp": "文 1 : 很好的雨<unk>,如果必须的话,我会再次买它",
+        "label_text": "雨<unk>"
+    },
+    {
+        "source": "原文 : One day she got kicked out of Mewny (her home dimension) by her mean mom >:-( just because she made a mistake.",
+        "hyp": "文 1 : 有一天,她被她的<unk>妈<unk>出Mewny (她的家庭维度) <unk>,只是因为她犯了一个错误.",
+        "label_text": "<unk>妈<unk>"
+    },
+    {
+        "source": "原文 : One day she got kicked out of Mewny (her home dimension) by her mean mom >:-( just because she made a mistake.",
+        "hyp": "文 1 : 有一天,她被她的<unk>妈<unk>出Mewny (她的家庭维度) <unk>,只是因为她犯了一个错误.",
+        "label_text": " <unk>"
+    },
+    {
+        "source": "原文 : The National Healthcareer Association (NHA), the largest Allied Health Certification Agency in the US and the National Lutheran Health and Medical Board (NLHMB), Chennai, India, which is a leading NGO and sponsor of Two Universities have come together to offer the US employment National Healthcareer Association Certificate Examination in India.",
+        "hyp": "文 4 : 美国最大的联合健康认证机构国家医疗保健协会 (NHA) 和印度<unk>奈国家路德卫生和医疗委员会 (NLHMB) 共同提供美国就业国家医疗保健协会证书考试.",
+        "label_text": "<unk>奈"
+    },
+    {
+        "source": "原文 : So I already have an orange golden chinchilla (Toto, 2 months old) and we have had Toto for 3 weeks now and felt she needed company, so we got Terri (2-month Himalayan Ragdoll) to keep each other company.",
+        "hyp": "文 5 : 所以我已经有一只<unk>色金<unk> (Toto, 2 个月大) 我们已经有 Toto 三周了, 觉得她需要陪伴,",
+        "label_text": "<unk>色金<unk>"
+    },
+    {
+        "source": "原文 : I go to take it out and how tf am i supposed to do this with my long ass acrylic nails.",
+        "hyp": "文 2 : 我去把它拿出来,我怎么能用我的长<unk>子<unk>烯酸指甲这样做.",
+        "label_text": "长<unk>子<unk>烯酸指甲"
+    }
+]

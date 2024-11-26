@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 3 : Так вот, мне бы хотелось, чтобы [ЛИЧНОСТЬ4] была в контакте с [ЛИЧНОСТЬ2].",
+        "label_text": "ЛИЧНОСТЬ"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 3 : Так вот, мне бы хотелось, чтобы [ЛИЧНОСТЬ4] была в контакте с [ЛИЧНОСТЬ2].",
+        "label_text": "ЛИЧНОСТЬ"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 1 : Как сообщили The Washington Post в октябре, этот отказ отметил, что бывший помощник Пенса Марк Шорт, например, \"вероятно, обладал информацией, важной для уголовного расследования Министерства юстиции о деле нападения на Капитолий 6 января 2021 г., которая не была доступна в других источниках.\"",
+        "label_text": "The Washington Post"
+    },
+    {
+        "source": "原文 : However, the expression level of the NUP153 gene from the alternative LINE-1 promoter was 17 times higher in chorionic villi and 23 times higher in extraembryonic mesoderm than in lymphocytes (p < 0.05).",
+        "hyp": "文 2 : Тем не менее, уровень экспрессии гена NUP153 из альтернативного промотора LINE-1 был в 17 раз выше в ворсинах хориона и в 23 раза выше в экстраэмбриональной мезодерме, чем в лимфоцитах (p < 0,05).",
+        "label_text": "LINE"
+    },
+    {
+        "source": "原文 : its a bit unnerving to manage expenses on 1 persons salary in this place....",
+        "hyp": "文 1 : Немножко раздражает управлять расходами на зарплату 1 человека в этом месте…",
+        "label_text": "1 "
+    },
+    {
+        "source": "原文 : Let’s drop down my main build, because it’s the best assassin play style I like.",
+        "hyp": "文 1 : Давайте опустимся в мое главное сооружение, потому что это лучший стиль игры в assassin, который мне нравится.",
+        "label_text": "assassin"
+    }
+]

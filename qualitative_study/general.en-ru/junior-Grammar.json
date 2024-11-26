@@ -1,0 +1,107 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 3 : Не знаю, наверно у нас разные тела.",
+        "label_text": "разные тела"
+    },
+    {
+        "source": "原文 : Charles was expected to attend a showing of the completed film, but died before it opened.",
+        "hyp": "文 2 : Чарльз должен был присутствовать на показе фильма, когда он был завершен, но умер до его премьеры.",
+        "label_text": "когда он был завершен, но умер до его премьеры"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 1 : Я могу определить, где был и что сделал по вкусу, когда он возвращается?",
+        "label_text": "он возвращается"
+    },
+    {
+        "source": "原文 : Depending on patient subgroups, this response varied from 89% to 100%.",
+        "hyp": "文 1 : В зависимости от подгруппы пациентов этот ответ варьировался от 89% до 100%.",
+        "label_text": "подгруппы "
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 1 : Я еще учусь, и игры — моя мечта… и эти цены наводят на меня депрессию и безысходность от жизни…честно говорю…",
+        "label_text": "честно говорю"
+    },
+    {
+        "source": "原文 : I love all your videos, and I have a suggestion for a video for the channel:",
+        "hyp": "文 4 : Мне нравятся все ваши видео, и у меня есть предложение по видео для канала:",
+        "label_text": "по "
+    },
+    {
+        "source": "原文 : I’m not a trans man, but I am interested in knowing someone’s perspectives who lived both as a woman and as a man (not a lot of people get to experience what it is like to be perceived as both genders) so thats kinda neat imo",
+        "hyp": "文 5 : Я не трансгендер, но мне интересно узнать чью-то точку зрения, кто жил и как женщина, и как мужчина (не так много людей могут испытать, каково это - воспринимать себя как представителя обоих полов), так что это очень здорово.",
+        "label_text": "но мне интересно узнать чью-то точку зрения, кто жил и как женщина, и как мужчина"
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 1 : В прошлом квартале экономика Японии выросла на более значительные, чем ожидалось, 3,5 % в годовом выражении, что дало премьер-министру Синдзо Абэ стимул для проведения реформ, необходимых для обеспечения устойчивого восстановления экономики после двух десятилетий недуга.",
+        "label_text": "двух десятилетий недуга"
+    },
+    {
+        "source": "原文 : After the first few minutes, it didn't feel like we were doing a first test flight, said Peter Chandler, chief test pilot for Airbus.",
+        "hyp": "文 1 : После нескольких первых минут у нас не было ощущения, что мы совершаем первый испытательный полет, - говорит главный летчик-испытатель Aэробус Питер Чандлер.",
+        "label_text": "говорит"
+    },
+    {
+        "source": "原文 : The RWS/Hammerli 850 is a CO 2 designed gun which is often adapted to HPA.",
+        "hyp": "文 5 : RWS/Hammerli 850 - это пистолет, разработанный на основе CO 2, который часто адаптируется для HPA.",
+        "label_text": "для"
+    },
+    {
+        "source": "原文 : His spirit returns as well and melds with the bodies of his son and mate.",
+        "hyp": "文 3 : Его душа также вернулась и стала единым целым с телом его сына и товарища.",
+        "label_text": "вернулась и стала"
+    },
+    {
+        "source": "原文 : I just hope they nail him for thought crime Obviously there has been an epidemic of Molotov cocktail as of late, well WWII wasn't that long ago.",
+        "hyp": "文 5 : Я просто надеюсь, что они прижмут его за преступление, связанное с мыслями Очевидно, что в последнее время наблюдается эпидемия коктейлей Молотова, а ведь Вторая мировая война была не так давно.",
+        "label_text": "Очевидно"
+    },
+    {
+        "source": "原文 : The driver picked up Arnold from the airport after she fueled her car.",
+        "hyp": "文 2 : Водитель забрал Арнольд из аэропорта после того, как она заправила машину.",
+        "label_text": "Арнольд "
+    },
+    {
+        "source": "原文 : As is common with despotic rule the whole period suffered from murders, suicides, corruption-material and moral- a record of which has been prepared by Kalhan Pandit who followed in the 12th century in the reign of Jayasinha.",
+        "hyp": "文 4 : Как обычно бывает при деспотическом правлении, весь период страдал от убийств, самоубийств, коррупции - материальной и моральной, - запись о которой подготовил Калхан Пандит, последовавший в XII веке в правление Джаясинхи.",
+        "label_text": "которой"
+    },
+    {
+        "source": "原文 : The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",
+        "hyp": "文 2 : Конец будет быстрым: несколько пар клыков впрыскивают смертельный яд, и воздух Дискры загрязняет ваши легкие.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I don't know if you have responded, I had not seen anyone providing any- any updates to the document.",
+        "hyp": "文 5 : Не знаю, ответили ли вы, но я не видел, чтобы кто-то предоставлял какие-либо... какие-либо обновления к документу.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : My father always said, \"Be careful what you wish for.\"",
+        "hyp": "文 4 : Мой отец всегда говорит: \"Будь осторожен в своих желаниях\".",
+        "label_text": " говорит"
+    },
+    {
+        "source": "原文 : My father always said, \"Be careful what you wish for.\"",
+        "hyp": "文 4 : Мой отец всегда говорит: \"Будь осторожен в своих желаниях\".",
+        "label_text": "говорит"
+    },
+    {
+        "source": "原文 : He finds one he likes, a Jericho, and buys it and some ammo.",
+        "hyp": "文 3 : Он нашел свой любимый пистолет Jericho и купил его и боеприпасы.",
+        "label_text": "нашел"
+    },
+    {
+        "source": "原文 : He finds one he likes, a Jericho, and buys it and some ammo.",
+        "hyp": "文 3 : Он нашел свой любимый пистолет Jericho и купил его и боеприпасы.",
+        "label_text": "купил"
+    },
+    {
+        "source": "原文 : The wind would start to rustle in the bare trees, then die down. However, it didn’t go away, it was still here.",
+        "hyp": "文 4 : Ветер зашумел среди голых деревьев, а затем утих. Однако ветер не утих, он еще здесь.",
+        "label_text": " "
+    }
+]

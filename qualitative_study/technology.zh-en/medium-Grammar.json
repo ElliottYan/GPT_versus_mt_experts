@@ -1,0 +1,312 @@
+[
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 3 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline containing methanol (also known as wood spirits) or ethanol gasoline sold instead of leaded or unleaded gasoline.",
+        "label_text": "there are"
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 3 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline containing methanol (also known as wood spirits) or ethanol gasoline sold instead of leaded or unleaded gasoline.",
+        "label_text": "there are"
+    },
+    {
+        "source": "原文 : 车辆驾驶最初1,000公里行驶里程内，请遵守下列几项简单的安全注意事项，这会有利于增强车辆性能和经济性，并能延长使用寿命。",
+        "hyp": "文 2 : During the first 1,000 km of driving, please observe the following simple safety precautions, which will help to enhance vehicle performance and economy and prolong service life.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 除非牢固踩下制动踏板，否则禁止挂档。如果发动机在高速运转时挂入前进档或倒档，车辆可能会突然移动。此时，您可能还无法及时做出车辆控制反应，从而引发意外事故，而导致严重或致命人身伤害，或者车辆损坏。",
+        "hyp": "文 1 : Never shift gears unless the brake pedal is pressed firmly. When the engine is running at a high speed, the vehicle may move suddenly if it is engaged in forward or reverse gear. At this time, you may fail to make a response for vehicle control in time, which may lead to an accident, resulting in serious or fatal personal injury or damage to the vehicle.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 1 : The 1.5T high-power engine adopts the world's first CVVD technology, which bursts out a strong power with a maximum power of 200 HP. The dynamic bilateral four-way exhaust pipe brings a strong sound. The one-button SPORT + Drive mode enable you to accelerate instantly, enjoy pleasure and driving control fun everywhere.",
+        "label_text": "which bursts out a strong power with a maximum power of 200 HP"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 1 : The 1.5T high-power engine adopts the world's first CVVD technology, which bursts out a strong power with a maximum power of 200 HP. The dynamic bilateral four-way exhaust pipe brings a strong sound. The one-button SPORT + Drive mode enable you to accelerate instantly, enjoy pleasure and driving control fun everywhere.",
+        "label_text": "enable "
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 1 : The 1.5T high-power engine adopts the world's first CVVD technology, which bursts out a strong power with a maximum power of 200 HP. The dynamic bilateral four-way exhaust pipe brings a strong sound. The one-button SPORT + Drive mode enable you to accelerate instantly, enjoy pleasure and driving control fun everywhere.",
+        "label_text": "enjoy"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 1 : The 1.5T high-power engine adopts the world's first CVVD technology, which bursts out a strong power with a maximum power of 200 HP. The dynamic bilateral four-way exhaust pipe brings a strong sound. The one-button SPORT + Drive mode enable you to accelerate instantly, enjoy pleasure and driving control fun everywhere.",
+        "label_text": "enable "
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 1 : The 1.5T high-power engine adopts the world's first CVVD technology, which bursts out a strong power with a maximum power of 200 HP. The dynamic bilateral four-way exhaust pipe brings a strong sound. The one-button SPORT + Drive mode enable you to accelerate instantly, enjoy pleasure and driving control fun everywhere.",
+        "label_text": "enjoy"
+    },
+    {
+        "source": "原文 : 启用喇叭反馈功能时，按下遥控钥匙上的门锁闭锁按钮闭锁所有门锁后，如果在4秒钟内再次按下门锁闭锁按钮时，喇叭反馈声响1次，表示所有门锁已经闭锁(如有配备遥控钥匙)。",
+        "hyp": "文 4 : With the horn feedback function enabled, after the door lock button on the remote control key is pressed to lock all doors, if this button is pressed again within 4s, the horn gives a feedback sound once, indicating that all doors have been locked (if equipped with the remote control key).",
+        "label_text": " (if equipped with the remote control key)"
+    },
+    {
+        "source": "原文 : 启用喇叭反馈功能时，按下遥控钥匙上的门锁闭锁按钮闭锁所有门锁后，如果在4秒钟内再次按下门锁闭锁按钮时，喇叭反馈声响1次，表示所有门锁已经闭锁(如有配备遥控钥匙)。",
+        "hyp": "文 4 : With the horn feedback function enabled, after the door lock button on the remote control key is pressed to lock all doors, if this button is pressed again within 4s, the horn gives a feedback sound once, indicating that all doors have been locked (if equipped with the remote control key).",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : 正面防撞辅助(FCA)功能设计的目的是，帮助检测和监视道路上的前方车辆，并显示警告信息、发出警报声的方式，向驾驶员发出碰撞危险预警，必要时主动采取紧急制动辅助控制措施。",
+        "hyp": "文 1 : The Forward Collision-avoidance Assist (FCA) system is designed to help detect and monitor the vehicles ahead, give the driver a collision danger warning by displaying warning message and sounding an alarm, and actively take emergency braking assistance control measures if necessary.",
+        "label_text": "displaying warning message"
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 4 : Let's take a look at the appearance of CUSTO first. It looks very stable and majestic in view of a very calm head. Headlights are very in line with consumers' aesthetics and have full visual impact. The vehicle is provided with LED daytime running lights, headlight height adjustment function, automatic on/off function, adaptive high/low beam, and delayed closing function. Let's look at the side of the vehicle body. The body size is 4950 mm*1850 mm*1734 mm. The vehicle adopts fashionable and simple lines, showing a very domineering feeling. With large-sized thick-walled tires, it looks sporty. The overall shape of CUSTO's rear part echoes with the head. The taillights give people a very flamboyant feeling, and the exhaust pipe is very unique, making the rear part very unique.",
+        "label_text": "echoes with the head."
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 4 : Let's take a look at the appearance of CUSTO first. It looks very stable and majestic in view of a very calm head. Headlights are very in line with consumers' aesthetics and have full visual impact. The vehicle is provided with LED daytime running lights, headlight height adjustment function, automatic on/off function, adaptive high/low beam, and delayed closing function. Let's look at the side of the vehicle body. The body size is 4950 mm*1850 mm*1734 mm. The vehicle adopts fashionable and simple lines, showing a very domineering feeling. With large-sized thick-walled tires, it looks sporty. The overall shape of CUSTO's rear part echoes with the head. The taillights give people a very flamboyant feeling, and the exhaust pipe is very unique, making the rear part very unique.",
+        "label_text": "echoes with"
+    },
+    {
+        "source": "原文 : 全新一代动力总成可以使燃烧效率最大化，并搭载全球首次适用的CVVD技术，带来全新的动力体验",
+        "hyp": "文 3 : The new generation powertrain can maximize the combustion efficiency, and is equipped with the world's first CVVD technology, bringing a new power experience.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 全新一代动力总成可以使燃烧效率最大化，并搭载全球首次适用的CVVD技术，带来全新的动力体验",
+        "hyp": "文 3 : The new generation powertrain can maximize the combustion efficiency, and is equipped with the world's first CVVD technology, bringing a new power experience.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 5 : The brand-new subframe effectively distributes the load to the front/rear assembly bracket, which not only improves the strength, but also further relieves the vibration and unevenness during driving.",
+        "label_text": "bracket"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 5 : The brand-new subframe effectively distributes the load to the front/rear assembly bracket, which not only improves the strength, but also further relieves the vibration and unevenness during driving.",
+        "label_text": ", which"
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 5 : The i-GMP platform technology is first applied to SUV models, and combined with the world's first CVVD technology. The 1.5TCVVD+8AT golden power combination effectively outputs a strong power of 200 HP, and the fuel consumption is as low as 6.9 L/100 km, making the vehicle moving forward quickly and indulgently.",
+        "label_text": "moving "
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 5 : The i-GMP platform technology is first applied to SUV models, and combined with the world's first CVVD technology. The 1.5TCVVD+8AT golden power combination effectively outputs a strong power of 200 HP, and the fuel consumption is as low as 6.9 L/100 km, making the vehicle moving forward quickly and indulgently.",
+        "label_text": "moving "
+    },
+    {
+        "source": "原文 : 以百度3.0智能网联平台为基础，可高度识别自然语言指令，带来更轻松的语音控制。以BLE手机蓝牙钥匙为核心的IT配置，实现了多项个性化配置及跨越空间的人车联动。",
+        "hyp": "文 2 : Based on Baidu 3.0 intelligent networking platform, the vehicle can highly recognize natural language commands and brings easier voice control. The IT configuration with the Bluetooth key of BLE mobile phone as the core enables multiple personalized configurations and cross-space human-vehicle linkage.",
+        "label_text": "brings"
+    },
+    {
+        "source": "原文 : 以百度3.0智能网联平台为基础，可高度识别自然语言指令，带来更轻松的语音控制。以BLE手机蓝牙钥匙为核心的IT配置，实现了多项个性化配置及跨越空间的人车联动。",
+        "hyp": "文 2 : Based on Baidu 3.0 intelligent networking platform, the vehicle can highly recognize natural language commands and brings easier voice control. The IT configuration with the Bluetooth key of BLE mobile phone as the core enables multiple personalized configurations and cross-space human-vehicle linkage.",
+        "label_text": "brings"
+    },
+    {
+        "source": "原文 : 给我印象最深的有两个方面，第一是整个驾驶辅助系统，非常的“人性化”，直白点的说，就是像人在开车，毫无机械感，甚至如果驾驶员不说，车上乘员是不会知道现在是系统在驾驶车辆，每一次情况的处理，都很合乎逻辑。",
+        "hyp": "文 3 : There are two aspects that impressed me the most. Firstly, the whole driver assistance system is very \"user-friendly\". To put it bluntly, it is like a person driving the vehicle, without any mechanical feeling. If the driver does not say anything, passengers on the vehicle will not know that the system is driving the vehicle now. Each handling of the situation is very logical.",
+        "label_text": "on"
+    },
+    {
+        "source": "原文 : 给我印象最深的有两个方面，第一是整个驾驶辅助系统，非常的“人性化”，直白点的说，就是像人在开车，毫无机械感，甚至如果驾驶员不说，车上乘员是不会知道现在是系统在驾驶车辆，每一次情况的处理，都很合乎逻辑。",
+        "hyp": "文 3 : There are two aspects that impressed me the most. Firstly, the whole driver assistance system is very \"user-friendly\". To put it bluntly, it is like a person driving the vehicle, without any mechanical feeling. If the driver does not say anything, passengers on the vehicle will not know that the system is driving the vehicle now. Each handling of the situation is very logical.",
+        "label_text": "on"
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 3 : The comprehensive power of the whole hybrid system is 193 HP and 350 N·m. As for the transmission system, the vehicle adopts 6AT, instead of E-CVT like Toyota and Honda. It is still a traditional tachometer on the instrument panel.",
+        "label_text": "It"
+    },
+    {
+        "source": "原文 : 此次最大的不同在于该车换装了型号为YG01的1.5T发动机，这款发动机的最大功率为127kW（现款1.6T为125kW）。",
+        "hyp": "文 2 : The biggest difference this time is that the vehicle is equipped with YG01 1.5T engine, whose maximum power is 127 kW (power of current 1.6T engine: 125 kW).",
+        "label_text": "with YG01 1.5T engine"
+    },
+    {
+        "source": "原文 : 帕萨特在外形设计上相比老款运动得多，整体不再是一板一眼的传统三厢轿车设计，C柱的线条更加流畅，营造出了微微溜背的感觉。",
+        "hyp": "文 4 : Passat is much sportier than the old model in terms of appearance design. The overall design is no longer a traditional rigid sedan design, and the lines of C-pillar are smoother, creating a feeling of slightly slipping back.",
+        "label_text": "the lines of C-pillar"
+    },
+    {
+        "source": "原文 : 外观配置重点看看灯光，这次测试的三款车都是顶配车型，都采用LED远近光灯，都配备LED日间行车灯。",
+        "hyp": "文 4 : The appearance configuration focuses on the lighting. Three models under test this time are models with top configurations, all of which adopt LED high and low beams, and are equipped with LED daytime running lights.",
+        "label_text": "configurations"
+    },
+    {
+        "source": "原文 : 外观配置重点看看灯光，这次测试的三款车都是顶配车型，都采用LED远近光灯，都配备LED日间行车灯。",
+        "hyp": "文 4 : The appearance configuration focuses on the lighting. Three models under test this time are models with top configurations, all of which adopt LED high and low beams, and are equipped with LED daytime running lights.",
+        "label_text": "all of which"
+    },
+    {
+        "source": "原文 : 前排座椅降至最低，三款车的头部空间都是一拳，差别很小。",
+        "hyp": "文 5 : When front seats are lowered to the lowest position, these three models have a punch of head space, with small difference.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 雅阁的前后车灯都加入了LED光源，除了2.0L车型之外，2.4L和3.0L不但拥有LED日间行车灯，近光灯也同样采用了LED光源。",
+        "hyp": "文 3 : Accord's headlights and taillights are equipped with LED light source, except for the 2.0L model. The 2.4L and 3.0L models are equipped with LED daytime running lights, and their low beams also use LED light source.",
+        "label_text": "source"
+    },
+    {
+        "source": "原文 : 雅阁的前后车灯都加入了LED光源，除了2.0L车型之外，2.4L和3.0L不但拥有LED日间行车灯，近光灯也同样采用了LED光源。",
+        "hyp": "文 3 : Accord's headlights and taillights are equipped with LED light source, except for the 2.0L model. The 2.4L and 3.0L models are equipped with LED daytime running lights, and their low beams also use LED light source.",
+        "label_text": "source"
+    },
+    {
+        "source": "原文 : 压缩机运转1次的时间不要超过10分钟。否则，可能会导致压缩机过热而损坏。",
+        "hyp": "文 4 : Do not run the compressor for more than 10 minutes once. Failure to do so may damage the compressor due to overheat.",
+        "label_text": "due to overheat"
+    },
+    {
+        "source": "原文 : 如果发动机处于热态，检查发动机冷却液时要小心。冷却液可能会在压力作用下喷出，导致严重烫伤。",
+        "hyp": "文 4 : If the engine is hot, be careful to check engine coolant. Coolant may be ejected under pressure, resulting in serious scalds.",
+        "label_text": "scalds"
+    },
+    {
+        "source": "原文 : 至于轴距，11款车的差别还是挺大的，最短的是迈锐宝2737mm，最长的则是两款偏向于运动的蒙迪欧和锐志，它们俩的轴距完全相同，均为2850mm。",
+        "hyp": "文 4 : The wheelbase of 11 models is quite different. The shortest is 2737 mm of Malibu, and the longest is 2850 mm of two sports-oriented Mondeo and REIZ, both of which have the same wheelbase.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 作为同一品牌下的车型，锐志在用料方面的表现要比凯美瑞厚道一些，中控台上部全部采用了软质材料，并不是那种在硬塑料上包裹一层类似皮革材料的感觉，而是搪塑工艺。",
+        "hyp": "文 2 : As a model under the same brand, REIZ has a better performance in terms of materials compared with Camry. The upper part of the central console is all made of soft materials, instead of leather-like materials wrapping the hard plastic. It is the plastic molding process.",
+        "label_text": "eather-like materials wrapping the hard plastic"
+    },
+    {
+        "source": "原文 : 加注发动机机油时，避免将机油溅洒在发动机部件和车身表面上。如果发动机机油溅洒在发动机舱内，请立即擦拭干净。",
+        "hyp": "文 1 : Do not spill engine oil on engine parts or body surfaces when filling it. If engine oil spills in the engine compartment, please wipe it clean immediately.",
+        "label_text": "surfaces"
+    },
+    {
+        "source": "原文 : 一定要把车辆停在平坦地面上，将档位挂入“P(驻车)”档并啮合驻车制动器，在车轮前后挡上轮挡，以防车辆移动。",
+        "hyp": "文 2 : Be sure to park the vehicle on a flat ground, shift the gear to \"P\" position and engage the parking brake, and block the front and rear wheels to prevent the vehicle from moving.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 迈腾的后备厢看上去最为规整，容积也比较大，原因在于它的后备厢支杆位置更加合理，关闭时不至于占用太多的空间。",
+        "hyp": "文 4 : Magotan's trunk looks the neatest and has a relatively large volume, because the trunk strut position is more reasonable, and it will not take up too much space when the trunk is closed.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 凯美瑞在后备厢的细节方面并不太讲究，支杆完全没有进行包裹，内部空间规整度一般，后备厢顶部的空气净化系统占据了一定空间，导致最小高度只有350mm，而且这辆顶配凯美瑞的后排座椅还无法放倒，实用性大打折扣。",
+        "hyp": "文 3 : Camry pay less attention to the details of the trunk. The struts are not wrapped at all, and the internal space is generally neat. The air purification system at the top of the trunk occupies a certain space, resulting in a minimum height of only 350 mm. In addition, the rear seats of this Camry with top configurations cannot be laid down, which greatly reduces the practicality.",
+        "label_text": "pay"
+    },
+    {
+        "source": "原文 : 天籁的转向系统会过滤掉大部分的路感，但是转向力度比预想得要大，低速时甚至略显沉重，但这并不是欧洲车的那种沉稳，因为它的行驶稳定性相对来说要逊色一些。",
+        "hyp": "文 4 : Teana's steering system will filter out most of road feeling, but the steering force is stronger than expected, even slightly heavy at low speed. However, this is not the kind of stability of European vehicles, because its driving stability is relatively inferior.",
+        "label_text": "heavy"
+    },
+    {
+        "source": "原文 : 灯光开关在自动灯光[AUTO]位置，并且灯光控制杆在远光灯位置时。",
+        "hyp": "文 5 : When the light switch is in the [AUTO] position and the light control lever is in the high beam position.",
+        "label_text": "When the light switch is in the [AUTO] position and "
+    },
+    {
+        "source": "原文 : 灯光开关在自动灯光[AUTO]位置，并且灯光控制杆在远光灯位置时。",
+        "hyp": "文 5 : When the light switch is in the [AUTO] position and the light control lever is in the high beam position.",
+        "label_text": "and "
+    },
+    {
+        "source": "原文 : 眼下，大众迈腾B9可能是大众燃油中型车市场的最后一搏，同时推出一款相同定位的中级电动车，以冲击新能源市场。",
+        "hyp": "文 4 : At present, the Volkswagen Magotan B9 may be the last attempt of the Volkswagen medium-sized fuel vehicle market. In addition, Volkswagen launches a kind of mid-level electric vehicles with the same positioning to impact the NEV market.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 模式(MODE)按钮，用于转换显示的模式。",
+        "hyp": "文 5 : The MODE button is used to switch the displayed mode.",
+        "label_text": " displayed "
+    },
+    {
+        "source": "原文 : 如果单论发动机的实力，蒙迪欧确实要强于大众两车，不过在变速箱的表现上，蒙迪欧的6挡手自一体变速箱换挡速度要慢于DSG，换挡时动力的流失也要更多。",
+        "hyp": "文 3 : Mondeo is indeed better than the two models of Volkswagen in terms of engine strength. However, in terms of transmission performance, Mondeo's 6-speed manual-automatic transmission has a lower shifting speed than DSG, and a more power loss during shifting.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 变速箱方面，日系品牌的两款CVT变速箱依靠出色的平顺性获得了高分。大众的DSG双离合变速箱换挡迅速，并且总是能选择合适的挡位，不过低挡位行车时偶有顿挫感，整体成绩位列第二集团。",
+        "hyp": "文 5 : In terms of transmission, two CVT transmissions of Japanese brands got high scores by their excellent smoothness. The DSG dual-clutch transmission of Volkswagen vehicles shifts gears quickly and always provides the right gear, but it occasionally feels frustrated during driving in low gear, ranking second in overall performance.",
+        "label_text": "it occasionally feels frustrated during driving in low gear"
+    },
+    {
+        "source": "原文 : 新一代大众Passat旅行版也提供大嘴进气格栅以及眼尾上提的“小恶魔”大灯，构成了最具特点的两部分。同时，前包围两侧的竖向进气口也得以保留，但在车头线条部分做了适当的简化处理，这也是为了契合目前国内汽车市场的审美偏好。",
+        "hyp": "文 1 : The new generation of Volkswagen Passat Travel Edition is also provided with a large-mouth air intake grille and \"Little Devil\" headlights with eyetail upwards, which constitute the two most distinctive parts. In addition, the vertical air inlets on both sides of the front surrounding are also reserved, but the front lines are appropriately simplified, which aims to meet the aesthetic preference of the current domestic automobile market.",
+        "label_text": " constitute"
+    },
+    {
+        "source": "原文 : 设置启用或停用喇叭反馈功能。启用喇叭反馈功能时，按下遥控钥匙上的门锁闭锁按钮闭锁所有门锁后，如果在4秒钟内再次按下门锁闭锁按钮时，喇叭反馈声响1次，表示所有门锁已经闭锁(如有配备遥控钥匙)。",
+        "hyp": "文 3 : Set to enable or disable the horn feedback function. With the horn feedback function enabled, after the door lock button on the remote control key is pressed to lock all doors, if this button is pressed again within 4s, the horn gives a feedback sound once, indicating that all doors have been locked (if equipped with the remote control key).",
+        "label_text": " (if equipped with the remote control key)"
+    },
+    {
+        "source": "原文 : 节能减排是当今社会的一大主题，一直倡导先进技术的大众当然不会落后，借助奥运会的绿色之风，大众向大家展示了它的一款高科技零排放车—奥运专用氢燃料电池帕萨特。",
+        "hyp": "文 5 : Energy saving and emission reduction are a major theme in today's society, and Volkswagen who has been advocating advanced technology will certainly not lag behind. With the help of the green theme of the Olympic Games, Volkswagen showed a high-tech zero-emission vehicle - the Olympic-specific hydrogen fuel cell Passat.",
+        "label_text": "are a major theme"
+    },
+    {
+        "source": "原文 : 节能减排是当今社会的一大主题，一直倡导先进技术的大众当然不会落后，借助奥运会的绿色之风，大众向大家展示了它的一款高科技零排放车—奥运专用氢燃料电池帕萨特。",
+        "hyp": "文 5 : Energy saving and emission reduction are a major theme in today's society, and Volkswagen who has been advocating advanced technology will certainly not lag behind. With the help of the green theme of the Olympic Games, Volkswagen showed a high-tech zero-emission vehicle - the Olympic-specific hydrogen fuel cell Passat.",
+        "label_text": "who "
+    },
+    {
+        "source": "原文 : 变速器是为弥补发动机的转速、扭矩曲线的不足才出现的。发动机只会在某一特定的转速区间才会爆发一定的扭矩和功率，而车需要行驶在从静止到极速的任何一个速度上，变速器的作用就是将不同的车速转换成发动机的工作转速。",
+        "hyp": "文 2 : The transmission is to make up for the deficiencies in engine speed and torque curve. The engine will only burst out a certain torque and power in a certain speed range, while the vehicle needs to run at any speed from standstill to extreme speed. The transmission aims to convert different speeds into the engine's working speed.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 变速器是为弥补发动机的转速、扭矩曲线的不足才出现的。发动机只会在某一特定的转速区间才会爆发一定的扭矩和功率，而车需要行驶在从静止到极速的任何一个速度上，变速器的作用就是将不同的车速转换成发动机的工作转速。",
+        "hyp": "文 2 : The transmission is to make up for the deficiencies in engine speed and torque curve. The engine will only burst out a certain torque and power in a certain speed range, while the vehicle needs to run at any speed from standstill to extreme speed. The transmission aims to convert different speeds into the engine's working speed.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 观察君越车门上部件和线束的安装发现，基本上都采用了胶布包裹，并且设计了很多卡子，避免了在颠簸路面上发出异响。车窗控制单元选用了德国brose的产品，质量方面可以等到保证。",
+        "hyp": "文 3 : During installation of the components and wiring harnesses on the LaCrosse doors, it was found that they are basically wrapped with adhesive tape, and many clips are provided to avoid making abnormal noise on bumpy roads. The window control units are German brose products, and the quality can be guaranteed.",
+        "label_text": "installation of"
+    },
+    {
+        "source": "原文 : 观察君越车门上部件和线束的安装发现，基本上都采用了胶布包裹，并且设计了很多卡子，避免了在颠簸路面上发出异响。车窗控制单元选用了德国brose的产品，质量方面可以等到保证。",
+        "hyp": "文 3 : During installation of the components and wiring harnesses on the LaCrosse doors, it was found that they are basically wrapped with adhesive tape, and many clips are provided to avoid making abnormal noise on bumpy roads. The window control units are German brose products, and the quality can be guaranteed.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 凯美瑞的扬声器形状为椭圆形，这是比较少见的，多数都是圆形设计。",
+        "hyp": "文 4 : Camry's speakers are oval, which is relatively rare. Most of them are circular.",
+        "label_text": "them "
+    },
+    {
+        "source": "原文 : 索纳塔车门上没有传统的密封层，是一整块钢板覆盖在车门上，这样一来不仅到达了密封的效果，而且也增加了车门的刚性，在一定程度上可以说是对乘客起到保护作用。",
+        "hyp": "文 1 : There is no traditional sealing layer on the Sonata's door, but a whole steel plate covers the door, which not only achieves the sealing effect, but also increases the door rigidity, and can be said to protect passengers to a certain extent.",
+        "label_text": " the"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 4 : Press the button on the display screen of the IVI system as follows: Settings → Vehicles → Digital Keys → Digital Keys List → Select Users → Delete.",
+        "label_text": "Settings → Vehicles → Digital Keys"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 4 : Press the button on the display screen of the IVI system as follows: Settings → Vehicles → Digital Keys → Digital Keys List → Select Users → Delete.",
+        "label_text": "Digital Keys"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 4 : Press the button on the display screen of the IVI system as follows: Settings → Vehicles → Digital Keys → Digital Keys List → Select Users → Delete.",
+        "label_text": "Select Users"
+    },
+    {
+        "source": "原文 : 现在取代RCD510系统的是眼前这套RCD310系统，其实在娱乐性和实用性上两者差别并不算大，主要是RCD310系统510系统上了6.5寸彩色可触摸的大屏幕，对整车车内视觉档次感影响比较大。",
+        "hyp": "文 3 : Now the RCD310 system is replaced by the RCD510 system. In fact, there is not much difference between them in entertainment and practicality. The main reason is that the RCD510 system is provided a 6.5-inch color touch screen, which has a great impact on the visual quality of the whole vehicle.",
+        "label_text": "is provided a 6.5-inch color touch screen"
+    },
+    {
+        "source": "原文 : 菲翔全系配备了这款T-JET涡轮增压发动机，但有两种不同调校版本。高功率版本最大功率150马力（110kW）/5500rpm，最大扭矩230N·m/3000rpm，低功率版最大功率120马力（88kW）/5000rpm，最大扭矩206N·m/2500rpm。",
+        "hyp": "文 4 : All Viaggio series is equipped with this T-JET turbocharged engine, but there are two different calibration versions. For the high-power version, the maximum power is 150 HP (110 kW)/5500 rpm, and the maximum torque is 230 N m/3000 rpm; for the low-power version, the maximum power is 120 HP (88 kW)/5000 rpm, and the maximum torque is 206 N m/2500 rpm.",
+        "label_text": "is"
+    }
+]

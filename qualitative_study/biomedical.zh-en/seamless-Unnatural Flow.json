@@ -1,0 +1,237 @@
+[
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 5 : Of the 17,485 total cases reported by raw research products, 532 cases (3.04%) of adverse reactions occurred.",
+        "label_text": "17,485 total cases"
+    },
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 5 : Of the 17,485 total cases reported by raw research products, 532 cases (3.04%) of adverse reactions occurred.",
+        "label_text": "17,485 total cases"
+    },
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 3 : Of the other 690 reports, the main ones were digestive system (stomach discomfort, lack of appetite, abdominal pain, nausea or vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial watering (0.15%), etc.",
+        "label_text": "the main ones were digestive system"
+    },
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 3 : Of the other 690 reports, the main ones were digestive system (stomach discomfort, lack of appetite, abdominal pain, nausea or vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial watering (0.15%), etc.",
+        "label_text": "the main ones were digestive system"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "carried out, discontinuation of medication"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "so full observation should be carried out, discontinuation of medication in case of "
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Digestive ulcers, gastrointestinal bleeding, and ulcerative colitis (frequency unknown*) are possible, and medication should be discontinued if abnormalities are detected and appropriate measures taken.",
+        "label_text": "and medication should be discontinued if abnormalities are detected and appropriate measures taken"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "withdrawal of medication and corresponding measures should be taken"
+    },
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 5 : Satisfactory blood sugar control can be achieved by adjusting the dosage of both drugs by combining the drug with the drug.",
+        "label_text": "by adjusting the dosage of both drugs "
+    },
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 5 : Satisfactory blood sugar control can be achieved by adjusting the dosage of both drugs by combining the drug with the drug.",
+        "label_text": "by adjusting the dosage of both drugs by combining"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 1 : 2. Buyers in urgent need of products or time constraints, it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again.",
+        "label_text": "it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 1 : 2. Buyers in urgent need of products or time constraints, it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again.",
+        "label_text": "Buyers in urgent need of products or time constraints, it is"
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 1 : 6. Patients with severe hypertension [there is a possibility of further elevation of blood pressure due to hydrochloric acid retention due to the inhibitory effect of prostaglandin synthesis]",
+        "label_text": " due to hydrochloric acid retention due to "
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 1 : 6. Patients with severe hypertension [there is a possibility of further elevation of blood pressure due to hydrochloric acid retention due to the inhibitory effect of prostaglandin synthesis]",
+        "label_text": " due to hydrochloric acid retention due to "
+    },
+    {
+        "source": "原文 : 一年来，世界百年未有之大变局和新冠肺炎疫情全球大流行交织影响，外部环境更趋复杂严峻，国内新冠肺炎疫情防控和经济社会发展各项任务极为繁重艰巨。",
+        "hyp": "文 4 : Over the past year, the world has undergone unprecedented changes and the impact of the global pandemic of the novel coronavirus pneumonia epidemic, the external environment has become more complex and severe, the prevention and control of the novel coronavirus pneumonia epidemic in the country and the tasks of economic and social development are extremely difficult.",
+        "label_text": "the external environment has become more complex and severe, the prevention and control of the novel coronavirus pneumonia epidemic in the country and the tasks of economic and social development are extremely difficult."
+    },
+    {
+        "source": "原文 : 一年来，世界百年未有之大变局和新冠肺炎疫情全球大流行交织影响，外部环境更趋复杂严峻，国内新冠肺炎疫情防控和经济社会发展各项任务极为繁重艰巨。",
+        "hyp": "文 4 : Over the past year, the world has undergone unprecedented changes and the impact of the global pandemic of the novel coronavirus pneumonia epidemic, the external environment has become more complex and severe, the prevention and control of the novel coronavirus pneumonia epidemic in the country and the tasks of economic and social development are extremely difficult.",
+        "label_text": "the world has undergone unprecedented changes and the impact of the global pandemic of the novel coronavirus pneumonia epidemic, the external environment has become more complex and severe, the prevention and control of the novel coronavirus pneumonia epidemic in the country and the tasks of economic and social development are extremely difficult"
+    },
+    {
+        "source": "原文 : 不能期待一个两岁的孩子具有足够的自我保护技能，但作为年幼孩子的家长，应至少具有相当的保护意识。",
+        "hyp": "文 3 : A two-year-old child cannot be expected to have sufficient self-protection skills, but as a parent of a young child, you should at least have a considerable sense of protection.",
+        "label_text": "have a considerable sense of protection"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 4 : 4 Hanhoo red pomegranate freshly chopped six sets (skin care cosmetics set waterproofing student girl washing face milk refreshing skin lotion tears gift box properly packed)",
+        "label_text": "washing face milk refreshing skin lotion tears gift box properly packed"
+    },
+    {
+        "source": "原文 : 所谓古着，vintage，设计都会带有年代的复古感，也就是怀旧，之所以喜欢古着也是喜欢它的岁月感，和它的质感！",
+        "hyp": "文 4 : So-called vintage, vintage designs have a vintage feel to them, which is nostalgia, which is why loving vintage is also loving the feeling of the years, and the texture of it!",
+        "label_text": "vintage designs have a vintage feel"
+    },
+    {
+        "source": "原文 : 所谓古着，vintage，设计都会带有年代的复古感，也就是怀旧，之所以喜欢古着也是喜欢它的岁月感，和它的质感！",
+        "hyp": "文 4 : So-called vintage, vintage designs have a vintage feel to them, which is nostalgia, which is why loving vintage is also loving the feeling of the years, and the texture of it!",
+        "label_text": "which is nostalgia, which is why loving vintage is also loving the feeling of the years, and the texture of it"
+    },
+    {
+        "source": "原文 : 发生超敏反应后，如果不立即停用本品治疗，可能马上导致危及生命的反应。",
+        "hyp": "文 2 : After a hypersensitivity reaction, if the treatment is not stopped immediately, it may immediately lead to a life-threatening reaction.",
+        "label_text": "After a hypersensitivity reaction, if the treatment is not stopped immediately, "
+    },
+    {
+        "source": "原文 : 好不容易看中的房子，定金交了，房款也准备好了，就差“临门一脚”签合同，卖方却不卖了，这让陆先生无奈又愤怒。",
+        "hyp": "文 3 : It was not easy to look at the house, the money was paid, the money was ready, he almost walked to the door and signed the contract, but the seller did not sell, which made Mr. Lu helpless and angry.",
+        "label_text": "It was not easy to look at the house, the money was paid, the money was ready, he almost walked to the door and signed the contract, but the seller did not sell, which made Mr. Lu helpless and angry."
+    },
+    {
+        "source": "原文 : 好不容易看中的房子，定金交了，房款也准备好了，就差“临门一脚”签合同，卖方却不卖了，这让陆先生无奈又愤怒。",
+        "hyp": "文 3 : It was not easy to look at the house, the money was paid, the money was ready, he almost walked to the door and signed the contract, but the seller did not sell, which made Mr. Lu helpless and angry.",
+        "label_text": "It was not easy to look at the house, the money was paid, the money was ready, he almost walked to the door and signed the contract, but the seller did not sell, which made Mr. Lu helpless and angry."
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 1 : The whole process of shooting took about 2 hours, makeup + shooting, the photographer in charge of the shooting is the brother of the 95th, the feeling is a little bit still a little frog, hoping to give more advice in the future in terms of guiding the customer's shooting movements.",
+        "label_text": "The whole process of shooting took about 2 hours, makeup + shooting, the photographer in charge of the shooting is the brother of the 95th, the feeling is a little bit still a little frog, hoping to give more advice in the future in terms of guiding the customer's shooting movements"
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 1 : The whole process of shooting took about 2 hours, makeup + shooting, the photographer in charge of the shooting is the brother of the 95th, the feeling is a little bit still a little frog, hoping to give more advice in the future in terms of guiding the customer's shooting movements.",
+        "label_text": "The whole process of shooting took about 2 hours, makeup + shooting, the photographer in charge of the shooting is the brother of the 95th, the feeling is a little bit still a little frog, hoping to give more advice in the future in terms of guiding the customer's shooting movements"
+    },
+    {
+        "source": "原文 : 卫生巾最好两三个小时更换一次，不然容易滋生细菌，除去睡眠时间，最坏的情况是一天更换6次，每月7天，那就是42片，如果加上提前准备的份可能有50片，并不是每个月用一片。",
+        "hyp": "文 3 : It is better to change the towel once every two or three hours, otherwise it is easy to breed bacteria, except for sleeping time, the worst case is to change it six times a day, seven days a month, that is, 42 pieces, if you add the portion prepared in advance, there may be 50 pieces, not one piece a month.",
+        "label_text": "the worst case is to change it six times a day, seven days a month, that is, 42 pieces"
+    },
+    {
+        "source": "原文 : 卫生巾最好两三个小时更换一次，不然容易滋生细菌，除去睡眠时间，最坏的情况是一天更换6次，每月7天，那就是42片，如果加上提前准备的份可能有50片，并不是每个月用一片。",
+        "hyp": "文 3 : It is better to change the towel once every two or three hours, otherwise it is easy to breed bacteria, except for sleeping time, the worst case is to change it six times a day, seven days a month, that is, 42 pieces, if you add the portion prepared in advance, there may be 50 pieces, not one piece a month.",
+        "label_text": "there may be 50 pieces, not one piece a month"
+    },
+    {
+        "source": "原文 : 打击犯罪、保障儿童和家长权益，从立法的完善，到司法的保障，以及执法的缜密，无不需要贯彻“护幼扶弱”的关怀。",
+        "hyp": "文 4 : The fight against crime, the protection of the rights and interests of children and parents, from the improvement of legislation to the protection of justice, and the strict enforcement of the law, there is no need to implement the care of children and the vulnerable.",
+        "label_text": "The fight against crime, the protection of the rights and interests of children and parents, from the improvement of legislation to the protection of justice, and the strict enforcement of the law"
+    },
+    {
+        "source": "原文 : 有报告显示血中锂浓度升高，并出现锂中毒，因此合用时应充分进行观察，如监测血中锂浓度等，慎重用药。",
+        "hyp": "文 2 : There have been reports of elevated blood potassium levels and potassium poisoning, so the combination should be observed thoroughly, such as monitoring blood potassium levels, etc., and the drug should be used with caution.",
+        "label_text": "the combination should be observed thoroughly"
+    },
+    {
+        "source": "原文 : 常见于肾功能急性恶化、患有心肺疾病或败血症的患者中。",
+        "hyp": "文 5 : Common in patients with acute deterioration of renal function in patients with cardiovascular disease or sepsis.",
+        "label_text": "Common in patients with acute deterioration of renal function in patients with cardiovascular disease or sepsis"
+    },
+    {
+        "source": "原文 : 比例有3种类型：时点（或率型）构成比例、时期发生比例及由前二者综合而成的时期构成比例。",
+        "hyp": "文 4 : There are three types of ratios: the ratio of the time point (or rate type) to the period of occurrence of the ratio, and the ratio of the period of occurrence of the ratio of the combination of the previous two.",
+        "label_text": "and the ratio of the period of occurrence of the ratio of the combination of the previous two."
+    },
+    {
+        "source": "原文 : CN1连接器 CN1信号I/O连接线 CN1口用端子台 刹车电阻",
+        "hyp": "文 1 : CN1 connector CN1 signal I/O connection line CN1 port with terminal platform brake resistor",
+        "label_text": "CN1 connector CN1 signal I/O connection line CN1 port with terminal platform brake resistor"
+    },
+    {
+        "source": "原文 : 3）如与其他药物同时使用可能会发生药物相互作用，详情请咨询医师或药师。",
+        "hyp": "文 4 : 3) If drug interactions may occur with other drugs, please consult your doctor or pharmacist for details.",
+        "label_text": "If drug interactions may occur with other drugs"
+    },
+    {
+        "source": "原文 : 在20名就诊工人中，根据GBZ 68-2013《职业性苯中毒的诊断》，共确诊职业性慢性苯中毒12例，诊断为职业性慢性轻度苯中毒2例、中度苯中毒7例、重度苯中毒3例。",
+        "hyp": "文 1 : Of the 20 clinical workers, 12 were diagnosed with occupational chronic benzene poisoning, 2 with occupational chronic mild benzene poisoning, 7 with moderate benzene poisoning, and 3 with severe benzene poisoning, according to GBZ 68-2013.",
+        "label_text": "occupational chronic mild benzene poisoning"
+    },
+    {
+        "source": "原文 : 继续治疗会使与超敏反应相关的症状加重，可能危及生命，罕见情况下可能致命。",
+        "hyp": "文 1 : Continued treatment may worsen symptoms associated with hypersensitivity reactions, may be life-threatening, and in rare cases may be fatal.",
+        "label_text": "Continued treatment may worsen symptoms associated with hypersensitivity reactions, may be life-threatening, and in rare cases may be fatal"
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 5 : The main reasons for the continuous narrowing of the service position of acupuncture are: the trend of the disease subdivision has diverted many suitable diseases of acupuncture; the pursuit of economic efficiency has led to the development of acupuncture therapy characterized by simplicity, convenience and integrity.",
+        "label_text": "continuous narrowing of the service position of acupuncture"
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 5 : The main reasons for the continuous narrowing of the service position of acupuncture are: the trend of the disease subdivision has diverted many suitable diseases of acupuncture; the pursuit of economic efficiency has led to the development of acupuncture therapy characterized by simplicity, convenience and integrity.",
+        "label_text": "diverted many suitable diseases of acupuncture"
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 1 : Let's talk about autism together 55 questions closely related to autism (plus) Brigitte Kin-Chue Brigitte Hatch original book",
+        "label_text": "Let's talk about autism together 55 questions closely related to autism"
+    },
+    {
+        "source": "原文 : 本品适用于治疗感染人类免疫缺陷病毒（HIV）的成人和12岁以上青少年（体重至少为40 kg）。",
+        "hyp": "文 2 : This product is intended for the treatment of adults infected with human immunodeficiency virus (HIV) and adolescents over 12 years of age (weighing at least 40 kg).",
+        "label_text": "adults infected with human immunodeficiency virus (HIV) and adolescents"
+    },
+    {
+        "source": "原文 : 月经无法控制，开始到结束为止的几天内24小时流血，能做的只有用卫生巾或卫生棉条吸血防止流到衣服椅子上。",
+        "hyp": "文 2 : Menstruation is uncontrollable, bleeding 24 hours a day for a few days from the beginning to the end, and can only be done with a sanitary towel or sanitary cotton swab to prevent blood from flowing to the clothes and chairs.",
+        "label_text": "Menstruation is uncontrollable, bleeding 24 hours a day for a few days from the beginning to the end, and can only be done with a sanitary towel or sanitary cotton swab to prevent blood from flowing to the clothes and chairs."
+    },
+    {
+        "source": "原文 : 通过查阅国内外颈椎结核治疗的相关文献，从内植物分类、优缺点、发展前景等方面进行分析、归纳和总结。",
+        "hyp": "文 4 : Analyze, summarize and summarize the advantages, disadvantages and developmental prospects of internal plant classification by consulting relevant literature on gynecological tuberculosis treatment at home and abroad.",
+        "label_text": "summarize and summarize"
+    },
+    {
+        "source": "原文 : 每片含多替拉韦钠（以多替拉韦计）50mg、硫酸阿巴卡韦（以阿巴卡韦计）600mg和拉米夫定300mg。",
+        "hyp": "文 1 : Each tablet contains 50 mg of hydrochloric acid (in hydrochloric acid) Abacave (in hydrochloric acid) 600 mg and 300 mg of Ramifine.",
+        "label_text": "ach tablet contains 50 mg of hydrochloric acid (in hydrochloric acid) Abacave (in hydrochloric acid) 600 mg and 300 mg of Ramifine"
+    },
+    {
+        "source": "原文 : 进入大学本科阶段，专业开始细分，很多专业课程以基础知识为主。",
+        "hyp": "文 2 : Entering the undergraduate stage of the university, the majors begin to be subdivided, many majors are based on basic knowledge.",
+        "label_text": "Entering the undergraduate stage of the university, the majors begin to be subdivided, many majors are based on basic knowledge"
+    },
+    {
+        "source": "原文 : 肺泡蛋白沉积症（PAP）是一种呼吸系统罕见病，研究进展缓慢。",
+        "hyp": "文 5 : Pneumoblastoma deposition syndrome (PAP) is a rare respiratory disease that has been studied slowly.",
+        "label_text": "disease that has been studied slowly"
+    },
+    {
+        "source": "原文 : 但是人能出生是因为他的母亲来过月经，月经是为了准备你第一次来到这个世界时要住10个月的房子，大家要感谢自己的母亲规律健康的来过月经。",
+        "hyp": "文 5 : But a person can be born because his mother came through menstruation, menstruation is to prepare you for the first time to come into this world to live in a house for 10 months, we have to thank our mother for menstruating regularly and healthy.",
+        "label_text": "But a person can be born because his mother came through menstruation, menstruation is to prepare you for the first time to come into this world to live in a house for 10 months, we have to thank our mother for menstruating regularly and healthy"
+    },
+    {
+        "source": "原文 : 如果患者漏服一次本品，并且离下次服药还有4小时以上，应当尽快服用本品。",
+        "hyp": "文 5 : If the patient misses taking the product once, and there are more than 4 hours before the next dose, the product should be taken as soon as possible.",
+        "label_text": "If the patient misses taking the product once, and there are more than 4 hours before the next dose"
+    },
+    {
+        "source": "原文 : 应用LogistiC回归分析影响二三线疗效的因素. 三组患者治疗3、6、12个月达完全血液学反应（CHR）、主要细胞遗传学反应（MCyR）、主要分子学反应（MMR）率比较差异均有统计学意义（P<0.05）。",
+        "hyp": "文 2 : Application of LogistiC regression analysis to factors affecting secondary and tertiary efficacy. Three groups of patients treated for 3-6-12 months achieved complete hematological response (CHR) <unk> major cell genetic response (MCyR) <unk> major molecular response (MMR) rate comparison differences were statistically significant (P<0.05) <unk>",
+        "label_text": "Three groups of patients treated for 3-6-12 months achieved complete hematological response (CHR) <unk> major cell genetic response (MCyR) <unk> major molecular response (MMR) rate comparison differences"
+    }
+]

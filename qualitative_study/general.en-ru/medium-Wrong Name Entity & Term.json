@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 4 : Я ездил только по городу, поэтому потребовалась большая часть недели, чтобы понять, что я не могу разогнаться до 60 миль в час или что мне нужно снизить скорость до 3500 оборотов в минуту.",
+        "label_text": "оборотов в минуту"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 4 : Я ездил только по городу, поэтому потребовалась большая часть недели, чтобы понять, что я не могу разогнаться до 60 миль в час или что мне нужно снизить скорость до 3500 оборотов в минуту.",
+        "label_text": "оборотов в минуту"
+    },
+    {
+        "source": "原文 : I’m most scared that in the future when I’m working, people will look down on SMU like elitism discrimination all that, I don’t know, man.",
+        "hyp": "文 3 : Я больше всего боюсь, что в будущем, когда я буду работать, люди будут смотреть на СМУ свысока, как на элитарность, дискриминацию и все такое, просто ума не приложу, чувак.",
+        "label_text": "СМУ"
+    }
+]

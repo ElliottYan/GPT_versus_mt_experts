@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 3 : However, this type of address space might increase the burden on routers on the internet, as these addresses may not be effectively aggregated within the Classless Inter-Domain Routing system.",
+        "label_text": "this type of address space"
+    },
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 3 : However, this type of address space might increase the burden on routers on the internet, as these addresses may not be effectively aggregated within the Classless Inter-Domain Routing system.",
+        "label_text": "these addresses "
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 5 : Country R has developed a colorless, odorless biochemical weapon, intending to smuggle it into Hua country to execute a heinous and inhumane conspiracy.",
+        "label_text": "Hua country"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 5 : Country R has developed a colorless, odorless biochemical weapon, intending to smuggle it into Hua country to execute a heinous and inhumane conspiracy.",
+        "label_text": "Country R"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 5 : Country R has developed a colorless, odorless biochemical weapon, intending to smuggle it into Hua country to execute a heinous and inhumane conspiracy.",
+        "label_text": "Hua country"
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 1 : (Let me do the math: the shoes are over 4000 yen, which is roughly 200 RMB. If I choose option 1, I don't have the shoes, and my loss is 200 yuan.)",
+        "label_text": "200 RMB"
+    }
+]

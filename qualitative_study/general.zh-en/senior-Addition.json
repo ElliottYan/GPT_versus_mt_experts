@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : “将外星飞船与气象气球混为一谈的讽刺意味很令人惊讶，但这不值得引发一场星际冲突，”梅杰说。",
+        "hyp": "文 4 : Peter Meijer twittered, \"...; the irony of confusing an alien spacecraft for a weather balloon would be amazing but not worth starting an interstellar conflict.\"",
+        "label_text": "...; "
+    },
+    {
+        "source": "原文 : Adelkhah 否认了这些指控。",
+        "hyp": "文 5 : Adelkhah has denied all the allegations.",
+        "label_text": "all"
+    },
+    {
+        "source": "原文 : 在海外的中餐馆，如在西班牙，小笼包在食客中享有盛誉，由于美味可口，有的西班牙餐馆或酒吧也出售类似中国小笼包的食物，叫做西班牙产中式夹肉面包。",
+        "hyp": "文 5 : In overseas Chinese restaurants, particularly in Spain, Xiaolongbao (a type of Chinese steamed dumplings, also popularly known as soup dumplings) holds great popularity among food enthusiasts. Given its delectable flavor, several Spanish restaurants or bars have started offering dishes similar to China's Xiaolongbao, whimsically named as \"Spanish-made Chinese meat-stuffed bread\".",
+        "label_text": "particularly"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 1 : Gu Jinhui was born and bred in Tsuen Wan, Hong Kong. He began his football career in the Tsuen Wan Football Association and later transferred to the Eastern Salon Football Team in 1983. Gu became a core player of the SCAA Football Team ever since he transferred to the Team upon the invitation of Lin Jianyue in 1984. During his service on this team, he had won the award of \"Eleven Best Footballers\" for eight consecutive times. In 1987, he won the Hong Kong Top Footballers Awards. Gu retired from the Team and became an assistant instead when he was 38. On June 19, 2017, the board of directors of the SCAA Football Team convened a meeting and reached a consensus on a transfer to C League to cultivate young football players. To cut expenditure, all players of the Team except Gu Jinhui were dismissed. Only Gu who had served on the Team for over 30 years stayed.",
+        "label_text": "consecutive"
+    }
+]

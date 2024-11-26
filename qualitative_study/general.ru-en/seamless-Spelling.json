@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 2 : In the village of Granovskaya, the Prime Minister got acquainted with the work of the new educational institution - the Granovskaya school, which was opened in September 2022.",
+        "label_text": "Granovskaya"
+    },
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 2 : In the village of Granovskaya, the Prime Minister got acquainted with the work of the new educational institution - the Granovskaya school, which was opened in September 2022.",
+        "label_text": "Granovskaya"
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 2 : The author is also interested in the screwdriver that explores the electric meter, and the piece of unsalted cream that floats on the cast-iron pan, all of which turns the story of the unemployed miner, his rare-toothed lover and her head-brother into a real dock-canvas of oil.",
+        "label_text": "dock-canvas"
+    },
+    {
+        "source": "原文 : В РОЛЯХ: Луиз Бургузн, Матье Амальрик, Фредерик Бель, Жиль Лелуш",
+        "hyp": "文 1 : Starring Louise Burgos, Mathieu Amalric, Frédéric Bel and Gilles Leloche, the film is based on a true story.",
+        "label_text": "Starring"
+    },
+    {
+        "source": "原文 : прогноз на матч клубного чемпионата мира 11 февраля 2023 года.",
+        "hyp": "文 4 : Forecast for the World Club Championship match on February 11, 2023.",
+        "label_text": "Forecast"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : 如果轮胎气压低，就会显示此警告信息。车辆上的对应轮胎位置指示灯亮。详细信息请参考第8章的“轮胎气压监测系统(TPMS)”部分。",
+        "hyp": "文 2 : If the tire pressure is low, this warning message will be displayed. The corresponding tire position indicator light on the vehicle is on. For more information, see the tire pressure monitoring system (TPMS) section in Chapter 8.",
+        "label_text": "tire pressure monitoring system"
+    },
+    {
+        "source": "原文 : 仪表板照明灯在发动机运转状态下，在设置菜单中选择“灯光→照明灯亮度设置”，调整仪表板照明灯亮度。",
+        "hyp": "文 1 : The dashboard illuminates the lights while the engine is running, in the settings menu select <unk> lighting <unk> lighting brightness setting <unk>, adjust the dashboard illuminates the lighting brightness <unk>",
+        "label_text": " lighting "
+    },
+    {
+        "source": "原文 : 仪表板照明灯在发动机运转状态下，在设置菜单中选择“灯光→照明灯亮度设置”，调整仪表板照明灯亮度。",
+        "hyp": "文 1 : The dashboard illuminates the lights while the engine is running, in the settings menu select <unk> lighting <unk> lighting brightness setting <unk>, adjust the dashboard illuminates the lighting brightness <unk>",
+        "label_text": "lighting brightness setting"
+    },
+    {
+        "source": "原文 : [绿色]满足车道保持辅助功能运行条件时。",
+        "hyp": "文 1 : [Green] Meets the conditions for maintaining the auxiliary function of the lane.",
+        "label_text": "M"
+    },
+    {
+        "source": "原文 : 车门会开锁，危险警告灯闪烁2次。如果在信息娱乐系统显示屏上设置菜单中选择“门锁开锁联动”项，外后视镜会自动展开。",
+        "hyp": "文 5 : The car door will unlock, the hazard warning light will flash twice, and if you select the \"Unlock the door\" option in the settings menu on the information and entertainment system display, the rear view mirror will automatically unlock.",
+        "label_text": " rear view"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 4 : If you have purchased a used car, you should confirm and delete the registered Bluetooth key. In addition, please inform the customer service center or dealer of your purchase of a used car.",
+        "label_text": " customer service center"
+    }
+]

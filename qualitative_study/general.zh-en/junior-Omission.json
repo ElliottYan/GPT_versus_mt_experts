@@ -1,0 +1,127 @@
+[
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 5 : However, as such addresses may not be effectively aggregated in the Classless Inter-Domain Routing (CIDR) system, this address space may put additional burdens on the internet routers.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 5 : However, as such addresses may not be effectively aggregated in the Classless Inter-Domain Routing (CIDR) system, this address space may put additional burdens on the internet routers.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 3 : It is a luxury for ordinary people to eat once a month, so how could he afford to have it every meal?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 3 : It is a luxury for ordinary people to eat once a month, so how could he afford to have it every meal?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 2 : In March 2020, the demand for flour soared during the COVID-19 pandemic. Under the circumstances, the flour factory with a slump in business started to transform its wholesale operation model by introducing flour suitable for household use, receiving a good response.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 2 : In March 2020, the demand for flour soared during the COVID-19 pandemic. Under the circumstances, the flour factory with a slump in business started to transform its wholesale operation model by introducing flour suitable for household use, receiving a good response.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 东西还可以，但是亚马逊的售后服务真的比其他网站差太多了",
+        "hyp": "文 5 : The product is good, but the after-sales service of Amazon is really much worse than other websites.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": "However, she failed"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 聂耳小提琴是云南省博物馆参加综艺节目《国家宝藏》第二季的三件文物之一，由张若昀担任明星守护人。",
+        "hyp": "文 3 : The Nie'er's Violin is one of the three cultural relics that the Yunnan Provincial Museum presents in the National Treasure Season 2, and its guardian in the program is Zhang Ruoyun.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 我一个半月前买的琴，缺个零件，通知亚马逊后给了我售后的电话，多次沟通后，零件现在还没收到，请问这是什么效率！",
+        "hyp": "文 2 : I bought the violin a month and a half ago, but I found that one part was missing. I communicated with the after-sales service personnel of Amazon by phone multiple times. Up to now, I still haven't received the part. What the hell with the efficiency!",
+        "label_text": "I "
+    },
+    {
+        "source": "原文 : 那玉石在他手心，就在他右手掌心里，居然融化起来。",
+        "hyp": "文 1 : The jade was in his palm, right the palm of his right hand, and it melted.",
+        "label_text": "it melted"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 1 : After the destruction of the Palhalhivolo, the location of the tribe was used by the Kucapungane for planting coarse cereals. Today, there are still the ruins of the ancient city, but the fate of the remnants remains unknown. Although the Karisi (the Rukai people) regained independence and rebuilt their homes, it was finally destructed by a landslide and flood caused by a heavy rain. Today, some people living in Wutai (located in Wutai Village, Wutai Township) are claiming to be the descendants of the Karisi. In addition, the Dalapathan (also known as \"Druluane\" or \"Lulan\"), the descendant of Peleng, led the tribe to win the war, and was therefore known as the \"Military Leader\", exclusively owning Omomos (meaning \"easily foggy\"), the highest place of the Kucapungane. As a result, there were two major head families, i.e. the Dalapathan family, and the original head family—Kadrangilan family.",
+        "label_text": "Kucapungane"
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 1 : H/PJ-11, the third generation close-in weapon system (CIWS) developed based on the independently developed H/PJ-7 (i.e. the second generation CIWS), has originally been deployed on the aircraft carrier Liaoning, Type 054A frigates (from Batch-III frigate Daqing), and Type 052D destroyer (from Batch-II destroyer Nanjing). Currently, it is deployed on Type 055 destroyers, Type 075 landing helicopter docks, and aircraft carrier Shandong.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 1 : H/PJ-11, the third generation close-in weapon system (CIWS) developed based on the independently developed H/PJ-7 (i.e. the second generation CIWS), has originally been deployed on the aircraft carrier Liaoning, Type 054A frigates (from Batch-III frigate Daqing), and Type 052D destroyer (from Batch-II destroyer Nanjing). Currently, it is deployed on Type 055 destroyers, Type 075 landing helicopter docks, and aircraft carrier Shandong.",
+        "label_text": "deployed "
+    },
+    {
+        "source": "原文 : 肠出血者应禁食，大量出血者应输血，并发肠穿孔时宜及早手术治疗。",
+        "hyp": "文 2 : Patients with intestinal hemorrhage should fast, while those with massive intestinal hemorrhage should receive blood transfusion, and should receive operative treatment as soon as possible in case of intestinal perforation.",
+        "label_text": " in case of intestinal perforation"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 5 : For the Wenkang A Urban Renewal Program (i.e. the Zhongxing Theater Urban Renewal Program), Jiexin Industrial Co., Ltd. acts as the sponsor, Hwatai Bank acts as the financing truster, Wuyuhui Architecture acts as the architectural designer, and GOLD FULL VAST TECHNOLOGY CO., LTD. acts as the construction contractor. According to the urban renewal program, a reinforced concrete structure building will be constructed, consisting of 2 underground floors and 14 above-ground floors. The third to fourteenth floors are proposed to be apartment floors (129 households), while the first and second floors are planned for a shopping mall (17 stores) and a cinema. The building is designed with 73 parking spaces for passenger cars, as well as motor vehicle parking spaces. Moreover, the building incorporates friendly urban space design elements including accessibility facilities, pedestrian walkways, and street corner squares. The entire building will follow the green building method. It is expected that the project will be completed in 2023.",
+        "label_text": "passenger cars"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 4 : On January 3, 2017, the fantasy web series Magic Star premiered, in which Wu Lei (also known as Leo Wu) portrayed the lead role of Zhan Xiongfei, a half-man half-devil young hero. The play ended with over 1.3 billion views in total. Later, Leo Wu played the leading role of Xiao Yan in the costume fantasy drama Battle Through the Heavens adapted from the eponymous novel by Tiancan Tudou, with the female lead portrayed by Lin Yun. On February 3, Leo Wu joined the variety show Twenty-Four Hours Season 2. In March, he joined the drama film Shadow. On May 5, Leo Wu joined the Chinese adventure variety show 72 Floors of Mystery in the capacity of main host. On September 30, the action movie Shanghai Job (S.M.A.R.T. Chase) was released. In the movie, Leo Wu portrayed Tang Dingdang, a genius proficient in various high-end technologies. In the same year, Leo Wu starred the key adventurer Li Cu in the fantasy adventure series Tomb of Sea.",
+        "label_text": "Magic Star"
+    },
+    {
+        "source": "原文 : 科湼夫现在知道了德军正在突围、因而被激怒及决心兑现对史达林不给任何“希特勒分子”或“法西斯分子”逃出包围圈，但是苏联的情报机构在这时高估了德军第3装甲军的装甲力量，因此科湼夫全力出击，这时苏军第20坦克军属下的坦克旅将新型的约瑟夫·史达林式重型坦克带到科尔逊战场，科湼夫命令所有可以使用的装甲车辆及火炮向突围部队开火，切断弧立的敌人及将他们打散，两个负责封锁的苏军步兵师，第206狙击师及第5亲卫空降师已被德军解围部队击败；没有步兵支援的苏军坦克只好从远距离向突围的德军开火，由于没有反坦克武器在战场， T-34型坦克冲入没有掩护的德军，司令部单位、落伍的士兵及救护兵均受攻击。",
+        "hyp": "文 2 : General Konev, now aware of the German breakout, resolved to keep his promise to Stalin not to let the German forces escape. The Soviet Intelligence, however, at this stage vastly overestimated the armored strength of the III Panzer Corps, and Konev therefore proceeded in force. At this time, the tank brigade of the 20th Tank Corps brought the new Joseph Stalin to the Korsun battlefield. Konev ordered all available armor and artillery to attack the escaping units, cutting them into isolated groups and then destroying them piecemeal. The two blocking Soviet rifle divisions, the 206th Rifle and 5th Guards Airborne, had been smashed by the German assault forces. Without infantry support, the Soviet tanks then fired into the German formations from a distance. With no anti-tank weapons in the field, T-34s commenced to wade into support troops, headquarters units, stragglers and Red-Cross identified medical columns.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 1 : But he has a younger sister, Ye Ling, and a younger brother, Ye Zifeng. They are half-blooded.\n Three years ago, his father seemed to recognize that he owed to Ye Mo, so he specifically asked his father to request a marriage with the Ning Family. As Ye Tianwen was possibly clear about his poor health and wanted to find a backer for Ye Mo, he founded the Ning Family in the capital.",
+        "label_text": " They are half-blooded"
+    },
+    {
+        "source": "原文 : 2、绘画部分的解说很棒，有构图分析、草稿分析和历史背景（比如最后的晚餐），但不知道是印刷还是书尺寸问题，有些阴影部分县的太深了，看不清细节，有点遗憾。",
+        "hyp": "文 5 : 2. The explanation of the painting is excellent, involving composition analysis, draft analysis, and historical background (e.g. The Last Supper). However, due to the printing or the book size, it is a pity that the shadows are very dark, making some details unclear.",
+        "label_text": "due "
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 4 : The Ichirouta Mikado came from the assassin clan—Mikado Clan. He developed the skills of assassins through training by his clan. Originally, the Mikado Clan served the wealthy Akizuki Clan of Kazoku. His father was previously engaged in a hand-to-hand fight with the Nue Clan to assassinate the Yintian Clan. After his mother died of an illness, the Akizuki Clan terminated the contract with the Mikado Clan and hired other assassins. To prevent the Mikado Clan from disclosing the secrets of the Akizuki Clan, the Akizuki Clan assigned assassins to kill the father of Ichirouta Mikado. As a result, Ichirouta Mikado and his sister were affected, and their family was broken up. One day, Ichirouta Mikado met Mr. Natsume in a park, who operated a lending company, and borrowed JPY 500,000 from Mr. Natsume for emergencies and investment. To repay Mr. Natsume, Ichirouta Mikado worked for Mr. Natsume, and was therefore designated as the successor to manage the company by Mr. Natsume.",
+        "label_text": "One day, "
+    },
+    {
+        "source": "原文 : 抹茶猫却是丝毫不对眼前的情况感到怪异一样，突然跳到了赵耀的怀里，眯着眼睛蹭着赵耀的身体，奶声奶气道：“和我玩游戏吧。”",
+        "hyp": "文 5 : The matcha cat didn't seem to regard the situation a bit strange, and jumped right into Zhao Yao's arms, squinting its eyes and lying on Zhao Yao's chest, \"Play with me.\"",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 在海外的中餐馆，如在西班牙，小笼包在食客中享有盛誉，由于美味可口，有的西班牙餐馆或酒吧也出售类似中国小笼包的食物，叫做西班牙产中式夹肉面包。",
+        "hyp": "文 4 : In Chinese restaurants in Spain and other foreign countries, Xiaolongbao (Chinese soup dumpling) has gained a great reputation among consumers for its great taste. Some restaurants or bars in Spain even offer similar food, called \"Spanish-made Chinese-style sandwich\".",
+        "label_text": " "
+    }
+]

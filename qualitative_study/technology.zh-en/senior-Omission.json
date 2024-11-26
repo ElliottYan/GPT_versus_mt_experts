@@ -1,0 +1,117 @@
+[
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 5 : The tire pressure monitoring system (TPMS) detects whether the tire pressure is low via sensors in the tires to monitor changes to the tire rolling radius and vibration when the vehicle is running. For the normal operation, TPMS shall be initialized and the current tire pressure value shall be saved. After the initialization, if the pressure of a wheel or wheels is significantly lower than the saved pressure value, the warning indicator on the instrument panel will be on. In case of TPMS fault, the [TPMS] fault warning indicator will be on.",
+        "label_text": "For the normal operation"
+    },
+    {
+        "source": "原文 : 突破美的期待，设计理念重新定义设计美学，通过严谨的比例感、结构感、造型感和技术感进行完美协调",
+        "hyp": "文 4 : The design concept go beyond the expectations of beauty, redefine the design aesthetics, and perfectly present the aesthetics by precise sense of proportion, structure, modeling and technology",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 全新一代动力总成可以使燃烧效率最大化，并搭载全球首次适用的CVVD技术，带来全新的动力体验",
+        "hyp": "文 1 : The new generation of powertrain that can maximize the combustion efficiency brings new power experience together with the worldwide pioneer CVVD technology",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 以百度3.0智能网联平台为基础，可高度识别自然语言指令，带来更轻松的语音控制。以BLE手机蓝牙钥匙为核心的IT配置，实现了多项个性化配置及跨越空间的人车联动。",
+        "hyp": "文 3 : Based on Baidu 3.0 intelligent connection platform, it can efficiently recognize natural language instructions, making voice control much easier. The IT configuration with BLE key as the core provides a lot of personalized configurations and linkage of human and vehicle in different positions.",
+        "label_text": "BLE key"
+    },
+    {
+        "source": "原文 : 专属运动美学风格惊艳登场，动感造型独具个性，运动基因燃动驾控渴望，唤醒驾驶激情。",
+        "hyp": "文 4 : With the stunning exclusive sporty aesthetics and the unique dynamic modeling, the sports genes inspire your desire and passion for driving.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 雅阁的前后车灯都加入了LED光源，除了2.0L车型之外，2.4L和3.0L不但拥有LED日间行车灯，近光灯也同样采用了LED光源。",
+        "hyp": "文 2 : LED lights are added to the headlights and tail lights of Accord. Except for 2.0L, LED daytime running lights and LED-contained low-beam lights are used in 2.4L and 3.0L.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 雅阁的前后车灯都加入了LED光源，除了2.0L车型之外，2.4L和3.0L不但拥有LED日间行车灯，近光灯也同样采用了LED光源。",
+        "hyp": "文 2 : LED lights are added to the headlights and tail lights of Accord. Except for 2.0L, LED daytime running lights and LED-contained low-beam lights are used in 2.4L and 3.0L.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 新一代蒙迪欧酷似阿斯顿·马丁的中网给人带来更多的新鲜感，这也成为消费者对它最多的评价。蒙迪欧的亮点除了它的外形，这台2.0T发动机242马力和350牛·米最大功率和扭矩也足够抢眼，这也使得它成为了很多追求运动风格消费者的最终选择。",
+        "hyp": "文 3 : For the new generation of Mondeo, its grille, which is much like the one of Aston Martin, presents a fresh appearance to the customers, which is the most common comments made by the customers. In addition to the appearance, Mondeo also features such highlight as its 2.0T engine, which outputs 242 hp and maximum power of 350 N·m. It is the determining factor for the customers favoring sport style to choose Mondeo in the end.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 实际测试中，锐志的起步也确实要快于其余10款车型，直到速度达到50km/h以后，它才逐渐被一众增压车型超过。",
+        "hyp": "文 5 : In actual tests, REIZ showed a starting superior to other 10 models and became inferior to the supercharged models gradually only until the speed reached 50 km/h. 　",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 如果档位不在“P(驻车)”档或“N(空档)”档的状态，试图起动发动机，就会显示此警告信息。",
+        "hyp": "文 1 : This warning message will pop up if the driver tries to start the engine when the \"P\" or \"N\" gear is not engaged.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : 如果档位不在“P(驻车)”档或“N(空档)”档的状态，试图起动发动机，就会显示此警告信息。",
+        "hyp": "文 1 : This warning message will pop up if the driver tries to start the engine when the \"P\" or \"N\" gear is not engaged.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : 此模式显示小计里程、油耗等驾驶信息。详细信息请参考本章的“行车电脑”部分。",
+        "hyp": "文 3 : This mode displays the trip, fuel consumption and other driving information. See \"ECU\" section of this chapter for details.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 为了确保行车安全，要操作用户设置模式变更功能设置，必须安全停车，并将档位挂入“P(驻车)”档和牢固啮合驻车制动器。",
+        "hyp": "文 2 : For safe driving, the vehicle must be stopped with the gear engaged in \"P\" gear and with the parking brake firmly before changing the function setting via the user setting mode.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 3月厂商出口方面，上汽乘用车23,654辆、比亚迪13,312辆、特斯拉中国12,206辆、东风易捷特5,664辆、长城汽车4,693辆、哪吒汽车3,727辆、智马达汽车2,658辆、吉利汽车1,170辆、奇瑞汽车564辆、创维汽车517辆、江淮汽车388辆、上汽通用五菱366辆、一汽红旗240辆、东风乘用车164辆、上汽大通140辆。",
+        "hyp": "文 1 : In terms of export by manufacturers, SAIC Motor exported 23,654 passenger vehicles, BYD 13,312, Tesla China 12,206, Dongfeng GEGATE 5,664, GWM 4,693, NETA Auto 3,727, Smart 2,658, Geely 1,170, Chery 564, Skyworth 517, JAC 388, SGMW 366, FAW Hongqi 240, Dongfeng Passenger Vehicle 164 and SAIC Maxus 140.",
+        "label_text": " In terms of export by manufacturers"
+    },
+    {
+        "source": "原文 : 同时随着“年轻化”被越来越多厂商重视起来，新款车型还提供了两种不同的前脸满足更多用户的需求，近日，我们从福州某经销商处获悉，帕萨特目前最高可享3.50万元现金优惠。相当于打了8.2折。",
+        "hyp": "文 4 : At the same time, as more and more manufacturers pay attention to \"catering to the youth\", the new model is equipped with two front faces to meet the needs of more users. Recently, we learned from a dealer in Fuzhou that Passat has provided a cash discount up to RMB 35,000 for now, equal to an discount of 18%.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累计信息时，按住方向盘上的[OK]按钮。此时，小计里程、平均油耗和行车时间会同时被初始化。",
+        "hyp": "文 2 : For manual initialization, press [OK] button on the steering wheel when the cumulative information is displayed. Then the trip, average fuel consumption and driving time will be initialized at the same time.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累计信息时，按住方向盘上的[OK]按钮。此时，小计里程、平均油耗和行车时间会同时被初始化。",
+        "hyp": "文 2 : For manual initialization, press [OK] button on the steering wheel when the cumulative information is displayed. Then the trip, average fuel consumption and driving time will be initialized at the same time.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 动力方面，帕萨特采用了2.0T涡轮增压发动机，最大功率为162kW，搭配7速双离合变速箱，而凯美瑞采用的2.5L发动机最大功率为143kW，搭配8速手自一体变速箱，两车的动力差距并不算大。",
+        "hyp": "文 4 : In terms of power, Passat is equipped with a 2.0T engine with a maximum power of 162 kW and a 7-speed dual-clutch transmission, while Camry is equipped with a 2.5L engine with a maximum power of 143 kW and an 8-speed Tiptronic. There is no large power difference between these two models.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 无人照顾的儿童能将钥匙插入到点火开关内，并可能操作电动门窗或其它控制装置，甚至使车辆移动，从而导致严重或致命人身伤害。",
+        "hyp": "文 2 : Without a person to look after, the child may put the key into the ignition lock, operate the power windows or other controls, or even make the vehicle move, resulting in severe or fatal personal injury.",
+        "label_text": "power windows "
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 5 : A facelift of Lavida under SAIC Volkswagen will be launched between the second half of this year to early next year, and a new model will be officially launched in 2013. The new-generation model of Santana, with a complete replacement of the platform, is also scheduled to be launched in 2012. But the brand name will be followed. ",
+        "label_text": "with a complete replacement of the platform"
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 5 : A facelift of Lavida under SAIC Volkswagen will be launched between the second half of this year to early next year, and a new model will be officially launched in 2013. The new-generation model of Santana, with a complete replacement of the platform, is also scheduled to be launched in 2012. But the brand name will be followed. ",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 索纳塔前车门管状梁外径尺寸约为31.93mm，后管状防撞梁的外径尺寸约为31.21mm。",
+        "hyp": "文 3 : For Sonata, the outer diameter of the tubular bumper beam is about 31.93 mm for the front door and about 31.21 mm for the rear door.",
+        "label_text": "about 31.21 mm for the rear door"
+    },
+    {
+        "source": "原文 : 如果您拿着智能手机并且连接蓝牙钥匙的情况下按下车门、行李箱盖上的按钮，可执行闭锁、开锁动作。如果不能正常工作，可能是智能手机和车辆之间的通信不良，请调整智能手机的位置后重试。",
+        "hyp": "文 2 : If you press the button on the door or trunk lid when you hold your smart phone that is connected the Bluetooth key, you can lock or unlock the door or trunk lid. In case of any malfunction, the communication between the smart phone and the vehicle may be poor. Please adjust the position of your smart phone and try again.",
+        "label_text": " "
+    }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 3 : It is a luxury for ordinary people to eat once a month, so how could he afford to have it every meal?",
+        "label_text": "he"
+    },
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 3 : It is a luxury for ordinary people to eat once a month, so how could he afford to have it every meal?",
+        "label_text": " so how could he afford to have it every meal"
+    },
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 3 : The nine great emperors once ruled the Kunlun Kingdom. Eight hundred years ago, all these became a thing of the past and disappeared in the course of history.",
+        "label_text": "Kingdom"
+    },
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 3 : The nine great emperors once ruled the Kunlun Kingdom. Eight hundred years ago, all these became a thing of the past and disappeared in the course of history.",
+        "label_text": "Eight hundred years ago,"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 2 : Japan developed a colorless and tasteless biochemical weapon, and intended to transport it to China to carry out a terrible plot.",
+        "label_text": "Japan"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 2 : Japan developed a colorless and tasteless biochemical weapon, and intended to transport it to China to carry out a terrible plot.",
+        "label_text": " China "
+    },
+    {
+        "source": "原文 : 1654年，海德薇希·艾蕾诺拉与瑞典国王卡尔十世·古斯塔夫结婚，两人的独子是日后的卡尔十一世。",
+        "hyp": "文 2 : In 1654, Hedwig Eleonora married King Karl X Gustav of Sweden. The couple had one son Karl XI, King of Sweden.",
+        "label_text": "one son"
+    },
+    {
+        "source": "原文 : 九巴报站系统站名出错。",
+        "hyp": "文 5 : The KMB bus stop announcement system displayed an incorrect station name.",
+        "label_text": "displayed an incorrect station name"
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 5 : En, the Spirit Base is damaged! Ling Han frowned. Ling Chongkuan's attack had caused damage to Ling Han's Spirit Base. This was troublesome for Ling Han, as normal medicines would be ineffective.",
+        "label_text": "normal medicines"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 2 : The cat has fluffy white hair on its chest and stomach, and its four paws are white. It is said that such a cat with white paws is very appealing to girls, and can stimulate the brainwaves of these girls, driving them to exclaim \"Ah~ Ah~\".",
+        "label_text": "stimulate the brainwaves"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 2 : The cat has fluffy white hair on its chest and stomach, and its four paws are white. It is said that such a cat with white paws is very appealing to girls, and can stimulate the brainwaves of these girls, driving them to exclaim \"Ah~ Ah~\".",
+        "label_text": "The cat has fluffy white hair on its chest and stomach, and its four paws are white. It is said that such a cat with white paws"
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 4 : (Let me see. The shoes cost over JPY 4,000, equivalent to RMB 200. If I choose \"1\", I don't have shoes, and I'll lose RMB 200.",
+        "label_text": " If I choose \"1\""
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 2 : Style move is a kind of Breaking.",
+        "label_text": "kind"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 2 : Style move is a kind of Breaking.",
+        "label_text": "a kind"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 4 : The Ninth Academy (now the China Academy of Engineering Physics) was initially located in Beijing. Later, the major components and production departments were relocated to Jinyintan, Xihai Town, Haiyan County, Qinghai Province, and the 221 Factory was established. In 1970, the major components and production departments were relocated to a mountainous area in the north of Sichuan Province.",
+        "label_text": "components"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 4 : The Ninth Academy (now the China Academy of Engineering Physics) was initially located in Beijing. Later, the major components and production departments were relocated to Jinyintan, Xihai Town, Haiyan County, Qinghai Province, and the 221 Factory was established. In 1970, the major components and production departments were relocated to a mountainous area in the north of Sichuan Province.",
+        "label_text": "components"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 4 : The Ninth Academy (now the China Academy of Engineering Physics) was initially located in Beijing. Later, the major components and production departments were relocated to Jinyintan, Xihai Town, Haiyan County, Qinghai Province, and the 221 Factory was established. In 1970, the major components and production departments were relocated to a mountainous area in the north of Sichuan Province.",
+        "label_text": "components"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 2 : With the rise of concert culture, Roman Tam performed alone multiple times at the Lee Theatre since 1978. At the same time, he also developed his performing career abroad. He was invited to perform at the Royal Albert Hall, London, in 1979, and the Lincoln Center in New York in 1980, becoming the first Chinese singer to be invited to sing at these two venues. He was the first Chinese singer to hold a solo concert at Madison Square Park in New York. Moreover, he also held a solo concert at the National Theatre in Singapore.",
+        "label_text": " performed alone"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 2 : With the rise of concert culture, Roman Tam performed alone multiple times at the Lee Theatre since 1978. At the same time, he also developed his performing career abroad. He was invited to perform at the Royal Albert Hall, London, in 1979, and the Lincoln Center in New York in 1980, becoming the first Chinese singer to be invited to sing at these two venues. He was the first Chinese singer to hold a solo concert at Madison Square Park in New York. Moreover, he also held a solo concert at the National Theatre in Singapore.",
+        "label_text": "becoming the first Chinese singer to be invited to sing at these two venues"
+    },
+    {
+        "source": "原文 : 脸上有些痒痒的，周围似乎是一片草丛。",
+        "hyp": "文 5 : He felt an itch on his face and noticed that he was lying in a field of grass.",
+        "label_text": " noticed that he was lying in a field of grass"
+    },
+    {
+        "source": "原文 : 脸上有些痒痒的，周围似乎是一片草丛。",
+        "hyp": "文 5 : He felt an itch on his face and noticed that he was lying in a field of grass.",
+        "label_text": "noticed"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": "overall commander"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": "the Girls und Panzer der Film"
+    },
+    {
+        "source": "原文 : “请问，这里是陆寻老师的课堂吗？”",
+        "hyp": "文 3 : Excuse me, is this Mr. Lu Xun's classroom?",
+        "label_text": "Mr. Lu Xun's classroom"
+    },
+    {
+        "source": "原文 : 那笑容在时光看来，像嘲讽。",
+        "hyp": "文 4 : That smile seemed like a mockery to the time.",
+        "label_text": "the time"
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 2 : Xulio Rios, a Spanish expert on Chinese matters and adviser emeritus of the Chinese Policy Observatory website, told us that as China has entered a new stage of epidemic prevention and control, this will further unleash new impetus for economic and social development.",
+        "label_text": "adviser emeritus"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 1 : After the destruction of the Palhalhivolo, the location of the tribe was used by the Kucapungane for planting coarse cereals. Today, there are still the ruins of the ancient city, but the fate of the remnants remains unknown. Although the Karisi (the Rukai people) regained independence and rebuilt their homes, it was finally destructed by a landslide and flood caused by a heavy rain. Today, some people living in Wutai (located in Wutai Village, Wutai Township) are claiming to be the descendants of the Karisi. In addition, the Dalapathan (also known as \"Druluane\" or \"Lulan\"), the descendant of Peleng, led the tribe to win the war, and was therefore known as the \"Military Leader\", exclusively owning Omomos (meaning \"easily foggy\"), the highest place of the Kucapungane. As a result, there were two major head families, i.e. the Dalapathan family, and the original head family—Kadrangilan family.",
+        "label_text": "fate"
+    },
+    {
+        "source": "原文 : “好小子，你有一套！我们走，赶紧扫货！”",
+        "hyp": "文 2 : Good job! You really have a way! Let's go to sweep goods!",
+        "label_text": "really have a way"
+    },
+    {
+        "source": "原文 : 由于与Bootstrap等其他传统CSS框架的基本概念不同，因此了解Tailwind是如何建立的理念及其基本用法非常重要。",
+        "hyp": "文 4 : As Tailwind is different from the basic concepts of Bootstrap and other traditional CSS frameworks, it is important to understand how the concept of Tailwind is built and its basic usage.",
+        "label_text": "the concept of Tailwind is built"
+    },
+    {
+        "source": "原文 : 过了片刻，他看见一名穿着道袍的女子走来，连忙上去打招呼。",
+        "hyp": "文 4 : After a while, he saw a woman in Daoist robe (Daopao) walking over. He hurriedly went up to greet her.",
+        "label_text": "walking over"
+    },
+    {
+        "source": "原文 : 他只提了其中两个处罚，分别是最轻和最重的，其余还有罚做苦力、抄经、杖责、面壁等。",
+        "hyp": "文 1 : He only mentioned two of the punishments, the lightest one and the heaviest one. The rest include coolie punishment, scripture copying, staff punishment, and facing the wall in meditation.",
+        "label_text": "staff punishment"
+    },
+    {
+        "source": "原文 : 打天九和麻将一样，都是中国国粹，但天九在中原几近失传，即使在香港，懂得玩天九的亦越来越少。",
+        "hyp": "文 2 : Both Tien Gow and Mahjong are referred to as the quintessences of Chinese culture. However, Tien Gow has almost failed to be handed down from past generations in the Central Plains, and even in Hong Kong, few people know how to play Tien Gow.",
+        "label_text": "the Central Plains"
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 3 : In terms of administration, Casteljaloux is under the jurisdiction of the Arrondissement of Nérac, Lot-et-Garonne Department, Nouvelle-Aquitaine Region, France. In terms of local election, Casteljaloux is home to the central polling station, and falls into the second constituency of Lot-et-Garonne. In terms of social management, Casteljaloux is part of the Communauté de communes des Coteaux et Landes de Gascogne (a community of municipalities in France).",
+        "label_text": "falls into the second constituency of Lot-et-Garonne"
+    },
+    {
+        "source": "原文 : 根据2014年亚洲铁人三项青年奥运会资格赛的表现，新加坡队有2名选手获得青奥会参赛资格。",
+        "hyp": "文 5 : Singapore qualified two athletes for the Youth Olympic Games based on its performance in the Triathlon at the 2014 Asian Youth Olympic Games Qualification.",
+        "label_text": "Singapore qualified"
+    },
+    {
+        "source": "原文 : 之前一开始还担心相机的包装，这次还好，里面有充气包，相机三码一致，也能在官网注册，快门次数0，其余的就只能等时间检验了 。",
+        "hyp": "文 3 : At first, I was worried about the packaging of the camera. This time, the camera is packaged with an inflatable bag. The three codes of the camera are consistent, and with these codes, I have completed registration on the official website. The shutter count is 0. As for the rest of the camera, time is the ultimate judge.",
+        "label_text": "The three codes of the camera are consistent, and with these codes,"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 4 : In the 49th year of Emperor Kangxi's reign (1710), Emperor Kangxi remembered his old ministers and specifically issued an imperial edict restoring them to their original posts.",
+        "label_text": "1710"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 4 : In the 49th year of Emperor Kangxi's reign (1710), Emperor Kangxi remembered his old ministers and specifically issued an imperial edict restoring them to their original posts.",
+        "label_text": "remembered his old ministers"
+    },
+    {
+        "source": "原文 : 小护士疑惑地看着赵耀说道：“赵先生，你没事吧？”",
+        "hyp": "文 4 : The little nurse looked at Zhao Yao suspiciously and said, \"Mr. Zhao, are you alright?\"",
+        "label_text": "little"
+    },
+    {
+        "source": "原文 : 小护士疑惑地看着赵耀说道：“赵先生，你没事吧？”",
+        "hyp": "文 4 : The little nurse looked at Zhao Yao suspiciously and said, \"Mr. Zhao, are you alright?\"",
+        "label_text": "suspiciously"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 4 : On January 3, 2017, the fantasy web series Magic Star premiered, in which Wu Lei (also known as Leo Wu) portrayed the lead role of Zhan Xiongfei, a half-man half-devil young hero. The play ended with over 1.3 billion views in total. Later, Leo Wu played the leading role of Xiao Yan in the costume fantasy drama Battle Through the Heavens adapted from the eponymous novel by Tiancan Tudou, with the female lead portrayed by Lin Yun. On February 3, Leo Wu joined the variety show Twenty-Four Hours Season 2. In March, he joined the drama film Shadow. On May 5, Leo Wu joined the Chinese adventure variety show 72 Floors of Mystery in the capacity of main host. On September 30, the action movie Shanghai Job (S.M.A.R.T. Chase) was released. In the movie, Leo Wu portrayed Tang Dingdang, a genius proficient in various high-end technologies. In the same year, Leo Wu starred the key adventurer Li Cu in the fantasy adventure series Tomb of Sea.",
+        "label_text": "main host"
+    },
+    {
+        "source": "原文 : 科湼夫现在知道了德军正在突围、因而被激怒及决心兑现对史达林不给任何“希特勒分子”或“法西斯分子”逃出包围圈，但是苏联的情报机构在这时高估了德军第3装甲军的装甲力量，因此科湼夫全力出击，这时苏军第20坦克军属下的坦克旅将新型的约瑟夫·史达林式重型坦克带到科尔逊战场，科湼夫命令所有可以使用的装甲车辆及火炮向突围部队开火，切断弧立的敌人及将他们打散，两个负责封锁的苏军步兵师，第206狙击师及第5亲卫空降师已被德军解围部队击败；没有步兵支援的苏军坦克只好从远距离向突围的德军开火，由于没有反坦克武器在战场， T-34型坦克冲入没有掩护的德军，司令部单位、落伍的士兵及救护兵均受攻击。",
+        "hyp": "文 2 : General Konev, now aware of the German breakout, resolved to keep his promise to Stalin not to let the German forces escape. The Soviet Intelligence, however, at this stage vastly overestimated the armored strength of the III Panzer Corps, and Konev therefore proceeded in force. At this time, the tank brigade of the 20th Tank Corps brought the new Joseph Stalin to the Korsun battlefield. Konev ordered all available armor and artillery to attack the escaping units, cutting them into isolated groups and then destroying them piecemeal. The two blocking Soviet rifle divisions, the 206th Rifle and 5th Guards Airborne, had been smashed by the German assault forces. Without infantry support, the Soviet tanks then fired into the German formations from a distance. With no anti-tank weapons in the field, T-34s commenced to wade into support troops, headquarters units, stragglers and Red-Cross identified medical columns.",
+        "label_text": "the German forces"
+    },
+    {
+        "source": "原文 : 科湼夫现在知道了德军正在突围、因而被激怒及决心兑现对史达林不给任何“希特勒分子”或“法西斯分子”逃出包围圈，但是苏联的情报机构在这时高估了德军第3装甲军的装甲力量，因此科湼夫全力出击，这时苏军第20坦克军属下的坦克旅将新型的约瑟夫·史达林式重型坦克带到科尔逊战场，科湼夫命令所有可以使用的装甲车辆及火炮向突围部队开火，切断弧立的敌人及将他们打散，两个负责封锁的苏军步兵师，第206狙击师及第5亲卫空降师已被德军解围部队击败；没有步兵支援的苏军坦克只好从远距离向突围的德军开火，由于没有反坦克武器在战场， T-34型坦克冲入没有掩护的德军，司令部单位、落伍的士兵及救护兵均受攻击。",
+        "hyp": "文 2 : General Konev, now aware of the German breakout, resolved to keep his promise to Stalin not to let the German forces escape. The Soviet Intelligence, however, at this stage vastly overestimated the armored strength of the III Panzer Corps, and Konev therefore proceeded in force. At this time, the tank brigade of the 20th Tank Corps brought the new Joseph Stalin to the Korsun battlefield. Konev ordered all available armor and artillery to attack the escaping units, cutting them into isolated groups and then destroying them piecemeal. The two blocking Soviet rifle divisions, the 206th Rifle and 5th Guards Airborne, had been smashed by the German assault forces. Without infantry support, the Soviet tanks then fired into the German formations from a distance. With no anti-tank weapons in the field, T-34s commenced to wade into support troops, headquarters units, stragglers and Red-Cross identified medical columns.",
+        "label_text": "then destroying them piecemeal"
+    },
+    {
+        "source": "原文 : 科湼夫现在知道了德军正在突围、因而被激怒及决心兑现对史达林不给任何“希特勒分子”或“法西斯分子”逃出包围圈，但是苏联的情报机构在这时高估了德军第3装甲军的装甲力量，因此科湼夫全力出击，这时苏军第20坦克军属下的坦克旅将新型的约瑟夫·史达林式重型坦克带到科尔逊战场，科湼夫命令所有可以使用的装甲车辆及火炮向突围部队开火，切断弧立的敌人及将他们打散，两个负责封锁的苏军步兵师，第206狙击师及第5亲卫空降师已被德军解围部队击败；没有步兵支援的苏军坦克只好从远距离向突围的德军开火，由于没有反坦克武器在战场， T-34型坦克冲入没有掩护的德军，司令部单位、落伍的士兵及救护兵均受攻击。",
+        "hyp": "文 2 : General Konev, now aware of the German breakout, resolved to keep his promise to Stalin not to let the German forces escape. The Soviet Intelligence, however, at this stage vastly overestimated the armored strength of the III Panzer Corps, and Konev therefore proceeded in force. At this time, the tank brigade of the 20th Tank Corps brought the new Joseph Stalin to the Korsun battlefield. Konev ordered all available armor and artillery to attack the escaping units, cutting them into isolated groups and then destroying them piecemeal. The two blocking Soviet rifle divisions, the 206th Rifle and 5th Guards Airborne, had been smashed by the German assault forces. Without infantry support, the Soviet tanks then fired into the German formations from a distance. With no anti-tank weapons in the field, T-34s commenced to wade into support troops, headquarters units, stragglers and Red-Cross identified medical columns.",
+        "label_text": "support troops, headquarters units, stragglers and Red-Cross identified medical columns."
+    },
+    {
+        "source": "原文 : 三颗星是怪自己马虎没看清楚商品规格，你卖M码电商版我没意见，你货不对版是几个意思？",
+        "hyp": "文 3 : The three-star rating was due to my own reason that I didn't carefully read the product specification. You are selling the middle-sized version for e-commerce platforms. I have no problem with it, but I don't understand why your product does not correspond with the version I've received.",
+        "label_text": "the version I've received"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 4 : For the second Totes umbrella, 1. It does not have an umbrella cover; 2. The material quality of the umbrella handle is far; 3. Although the umbrella is clearly marked with \"Large\", it is actually a portable umbrella for one person.",
+        "label_text": "far"
+    },
+    {
+        "source": "原文 : “将外星飞船与气象气球混为一谈的讽刺意味很令人惊讶，但这不值得引发一场星际冲突，”梅杰说。",
+        "hyp": "文 2 : \"Although the irony of mistaking a UFO as a weather balloon is surprising, it's not worth triggering a star conflict\", Major said.",
+        "label_text": "star conflict"
+    },
+    {
+        "source": "原文 : 这些著作推动了罗马法向司法实践最底层的进一步渗透，对当时的法盲们也有潜移默化的影响。",
+        "hyp": "文 5 : These works promoted the further penetration of the Roman law into the lowest level of legal practice, subtly influencing the persons ignorant of the law at that time.",
+        "label_text": "legal practice"
+    },
+    {
+        "source": "原文 : 丁丁把模型船带回家陈列，但它在米鲁和邻居的猫互相追逐的时候摔坏了，一只羊皮纸卷轴从摔断的船桅中空掉了出来，滚进桌下，米鲁试图提醒丁丁但失败了。",
+        "hyp": "文 4 : After Tintin takes the model home to his apartment, it gets accidentally broken during a chase between Snowy and a cat. A parchment scroll then slips out from the broken mast and rolls under the desk. Snowy tries to remind Tintin but fails.",
+        "label_text": "model home"
+    },
+    {
+        "source": "原文 : “哦，这么厉害？” 张汉惊疑一声拒绝道：“那我不比了。”",
+        "hyp": "文 1 : \"Oh, so amazing?\" Zhang Han refused with a sigh, \"I can't.\"",
+        "label_text": "sigh"
+    },
+    {
+        "source": "原文 : “哦，这么厉害？” 张汉惊疑一声拒绝道：“那我不比了。”",
+        "hyp": "文 1 : \"Oh, so amazing?\" Zhang Han refused with a sigh, \"I can't.\"",
+        "label_text": "I can't"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 1 : An article published by the Billboard in August 2021 pointed out that the band's fans have \"through above-board means\" taken advantage of loopholes in chart tabulations to boost the ranks of singles such as \"Butter\" in the US and help the song top the Hot 100 for multiple weeks. While the chart performance of singles on the Hot 100 typically depends on streaming and airplay, that of \"Butter\" was notably driven mostly by sales (the bulk of which came from BTS' webstore, which allows fans to buy multiple copies of a song, unlike iTunes) and by fan-led crowdfunding efforts (including using money collected from fans worldwide on services like PayPal to make purchases that count toward US sales only). However, an article in The Korea Times pushed back against claims of chart manipulation. It opined that fanbases of other artists such as Justin Bieber and Ariana Grande have employed similar promotional measures, such measures were neither illegal nor unethical, and fans engaged in those measures were merely \"intelligent consumers leading global trends\".",
+        "label_text": "intelligent consumers"
+    },
+    {
+        "source": "原文 : 2016年12月28日上午10时开行往贵阳北、南宁、玉溪站方向的动车组列车，三班首发列车分别是开往贵阳北的G4136次、开往南宁的D4208次以及开往玉溪的D9109次。",
+        "hyp": "文 1 : At 10:00 a.m. on December 28, 2016, three trains, i.e. G4136, D4208, and D9109, departed for Guiyang North Railway Station, Nanning Railway Station, and Yuxi Railway Station for the first time.",
+        "label_text": "three trains"
+    },
+    {
+        "source": "原文 : 楚阳的身躯缓缓从空中落下，缓缓倒了下去，便如晚秋飘零的枯叶，倒在尘埃，脸上带着淡淡的却温暖的笑，喃喃的道：“轻舞，若是有来生，伴君天下舞！”",
+        "hyp": "文 3 : Chu Yang slowly fell from the sky, and slowly fell down, just like a fallen leaf in late autumn dropping into dust. He had a weak but warm smile, and murmured, \"Qing Wu, if there is eternity, I will stay with you!\"",
+        "label_text": "eternity"
+    },
+    {
+        "source": "原文 : 机长、副机长决定在无法完全控制飞机的情况下遵循飞机左转的势头绕圈并降落，飞机继续向西北方向飞行。",
+        "hyp": "文 4 : The captain and first officer decided to follow the trend of the plane's left turn to circle and land if they completely lost control of the plane. However, the plane continued to fly in the northwest direction.",
+        "label_text": "if"
+    },
+    {
+        "source": "原文 : 各种仙侠里的专用词汇。",
+        "hyp": "文 5 : Various words tailored for the Mythical Realm.",
+        "label_text": "Mythical Realm"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 4 : The Ichirouta Mikado came from the assassin clan—Mikado Clan. He developed the skills of assassins through training by his clan. Originally, the Mikado Clan served the wealthy Akizuki Clan of Kazoku. His father was previously engaged in a hand-to-hand fight with the Nue Clan to assassinate the Yintian Clan. After his mother died of an illness, the Akizuki Clan terminated the contract with the Mikado Clan and hired other assassins. To prevent the Mikado Clan from disclosing the secrets of the Akizuki Clan, the Akizuki Clan assigned assassins to kill the father of Ichirouta Mikado. As a result, Ichirouta Mikado and his sister were affected, and their family was broken up. One day, Ichirouta Mikado met Mr. Natsume in a park, who operated a lending company, and borrowed JPY 500,000 from Mr. Natsume for emergencies and investment. To repay Mr. Natsume, Ichirouta Mikado worked for Mr. Natsume, and was therefore designated as the successor to manage the company by Mr. Natsume.",
+        "label_text": "hand-to-hand fight "
+    },
+    {
+        "source": "原文 : “不，我认真的。” 女子不知悔改的举了举手，肩头却不自觉下垂，显得更弱了，“你们真没必要出去找人报仇。”",
+        "hyp": "文 1 : \"No, I'm serious.\" The woman raised her hand, showing no repentance. However, her gesture only caused her shoulder to slouch even further, making her look even weaker. \"There is no need for you to seek revenge.\"",
+        "label_text": "However, her gesture only caused her shoulder to slouch even further"
+    },
+    {
+        "source": "原文 : 抹茶猫却是丝毫不对眼前的情况感到怪异一样，突然跳到了赵耀的怀里，眯着眼睛蹭着赵耀的身体，奶声奶气道：“和我玩游戏吧。”",
+        "hyp": "文 5 : The matcha cat didn't seem to regard the situation a bit strange, and jumped right into Zhao Yao's arms, squinting its eyes and lying on Zhao Yao's chest, \"Play with me.\"",
+        "label_text": "lying on Zhao Yao's chest"
+    },
+    {
+        "source": "原文 : 说起来，如果不是真的被逼到走投无路，他又如何愿意送出自己的亲生女儿？毕竟那个洪大力，堪称人间的一朵奇葩，他唯一喜欢做或者说会做的事情，就是两个字：败家。",
+        "hyp": "文 5 : To be honest, if it wasn't because he had no choice, would he be willing to give away his precious daughter to such a worthless person as Hong Dali? After all, Hong Dali could be said to be a weirdo in the world. The only thing Hong Dali liked to do, or the only thing Hong Dali said he would do, can be concluded as \"dissipating his wealth\".",
+        "label_text": "Hong Dali said he would do"
+    },
+    {
+        "source": "原文 : “这回可真是没话说了，我不无敌谁无敌？”",
+        "hyp": "文 5 : \"I truly have nothing to say this time. If I'm not invincible, I don't know who could be.\"",
+        "label_text": "I truly have nothing to say this time"
+    },
+    {
+        "source": "原文 : “耍流氓啊……”一个绝对是高分贝的女高音，就在叶默面前响起，叶默刚才只顾检查自己的小**，居然忘了查看周围的情况。 没想到这个小胡同还是连通的，只是前面的转弯处这里看不到而已。",
+        "hyp": "文 5 : \"You're shameless.\" This was absolutely a high-pitched woman's voice, and it sounded right in front of Ye Mo. Just now, Ye Mo was so focused on examining his own body that he forgot to check the surroundings. Unexpectedly, this alleyway was interconnected. He didn't see this at the turning point ahead.",
+        "label_text": " examining his own body "
+    },
+    {
+        "source": "原文 : “耍流氓啊……”一个绝对是高分贝的女高音，就在叶默面前响起，叶默刚才只顾检查自己的小**，居然忘了查看周围的情况。 没想到这个小胡同还是连通的，只是前面的转弯处这里看不到而已。",
+        "hyp": "文 5 : \"You're shameless.\" This was absolutely a high-pitched woman's voice, and it sounded right in front of Ye Mo. Just now, Ye Mo was so focused on examining his own body that he forgot to check the surroundings. Unexpectedly, this alleyway was interconnected. He didn't see this at the turning point ahead.",
+        "label_text": "He didn't see this at the turning point ahead"
+    },
+    {
+        "source": "原文 : “这谁点的三会传？”他随口问了句小厮。",
+        "hyp": "文 5 : \"Who ordered the Sanhuizhuan\", he asked the manservant without thinking.",
+        "label_text": "without thinking"
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 2 : \"You...\" Gu Jingze was just about to turn around and catch her when he felt a wave of discomfort. His penis couldn't refrain from erection once again.",
+        "label_text": "discomfort"
+    },
+    {
+        "source": "原文 : 百善孝为先，张汉当初虽说叛逆，但心底对父母的爱也不低于他人。",
+        "hyp": "文 2 : Filial piety is the foundation of all virtues. Although Zhang Han was rebellious back then, deep down in his heart, his love for his parents was not less than his parents' love for him.",
+        "label_text": "foundation"
+    },
+    {
+        "source": "原文 : 百善孝为先，张汉当初虽说叛逆，但心底对父母的爱也不低于他人。",
+        "hyp": "文 2 : Filial piety is the foundation of all virtues. Although Zhang Han was rebellious back then, deep down in his heart, his love for his parents was not less than his parents' love for him.",
+        "label_text": "was not less than his parents' love for him"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 5 : Ku Kam Fai was born in Hong Kong and grew up in Tsuen Wan. He started his football career at the Tsuen Wan Football Club and transferred to the Eastern Sports Club in 1983. In 1984, he was invited by head coach Lin Jianyue to join the South China AA, where he became a keyman. He was selected as one of the Best Eleven Players 8 times during the selection of Hong Kong Football Stars. In 1987, he received the Hong Kong Top Footballer Award. At the age of 38, Ku Kam Fai retired from the football team and served as the assistant coach. On June 19, 2017, the board of directors of the South China AA held a meeting. At the meeting, all the executive committee members reexamined the team's development in recent years. Finally, it was unanimously agreed that South China AA would withdraw from the Hong Kong Premier League in the upcoming season and compete in the First Division League matches to cultivate young players. To minimize the expenses of the football department, the South China AA decided to retain only Ku Kam Fai who had served the team for more than thirty years.",
+        "label_text": "head coach"
+    }
+]

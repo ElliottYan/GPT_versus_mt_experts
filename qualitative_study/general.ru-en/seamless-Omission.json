@@ -1,0 +1,117 @@
+[
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 1 : Former Argentine footballer Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Отличный магазин, покупаю товары у них уже достаточно давно, с самого открытия.",
+        "hyp": "文 4 : It's a great store, I've been buying from them for a long time, since they opened.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 5 : On the day of arrival, they called, told us what time to wait for us, gave us information about the cost of the transfer (1400 from the airport), we ordered a taxi (at 23:00 the price was 850 r), we arrived quickly, there was no traffic jam, they let us in without any problems.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 5 : Hereditary optic neuropathies (HON) are a group of neurodegenerative diseases characterized by the primary loss of structure and function of retinal ganglion cells with subsequent death of their axons, development of partial atrophy of the optic nerves.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 4 : Nevertheless, we will talk about the International Film Festival next time (until I complain that this year in the minds of the organizers finally strengthened the inexplicable idea that the lucky owners of purchased tickets are much more important for the festival than accredited guests, a ridiculous and quite offensive principle, which does not sin any normal film festival in the world), and in this issue we report on what we saw in Cannes and at \"Kinotavr\".",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 4 : Nevertheless, we will talk about the International Film Festival next time (until I complain that this year in the minds of the organizers finally strengthened the inexplicable idea that the lucky owners of purchased tickets are much more important for the festival than accredited guests, a ridiculous and quite offensive principle, which does not sin any normal film festival in the world), and in this issue we report on what we saw in Cannes and at \"Kinotavr\".",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Статистический отчет за 2017-2020 гг. показал, что в амбулаторных условиях многопрофильной стоматологической клиники, оказывающей услуги по системе обязательного медицинского страхования населению мегаполиса, наблюдается прирост численности врачей по исследуемому профилю до 304,5% и среднего медицинского персонала до 256,3% за счет молодых кадров.",
+        "hyp": "文 5 : The statistical report for 2017-2020 showed that in the outpatient conditions of the multi-profile dental clinic, which provides services under the compulsory health insurance system to the population of the metropolis, there is an increase in the number of doctors in the surveyed profile to 304.5% and the average medical staff to 256.3%.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Статистический отчет за 2017-2020 гг. показал, что в амбулаторных условиях многопрофильной стоматологической клиники, оказывающей услуги по системе обязательного медицинского страхования населению мегаполиса, наблюдается прирост численности врачей по исследуемому профилю до 304,5% и среднего медицинского персонала до 256,3% за счет молодых кадров.",
+        "hyp": "文 5 : The statistical report for 2017-2020 showed that in the outpatient conditions of the multi-profile dental clinic, which provides services under the compulsory health insurance system to the population of the metropolis, there is an increase in the number of doctors in the surveyed profile to 304.5% and the average medical staff to 256.3%.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 5 : At a round table devoted to the fate of the Russian art house, the chairman of the Foundation for the Support of Russian Cinema, Sergei Tolstykov, had a picturesque quarrel with the critics: \"Do you even read the articles in the press that I read?\" he asked the audience.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 5 : At a round table devoted to the fate of the Russian art house, the chairman of the Foundation for the Support of Russian Cinema, Sergei Tolstykov, had a picturesque quarrel with the critics: \"Do you even read the articles in the press that I read?\" he asked the audience.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Марина, прекрасно понимая в каком состоянии находятся близкие, давала советы, как будет лучше и просто по-человечески сочувствовала нам.",
+        "hyp": "文 2 : Marina, well aware of the plight of her loved ones, advised us on how to do better and simply sympathized with us.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Миграционная служба Аргентины начала приостанавливать и отменять действие вида на жительство (ВНЖ) россиян, получивших его через рождение ребенка, но не оставшихся жить в стране.",
+        "hyp": "文 2 : The Migration Service of Argentina began to suspend and revoke the residence permit of Russians who received it through the birth of a child, but did not stay to live in the country.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Миграционная служба Аргентины начала приостанавливать и отменять действие вида на жительство (ВНЖ) россиян, получивших его через рождение ребенка, но не оставшихся жить в стране.",
+        "hyp": "文 2 : The Migration Service of Argentina began to suspend and revoke the residence permit of Russians who received it through the birth of a child, but did not stay to live in the country.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Махачев получил престижную награду от UFC - РТ на русском",
+        "hyp": "文 3 : Makhachev received a prestigious award from the UFC.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Машину расчитывал получить месяца через 3-3,5 (как было оговорено), но факту вышло 4,5 месяца - задержка была вызвана обстановкой на границе Литвы с Белоруссией (Литва исполняла).",
+        "hyp": "文 4 : The car was expected to arrive in three to three and a half months, but in fact it took four and a half months - the delay was caused by the situation on the border of Lithuania with Belarus.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Использование интраоперационного нейрофизиологического картирования коры головного мозга у пациентки в сознании по протоколу <i>asleep-awake-sedation</i> позволило верифицировать локализацию речевой зоны Вернике.",
+        "hyp": "文 2 : The use of intraoperative neurophysiological mapping of the cerebral cortex in a conscious patient according to the asleep-awake-sedation protocol allowed to verify the localization of the speech zone of Wernicke.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Использование интраоперационного нейрофизиологического картирования коры головного мозга у пациентки в сознании по протоколу <i>asleep-awake-sedation</i> позволило верифицировать локализацию речевой зоны Вернике.",
+        "hyp": "文 2 : The use of intraoperative neurophysiological mapping of the cerebral cortex in a conscious patient according to the asleep-awake-sedation protocol allowed to verify the localization of the speech zone of Wernicke.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В статье изложены эпидемиологические и демографические характеристики патологического ожирения, по данным современной литературы.",
+        "hyp": "文 3 : The article outlines the epidemiological and demographic characteristics of pathological obesity, according to modern literature.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : При анализе данных мф-ЭРГ в исследуемой группе обнаружено статистически значимое по сравнению с группой контроля снижение плотности биопотенциала Р1 (нВ/град<sup>2</sup>) центральной зоны сетчатки (0—27,7°; <i>p</i><0,05), отличия латентности Р1 (ms) были статистически незначимы (<i>p</i>>0,05).",
+        "hyp": "文 3 : In the analysis of mRNA-EEG data in the study group, a statistically significant decrease in the bio-potential density of the central area of the retina (0.27.7°) was detected in comparison with the control group, and the differences in the latency of mRNA were statistically insignificant (0.05°).",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : При анализе данных мф-ЭРГ в исследуемой группе обнаружено статистически значимое по сравнению с группой контроля снижение плотности биопотенциала Р1 (нВ/град<sup>2</sup>) центральной зоны сетчатки (0—27,7°; <i>p</i><0,05), отличия латентности Р1 (ms) были статистически незначимы (<i>p</i>>0,05).",
+        "hyp": "文 3 : In the analysis of mRNA-EEG data in the study group, a statistically significant decrease in the bio-potential density of the central area of the retina (0.27.7°) was detected in comparison with the control group, and the differences in the latency of mRNA were statistically insignificant (0.05°).",
+        "label_text": "°"
+    },
+    {
+        "source": "原文 : СЮЖЕТ: Оттрубив свои четыре года, 18-летний зэк Сильвиу (Пистереану) скоро должен выйти на свободу, но неожиданно выясняет, что мать хочет забрать его младшего брата с собой в Италию.",
+        "hyp": "文 4 : After serving his four years, 18-year-old Zack Silvio (Pisteriano) is about to be released, but unexpectedly finds out that his mother wants to take his younger brother with her to Italy.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Темп прироста решений и определений судов об удовлетворении требований компенсации морального вреда в размерах, превышающих 100 тыс. руб., составил 44% с 2013 по 2022 г.",
+        "hyp": "文 3 : The rate of increase in court decisions and determinations to satisfy claims for compensation for moral damages in the amount of more than 100 thousand rubles was 44% from 2013 to 2022.",
+        "label_text": " "
+    }
+]

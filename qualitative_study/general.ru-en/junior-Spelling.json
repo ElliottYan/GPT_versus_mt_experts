@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : Сельхозтоваропроизводители округа эту роль с честью выполняют, - подчеркнул Анатолий Прокопьев.",
+        "hyp": "文 3 : Agricultural producers of the district fulfil this role with honour, - underlined Anatoliy Prokopyev.",
+        "label_text": "Anatoliy"
+    },
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 4 : In the village Granovshchina Prime Minister got acquainted with the work of a new educational institution - Granov school, which was opened in September 2022.",
+        "label_text": "Granov"
+    },
+    {
+        "source": "原文 : В РОЛЯХ: Луиз Бургузн, Матье Амальрик, Фредерик Бель, Жиль Лелуш",
+        "hyp": "文 4 : Cast: Louise Bourgoise, Mathieu Amalric, Frédéric Belle, Gilles Lelouch",
+        "label_text": "Cast"
+    },
+    {
+        "source": "原文 : прогноз на матч клубного чемпионата мира 11 февраля 2023 года.",
+        "hyp": "文 2 : Prediction for the Club World Cup match on 11 February 2023.",
+        "label_text": "Prediction"
+    }
+]

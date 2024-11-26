@@ -1,0 +1,147 @@
+[
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 1 : Eight hundred years ago, the Nine Emperors, rulers of the Kunlun Realm, completely became the past and disappeared in the long history.",
+        "label_text": " became the past "
+    },
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 1 : Eight hundred years ago, the Nine Emperors, rulers of the Kunlun Realm, completely became the past and disappeared in the long history.",
+        "label_text": " became the past "
+    },
+    {
+        "source": "原文 : 这场地震是日本有观测纪录到以来第一个震级超过9的地震。",
+        "hyp": "文 3 : This is the first earthquake with a magnitude exceeding 9 in Japan's recorded history.",
+        "label_text": "Japan's recorded history"
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 2 : \"My Spirit Root is injured still!\" Ling Han murmured with a frown. Ling Zhongkuan's attack hurt his Spirit Root, which was a troublesome injury that could not be healed through ordinary therapies.",
+        "label_text": "injured still"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 1 : It has a large patch of fluffy white hair on the chest and the belly, with some on the four claws. It is said that these snow-white gloves have a strong appeal to girls and can control their brain waves, making them elicit sounds of \"Ah.\"",
+        "label_text": "making them elicit"
+    },
+    {
+        "source": "原文 : 听到可以成为新生第一，又夸她是天才，女孩脸上情不自禁的露出火热，连忙询问：“不过，什么？”",
+        "hyp": "文 4 : After hearing that she might gain the highest score among new students and that he acclaimed her as a genius, she could not help but exhibit strong interest. She asked hastily, \"But what?\"",
+        "label_text": "he acclaimed her as a genius"
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 5 : (I did accounts. This pair of shoes cost more than 4,000 yen, about 200 yuan. Option 1: if I didn’t have the shoes, I would lose 200 yuan.",
+        "label_text": "I did accounts."
+    },
+    {
+        "source": "原文 : 就只能拜托卖家赶紧发货。",
+        "hyp": "文 3 : I can only request the seller to ship the goods in a hurry.",
+        "label_text": "ship the goods in a hurry"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 2 : During the seminar, guided by Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era, all trainees earnestly studied the spirit of the 20th National Congress of the Communist Party of China (CPC) and General Secretary Xi Jinping's important speech at the opening ceremony of the seminar. In-depth discussions and exchanges were conducted based on actual conditions to deepen their understanding of a series of major theoretical and practical problems from Chinese-style modernization. This also helped strengthen their confidence and determination to comprehensively promote the great rejuvenation of the Chinese nation through Chinese-style modernization under the strong leadership of the CPC with Comrade Xi Jinping as the core, and enhance their sense of responsibility and mission to fulfill their duties, do a good job, and ensure a good start of the new journey in the new era.",
+        "label_text": "the spirit of the 20th National Congress "
+    },
+    {
+        "source": "原文 : 为了避免引起外界不必要的忧虑，误以为香港政府的财政实力及宏观经济的基础转弱，而影响香港的信贷评级，因此建议中的未来基金将仍然被列为香港政府财政储备的一部分。",
+        "hyp": "文 4 : To avoid affecting Hong Kong's credit rating due to the outside community's unnecessary concerns and mistaken belief that the HK government's fiscal strength and macroeconomic fundamentals have weakened, it is recommended that future funds should remain listed as part of the HK government's fiscal reserves.",
+        "label_text": "outside community"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 4 : The 25A rolling stock is one of the centralized power supply air-conditioned passenger coach models of China Railways. Financed by loans, it is jointly manufactured by several domestic railway factories through international bidding. As 160 units of this model are produced, it is generally known as the \"168 passenger coach.\"",
+        "label_text": "centralized power supply air-conditioned passenger coach models"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 3 : With the rise of concert culture, Roman Tam had held many solo concerts in the Lee Theatre since 1978. Meanwhile, he also put his performances on overseas markets, becoming the first Oriental singer to perform in the Royal Albert Hall (1979) in London, the UK, and the first Chinese singer to perform in the Lincoln Center (1980) in New York, the USA. Later, solo concerts were also delivered at the National Theatre of Singapore and the Madison Square in New York, the USA. The latter witnessed his excellence as the first Chinese singer to hold a solo concert.",
+        "label_text": "put his performances on overseas markets"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 4 : She is the overall commander and messenger of the M4 Sherman (76mm Gun) Tank Team (vice commander of the Tank Division). She is a sophomore at the Saunders University High School and her first appearance is in Episode 4 of this season. She is good at planning tactics and is the military advisor of the team. However, she is easy to get emotional and nervous in tank competitions. When her team was competing with the Oarai Girls' Academy's team, her flurried and dejected behavior affected the morale of other teammates. She took advantage of a rule loophole and secretly used a spy balloon to eavesdrop on intelligence. However, she was beaten back by a counter-blow, which resulted in the team's loss of advantages and the final defeat. Because of the cheat, she was punished by Kay. When she is sad or angry, she will inexplicably mention the boy (called Takashi) she has a crush on. In the film adaptation, she was consoled by the Rabbit Team for this reason. Despite her usual sharp tongue and bad ideas, she is inherently simple-minded and is merely a somewhat silly girl with a complex personality. In Episode 3 of the final season, she fell into a trap planned by the Continuation High School, and thus, the flag tank she was commanding was destroyed.",
+        "label_text": "overall commander"
+    },
+    {
+        "source": "原文 : 这鞋很“窄”，虽然前面还留着距离，但是感觉紧紧的。",
+        "hyp": "文 2 : This pair of shoes is narrow, so my feet feel tight when being put in it, despite some room left for toes.",
+        "label_text": "so my feet feel tight when being put in it"
+    },
+    {
+        "source": "原文 : 秋去冬来，两人互相寄了贺年卡，希望新的一年能多加关照。",
+        "hyp": "文 5 : As fall turned into winter, the two sent each other New Year cards, expecting the other side to give kind consideration in the coming new year.",
+        "label_text": "give kind consideration"
+    },
+    {
+        "source": "原文 : 最近发现接通电源时，不充电，需要用手左右扶几下充电器和线的连接处，才能充上电。",
+        "hyp": "文 2 : A recent finding shows that the charger cannot charge any device when plugged in. Charging is available only when the connection between the charger and the charging cable is fastened with hands a few times.",
+        "label_text": "A recent finding shows"
+    },
+    {
+        "source": "原文 : 由于与Bootstrap等其他传统CSS框架的基本概念不同，因此了解Tailwind是如何建立的理念及其基本用法非常重要。",
+        "hyp": "文 1 : It is important to understand Tailwind's establishment concept and basic usage due to its difference from the basic concepts of other traditional CCS frameworks such as Bootstrap.",
+        "label_text": "establishment concept"
+    },
+    {
+        "source": "原文 : 肠出血者应禁食，大量出血者应输血，并发肠穿孔时宜及早手术治疗。",
+        "hyp": "文 3 : Those with intestinal bleeding should eat no food. Those bleeding too much should receive transfusions. When intestinal perforation is found, surgical treatment should be accepted as soon as possible.",
+        "label_text": "accepted"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 3 : On January 3, 2017, the costume fantasy series Magic Star, where Wu Lei starred as Zhan Xiongfei (a half-human and half-demon young hero), premiered. The series created a record of over 1.3 billion viewership by the last episode. Later, he co-starred with Lin Yun in the costume fantasy series Battle Through the Heaven, which was adapted from the popular novel of the same name by Tiancan Tudou. In this series, he portrayed Xiao Yan. On February 3, he continued to join the reality show Twenty-Four Hours Season 2. In March, he played a cameo role in the story film Shadow. On May 5, he participated in the original cultural adventure program 72 Floors of Mystery as a fixed host. On September 30, the action film S.M.A.R.T. Chase starring Wu Lei premiered and he played the role of Tang Dingdang, a young genius well versed in various advanced technologies, in the film. In the same year, he also starred in the adventure series Tomb of the Sea, where he played the role of Li Cu, a key member of the adventure team.",
+        "label_text": " the costume fantasy series Magic Star, where Wu Lei starred as Zhan Xiongfei (a half-human and half-demon young hero), premiered"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 4 : But he also has a younger sister named Ye Ling and a younger brother called Ye Zifeng. They are not from the same mother as him, but rather half-siblings from the same father. Three years ago, their father seemed to realize his indebtedness to Ye Mo. He specifically proposed a marriage alliance with the Ning family. It is very likely that Ye Tianwen knew that his physical condition was not good, so he wanted to find a strong backing for Ye Mo, which is why he approached the Ning family in the capital.",
+        "label_text": "They are not from the same mother as him, but rather half-siblings from the same father. "
+    },
+    {
+        "source": "原文 : “哦，这么厉害？” 张汉惊疑一声拒绝道：“那我不比了。”",
+        "hyp": "文 5 : “Oh, so terrible?” Zhang Han exclaimed in disbelief and refused, saying, “Then I won’t compare with you.”",
+        "label_text": "refused, saying,"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 5 : In an article published by Billboard in August 2021, the magazine pointed out that the band’s fans have “through above-board means” taken advantage of loopholes in chart tabulations to boost the ranks of singles such as “Butter” in the US and help the song top the Hot 100 for multiple weeks. While the chart performance of singles on the Hot 100 typically depends on streaming and airplay, that of “Butter” was notably driven mostly by sales (the bulk of which came from BTS’ webstore, which allows fans to buy multiple copies of a song, unlike iTunes) and by fan-led crowdfunding efforts (including using money collected from fans worldwide on services like PayPal to make purchases that count toward US sales only). However, an article in The Korea Times pushed back against claims of chart manipulation. It opined that fanbases of other artists such as Justin Bieber and Ariana Grande have employed similar promotional measures, that such measures were neither illegal nor unethical, and that fans engaging in those measures were merely “intelligent consumers leading global trends”.",
+        "label_text": "have “through above-board means” taken advantage of loopholes in chart tabulations"
+    },
+    {
+        "source": "原文 : 7名歌手竞演结束后，由听众评审团投票排出名次，排在第7位的歌手将被淘汰，那个位置由新的歌手替换。",
+        "hyp": "文 1 : After the competition among the seven singers concludes, the audience jury will vote to determine the ranking. The singer in 7th place will be eliminated, and a new singer will replace the eliminated one.",
+        "label_text": "After the competition among the seven singers concludes"
+    },
+    {
+        "source": "原文 : 2、绘画部分的解说很棒，有构图分析、草稿分析和历史背景（比如最后的晚餐），但不知道是印刷还是书尺寸问题，有些阴影部分县的太深了，看不清细节，有点遗憾。",
+        "hyp": "文 1 : 2. The explanations of the paintings are excellent, covering composition analysis, draft analysis, and historical background analysis (such as The Last Supper). However, it is unclear whether it is due to printing or book size that some shadow areas are too dark to see the details clearly, which is a little pity.",
+        "label_text": "it is unclear whether it is due to printing or book size that some shadow areas are too dark to see the details clearly, which is a little pity."
+    },
+    {
+        "source": "原文 : 3 自您签收次日起 12 个月内, 本产品出现《Redmi ArDots 2 真无线蓝牙耳机产品性能故障表》所列性能故障的情况, 经由小米售后服务中心检测确定, 可免费享受维修服务。",
+        "hyp": "文 5 : 3. From the day after you receive the product, within a period of 12 months, if the product experiences any performance issues as listed in the Redmi AirDots 2 True Wireless Bluetooth Earbuds Performance Failure Table, and it is confirmed by the Xiaomi after-sales service center through detection, you can enjoy free repair services.",
+        "label_text": "Redmi AirDots 2 True Wireless Bluetooth Earbuds Performance Failure Table"
+    },
+    {
+        "source": "原文 : 1993年捷克斯洛伐克解体之后， 1994年起捷克和斯洛伐克两个国家分别独立派出奥林匹克运动会捷克代表团、奥林匹克运动会斯洛伐克代表团参赛。",
+        "hyp": "文 1 : After the dissolution of Czechoslovakia in 1993, the two separate countries of the Czech Republic and Slovakia independently sent their respective Olympic delegations to participate in the Olympic Games since 1994.",
+        "label_text": " independently sent their respective "
+    },
+    {
+        "source": "原文 : 二十一世纪，东海市高级私人医院院长办公室。",
+        "hyp": "文 1 : In the 21st century, in the office of the Director of the Advanced Private Hospital in Donghai City.",
+        "label_text": "the office of the Director of the Advanced Private Hospital in Donghai City."
+    },
+    {
+        "source": "原文 : 刀剑加身越来越多，鲜血点点飞出，疼痛一点点从全身各处聚焦，终于将脑海中的歌舞打断！",
+        "hyp": "文 5 : More and more swords pierced into his body, with droplets of blood flying out. Pain gradually intensified throughout the body, finally interrupting the songs and dances in his mind!",
+        "label_text": "interrupting the songs and dances in his mind"
+    },
+    {
+        "source": "原文 : 据巴黎大众运输公司(RATP)的数据， 2011年伊普莱桑斯站的入站乘客总人次数为4647935人次。",
+        "hyp": "文 2 : According to data from the RATP Group, the total number of inbound passengers at Neuilly-Plaisance Station in 2011 was 4,647,935 person-trips.",
+        "label_text": "person-trips"
+    }
+]

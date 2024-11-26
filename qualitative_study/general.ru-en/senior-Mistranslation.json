@@ -1,0 +1,232 @@
+[
+    {
+        "source": "原文 : Сельхозтоваропроизводители округа эту роль с честью выполняют, - подчеркнул Анатолий Прокопьев.",
+        "hyp": "文 4 : The agricultural producers in the district triumphantly fulfil this role,\" said Anatoly Prokopiev.",
+        "label_text": "said"
+    },
+    {
+        "source": "原文 : В уборке примут участие 114 единиц спецтехники и 123 рабочих.",
+        "hyp": "文 5 : 114 pieces of special vehicles and 123 workers will be involved in the removal.",
+        "label_text": "vehicles"
+    },
+    {
+        "source": "原文 : В уборке примут участие 114 единиц спецтехники и 123 рабочих.",
+        "hyp": "文 5 : 114 pieces of special vehicles and 123 workers will be involved in the removal.",
+        "label_text": "removal"
+    },
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 1 : In the settlement of Granovschina, Prime Minister checked out the work of a new educational institution – a school of Granovschina, which was opened in September 2022.",
+        "label_text": "checked out"
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 3 : On the day of arrival, they called us, clarified our time of arrival, and informed us about the cost of transfer (1,400 from the airport). We requested a ride (at 11.00 pm the price was RUB 850), we got there quickly, there were no traffic jams, and there were no problems for us to pass a barrier.",
+        "label_text": "our time of arrival"
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 3 : On the day of arrival, they called us, clarified our time of arrival, and informed us about the cost of transfer (1,400 from the airport). We requested a ride (at 11.00 pm the price was RUB 850), we got there quickly, there were no traffic jams, and there were no problems for us to pass a barrier.",
+        "label_text": "our time of arrival"
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 3 : On the day of arrival, they called us, clarified our time of arrival, and informed us about the cost of transfer (1,400 from the airport). We requested a ride (at 11.00 pm the price was RUB 850), we got there quickly, there were no traffic jams, and there were no problems for us to pass a barrier.",
+        "label_text": "ride"
+    },
+    {
+        "source": "原文 : Может светскую беседу вести, и огнетушителем по морде съездить, но не в силах пропустить ни одной юбки.",
+        "hyp": "文 1 : He can make small talk, and slap a fire extinguisher right in the face, but he can't miss a single girl's butt.",
+        "label_text": "butt"
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 2 : Take note of George Clooney, who teams up with rock photographer-now-director Anton Corbijn (Control) for a quite interesting existential study of the psychology of an aging assassin who holes up in a small Italian town and is tardy in penetrating into human nature.",
+        "label_text": "Take note of"
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 3 : A scene of extermination the Ninth Legion, which required a good deal of budget money, is directly inspired by the opening scolding in Germanic woods from now benchmark Gladiator by Sir Ridley Scott's, however, for some reason, I absolutely do not want to try to catch Marshall in plagiary: he is fair and straightforward in his work.",
+        "label_text": "straightforward"
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 3 : A scene of extermination the Ninth Legion, which required a good deal of budget money, is directly inspired by the opening scolding in Germanic woods from now benchmark Gladiator by Sir Ridley Scott's, however, for some reason, I absolutely do not want to try to catch Marshall in plagiary: he is fair and straightforward in his work.",
+        "label_text": "straightforward"
+    },
+    {
+        "source": "原文 : И обязательно рекомендую русский корпус нижегородского художественного музея - неожиданно прекрасная крллекция",
+        "hyp": "文 2 : I definitely recommend the Russian corpus of the Nizhny Novgorod Art Museum – a surprisingly fine collection",
+        "label_text": "corpus"
+    },
+    {
+        "source": "原文 : В Англии, в портовом городе Грейт-Ярмут, в пятницу взорвалась авиабомба времен Второй мировой войны, которую пытались обезвредить саперы.",
+        "hyp": "文 5 : In the harbour town of Great Yarmouth, England, a World War II-era air bomb detonated on Friday as combat engineers tried to disarm it.",
+        "label_text": "combat engineers"
+    },
+    {
+        "source": "原文 : С борта МКС грузовой корабль приветствовали космонавты Сергей Прокопьев, Дмитрий Петелин и Анна Кикина.",
+        "hyp": "文 3 : Cosmonauts Sergey Prokopyev, Dmitry Petelin and Anna Kikina greeted the cargo ship on the ISS.",
+        "label_text": "on the ISS"
+    },
+    {
+        "source": "原文 : Детское меню как везде: макароны, фри, куриные котлеты. Мои ели пиццу, она тут ОГОНЬ!",
+        "hyp": "文 3 : The children's menu is as elsewhere: pasta, French fries, and chicken croquettes. My folks had pizza, it's STRAIGHT FIRE!",
+        "label_text": "folks"
+    },
+    {
+        "source": "原文 : Детское меню как везде: макароны, фри, куриные котлеты. Мои ели пиццу, она тут ОГОНЬ!",
+        "hyp": "文 3 : The children's menu is as elsewhere: pasta, French fries, and chicken croquettes. My folks had pizza, it's STRAIGHT FIRE!",
+        "label_text": "STRAIGHT FIRE"
+    },
+    {
+        "source": "原文 : Детское меню как везде: макароны, фри, куриные котлеты. Мои ели пиццу, она тут ОГОНЬ!",
+        "hyp": "文 3 : The children's menu is as elsewhere: pasta, French fries, and chicken croquettes. My folks had pizza, it's STRAIGHT FIRE!",
+        "label_text": "French"
+    },
+    {
+        "source": "原文 : Детское меню как везде: макароны, фри, куриные котлеты. Мои ели пиццу, она тут ОГОНЬ!",
+        "hyp": "文 3 : The children's menu is as elsewhere: pasta, French fries, and chicken croquettes. My folks had pizza, it's STRAIGHT FIRE!",
+        "label_text": "folks"
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 4 : She will have one accident after another, do wall runs a la \"Matrix\" and throw tough guys in identical formal suits down as if they were children.",
+        "label_text": " have one accident after another"
+    },
+    {
+        "source": "原文 : По информации ведомства, инцидент произошел вечером пятницы на 218 километре автодороги Р-22 в Михайловском районе.",
+        "hyp": "文 5 : According to the agency, the accident happened on Friday evening at kilometre 218 of R-22 motorway in the Mikhailovsky district.",
+        "label_text": "motorway "
+    },
+    {
+        "source": "原文 : По информации ведомства, инцидент произошел вечером пятницы на 218 километре автодороги Р-22 в Михайловском районе.",
+        "hyp": "文 5 : According to the agency, the accident happened on Friday evening at kilometre 218 of R-22 motorway in the Mikhailovsky district.",
+        "label_text": "motorway"
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 5 : The administration of Brainmax resulted in a significant improvement in cognitive performance (concentration and sustained attention, working memory, visual-constructive skills, attention span and switching rate, information processing rate, and executive functions), reduction in severity of asthenic symptoms, and improvement of the quality of life measures.",
+        "label_text": "administration"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 4 : On the whole, you look maximally natural on screen, which many people, frankly speaking, did not expect.",
+        "label_text": "On the whole"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 5 : The most challenging film of Kinotavr has already been selected for the competition in Karlovy Vary – a directing star is born.",
+        "label_text": " film"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 1 : During the roundtable discussion devoted to the fate of Russian arthouse, Sergey Tolstikov, Chairman of the Russian Cinema Support Fund, got up to a picture-perfect squabbling with critics, \"Do you ever read articles in the press that I read?\" he angrily asked the audience.",
+        "label_text": " picture-perfect"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 1 : During the roundtable discussion devoted to the fate of Russian arthouse, Sergey Tolstikov, Chairman of the Russian Cinema Support Fund, got up to a picture-perfect squabbling with critics, \"Do you ever read articles in the press that I read?\" he angrily asked the audience.",
+        "label_text": " picture-perfect"
+    },
+    {
+        "source": "原文 : Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.",
+        "hyp": "文 3 : Having achieved nothing and having shot down the misfortuned gangster, the women begin to squabble, fight each other and scumbags who arrived from somewhere from time to time, kiss and cuddle time and again.",
+        "label_text": "squabble"
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 2 : Turkish Anadolu Agency gives other data and writes that the Margara-Alican border checkpoint was last used to deliver humanitarian cargoes to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": "gives other"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 4 : Please detail the actions for your employees for this case, since you are trying to get into this service.",
+        "label_text": "get into this service"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 4 : Please detail the actions for your employees for this case, since you are trying to get into this service.",
+        "label_text": "get into this service"
+    },
+    {
+        "source": "原文 : А потом длинными многочасовыми репетициями мы приходим к той органике, о которой вы говорите.",
+        "hyp": "文 5 : And then through long hours of rehearsal, we achieve the harmony you are talking about.",
+        "label_text": " harmony"
+    },
+    {
+        "source": "原文 : А потом длинными многочасовыми репетициями мы приходим к той органике, о которой вы говорите.",
+        "hyp": "文 5 : And then through long hours of rehearsal, we achieve the harmony you are talking about.",
+        "label_text": "harmony"
+    },
+    {
+        "source": "原文 : А потом длинными многочасовыми репетициями мы приходим к той органике, о которой вы говорите.",
+        "hyp": "文 5 : And then through long hours of rehearsal, we achieve the harmony you are talking about.",
+        "label_text": "harmony "
+    },
+    {
+        "source": "原文 : Иногда бывает мало места пройти между рядами , а также не очень приятно когда товар стоит прямо на полу , без поддонов, но это скорее замечание к организации, а не к конкретному магазину",
+        "hyp": "文 3 : Sometimes there is very little space to pass between the rows. In addition, it is not very nice when goods are right on the floor, without pallets, yet this is rather an issues with arrangement, not with a particular shop.",
+        "label_text": "arrangement"
+    },
+    {
+        "source": "原文 : В остальном история близка к оригиналу: пока киллер Джек пытается разобраться со своим последним делом и окончательно завязать с доходным ремеслом, его ледяное сердце тает под обаянием местного священника (Паоло Боначелли) и уличной проститутки (Текла Рютен), в которую персонаж Клуни моментально влюбляется.",
+        "hyp": "文 3 : The rest of the story is close to the original: while the killer Jack is trying to sort out his last business and finally give up his gainful occupation, his heart of stone melts under the spell of a local priest (Paolo Bonacelli) and a street girl (Thekla Reuten), Clooney's character falls in love with at a glance.",
+        "label_text": "spell "
+    },
+    {
+        "source": "原文 : В остальном история близка к оригиналу: пока киллер Джек пытается разобраться со своим последним делом и окончательно завязать с доходным ремеслом, его ледяное сердце тает под обаянием местного священника (Паоло Боначелли) и уличной проститутки (Текла Рютен), в которую персонаж Клуни моментально влюбляется.",
+        "hyp": "文 3 : The rest of the story is close to the original: while the killer Jack is trying to sort out his last business and finally give up his gainful occupation, his heart of stone melts under the spell of a local priest (Paolo Bonacelli) and a street girl (Thekla Reuten), Clooney's character falls in love with at a glance.",
+        "label_text": "girl "
+    },
+    {
+        "source": "原文 : Машину расчитывал получить месяца через 3-3,5 (как было оговорено), но факту вышло 4,5 месяца - задержка была вызвана обстановкой на границе Литвы с Белоруссией (Литва исполняла).",
+        "hyp": "文 5 : I expected that I receive the car in 3 to 3.5 months (as it was agreed upon in advance), but it actually took 4.5 months: the delay was caused by the situation on the border between Lithuania and Belarus (Lithuania was behind it).",
+        "label_text": "Lithuania was behind it"
+    },
+    {
+        "source": "原文 : От души рекомендую, единственная клиника где не хотят нагреть на деньги на моей памяти.",
+        "hyp": "文 1 : I recommend it with all my heart; it is the only clinic within my memory where they do not want to make a good thing of me.",
+        "label_text": "they do not want to make a good thing of me"
+    },
+    {
+        "source": "原文 : Также стало известно, что энергетический объект попал под обстрел в Ивано-Франковской области Украины.",
+        "hyp": "文 2 : It also became known that a power facility received fire in Ivano-Frankivsk Oblast of Ukraine.",
+        "label_text": "Oblast "
+    },
+    {
+        "source": "原文 : При этом Бессон обращается с жанровым кино, про которое знает решительно все, бесцеремонно и весело, как мальчишка, насмотревшийся старых фильмов и начитавшийся Жюля Верна.",
+        "hyp": "文 2 : At the same time, Besson treats genre films, he knows all and everything about, familiarly and gaily, like a boy who has watched a lot of old movies and read a lot of Jules Verne.",
+        "label_text": "At the same time"
+    },
+    {
+        "source": "原文 : Ретроспективный анализ результатов хирургического лечения эпилепсии у детей с ТС и факторов, влияющих на его исход.",
+        "hyp": "文 5 : A post-hoc analysis of the results of surgical treatment of epilepsy in children with tuberous sclerosis and factor affecting its outcome.",
+        "label_text": "post-hoc"
+    },
+    {
+        "source": "原文 : Их употребление перед сном стоит ограничивать, поскольку они не только мешают засыпанию, но и делают сон \"рваным\", а значит не дающим организму полноценно восстановиться.",
+        "hyp": "文 3 : Their administration before bedtime should be limited, since they not only interfere with falling asleep, but also sleep \"lacerate\", and therefore do not allow the body to completely recover.",
+        "label_text": "administration"
+    },
+    {
+        "source": "原文 : Их употребление перед сном стоит ограничивать, поскольку они не только мешают засыпанию, но и делают сон \"рваным\", а значит не дающим организму полноценно восстановиться.",
+        "hyp": "文 3 : Their administration before bedtime should be limited, since they not only interfere with falling asleep, but also sleep \"lacerate\", and therefore do not allow the body to completely recover.",
+        "label_text": "lacerate"
+    },
+    {
+        "source": "原文 : Я ему рассказывала обо всех своих страхах, о всех переживаниях, о том, что я боюсь, что у меня не получится, и просила у него какого-то совета и помощи, и он с радостью этот совет и эту помощь мне давал.",
+        "hyp": "文 4 : I told him about all my fears, about all my worries, that I was afraid that I would lose, and I asked him for any advice and help, and he was happy to give me such advice and help.",
+        "label_text": "worries"
+    },
+    {
+        "source": "原文 : Состояние пациентки определяли по данным неврологического осмотра и лингвистического тестирования до операции, через 4 дня и 6 мес после операции.",
+        "hyp": "文 4 : We assessed neurological status and linguistic testing data of the patient before surgery, 4 days and 6 months after surgery.",
+        "label_text": "We"
+    },
+    {
+        "source": "原文 : Обувь для бега зимой отличается более плотными материалами, более высокой платформой и протектором подошвы\", - рассказал спортсмен.",
+        "hyp": "文 4 : Footgear for running in winter features denser materials, a higher platform and sole pattern,\" said the athlete.",
+        "label_text": "Footgear"
+    }
+]

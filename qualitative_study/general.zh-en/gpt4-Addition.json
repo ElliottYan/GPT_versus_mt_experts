@@ -1,0 +1,37 @@
+[
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 2 : \"I don't want to be a foreigner! Let me go back, let me go back! Can Don yell like that?\"",
+        "label_text": " \""
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 2 : \"I don't want to be a foreigner! Let me go back, let me go back! Can Don yell like that?\"",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 4 : After the fall of the Balaliulu tribe, their location became a place where the people of the Haocha tribe cultivated miscellaneous grains. Even today, one can still see the ancient ruins, but the whereabouts of the survivors are completely unknown. On the other hand, the Kalixi tribe, although they regained independence and rebuilt their homeland, also perished under a landslide and great flood caused by a torrential rain. Only in the present-day Wutai tribe (located in Wutai Village, Wutai Township) are there some people who claim to be descendants of the Kalixi. Additionally, because he led the tribe to victory in war, the descendants of Boleng, the Dalapathan family (also known as Druluane or transliterated as \"Lulan\"), are also called \"military merit chiefs.\" They uniquely occupy the highest part of the old Haocha tribe's territory, Omomos (meaning \"prone to fog\"), and are considered one of the two major chieftain families alongside the original chieftain family, the Kadrangilan.",
+        "label_text": "or transliterated as \"Lulan\""
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 5 : In terms of administrative management, Casteljaloux falls under the jurisdiction of the Lot-et-Garonne department within the Nouvelle-Aquitaine region of France, specifically in the arrondissement of Nérac. Regarding local elections, Casteljaloux is the location of the central polling station, with its municipal boundaries entirely encompassed within it. In terms of social administration, Casteljaloux is an integral part of the area.",
+        "label_text": "the area"
+    },
+    {
+        "source": "原文 : 赵甫好奇走上前，握住那颗晶石，漂浮在半空中晶石毫无反应的被赵甫一把握住。",
+        "hyp": "文 5 : Zhao Fu, driven by curiosity, stepped forward and grasped the crystal. The crystal, which was floating in mid-air, showed no reaction as Zhao Fu took hold of it with one hand.",
+        "label_text": "with one hand"
+    },
+    {
+        "source": "原文 : 两名说话的狱卒这才看见侧边正站着一名身穿粗布麻衣的女子，这女子虽然穿着粗布麻衣，却依然能隐约看出她的不俗风姿。 唯一遗憾的是，她的脸已经毁容，被略微凌乱的头发遮掩，让人不愿再看第二眼。",
+        "hyp": "文 5 : It was only then that the two chatting jailers noticed a woman standing to the side, dressed in coarse hemp clothing. Despite her simple attire, one could still vaguely discern her elegant demeanor. The only pity was that her face had been disfigured, partially concealed by her slightly disheveled hair, making one reluctant to take a second look.",
+        "label_text": "attire"
+    },
+    {
+        "source": "原文 : “不，我认真的。” 女子不知悔改的举了举手，肩头却不自觉下垂，显得更弱了，“你们真没必要出去找人报仇。”",
+        "hyp": "文 3 : \"No, I'm serious.\" The woman raised her hand unrepentantly, yet her shoulders slumped unconsciously, making her appear even weaker. \"There's really no need for you to go out seeking revenge on my behalf.\"",
+        "label_text": "on my behalf"
+    }
+]

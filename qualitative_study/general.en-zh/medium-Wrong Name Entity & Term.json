@@ -1,0 +1,92 @@
+[
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 1 : 据伦敦交通局（TfL）调查显示，乘坐伦敦公共交通的女性，15%遇到过某种令人讨厌的性行为，但是90%没有报案。为了应对这一情况,英国交通安全指挥部（Safer Transport Command）与英国交通警察局（BTP）、伦敦市警察局和伦敦交通局共同发起了守卫者项目（Project Guardian）。该项目的目标是降低性冒犯事件数量，同时提高报案率。",
+        "label_text": "英国交通安全指挥部"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 1 : 据伦敦交通局（TfL）调查显示，乘坐伦敦公共交通的女性，15%遇到过某种令人讨厌的性行为，但是90%没有报案。为了应对这一情况,英国交通安全指挥部（Safer Transport Command）与英国交通警察局（BTP）、伦敦市警察局和伦敦交通局共同发起了守卫者项目（Project Guardian）。该项目的目标是降低性冒犯事件数量，同时提高报案率。",
+        "label_text": "性冒犯"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 1 : 据伦敦交通局（TfL）调查显示，乘坐伦敦公共交通的女性，15%遇到过某种令人讨厌的性行为，但是90%没有报案。为了应对这一情况,英国交通安全指挥部（Safer Transport Command）与英国交通警察局（BTP）、伦敦市警察局和伦敦交通局共同发起了守卫者项目（Project Guardian）。该项目的目标是降低性冒犯事件数量，同时提高报案率。",
+        "label_text": "英国交通安全指挥部"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 2 : 所以我和朋友又开始玩val，想要我们学习天堂（heaven）等通讯工具。",
+        "label_text": "val"
+    },
+    {
+        "source": "原文 : I alrdy taught him the basics like planting the spike and things like that.",
+        "hyp": "文 4 : 我已经教了他基本的东西，比如安放辐能核心（Spike）等技巧。",
+        "label_text": "辐能核心"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 3 : [9号]已经开始收集数据，但是我想看看[项目5]设置中的域调整有什么好处。",
+        "label_text": "域调整"
+    },
+    {
+        "source": "原文 : hiii guys i wsa drinking with mmy friends from the us and my bf annd everyooes fell asleep and i wanna play some truth/dare or driink sooo if u have diiscord or kikk just msg mee owo",
+        "hyp": "文 4 : 各位，我刚和我几个美国朋友和男朋友喝了酒，大家都睡着了，我想玩真心话大冒险，或者接着喝，如果你有Diiscord（Discord）或Kikk（Kik），给我发消息，OWO。",
+        "label_text": "Diiscord（Discord）"
+    },
+    {
+        "source": "原文 : hiii guys i wsa drinking with mmy friends from the us and my bf annd everyooes fell asleep and i wanna play some truth/dare or driink sooo if u have diiscord or kikk just msg mee owo",
+        "hyp": "文 4 : 各位，我刚和我几个美国朋友和男朋友喝了酒，大家都睡着了，我想玩真心话大冒险，或者接着喝，如果你有Diiscord（Discord）或Kikk（Kik），给我发消息，OWO。",
+        "label_text": "Kikk（Kik）"
+    },
+    {
+        "source": "原文 : hiii guys i wsa drinking with mmy friends from the us and my bf annd everyooes fell asleep and i wanna play some truth/dare or driink sooo if u have diiscord or kikk just msg mee owo",
+        "hyp": "文 4 : 各位，我刚和我几个美国朋友和男朋友喝了酒，大家都睡着了，我想玩真心话大冒险，或者接着喝，如果你有Diiscord（Discord）或Kikk（Kik），给我发消息，OWO。",
+        "label_text": "Diiscord（Discord）"
+    },
+    {
+        "source": "原文 : hiii guys i wsa drinking with mmy friends from the us and my bf annd everyooes fell asleep and i wanna play some truth/dare or driink sooo if u have diiscord or kikk just msg mee owo",
+        "hyp": "文 4 : 各位，我刚和我几个美国朋友和男朋友喝了酒，大家都睡着了，我想玩真心话大冒险，或者接着喝，如果你有Diiscord（Discord）或Kikk（Kik），给我发消息，OWO。",
+        "label_text": "Kikk（Kik）"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 4 : 在之前与Red Distribution合作过后，2016年3月，Deathwish与Alternative Distribution Alliance （ADA）签了一份全球合同，后者是华纳音乐集团集团下属的一家独立发行厂牌，曾经还与Epitaph Records、Rise Records、Run for Cover Records等朋克厂牌合作过。",
+        "label_text": "Red Distribution"
+    },
+    {
+        "source": "原文 : Differential diagnosis of this type of patchy alopecia when it is in the non scarring stage includes trichotillomania and alopecia areata, in the late stage, when smooth hairless patches are present with follicular drop out, it can resemble scarring alopecias such as frontal fibrosing alopecia (FFA) and patchy central centrifugal cicatricial alopecia (CCCA).",
+        "hyp": "文 2 : 这类零散秃发，在非瘢痕阶段，可以通过拔毛发癖和斑秃等来鉴别诊断，到晚期会出现光滑的无发斑块，并伴随毛囊脱落，这个阶段，它可能与前额纤维化脱发（FFA）、零散中心离心性瘢痕性脱发（CCCA）等瘢痕性秃发很像。",
+        "label_text": "零散秃发"
+    },
+    {
+        "source": "原文 : Me and my real life friends need a team that we (or especially I) can VOD review in order to learn about tarping, switching layers and positioning.",
+        "hyp": "文 3 : 我和我现实中的朋友需要一个我们（主要是我）可以一起回看点播视频的团队，了解铺设、层转换和定位。",
+        "label_text": "回看点播视频"
+    },
+    {
+        "source": "原文 : The pelvis can be classified into four main types by measuring the pelvic diameters and conjugates at the pelvic inlet and outlet and as oblique diameters.",
+        "hyp": "文 4 : 骨盆可根据骨盆入口和出口的骨盆径、结合径、斜径分为四大类。",
+        "label_text": "结合径"
+    },
+    {
+        "source": "原文 : All of niobium's isomers decay by isomeric transition or beta decay except Nb, which has a minor electron capture branch.",
+        "hyp": "文 1 : 铌的所有同分异构体都是同质异能跃迁衰变或beta衰变模式，除了电子俘获分支较小的Nb。",
+        "label_text": "beta"
+    },
+    {
+        "source": "原文 : The reptarenavirus family, responsible for inclusion body disease in snakes, shows a very high degree of genetic diversity due to reassortment of genetic material from multiple strains in the same infected animal.",
+        "hyp": "文 4 : 导致蛇包含体病的沙粒病毒（Arenavirus）科具有很强的遗传多样性，原因是同一条感染的蛇，其体内的复合菌株遗传物质会重配。",
+        "label_text": "蛇包含体病"
+    },
+    {
+        "source": "原文 : The reptarenavirus family, responsible for inclusion body disease in snakes, shows a very high degree of genetic diversity due to reassortment of genetic material from multiple strains in the same infected animal.",
+        "hyp": "文 4 : 导致蛇包含体病的沙粒病毒（Arenavirus）科具有很强的遗传多样性，原因是同一条感染的蛇，其体内的复合菌株遗传物质会重配。",
+        "label_text": "沙粒病毒（Arenavirus）科"
+    },
+    {
+        "source": "原文 : The National Healthcareer Association (NHA), the largest Allied Health Certification Agency in the US and the National Lutheran Health and Medical Board (NLHMB), Chennai, India, which is a leading NGO and sponsor of Two Universities have come together to offer the US employment National Healthcareer Association Certificate Examination in India.",
+        "hyp": "文 5 : 国家医疗保健工作者协会（NHA）与印度金奈的全国路德教健康和医学委员会（NLHMB）合作，在印度举行美国就业NHA证书考试，前者是美国最大的综合健康认证机构，后者不仅是知名的非政府组织，还是两所大学的赞助人。",
+        "label_text": "全国路德教健康和医学委员会"
+    }
+]

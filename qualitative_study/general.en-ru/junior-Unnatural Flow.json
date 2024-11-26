@@ -1,0 +1,142 @@
+[
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 5 : Мы ещё объяснили влияние личных факторов на то, как общество \nвзаимодействует с пищевой средой.",
+        "label_text": "ещё"
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 5 : На протяжении большей части 1961 и 1962 года,двигатель V8 объемом\n 421 кубический дюйм использовался в основном в гоночных автомобилях,на более позднем этапе модели автомобиля,появилась «уличная» версия,но только в четырехствольном варианте мощностью ( ).",
+        "label_text": "На протяжении большей части 1961 и 1962 года,двигатель V8 объемом\n 421 кубический дюйм использовался в основном в гоночных автомобилях,на более позднем этапе модели автомобиля,появилась «уличная» версия,"
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 5 : На протяжении большей части 1961 и 1962 года,двигатель V8 объемом\n 421 кубический дюйм использовался в основном в гоночных автомобилях,на более позднем этапе модели автомобиля,появилась «уличная» версия,но только в четырехствольном варианте мощностью ( ).",
+        "label_text": "На протяжении большей части 1961 и 1962 года,двигатель V8 объемом\n 421 кубический дюйм использовался в основном в гоночных автомобилях,на более позднем этапе модели автомобиля,появилась «уличная» версия,"
+    },
+    {
+        "source": "原文 : It's great at making coffee and keeping it hot, but there are too many other issues with it to invest in it at the current price.",
+        "hyp": "文 4 : Он отлично справляется с приготовлением кофе и сохранением тепла, но ещё есть много других проблем, которые делают его неинвестируемым по нынешней цене.",
+        "label_text": "делают его неинвестируемым"
+    },
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 2 : Короче, эти ужасные воспоминания продолжали преследовать меня, и вчера я наконец набралась смелости и написала ему сообщение.",
+        "label_text": "сообщение"
+    },
+    {
+        "source": "原文 : Pls write \"+\" in the comment if you see this.",
+        "hyp": "文 3 : Если вы это видите, пожалуйста, напишите «+» в комментарии.",
+        "label_text": "Если вы это видите, пожалуйста, напишите «+» в комментарии."
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 4 : Как сообщила в октябре газета Washington Post, в отказе отмечалось, что бывший помощник Пенса Марк Шорт, например, «вероятно, обладал информацией, важной для уголовного расследования Министерства юстиции о нападении на Капитолий 6 января 2021 года, которая не была доступна из других источников».",
+        "label_text": "Как сообщила в октябре газета Washington Post"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 4 : Как сообщила в октябре газета Washington Post, в отказе отмечалось, что бывший помощник Пенса Марк Шорт, например, «вероятно, обладал информацией, важной для уголовного расследования Министерства юстиции о нападении на Капитолий 6 января 2021 года, которая не была доступна из других источников».",
+        "label_text": "Как сообщила в октябре газета Washington Post"
+    },
+    {
+        "source": "原文 : Just knowing I can go home and text them brightens my mood ten-fold.",
+        "hyp": "文 2 : Одно осознание того, что я могу прийти домой и написать им, улучшает мое настроение в десятки раз.",
+        "label_text": "Одно осознание того"
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 4 : Это белый экран, тайм-аут загрузки или страница не отвечает??!",
+        "label_text": "тайм-аут"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 5 : Говорят что солдаты украли еще 1 440 000 франков КФА (2 845 долларов) у других людей.",
+        "label_text": "Говорят что "
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 5 : Говорят что солдаты украли еще 1 440 000 франков КФА (2 845 долларов) у других людей.",
+        "label_text": "Говорят что "
+    },
+    {
+        "source": "原文 : His positioning is absolutely disgusting, Barnes and Maddison are destroying him down the left hand side.",
+        "hyp": "文 4 : Его позиционирование абсолютно отвратительно, Барнс и Мэддисон уничтожают его на левом фланге.",
+        "label_text": "фланге"
+    },
+    {
+        "source": "原文 : It actually hurts my brain trying to add the T, and I sound American if I do or still say wut-ta.",
+        "hyp": "文 5 : Мой мозг болит, когда я пытаюсь добавить \"t\", тогда как если я произношу \"woot-ta\" или какой-то другой звук, я звучу как американец.",
+        "label_text": "тогда как если я произношу \"woot-ta\" или какой-то другой звук, я звучу как американец"
+    },
+    {
+        "source": "原文 : Moreover, at the cellular level they change over time, these including changes under the influence of the streams of sensory signals they perceive and the life experience gained, including the consequences of their own actions under certain circumstances.",
+        "hyp": "文 3 : Более того, на клеточном уровне они меняются с течением времени, и эти изменения включают в себя изменения под влиянием потока сенсорных сигналов, которые они воспринимают, и жизненного опыта, который они приобретают, включая в некоторых случаях последствия их собственного поведения.",
+        "label_text": "и эти изменения включают в себя изменения"
+    },
+    {
+        "source": "原文 : Moreover, at the cellular level they change over time, these including changes under the influence of the streams of sensory signals they perceive and the life experience gained, including the consequences of their own actions under certain circumstances.",
+        "hyp": "文 3 : Более того, на клеточном уровне они меняются с течением времени, и эти изменения включают в себя изменения под влиянием потока сенсорных сигналов, которые они воспринимают, и жизненного опыта, который они приобретают, включая в некоторых случаях последствия их собственного поведения.",
+        "label_text": "собственного поведения"
+    },
+    {
+        "source": "原文 : Then my sister takes the cookies from my hands and handed them to my dad.",
+        "hyp": "文 2 : Потом сестра взяла печенье из моих рук и протянула папе.",
+        "label_text": "протянула"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 2 : Является ли 1:49 просто типичным поведением моего тренера: \"Ты должен быть хорош, но ты не хорош, поэтому я собираюсь поставить перед тобой нереальные цели\", или я должен быть на уровне 1:49?",
+        "label_text": "Ты должен быть хорош, но ты не хорош"
+    },
+    {
+        "source": "原文 : When Italian diplomats hinted about possible opposition by their government, the French replied that Tripoli would have been a counterpart for Italy.",
+        "hyp": "文 1 : Когда итальянские дипломаты намекнули на возможную оппозицию со стороны своего правительства, французы ответили, что Триполи мог бы стать аналогом Италии.",
+        "label_text": "на возможную оппозицию"
+    },
+    {
+        "source": "原文 : It’s funny that covid isn’t affecting my Ny at all..",
+        "hyp": "文 1 : Забавно, что ковид вообще не затронул мой Нью-Йорк..",
+        "label_text": "затронул"
+    },
+    {
+        "source": "原文 : The boss says I should do that more on the battle, the place we’ve been fighting in!",
+        "hyp": "文 3 : Босс говорит, что я должен больше заниматься этим в бою, в том месте, где мы сражались!",
+        "label_text": "заниматься этим"
+    },
+    {
+        "source": "原文 : The first thing I started with was concatenating the paraphrase and source and maybe I, I don't remember now,",
+        "hyp": "文 5 : Первое, с чего я начал, - это конкатенация пересказа и источника, и, возможно, я уже не помню,",
+        "label_text": "конкатенация "
+    },
+    {
+        "source": "原文 : Kaylee, who just graduated from high school, is an accomplished figure skater.",
+        "hyp": "文 4 : Келли, только что окончившая среднюю школу, является выдающейся фигуристкой.",
+        "label_text": "только что"
+    },
+    {
+        "source": "原文 : It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",
+        "hyp": "文 3 : Так увлекательно, нервно, стрессово и все то хорошее, что мне нравится в работе над играми.",
+        "label_text": "увлекательно"
+    },
+    {
+        "source": "原文 : Please tell me how sometimes I can get better sleep.",
+        "hyp": "文 3 : Скажите пожалуйста,как иногда я могу лучше спать.",
+        "label_text": "Скажите пожалуйста"
+    },
+    {
+        "source": "原文 : Arsenal will be top of the league if they win.",
+        "hyp": "文 1 : Если \"Арсенал\" победит, то станет чемпионом лиги.",
+        "label_text": "Если \"Арсенал\" победит, то станет чемпионом лиги."
+    },
+    {
+        "source": "原文 : At an inland site, Platt Island, mammals (primarily deer ) accounted for more than 60 percent of the energy from animal meat, while fish provided just under 20 percent.",
+        "hyp": "文 3 : На острове Платт, расположенном в глубине материка, на долю млекопитающих (в основном оленей) приходилось более 60 процентов энергии, получаемой из мяса животных, в то время как рыба давала чуть менее 20 процентов.",
+        "label_text": "На острове Платт, расположенном в глубине материка,"
+    },
+    {
+        "source": "原文 : But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.",
+        "hyp": "文 2 : Но до тех пор, пока вы думаете, что правительство не изменит систему, в которой мы живем,тогда земля - это хороший источник богатства.",
+        "label_text": "в которой мы живем,тогда земля - это хороший источник богатства."
+    }
+]

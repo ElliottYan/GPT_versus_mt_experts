@@ -1,0 +1,72 @@
+[
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 3 : Другие запасные (добровольные) силы были учреждены в 1981 году, а составляли их гражданские лица, готовые выполнять ограниченные полицейские задачи без вознаграждения.",
+        "label_text": "Другие запасные (добровольные) силы были учреждены"
+    },
+    {
+        "source": "原文 : Just knowing I can go home and text them brightens my mood ten-fold.",
+        "hyp": "文 3 : Одно лишь знание, что я могу пойти домой и написать им, улучшает мое настроение в десять раз.",
+        "label_text": "пойти"
+    },
+    {
+        "source": "原文 : Then my sister takes the cookies from my hands and handed them to my dad.",
+        "hyp": "文 1 : Потом моя сестра взяла печенья из моих рук и передала их моему папе.",
+        "label_text": "печенья "
+    },
+    {
+        "source": "原文 : Brenda said “well you can do the tattoo with me”.",
+        "hyp": "文 1 : Бренда сказала: \"Ну, ты можешь сделать тату со мной\".",
+        "label_text": "сделать тату"
+    },
+    {
+        "source": "原文 : And I'm not sure if we have anything like shortening of the sentence.",
+        "hyp": "文 1 : И я не уверена, есть ли у нас что-нибудь вроде сокращения сроков.",
+        "label_text": "уверена"
+    },
+    {
+        "source": "原文 : Arsenal will be top of the league if they win.",
+        "hyp": "文 3 : Arsenal станут лучшими в лиге, если выиграют.",
+        "label_text": " станут лучшими"
+    },
+    {
+        "source": "原文 : Also reintroduced with the Omens expansion was the Shyft faction, as well as the first 2.0 non-unique Mage Spawn figures.",
+        "hyp": "文 5 : Кроме того, вновь введенной вслед за расширением Предзнаменований стала фракция Шайфт, также как первые неуникальные фигурки Отродие Мага 2.0.",
+        "label_text": "Шайфт"
+    },
+    {
+        "source": "原文 : What is it with those that follow Obama, if Romney would of done it too, therefore it is OK for Obama to do it?",
+        "hyp": "文 3 : Да что такое с теми, кто следует Обаме, если Ромни тоже сделал бы это, тем самым, это и для Обамы станет нормальным?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",
+        "hyp": "文 3 : Конец придет стремительно, когда несколько пар клыков введут смертоносный яд, и воздух Дискры загрязнит ваши легкие.",
+        "label_text": "загрязнит"
+    },
+    {
+        "source": "原文 : I think there is less stigma attached to being a fat bloke than being a fat woman.",
+        "hyp": "文 1 : Я думаю, меньше стигматизируют толстых парней, чем полных женщин.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Several sites reported highest on record daily rainfall amounts including Mandora (281.0 mm on 6th) and Mount Narryer (152.0 mm on 10th).",
+        "hyp": "文 4 : Несколько участков сообщили о рекордных показателях суточного количества осадков, включая Мандору (281,0 мм 6-го числа) и гору Нарриер (152,0 мм 10-го числа).",
+        "label_text": "Несколько участков"
+    },
+    {
+        "source": "原文 : I don't know if you have responded, I had not seen anyone providing any- any updates to the document.",
+        "hyp": "文 3 : Я не знаю, ответили ли вы, не видел никого, кто предоставил бы хоть какие-либо обновления по документу.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : So i get tipped on the app, gave me cash at the door, then took away the tip on the app after?",
+        "hyp": "文 1 : Выходит, я получаю чаевые в приложении, мне дают наличные на входе, а потом забирают чаевые в приложении?",
+        "label_text": "ю"
+    },
+    {
+        "source": "原文 : So i get tipped on the app, gave me cash at the door, then took away the tip on the app after?",
+        "hyp": "文 1 : Выходит, я получаю чаевые в приложении, мне дают наличные на входе, а потом забирают чаевые в приложении?",
+        "label_text": "абирают"
+    }
+]

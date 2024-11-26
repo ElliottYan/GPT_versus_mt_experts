@@ -1,0 +1,117 @@
+[
+    {
+        "source": "原文 : Риторика потому, что подобный случай, повторю, со мной происходит уже третий раз.",
+        "hyp": "文 5 : Rhetorical because, I repeat, this is the third time an incident like this, has happened to me.",
+        "label_text": "Rhetorical "
+    },
+    {
+        "source": "原文 : Отличный магазин, покупаю товары у них уже достаточно давно, с самого открытия.",
+        "hyp": "文 1 : Great shop, been buying goods from them for quite long time, since they opened.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Отличный магазин, покупаю товары у них уже достаточно давно, с самого открытия.",
+        "hyp": "文 1 : Great shop, been buying goods from them for quite long time, since they opened.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 3 : After a slight decrease in the number of protesters last Tuesday compared to the first two \"mobilisation days\", the unions hope to bring more protesters to the streets this time around, taking into account those citizens who were not able to participate in demonstrations on a weekday.",
+        "label_text": "on a weekday"
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 4 : The author is interested in both a screwdriver examining an electric meter and a piece of unsalted butter drifting across a cast-iron skillet - all of which make the story of an unemployed miner, his sparse-toothed lover and her criminal brother into a real butter doc canvas.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 2 : Hereditary optic neuropathies (HON) are a group of neurodegenerative diseases characterised by primary loss of structure and function of retinal ganglion cells with subsequent death of their axons and development of partial optic atrophy.",
+        "label_text": "and "
+    },
+    {
+        "source": "原文 : В Англии, в портовом городе Грейт-Ярмут, в пятницу взорвалась авиабомба времен Второй мировой войны, которую пытались обезвредить саперы.",
+        "hyp": "文 1 : In England, in the harbour town of Great Yarmouth, a World War II-era aerial bomb exploded on Friday as sappers were trying to defuse it.",
+        "label_text": "were trying to"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 3 : All cases with diseases as the initial cause of death (ICD) were selected (all codes for external causes, injuries and poisoning were excluded).",
+        "label_text": "All"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 3 : All cases with diseases as the initial cause of death (ICD) were selected (all codes for external causes, injuries and poisoning were excluded).",
+        "label_text": "All"
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 3 : The unbreakable Armenian-Iranian relations based on centuries-old history and mutual respect are of special significance for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 3 : The unbreakable Armenian-Iranian relations based on centuries-old history and mutual respect are of special significance for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 1 : The most difficult film at \"Kinotavr\" has already been selected for the Karlovy Vary competition - a director's star has been borned.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 1 : The most difficult film at \"Kinotavr\" has already been selected for the Karlovy Vary competition - a director's star has been borned.",
+        "label_text": "has been borned"
+    },
+    {
+        "source": "原文 : А потом длинными многочасовыми репетициями мы приходим к той органике, о которой вы говорите.",
+        "hyp": "文 4 : And then, through long hours of rehearsals we come to that organics you're talking about.",
+        "label_text": "that "
+    },
+    {
+        "source": "原文 : Я конкретно про \"лягушонок\", Тренер наш Анастасия Витальевна очень нравится ребенку и профессиональна!!",
+        "hyp": "文 1 : I specifically talking about the \"frog\", child likes our coach Anastasia Vitalievna very much and she is professional!!",
+        "label_text": "child likes"
+    },
+    {
+        "source": "原文 : В постановки, в которых он принимал участие, пригласи артистов из второго состава.",
+        "hyp": "文 2 : The productions in which he was involved invited artists from the second cast.",
+        "label_text": "The productions in which he was involved"
+    },
+    {
+        "source": "原文 : Уверен, что закаленные в атмосфере взаимного уважения и доверия армяно-иранские дружеские отношения в дальнейшем будет иметь еще большие достижения на благо народов Армении и Ирана.",
+        "hyp": "文 4 : I am confident that the Armenian-Iranian friendly relations forged in the atmosphere of mutual respect and trust will have even greater achievements for the benefit of the peoples of Armenia and Iran.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Переход на армяно-турецкой границе открыли впервые за десятилетия для доставки гуманитарной помощи",
+        "hyp": "文 4 : A crossing on the Armenian-Turkish border was opened for the first time in decades for the delivery of humanitarian aid",
+        "label_text": "Armenian-Turkish"
+    },
+    {
+        "source": "原文 : График работы, с 10.00 до 21.00, без выходных и праздничных дней.",
+        "hyp": "文 3 : Working hours, from 10.00 a.m. to 21.00 p.m., without weekends and public holidays.",
+        "label_text": "a.m."
+    },
+    {
+        "source": "原文 : График работы, с 10.00 до 21.00, без выходных и праздничных дней.",
+        "hyp": "文 3 : Working hours, from 10.00 a.m. to 21.00 p.m., without weekends and public holidays.",
+        "label_text": "p.m."
+    },
+    {
+        "source": "原文 : Каково же разочарование бизнесмена, когда Настя в борьбе за независимость и в пику отцу выбирает его сверстника и делового партнера.",
+        "hyp": "文 4 : What is the businessman's disappointment when Nastya, in her struggle for independence and in spite of her father, chooses his peer and business partner.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : В Крыму проходят съемки интернационального боевика Максима Коростышевского под рабочим названием «Солдаты удачи».",
+        "hyp": "文 1 : In the Crimea are shooting international action film by Maxim Korostyshevsky under the working title \"Soldiers of Fortune\".",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : Финчер и Соркин никогда не закроют книгу, если в ней будет хоть малейший намек на нечто подобное.",
+        "hyp": "文 3 : Fincher and Sorkin would never finish a book if there was even the slightest hint of something like this in it.",
+        "label_text": "would"
+    }
+]

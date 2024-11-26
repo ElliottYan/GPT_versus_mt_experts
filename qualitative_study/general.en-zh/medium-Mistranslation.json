@@ -1,0 +1,387 @@
+[
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 3 : 我一开始不知道说什么，但是然后我突然想到了什么，只说了句“但是我没有。”",
+        "label_text": "只说了句"
+    },
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 3 : 我一开始不知道说什么，但是然后我突然想到了什么，只说了句“但是我没有。”",
+        "label_text": "只说了句"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 1 : 据伦敦交通局（TfL）调查显示，乘坐伦敦公共交通的女性，15%遇到过某种令人讨厌的性行为，但是90%没有报案。为了应对这一情况,英国交通安全指挥部（Safer Transport Command）与英国交通警察局（BTP）、伦敦市警察局和伦敦交通局共同发起了守卫者项目（Project Guardian）。该项目的目标是降低性冒犯事件数量，同时提高报案率。",
+        "label_text": "某种令人讨厌的性行为"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 1 : 据伦敦交通局（TfL）调查显示，乘坐伦敦公共交通的女性，15%遇到过某种令人讨厌的性行为，但是90%没有报案。为了应对这一情况,英国交通安全指挥部（Safer Transport Command）与英国交通警察局（BTP）、伦敦市警察局和伦敦交通局共同发起了守卫者项目（Project Guardian）。该项目的目标是降低性冒犯事件数量，同时提高报案率。",
+        "label_text": "性冒犯"
+    },
+    {
+        "source": "原文 : I don’t care if your dog/child is friendly or “dog savvy”.",
+        "hyp": "文 3 : 我不关心你的狗/孩子乖不乖，听不听话。",
+        "label_text": "乖不乖，听不听话。"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 2 : 总之，我在聊天室里打了这些字（“这一局我不会作弊！”），结果它让我支付服务器费用，然后关掉Adblock。",
+        "label_text": "聊天室"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 3 : 我不是说他们应该对自己变性成女性感到羞耻，也不是对变性成女性的人有偏见，我只是说他们不想这样做，因为他们是人，有自己的选择，不同意变性成女孩，并不代表他们厌女。",
+        "label_text": "对变性成女性的人"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 3 : 我不是说他们应该对自己变性成女性感到羞耻，也不是对变性成女性的人有偏见，我只是说他们不想这样做，因为他们是人，有自己的选择，不同意变性成女孩，并不代表他们厌女。",
+        "label_text": "变性成女性"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 1 : Abe喜欢隐藏悲伤，但是很容易笑，而Tom不怕哭，但却没那么容易被突然的幽默逗乐。",
+        "label_text": "突然的"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 1 : Abe喜欢隐藏悲伤，但是很容易笑，而Tom不怕哭，但却没那么容易被突然的幽默逗乐。",
+        "label_text": "突然的"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 1 : 所以，这个可能是这个生僻单词第二部分的无意义部分——",
+        "label_text": "第二部分"
+    },
+    {
+        "source": "原文 : Cruse briefly wrote a column in a comic book review magazine, \"Comics Scene,\" under the rhyming masthead \"Loose Cruse.\"",
+        "hyp": "文 3 : Cruse在漫画评论杂志《漫画场景》有个小专栏，名字很押韵，叫“遐思克鲁斯（Loose Cruse）”。",
+        "label_text": "有个"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 1 : Waziri接着说Djehuty主管国库，整理了Hatshepsut女王时代的工艺作品。",
+        "label_text": "整理了"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 1 : Waziri接着说Djehuty主管国库，整理了Hatshepsut女王时代的工艺作品。",
+        "label_text": "整理了"
+    },
+    {
+        "source": "原文 : She could’ve said “I’m with my boyfriend, please don’t call me”, but she didn’t.",
+        "hyp": "文 5 : 她本想说“我和我男朋友在一起，不要给我打电话”，但是她没有这样说。",
+        "label_text": "本想说"
+    },
+    {
+        "source": "原文 : She could’ve said “I’m with my boyfriend, please don’t call me”, but she didn’t.",
+        "hyp": "文 5 : 她本想说“我和我男朋友在一起，不要给我打电话”，但是她没有这样说。",
+        "label_text": "本想说"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 1 : 从最基本的层面来说，决定电负性的因素有：核电荷（一个原子的质子越多，它对电子的“牵引力”就越大）和原子壳层里其他电子的数量和位置（一个原子的电子越多，价电子离原子核就越远，因此遇到的正电荷就越少——原因有两个：价电子离原子核更远，低能量核心轨道上的其他电子会使价电子免受带正电的原子核的影响）等。",
+        "label_text": "遇到的"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 1 : 从最基本的层面来说，决定电负性的因素有：核电荷（一个原子的质子越多，它对电子的“牵引力”就越大）和原子壳层里其他电子的数量和位置（一个原子的电子越多，价电子离原子核就越远，因此遇到的正电荷就越少——原因有两个：价电子离原子核更远，低能量核心轨道上的其他电子会使价电子免受带正电的原子核的影响）等。",
+        "label_text": "因此遇到的正电荷就越少"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 2 : 大家好，我一直很难交朋友，觉得自己偶尔有点冷漠和笨拙（上升巨蟹，你懂的），但是一旦你度过了这段时间，其实挺好相处的。",
+        "label_text": "你"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 2 : 所以我和朋友又开始玩val，想要我们学习天堂（heaven）等通讯工具。",
+        "label_text": "通讯工具"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 2 : 所以我和朋友又开始玩val，想要我们学习天堂（heaven）等通讯工具。",
+        "label_text": "天堂（heaven）等通讯工具"
+    },
+    {
+        "source": "原文 : I alrdy taught him the basics like planting the spike and things like that.",
+        "hyp": "文 4 : 我已经教了他基本的东西，比如安放辐能核心（Spike）等技巧。",
+        "label_text": "安放辐能核心（Spike）"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 3 : [9号]已经开始收集数据，但是我想看看[项目5]设置中的域调整有什么好处。",
+        "label_text": "域调整"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 3 : 怎么判断她是生我气了，还是只是生气了，因为我现在真的分不清？",
+        "label_text": "还是只是生气了"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 3 : 怎么判断她是生我气了，还是只是生气了，因为我现在真的分不清？",
+        "label_text": "还是只是生气了"
+    },
+    {
+        "source": "原文 : The conglomeratic sandstones and silty mudstones of the formation were deposited in an alluvial environment.",
+        "hyp": "文 4 : 该地层的砾砂岩和粉砂质泥岩集中在冲击区域。",
+        "label_text": "集中在冲击区域"
+    },
+    {
+        "source": "原文 : The conglomeratic sandstones and silty mudstones of the formation were deposited in an alluvial environment.",
+        "hyp": "文 4 : 该地层的砾砂岩和粉砂质泥岩集中在冲击区域。",
+        "label_text": "集中在冲击区域"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 5 : 单分子链霉亲和素是流行重组型链霉亲和素，突变体冲破四聚物进入单分子物体，提高了形成的分离亚基的溶解度。",
+        "label_text": "流行"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 5 : 单分子链霉亲和素是流行重组型链霉亲和素，突变体冲破四聚物进入单分子物体，提高了形成的分离亚基的溶解度。",
+        "label_text": "突变体冲破四聚物进入单分子物体"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 5 : 单分子链霉亲和素是流行重组型链霉亲和素，突变体冲破四聚物进入单分子物体，提高了形成的分离亚基的溶解度。",
+        "label_text": "突变体冲破四聚物进入单分子物体"
+    },
+    {
+        "source": "原文 : Play a scuffed 24hr WOW livestream filled with condescending undertones,belittling, & shitty halfassed ill prepared gameplay.",
+        "hyp": "文 2 : 玩了一场拖拖沓沓的24小时魔兽世界直播，各种优越感满满的阴阳怪气、贬低人的话、烂透了、毫无准备。",
+        "label_text": "玩"
+    },
+    {
+        "source": "原文 : Play a scuffed 24hr WOW livestream filled with condescending undertones,belittling, & shitty halfassed ill prepared gameplay.",
+        "hyp": "文 2 : 玩了一场拖拖沓沓的24小时魔兽世界直播，各种优越感满满的阴阳怪气、贬低人的话、烂透了、毫无准备。",
+        "label_text": "拖拖沓沓的"
+    },
+    {
+        "source": "原文 : Play a scuffed 24hr WOW livestream filled with condescending undertones,belittling, & shitty halfassed ill prepared gameplay.",
+        "hyp": "文 2 : 玩了一场拖拖沓沓的24小时魔兽世界直播，各种优越感满满的阴阳怪气、贬低人的话、烂透了、毫无准备。",
+        "label_text": "玩"
+    },
+    {
+        "source": "原文 : Play a scuffed 24hr WOW livestream filled with condescending undertones,belittling, & shitty halfassed ill prepared gameplay.",
+        "hyp": "文 2 : 玩了一场拖拖沓沓的24小时魔兽世界直播，各种优越感满满的阴阳怪气、贬低人的话、烂透了、毫无准备。",
+        "label_text": "拖拖沓沓的"
+    },
+    {
+        "source": "原文 : The imperfect subjunctive is used in subordinate clauses taking the subjunctive where the sense of the verb requires the imperfect.",
+        "hyp": "文 1 : 使用虚拟语气且动词时态需要是过去进行时的从句，应使用过去进行时虚拟语气。",
+        "label_text": "使用虚拟语气且动词时态需要是过去进行时的从句，应使用过去进行时虚拟语气。"
+    },
+    {
+        "source": "原文 : The imperfect subjunctive is used in subordinate clauses taking the subjunctive where the sense of the verb requires the imperfect.",
+        "hyp": "文 1 : 使用虚拟语气且动词时态需要是过去进行时的从句，应使用过去进行时虚拟语气。",
+        "label_text": "使用虚拟语气且动词时态需要是过去进行时的从句，应使用过去进行时虚拟语气。"
+    },
+    {
+        "source": "原文 : It is the bar with the team composition and the status of each character that is used to follow “report team” (like in the actual World Cup).",
+        "hyp": "文 1 : 用来模仿“报道团队”的是团队构成标准及每个团队成员的状态（就像在现实中的世界杯一样）。",
+        "label_text": "用来模仿“报道团队”的是团队构成标准及每个团队成员的状态（就像在现实中的世界杯一样）"
+    },
+    {
+        "source": "原文 : It is the bar with the team composition and the status of each character that is used to follow “report team” (like in the actual World Cup).",
+        "hyp": "文 1 : 用来模仿“报道团队”的是团队构成标准及每个团队成员的状态（就像在现实中的世界杯一样）。",
+        "label_text": "用来模仿“报道团队”的是团队构成标准及每个团队成员的状态（就像在现实中的世界杯一样）"
+    },
+    {
+        "source": "原文 : Never because one had issues or broke, just because I wanted to stay upgraded and \"in the loop\" and I did.",
+        "hyp": "文 5 : 绝不是因为一个人有难处或崩溃了，仅仅是因为我想要及时掌握情况，而且我也确实做到了。",
+        "label_text": "绝不是因为一个人有难处或崩溃了"
+    },
+    {
+        "source": "原文 : Never because one had issues or broke, just because I wanted to stay upgraded and \"in the loop\" and I did.",
+        "hyp": "文 5 : 绝不是因为一个人有难处或崩溃了，仅仅是因为我想要及时掌握情况，而且我也确实做到了。",
+        "label_text": "绝不是因为一个人有难处或崩溃了"
+    },
+    {
+        "source": "原文 : Never because one had issues or broke, just because I wanted to stay upgraded and \"in the loop\" and I did.",
+        "hyp": "文 5 : 绝不是因为一个人有难处或崩溃了，仅仅是因为我想要及时掌握情况，而且我也确实做到了。",
+        "label_text": "及时掌握情况"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 4 : 在之前与Red Distribution合作过后，2016年3月，Deathwish与Alternative Distribution Alliance （ADA）签了一份全球合同，后者是华纳音乐集团集团下属的一家独立发行厂牌，曾经还与Epitaph Records、Rise Records、Run for Cover Records等朋克厂牌合作过。",
+        "label_text": "曾经还与"
+    },
+    {
+        "source": "原文 : But I can imagine that you want to rewrite a sentence that it is not written by male, but it is written by a female instead or, I do not know, like you can have a scientific and unscientific explanation of certain phenomena.",
+        "hyp": "文 4 : 但是我能想象你想要润色一句不是男性写的，而是女性写的句子，我也不知道怎么解释，反正就是你可以给某些现象一个科学的或不科学的解释。",
+        "label_text": "不是男性写的，而是女性写的句子"
+    },
+    {
+        "source": "原文 : all the things she screams @ ppl to NOT do to her she turns around and does the exact same rude petty shit to any/everyone else that doesn’t agree with her",
+        "hyp": "文 4 : 她朝着别人叫嚷，让人家不要对她怎样怎样，结果她自己转身就对那些不同意她的人做她嚷的那些粗鲁、琐碎的屁事。",
+        "label_text": "琐碎的"
+    },
+    {
+        "source": "原文 : Both nations have signed several agreements such as a Trade and Navigation Treaty (1911); Agreement on Military Service (1959); Agreement for Economic, Industrial and Scientific Cooperation (1994); Agreement on Technical and Cultural Cooperation (1994); Agreement for the Promotion and Protection of Investments and its Protocol (1995); Agreement of Cooperation in the fight against Terrorism, Organized Crime and Drug Trafficking (1996); Agreement on Cultural Collaboration and its executive protocols (1997); Antarctic Cooperation Agreement (2001); Agreement of technical cooperation and mutual assistance between the Carabineros de Chile and the Italian Carabinieri (2006); Mutual Assistance Treaty in Criminal Matters (2011); Cinematographic Co-Production Agreement (2013); Agreement of Cooperation in the Defense sector (2016); Agreement to Eliminate Double Taxation in Relation to Income Taxes and to Prevent Tax Evasion and its Protocol (2016); Mutual Administrative Assistance Agreement for the Prevention, Investigation and Repression of Customs Offenses (2017) and an Extradition Treaty (2017).",
+        "hyp": "文 3 : 两国签署了多项协定，包括《贸易和航行条约》（1911年）、《兵役协定》（1959年）、《经济、工业和科学合作协定》（1994年）、《技术文化合作协定》（1994）、《投资促进和保护及相应程序协定》（1995年）、《打击恐怖主义、有组织犯罪和毒品走私合作协定》（1996年）、《文化合作及执行程序协定》（1997年）、《南极合作协定》（2001年）、《智利卡宾枪骑兵与意大利警察技术合作与相互协助协定》（2006年）、《刑事事务相互协助条约》（2011年）、《电影联合拍摄协定》（2013年）、《国防合作协定》（2016年）、《消除所得税双重征税和防止逃税及相应程序协定》（2016年）、《海关犯罪预防、调查和制止相互行政协助协定》（2017年）、《引渡条约》（2017年）等。",
+        "label_text": "卡宾枪骑兵"
+    },
+    {
+        "source": "原文 : Did the motherfucker just kill himself in shame or what, he simply died all of the sudden?",
+        "hyp": "文 2 : 那杂种是羞愧死了还是怎么的，他怎么可能突然就死了呢？",
+        "label_text": "羞愧死了"
+    },
+    {
+        "source": "原文 : It’s only been a few hours and she feels very sleepy, but when we pet her she sounds like a running car motor.",
+        "hyp": "文 2 : 才几个小时，她就感觉很困了，但是当我们摸她的时候，她就发出汽车发动机一样的声音。",
+        "label_text": "摸她的时候"
+    },
+    {
+        "source": "原文 : I’ve still 2 walls left unfinished and have spent the last 45 minutes picking up wallpaper from everything.",
+        "hyp": "文 4 : 我还有两面墙没有弄完，刚用了45分钟捡起墙纸。",
+        "label_text": "捡起墙纸"
+    },
+    {
+        "source": "原文 : Differential diagnosis of this type of patchy alopecia when it is in the non scarring stage includes trichotillomania and alopecia areata, in the late stage, when smooth hairless patches are present with follicular drop out, it can resemble scarring alopecias such as frontal fibrosing alopecia (FFA) and patchy central centrifugal cicatricial alopecia (CCCA).",
+        "hyp": "文 2 : 这类零散秃发，在非瘢痕阶段，可以通过拔毛发癖和斑秃等来鉴别诊断，到晚期会出现光滑的无发斑块，并伴随毛囊脱落，这个阶段，它可能与前额纤维化脱发（FFA）、零散中心离心性瘢痕性脱发（CCCA）等瘢痕性秃发很像。",
+        "label_text": "可以通过拔毛发癖和斑秃等来鉴别诊断"
+    },
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 2 : 如此一来，Humberto可以让同一角色的叙述声音表里不一，从而使同一现实有两个主观视角。一方面，可以根据叙述内容的背景对叙述内容进行直接、现实的解读，这个背景就是Humberto Peñaloza是一个中产阶级的法学生和作家，正在攀爬当代智利严格按阶层划分的社会阶梯。另一方面，也可以根据叙述内容那种模棱两可、暧昧不清的特征来解读叙述内容。之所以说模棱两可、暧昧不清是因为没有定义身份认同本身，历史是荒诞的产物，物质与精神世界的边界是破损且变化的，因而看起来是在反对现实世界和成熟社会的团结和永恒性，觉得在现实世界和成熟社会里，个人为了在社会中获得立足之地，不至于被边缘化，被迫失去部分身份认同和自由。",
+        "label_text": "同一角色的叙述声音表里不一"
+    },
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 2 : 如此一来，Humberto可以让同一角色的叙述声音表里不一，从而使同一现实有两个主观视角。一方面，可以根据叙述内容的背景对叙述内容进行直接、现实的解读，这个背景就是Humberto Peñaloza是一个中产阶级的法学生和作家，正在攀爬当代智利严格按阶层划分的社会阶梯。另一方面，也可以根据叙述内容那种模棱两可、暧昧不清的特征来解读叙述内容。之所以说模棱两可、暧昧不清是因为没有定义身份认同本身，历史是荒诞的产物，物质与精神世界的边界是破损且变化的，因而看起来是在反对现实世界和成熟社会的团结和永恒性，觉得在现实世界和成熟社会里，个人为了在社会中获得立足之地，不至于被边缘化，被迫失去部分身份认同和自由。",
+        "label_text": "历史是荒诞的产物"
+    },
+    {
+        "source": "原文 : This is because I made the mistake of turning things into her desk and not the bin, meaning I have like 4 or 5 assignments that I’ve done but are nowhere in the books,",
+        "hyp": "文 3 : 那是因为我错误地把那些东西变成她的桌面而不是垃圾箱，也就是说我有四五个已经完成但是没有记录的任务。",
+        "label_text": "那是因为我错误地把那些东西变成她的桌面而不是垃圾箱"
+    },
+    {
+        "source": "原文 : Polis stated that he wishes that more time was spent on the issue of immigration during the meeting of governors at the White House, but the issue \"came up.\"",
+        "hyp": "文 2 : Polis表示他希望在白宫的州长会议上多花点时间在移民问题上，但是“出了”问题。",
+        "label_text": "但是“出了”问题"
+    },
+    {
+        "source": "原文 : In one way, it kind of helped me find the cup lowkey grip, but god damn was it difficult trying not to stab myself.",
+        "hyp": "文 3 : 从某种角度来说，它帮我找到了杯子那暗调的手柄，但是真的太难了，简直想刺自己。",
+        "label_text": "暗调的"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 2 : 我猜你根本没有看完整个数字，也没有看到我放在那个位置的字母，现在你回去检查，当然没有字母。",
+        "label_text": "我放在那个位置的"
+    },
+    {
+        "source": "原文 : The thematic park includes miniature replicas that represent the monuments and other elements from the cultural heritage and patrimony in Portugal and world, divided into three thematic areas.",
+        "hyp": "文 4 : 这家主题公园分为三个主题区域，设有葡萄牙和其他国家和地区文化遗产纪念碑等元素的缩小复制品。",
+        "label_text": "纪念碑"
+    },
+    {
+        "source": "原文 : Dogs with wrinkles like Pugs, Shar Peis (I don’t know how to spell it), Bulldogs, Boxers, any dog with those ugly ass wrinkles are so dumb.",
+        "hyp": "文 3 : 有褶皱的狗，比如巴哥犬、沙皮狗（我不知道怎么写）、牛头犬、拳师犬，任何屁股上有那种丑兮兮的褶皱的狗，都很蠢。",
+        "label_text": "屁股上有那种丑兮兮的褶皱"
+    },
+    {
+        "source": "原文 : It’s chill, edgy, and if you want to join, comment and I’ll direct message you the link.",
+        "hyp": "文 3 : 很酷，很犀利，如果你想加入、评论，我可以直接发你链接。",
+        "label_text": "果你想加入、评论，我可以直接发你链接。"
+    },
+    {
+        "source": "原文 : TLDR: tips/support to get a 2-month baby sleeping beyond one sleep cycle in bassinet (currently replacing pacifier every hour).",
+        "hyp": "文 3 : 太长不读：对让两个月大婴儿在摇篮里睡一个睡眠周期以上的建议/支持（目前已代替每小时换安抚奶嘴的做法）。",
+        "label_text": "已代替每小时换安抚奶嘴"
+    },
+    {
+        "source": "原文 : Looking for single bedroom flats or flatshares is a legit issue as 3 letting agents in the city own them all, and are only letting to students.",
+        "hyp": "文 2 : 找单人间公寓或合租公寓是合法的，因为全市的所有这类公寓都在3家租房公寓手里，而且只租给学生。",
+        "label_text": "是合法的"
+    },
+    {
+        "source": "原文 : Looking for single bedroom flats or flatshares is a legit issue as 3 letting agents in the city own them all, and are only letting to students.",
+        "hyp": "文 2 : 找单人间公寓或合租公寓是合法的，因为全市的所有这类公寓都在3家租房公寓手里，而且只租给学生。",
+        "label_text": "租房公寓"
+    },
+    {
+        "source": "原文 : so basically for A's i got 82 RP and wanted to go nus biz admin but didnt get in though im q sure my RP is good enough and my appeal was rejected 3 days ago welp :<<",
+        "hyp": "文 1 : 反正就是我的A-level考了82分，我想申请NUS工商管理，但是没录取上，虽然我十分确定我的分数足够了，而且3天前我的申诉还被驳回了，真是太棒了:<<",
+        "label_text": "真是太棒了:<<"
+    },
+    {
+        "source": "原文 : savings from thEn and i barely made 200usd till now.",
+        "hyp": "文 5 : thEn省下的钱，在此之前，我只赚200美元。",
+        "label_text": "在此之前，我只赚200美元"
+    },
+    {
+        "source": "原文 : The lateral grey column receives input signals from preganglionic, myelinated fibers from viscera (internal organs), which course through prevertebral ganglia (between the visceral organ and the sympathetic chain) and paravertebral ganglia (in the sympathetic chain), white rami communicantes, and dorsal roots to synapse on cells of the intermediolateral cell column in the lateral horn.",
+        "hyp": "文 5 : 侧灰柱接受来自内脏（内部器官）节前髓鞘纤维的输入信号，信号经过腹前神经节（内脏器官与交感神经链之间）和椎旁神经节（交感神经链内）、白色交通支、背根，到达侧角中间外侧核细胞的突触。",
+        "label_text": "到达侧角中间外侧核细胞的突触"
+    },
+    {
+        "source": "原文 : I don’t want to jinx it and call them out by name, but I’m talking with a company and I’m hoping it works out!",
+        "hyp": "文 4 : 我不想乌鸦嘴，也不想骂他们，不过我正在和一家公司谈，希望有个好结果吧！",
+        "label_text": "也不想骂他们"
+    },
+    {
+        "source": "原文 : You honestly deserve to get scammed if you give a random guy on the internet like 300€ worth of fake internet points, like wtf are you doing honestly LOL",
+        "hyp": "文 3 : 说实话，如果你随随便便就给一个网上认识的人300英镑的虚假网络积分，那你活该被骗，真的，你TM为啥会这样啊，笑死。",
+        "label_text": "虚假网络积分"
+    },
+    {
+        "source": "原文 : if I do I will be in my mid 30’s cuz I wanna live life my way",
+        "hyp": "文 2 : 如果那样，到时候我就三十多数了，因为我想按自己的方式生活",
+        "label_text": "如果那样，"
+    },
+    {
+        "source": "原文 : I’m going to skip the Oscar-bait shit like The Post, because there’s only some much concentrated rage at milquetoast Democrats making movies about how (extremely wonky nasal nerd voice) “politics used to be more polite.",
+        "hyp": "文 2 : 我不会去看向《华盛顿邮报》这种迎合奥斯卡口味的垃圾电影，因为不过是集中表达了下对胆小的民主党人拍电影讲“以前的政治更文明”（极其不稳的带鼻音的书呆子式声音）的愤怒。",
+        "label_text": "因为不过是集中表达了下对胆小的民主党人拍电影讲“以前的政治更文明”（极其不稳的带鼻音的书呆子式声音）的愤怒。"
+    },
+    {
+        "source": "原文 : When computing several derivatives in the N-jet simultaneously, discrete scale-space smoothing with the discrete analogue of the Gaussian kernel, or with a recursive filter approximation, followed by small support difference operators, may be both faster and more accurate than computing recursive approximations of each derivative operator.",
+        "hyp": "文 5 : 在用N-jet法同时计算几个导数时，用高斯核函数离散模拟或递归滤波器近似值然后再用小支撑差分算子进行离散尺度空间平滑，可能速度和准确度都比计算每个导数算子的递归近似值更好。",
+        "label_text": "在用N-jet法同时计算几个导数时"
+    },
+    {
+        "source": "原文 : The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",
+        "hyp": "文 2 : 实验并不能产生关于这篇阅读的真相，但是选择开展哪些实验决定着发现哪些真相。",
+        "label_text": " 实验并不能产生关于这篇阅读的真相"
+    },
+    {
+        "source": "原文 : I know I could if had the creative side, ugh!",
+        "hyp": "文 1 : 我知道如果我有创意方，我就可以，可恶！",
+        "label_text": "创意方"
+    },
+    {
+        "source": "原文 : So, we need a filter for the ASRs, so that the ASR is silent if it's the wrong language and it is the recognized text if it's the correct language.",
+        "hyp": "文 1 : 所以自动语音识别技术（ASR）需要一个过滤器，这样在遇到错误语言时，ASR就不会发声，如果是正确的语言，就提供识别出的文字。",
+        "label_text": "不会发声"
+    },
+    {
+        "source": "原文 : One day she got kicked out of Mewny (her home dimension) by her mean mom >:-( just because she made a mistake.",
+        "hyp": "文 3 : 一天，她被她那吝啬的母亲赶出了Mewny（她的原生维度）>:-（仅仅因为她犯了错。",
+        "label_text": "吝啬的"
+    },
+    {
+        "source": "原文 : So I already have an orange golden chinchilla (Toto, 2 months old) and we have had Toto for 3 weeks now and felt she needed company, so we got Terri (2-month Himalayan Ragdoll) to keep each other company.",
+        "hyp": "文 2 : 我已经有一只金橙色南美栗鼠（Toto，2个月大），我们已经养了Toto三周了，我们觉得她需要陪伴，所以我们又养了Terri（2个月大的喜马拉雅布偶猫）和她作伴。",
+        "label_text": "南美栗鼠"
+    },
+    {
+        "source": "原文 : The suspect is expected to appear in Bond Court Saturday, Brown said, where more details about the evidence they have collected will be presented.",
+        "hyp": "文 2 : Brown说，嫌疑人应该会在周六到Bond法院出庭，到时候会展示他们收集到的更多证据细节。",
+        "label_text": "Bond法院"
+    },
+    {
+        "source": "原文 : He waited for me to leave to fire someone who has been a dedicated employee bc shes a poc with tattoos and”fits the part” of someone he considered would be on drugs.",
+        "hyp": "文 5 : 他等着我去开除一个敬业的员工，原因是她是个有色人种，有纹身，而且“看起来像”他认为吸毒的人。",
+        "label_text": "他等着我去开除一个敬业的员工"
+    },
+    {
+        "source": "原文 : So, I asked that you would have various versions of this dictionary by taking only the words that were observed, five times.",
+        "hyp": "文 4 : 所以我问，只取观察到的字，共五次，是不是这个字典就可以有几个版本。",
+        "label_text": "只取观察到的字，共五次，"
+    }
+]

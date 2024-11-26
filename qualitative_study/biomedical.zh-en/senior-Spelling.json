@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : 1.重要不良反应",
+        "hyp": "文 2 : 1. Significant adverse reactions",
+        "label_text": "adverse reactions"
+    },
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 2 : (4) Toxic epidermal necrolysis (TEN) and mucocutaneocular syndrome (Stevens-Johnson syndrome)",
+        "label_text": "epidermal necrolysis"
+    }
+]

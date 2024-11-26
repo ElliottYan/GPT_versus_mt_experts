@@ -1,0 +1,132 @@
+[
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 5 : Edge может понадобиться в зависимости от FA, парень из Айовы (я не могу произнести его имя) хорош, но разрыв все жэ еще есть.",
+        "label_text": "Edge"
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 3 : он создает впечатление, что xvg - это тонущий корабль, и там все хорошо.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 2 : помоги, помоги! Ой подожди, я же могу просто прогуглить это, все забей",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 2 : помоги, помоги! Ой подожди, я же могу просто прогуглить это, все забей",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 2 : Они согласились на том, что тот, кому первому удастся заставить путешественника снять плащ, будет считаться сильнее.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 2 : Они согласились на том, что тот, кому первому удастся заставить путешественника снять плащ, будет считаться сильнее.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 2 : Я исключил \"другое\", увидев, как он отлично катится с холма на нейтральной скорости, так что  необходимость в каком-либо механическом воздействии отпала.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 2 : Я исключил \"другое\", увидев, как он отлично катится с холма на нейтральной скорости, так что  необходимость в каком-либо механическом воздействии отпала.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 2 : Я могу определить, где был твой человек и что он делает по вкусу, когда он вернется?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Then my sister takes the cookies from my hands and handed them to my dad.",
+        "hyp": "文 4 : А потом сестра забирает печенье у меня прямо из рук и отдает отцу.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : But it's more difficult to find people to follow and build up your timeline.",
+        "hyp": "文 4 : Но найти людей, за которыми можно следить, и выстроить свою хронологию сложнее.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 3 : Я знаю, что натуральные продукты будут пахнуть не так приятно, по сравнению некоторыеми синтетическими, но я чувствую, что все больше и больше натуральных линий просто перастают заботтиться об этом, поскольку продажи все равно будут, и теперь в итоге пахнет просто пластилином.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Mine’s ending and all my grades are passable except for biology in which I have an F.",
+        "hyp": "文 5 : У меня уже подходит к концу,  все мои оценки сносные, за исключением биологии, по которой у меня двойка.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : But by the next day, Tom Gross JPost: Tom Gross - The BBC discovers 'terrorism,' briefly and many others noted that the online articles had been edited, replacing \"terrorists\" by \"bombers\".",
+        "hyp": "文 3 : Но на следующий день Том Гросс опубликовал: Том Гросс - BBC кратко раскрывает \"терроризм\", многие другие также отметили, что онлайн-статьи были отредактированы, заменив \"террористов\" на \"бомбардировщиков\".",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Then he stood on his tiptoes and crowed like a rooster – cock-a-doodle-doo.",
+        "hyp": "文 2 : А дальше, он встал на цыпочки и прокукарекал, как петух.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Cleaning pipes maintenance is the most important but wearing work to operate the Type 93 torpedo.",
+        "hyp": "文 2 : Чистка труб - самая важная, но изнурительная работа по эксплуатации торпеды Type 93.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Cleaning pipes maintenance is the most important but wearing work to operate the Type 93 torpedo.",
+        "hyp": "文 2 : Чистка труб - самая важная, но изнурительная работа по эксплуатации торпеды Type 93.",
+        "label_text": "Type"
+    },
+    {
+        "source": "原文 : Personally, I think VII was (alongside RB1) the best Neps games in the entire franchise, what with having a storyline that doesn’t come off as too edgy nor melodramatic like Mk2/RB2, but neither as over-the-top like V/RB3, having the exact and necessary amount of seriousness and comedy.",
+        "hyp": "文 3 : Лично для меня, VII была наилучшей игрой во всей франшизе Neps, вместе с RB1. Это связано с сюжетной линией, которая не выглядит слишком острой или мелодраматичной, как в Mk2/RB2, но и не настолько чрезмерной, как в V/RB3. В VII есть правильное сочетание серьезности и комедии, что делает ее особенной.",
+        "label_text": "Neps"
+    },
+    {
+        "source": "原文 : I don’t know how to write these properly, so I tried to copy this one post I saw that was in a bullet format, oh my.",
+        "hyp": "文 5 : Я не знал, как правильно это написать, поэтому я попытался скопировать один пост, который я увидел был в формате bullet, боже мой.",
+        "label_text": "bullet"
+    },
+    {
+        "source": "原文 : I know that it doesn’t matter if your dog is friendly, aggressive, or otherwise, doesn’t matter if your dog is already barking and growling, or just minding its own business.",
+        "hyp": "文 2 : Я понимаю, что не имеет никакого значения, агрессивная собака у вас или нет, не важно, лает она и рычит или же занята по своими делами.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : In both landings, the covering force went ashore from warships with the exception of V Beach at Helles where the SS River Clyde was used as an improvised landing craft for 2,000 men.",
+        "hyp": "文 4 : В обеих высадках силы прикрытия высаживались на берег с военных кораблей, за исключением пляжа V в Хеллесе, где эсминец \"Ривер Клайд\" использовался в качестве импровизированного десантного судна на 2000 человек.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 1 : Я так и сделал, и на 2-м или 3-м посте обнаружил, что шоу \"AJ Show\" заблокировано на YouTube, я не фанат праворадикальных материалов, что по правде говоря это было причиной, по которой я перестал смотреть его 2 года назад, хотя слабый аромат свободы было так трудно найти среди 90% государственного капитализма, который может предложить сайт, но, так или иначе, у меня зародилась идея видеосайта без цензуры, подобного LiveLeak, но гораздо более простого и менее “новостного”, на котором любой может размещать свои посты.❤️",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : And then Mom-O decides to go to the gym to do a quick workout, whatever that is.",
+        "hyp": "文 2 : И тогда мама решила пойти в спортзал на быструю тренировку, что бы это ни значило.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I got covid by kissing another guy for the first time, so i had to tell my mum.",
+        "hyp": "文 5 : Я заразилась covid, когда впервые поцеловала другого парня, поэтому мне пришлось все рассказать маме.",
+        "label_text": "covid"
+    },
+    {
+        "source": "原文 : Community Events Frosty Festival This wonderful festival of music, magic, dancing, great food, laughter and good sportsmanship is a fun time for everyone in the family and a unique opportunity to celebrate what it means to be part of a community.",
+        "hyp": "文 4 : Общественные мероприятия Frosty Festival. Этот замечательный фестиваль музыки, волшебства, танцев, вкусностей и деликатесов, развлечений и спортивного мастерства - это веселое семейное времяпрепровождение и уникальная возможность отпраздновать то, что значит быть частью сообщества.",
+        "label_text": " Frosty Festival"
+    },
+    {
+        "source": "原文 : Community Events Frosty Festival This wonderful festival of music, magic, dancing, great food, laughter and good sportsmanship is a fun time for everyone in the family and a unique opportunity to celebrate what it means to be part of a community.",
+        "hyp": "文 4 : Общественные мероприятия Frosty Festival. Этот замечательный фестиваль музыки, волшебства, танцев, вкусностей и деликатесов, развлечений и спортивного мастерства - это веселое семейное времяпрепровождение и уникальная возможность отпраздновать то, что значит быть частью сообщества.",
+        "label_text": "Frosty Festival"
+    }
+]

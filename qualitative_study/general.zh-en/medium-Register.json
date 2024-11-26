@@ -1,0 +1,117 @@
+[
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 2 : The blue sky, white clouds like marshmallows, faces of different colors and varied expressions, and the noisy environment seemed both familiar and strange to him as if they were far away from him.",
+        "label_text": "marshmallows"
+    },
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 2 : The blue sky, white clouds like marshmallows, faces of different colors and varied expressions, and the noisy environment seemed both familiar and strange to him as if they were far away from him.",
+        "label_text": "noisy"
+    },
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 2 : The blue sky, white clouds like marshmallows, faces of different colors and varied expressions, and the noisy environment seemed both familiar and strange to him as if they were far away from him.",
+        "label_text": "marshmallow"
+    },
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 2 : The blue sky, white clouds like marshmallows, faces of different colors and varied expressions, and the noisy environment seemed both familiar and strange to him as if they were far away from him.",
+        "label_text": " noisy"
+    },
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 5 : For ordinary people, eating it once a month is already an extravagance. They can't enjoy it in every meal like him.",
+        "label_text": "extravagance"
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 4 : In March 2020, there was a surge in residents' demand for flour when they stayed at home during the COVID-19 pandemic. The flour plants, whose business had been poor, also changed from being merely wholesalers to retailers selling flour for household use. This shift created a sensation among consumers.",
+        "label_text": "created a sensation"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 1 : I don't want to be a gweilo! Let me go back! Let me go back! Can Tang En shout like this？",
+        "label_text": "gweilo"
+    },
+    {
+        "source": "原文 : “我不是出车祸死了么？ 怎么又活过来了？”",
+        "hyp": "文 3 : \"Shouldn't I die of a car accident? How am I alive again?\"",
+        "label_text": "\"Shouldn't I "
+    },
+    {
+        "source": "原文 : 就只能拜托卖家赶紧发货。",
+        "hyp": "文 3 : I can only request the seller to ship the goods in a hurry.",
+        "label_text": "request"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 1 : The Ninth Institute was initially located in Beijing. Later, its major engineering and production department was relocated to the 221st Factory located on Jinyintan Grassland, Xihai Town, Haiyan County, Qinghai Province. In 1970, the department was relocated to the mountainous area in northern Sichuan.",
+        "label_text": "221st "
+    },
+    {
+        "source": "原文 : 他机智、有小聪明、口才好、富有正义感，对于人生、事业和爱情有着自己的理解和感触，善于讨女孩子的欢心；但他同时又爱面子、懒惰、软弱、遇事犹豫不决。",
+        "hyp": "文 4 : He is smart, clever and eloquent and has a sense of justice and his own understanding and recognition of life, career and love. He is also skilled at making a conquest of girls. On the other hand, he is concerned about face-saving, lazy, flabby and indecisive in his mind.",
+        "label_text": "making a conquest of girls"
+    },
+    {
+        "source": "原文 : 一辆出租车在他前面下客，他快步走上前，然后钻了进去。 唐恩在车上看了躺在寒风中享受“晚餐”的乞丐最后一眼，让司机将他带回那个陌生的家。",
+        "hyp": "文 5 : When a taxi was dropping off passengers in front of him, he stepped quickly forward and got on it. Sitting in the car, Tang En shot a last glance at the beggar enjoying the \"supper\" while lying in the cold wind and then ordered the driver to take him back to the home unfamiliar to him.",
+        "label_text": "ordered"
+    },
+    {
+        "source": "原文 : 之前一开始还担心相机的包装，这次还好，里面有充气包，相机三码一致，也能在官网注册，快门次数0，其余的就只能等时间检验了 。",
+        "hyp": "文 2 : Before receiving the camera, I worried about its packing. Luckily, the camera I receive this time is intact, as it is covered with a gas-filled bag. The camera's three codes are consistent and it supports registration on the official website, with the shutter count registering 0. Other conditions can only be tested over time.",
+        "label_text": " it"
+    },
+    {
+        "source": "原文 : 宗族冲突可能导致械斗和造成流血事件，参与者人口可能数十人到几万人。",
+        "hyp": "文 5 : Clan warfare may lead to knife fights and bloodshed, with the number of participants ranging from dozens to tens of thousands.",
+        "label_text": "warfare"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 4 : But he also has a younger sister named Ye Ling and a younger brother called Ye Zifeng. They are not from the same mother as him, but rather half-siblings from the same father. Three years ago, their father seemed to realize his indebtedness to Ye Mo. He specifically proposed a marriage alliance with the Ning family. It is very likely that Ye Tianwen knew that his physical condition was not good, so he wanted to find a strong backing for Ye Mo, which is why he approached the Ning family in the capital.",
+        "label_text": "indebtedness"
+    },
+    {
+        "source": "原文 : “哦，这么厉害？” 张汉惊疑一声拒绝道：“那我不比了。”",
+        "hyp": "文 5 : “Oh, so terrible?” Zhang Han exclaimed in disbelief and refused, saying, “Then I won’t compare with you.”",
+        "label_text": "compare with you"
+    },
+    {
+        "source": "原文 : 7名歌手竞演结束后，由听众评审团投票排出名次，排在第7位的歌手将被淘汰，那个位置由新的歌手替换。",
+        "hyp": "文 1 : After the competition among the seven singers concludes, the audience jury will vote to determine the ranking. The singer in 7th place will be eliminated, and a new singer will replace the eliminated one.",
+        "label_text": "audience jury"
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 5 : The toothpaste contains granules, and gives the users a refreshing sensation. After use, the users feel their teeth smooth and clean. It is much better than the toothpastes sold on JD.com which sells many second-hand products. The platform claims to sell imported products, but many of them lack Chinese labels, making it unclear where they were sourced from.",
+        "label_text": "JD.com"
+    },
+    {
+        "source": "原文 : 说起来，如果不是真的被逼到走投无路，他又如何愿意送出自己的亲生女儿？毕竟那个洪大力，堪称人间的一朵奇葩，他唯一喜欢做或者说会做的事情，就是两个字：败家。",
+        "hyp": "文 3 : Speaking of which, if he was not truly pushed to a corner with no other options, how could he be willing to give away his own daughter? After all, Hong Dali is a freak in this world. The only thing he likes to do or rather, knows how to do, can be summed up in two words: squandering money.",
+        "label_text": "freak"
+    },
+    {
+        "source": "原文 : 冰雪肆虐着整片大地，莽莽群山千沟万壑皆是一片银装素裹，鹅毛大雪簌簌落下，遥遥望去天地浑然一色。",
+        "hyp": "文 5 : The whole land is swept by the raging ice and snow, as vast mountains and countless ravines are covered in a silver-white blanket. Large snowflakes gently fall, creating a unified expanse of whiteness when viewed from afar, where the sky and earth blend seamlessly together.",
+        "label_text": "gently "
+    },
+    {
+        "source": "原文 : 安林见状有些激动地问道：“这位漂亮的仙女姐姐，请问这里是什么地方，我初来乍到，对这个地方不是很懂呢。”",
+        "hyp": "文 3 : Upon seeing this, An Lin became somewhat excited and asked, “Excuse me, beautiful fairy sister, may I ask where this place is? I’m new here and I don’t know much about this place.”",
+        "label_text": "sister"
+    },
+    {
+        "source": "原文 : 想取消订单，对不起，订单信息已传递给供应商，不能取消；想退换货，在亚马逊成功申请了退换货，对不起，没有人理你，需要自行联系供货商退货。",
+        "hyp": "文 4 : If you want to cancel an order, I’m sorry to tell you that the order information has been sent to the supplier and cannot be canceled. If you want to return or exchange the goods and have successfully applied for a return or exchange on Amazon, I’m sorry to tell you that no one will help you handle this. You will need to contact the supplier directly to arrange the return.",
+        "label_text": " I’m sorry to tell you that"
+    },
+    {
+        "source": "原文 : 百善孝为先，张汉当初虽说叛逆，但心底对父母的爱也不低于他人。",
+        "hyp": "文 3 : Being filial is the foremost of virtues. Although Zhang Han was rebellious at first, his love for his parents was not inferior to others.",
+        "label_text": "inferior"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "source": "原文 : 除非牢固踩下制动踏板，否则禁止挂档。如果发动机在高速运转时挂入前进档或倒档，车辆可能会突然移动。此时，您可能还无法及时做出车辆控制反应，从而引发意外事故，而导致严重或致命人身伤害，或者车辆损坏。",
+        "hyp": "文 2 : It is forbidden to engage a gear unless the brake pedal is depressed securely. If the forward/reverse gear is engaged when the engine is running at high speed, the vehicle may move suddenly. In such case, you may not be able to control the vehicle in time, which may result in an accident and severe or fatal personal injury or vehicle damage thereby.",
+        "label_text": "thereby"
+    },
+    {
+        "source": "原文 : 启用喇叭反馈功能时，按下遥控钥匙上的门锁闭锁按钮闭锁所有门锁后，如果在4秒钟内再次按下门锁闭锁按钮时，喇叭反馈声响1次，表示所有门锁已经闭锁(如有配备遥控钥匙)。",
+        "hyp": "文 1 : When the horn feedback is activated, if you press the door lock button on the remote key, where provided, to lock all doors and then press the lock button again within 4 seconds thereafter, the horn will sound once, indicating that all doors have been locked.",
+        "label_text": "thereafter"
+    },
+    {
+        "source": "原文 : 正面防撞辅助(FCA)功能设计的目的是，帮助检测和监视道路上的前方车辆，并显示警告信息、发出警报声的方式，向驾驶员发出碰撞危险预警，必要时主动采取紧急制动辅助控制措施。",
+        "hyp": "文 3 : The forward collision-avoidance assist (FCA) is designed to help detect and monitor vehicles ahead, warn the driver that a collision is imminent with a warning message and an audible warning, and apply emergency braking, if necessary.",
+        "label_text": " forward collision-avoidance assist"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 5 : The tire pressure monitoring system (TPMS) detects whether the tire pressure is low via sensors in the tires to monitor changes to the tire rolling radius and vibration when the vehicle is running. For the normal operation, TPMS shall be initialized and the current tire pressure value shall be saved. After the initialization, if the pressure of a wheel or wheels is significantly lower than the saved pressure value, the warning indicator on the instrument panel will be on. In case of TPMS fault, the [TPMS] fault warning indicator will be on.",
+        "label_text": "tire pressure monitoring system"
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 1 : With its excellence, Sonata once set the \"record of 600,000 vehicles sold in 33 months\" in the last century. When its fifth-generation model was introduced into China, this new model was chosen by a variety of people, with its representative \"peanut-shape lights\" soon appeared in  almost every street and alley.",
+        "label_text": "  "
+    },
+    {
+        "source": "原文 : 以百度3.0智能网联平台为基础，可高度识别自然语言指令，带来更轻松的语音控制。以BLE手机蓝牙钥匙为核心的IT配置，实现了多项个性化配置及跨越空间的人车联动。",
+        "hyp": "文 3 : Based on Baidu 3.0 intelligent connection platform, it can efficiently recognize natural language instructions, making voice control much easier. The IT configuration with BLE key as the core provides a lot of personalized configurations and linkage of human and vehicle in different positions.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 车身的线条比较硬朗，流露出硬派的风范，车头有着犀利的大灯，以及大面积的进气格栅，看起来足够时尚。",
+        "hyp": "文 2 : The lines of the body are hard, consistent with its style. There are headlights in a sharp shape and large grille on the front face, both of which are fashionable.",
+        "label_text": "hard"
+    },
+    {
+        "source": "原文 : 迈腾的后备厢看上去最为规整，容积也比较大，原因在于它的后备厢支杆位置更加合理，关闭时不至于占用太多的空间。",
+        "hyp": "文 3 : The trunk of Magotan is large and looks the most regular because its trunk lid supports are positioned more reasonably so that they don't take up too much space when the lid is closed.",
+        "label_text": "don't"
+    },
+    {
+        "source": "原文 : C5的悬架调校并不是传统法国车那种偏硬的感觉，这辆车完全追求的是舒适风格。方向盘回馈力度略沉，路感几乎被完全抹去了，驾驶起来很轻松。虽然路面细碎振动的反馈较明显，但对稍大起伏的吸收效果出众，经过减速带时弹跳幅度很小，有效吸收冲击力，这一点给人留下了非常深刻的印象。",
+        "hyp": "文 3 : The suspension adjustment of C5 is not as hard as that of a traditional French vehicle. It is dedicated to the pursuit of comfort. The feedback of the steering wheel is slightly heavy, and the feeling of road conditions is almost completely filtered out, making this vehicle easy to drive. Although the feedback of minor vibration on the paved road is obvious, it performs an excellent absorption on large ups and downs. The bounce amplitude when passing through the speed bumps is very small, with impact forces absorbed effectively, impressing the people deeply.",
+        "label_text": "large ups and downs"
+    },
+    {
+        "source": "原文 : 迈锐宝悬架偏软，刹车时车身前倾比较厉害，但刹车力度非常稳定，ABS工作细腻，踏板力度也很柔和，给人不错的刹车信心。",
+        "hyp": "文 3 : The suspension of Malibu is a little soft, and the vehicle lurches forward sharply during braking. However, the braking force is very stable, ABS works delicately, and the pedal force is also gentle, making people confident in its braking.",
+        "label_text": "sharply"
+    },
+    {
+        "source": "原文 : 拔出钥匙/关闭车辆联动：将点火开关或发动机起动/停止按钮转至[LOCK/OFF]位置时，自动开锁所有门锁。",
+        "hyp": "文 5 : Key removing/vehicle shutdown linkage: When the ignition lock or the engine start/stop button is turned to [LOCK/OFF] position, all the doors will be unlocked automatically. ",
+        "label_text": "removing"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 1 : If the vehicle is second-handed, please make sure that all the registered Bluetooth keys have been deleted. In addition, you should also inform the customer service center or the dealer of your purchasing.",
+        "label_text": "you should also inform"
+    }
+]

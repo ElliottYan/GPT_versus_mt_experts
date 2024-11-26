@@ -1,0 +1,562 @@
+[
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 5 : 我一开始不知道该说什么,但后来有什么事情发生了,所以我想说\"但我没有\".",
+        "label_text": "但后来有什么事情发生了"
+    },
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 5 : 我一开始不知道该说什么,但后来有什么事情发生了,所以我想说\"但我没有\".",
+        "label_text": "但后来有什么事情发生了"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "不必要的"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "被报告"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "报告"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "不必要的"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "被报告"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "报告"
+    },
+    {
+        "source": "原文 : I don’t care if your dog/child is friendly or “dog savvy”.",
+        "hyp": "文 2 : 我不在乎你的狗或孩子是友好的还是\"懂狗\"的.",
+        "label_text": "\"懂狗\""
+    },
+    {
+        "source": "原文 : I will always be the one to give in so that the fight wont continue anymore",
+        "hyp": "文 1 : 我总是会屈服的人,这样战斗就不会再继续了 ⁇",
+        "label_text": "屈服"
+    },
+    {
+        "source": "原文 : I will always be the one to give in so that the fight wont continue anymore",
+        "hyp": "文 1 : 我总是会屈服的人,这样战斗就不会再继续了 ⁇",
+        "label_text": "战斗"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "欺骗这个游戏"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "这些单词"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "欺骗这个游戏"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 4 : 所以,这可能会成为罕见词的第二个东西的空部分 -",
+        "label_text": "第二个东西"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 4 : 所以,这可能会成为罕见词的第二个东西的空部分 -",
+        "label_text": "空部分"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 4 : 所以,这可能会成为罕见词的第二个东西的空部分 -",
+        "label_text": "空部分"
+    },
+    {
+        "source": "原文 : Cruse briefly wrote a column in a comic book review magazine, \"Comics Scene,\" under the rhyming masthead \"Loose Cruse.\"",
+        "hyp": "文 1 : 克鲁斯在漫画评论杂志\"漫画场景\"上短暂地写了一篇专<unk>,",
+        "label_text": "短暂地"
+    },
+    {
+        "source": "原文 : Cruse briefly wrote a column in a comic book review magazine, \"Comics Scene,\" under the rhyming masthead \"Loose Cruse.\"",
+        "hyp": "文 1 : 克鲁斯在漫画评论杂志\"漫画场景\"上短暂地写了一篇专<unk>,",
+        "label_text": "短暂地"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 4 : 瓦齐里补充说,Djehuty 是国家财政部的监督员,并在哈切普苏特女王统治期间监督了工匠和艺术家的作品.",
+        "label_text": "并在哈切普苏特女王统治期间"
+    },
+    {
+        "source": "原文 : I’m a good listener. A lot of people view me as really cute or innocent.",
+        "hyp": "文 1 : 我是一个好听众.很多人认为我真的很可爱或无辜.",
+        "label_text": "无辜"
+    },
+    {
+        "source": "原文 : I’m a good listener. A lot of people view me as really cute or innocent.",
+        "hyp": "文 1 : 我是一个好听众.很多人认为我真的很可爱或无辜.",
+        "label_text": "无辜"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 3 : 在最基本的层面上,电子负率取决于核电荷 (原子有越多的质子,它对电子的\"拉动\"越大) 和原子外<unk>中的其他电子的数量和位置 (原子有越多的电子,等价电子离核越远,因此,它们会经历的正电荷越少 - - 无论是因为它们与核的距离增加,还是因为较低能量核心轨道中的其他电子会保护等价电子免受正电荷的核.",
+        "label_text": "会经历的"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 3 : 在最基本的层面上,电子负率取决于核电荷 (原子有越多的质子,它对电子的\"拉动\"越大) 和原子外<unk>中的其他电子的数量和位置 (原子有越多的电子,等价电子离核越远,因此,它们会经历的正电荷越少 - - 无论是因为它们与核的距离增加,还是因为较低能量核心轨道中的其他电子会保护等价电子免受正电荷的核.",
+        "label_text": "等价电子免受正电荷的核"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 3 : 在最基本的层面上,电子负率取决于核电荷 (原子有越多的质子,它对电子的\"拉动\"越大) 和原子外<unk>中的其他电子的数量和位置 (原子有越多的电子,等价电子离核越远,因此,它们会经历的正电荷越少 - - 无论是因为它们与核的距离增加,还是因为较低能量核心轨道中的其他电子会保护等价电子免受正电荷的核.",
+        "label_text": "经历"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 1 : 嗨,伙计们,我一直很难交朋友,有时觉得自己有点冷漠和<unk>尬(癌症上升,你知道的),但一旦你过去了,你会很冷静.",
+        "label_text": "癌症上升"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 1 : 嗨,伙计们,我一直很难交朋友,有时觉得自己有点冷漠和<unk>尬(癌症上升,你知道的),但一旦你过去了,你会很冷静.",
+        "label_text": "但一旦你过去了,你会很冷静"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 3 : 单元的精度和稳定性对于我的应用程序来说看起来非常好,然而我无法通过蓝牙连接到iPhone或iPad (尝试了每个单元的几个).",
+        "label_text": "单元"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 3 : 单元的精度和稳定性对于我的应用程序来说看起来非常好,然而我无法通过蓝牙连接到iPhone或iPad (尝试了每个单元的几个).",
+        "label_text": "我的应用程序"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 3 : 单元的精度和稳定性对于我的应用程序来说看起来非常好,然而我无法通过蓝牙连接到iPhone或iPad (尝试了每个单元的几个).",
+        "label_text": "尝试了每个单元的几个"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 3 : 单元的精度和稳定性对于我的应用程序来说看起来非常好,然而我无法通过蓝牙连接到iPhone或iPad (尝试了每个单元的几个).",
+        "label_text": "单元"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 3 : 单元的精度和稳定性对于我的应用程序来说看起来非常好,然而我无法通过蓝牙连接到iPhone或iPad (尝试了每个单元的几个).",
+        "label_text": "我的应用程序"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 3 : 单元的精度和稳定性对于我的应用程序来说看起来非常好,然而我无法通过蓝牙连接到iPhone或iPad (尝试了每个单元的几个).",
+        "label_text": "每个单元"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 4 : 所以我和我的朋友又开始玩VAL了,希望我们学会像天堂这样的通信和所有这些,",
+        "label_text": "通信和所有这些"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 4 : 所以我和我的朋友又开始玩VAL了,希望我们学会像天堂这样的通信和所有这些,",
+        "label_text": "像天堂这样的通信和所有这些"
+    },
+    {
+        "source": "原文 : I am a Canadian citizen, but for enrolment it is required to appear for the IELTS exam.",
+        "hyp": "文 4 : 我是加拿大公民,但要报名,需要参加IELTS考试.",
+        "label_text": "要报名"
+    },
+    {
+        "source": "原文 : I am a Canadian citizen, but for enrolment it is required to appear for the IELTS exam.",
+        "hyp": "文 4 : 我是加拿大公民,但要报名,需要参加IELTS考试.",
+        "label_text": "要报名"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 4 : 她是否对我生气,还是只是生气,因为现在我真的很困惑?",
+        "label_text": "还是只是生气"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 4 : 她是否对我生气,还是只是生气,因为现在我真的很困惑?",
+        "label_text": "还是只是生气"
+    },
+    {
+        "source": "原文 : While still living in the north King Mangrai was visited by some merchants from the Mon Kingdom, and hearing of the wealth of Lamphun he determined to conquer it, even against the advice of his councillors.",
+        "hyp": "文 1 : 在北方生活期间,曼格莱国王受到了蒙王国的商人来访,他听说了兰<unk>的财富,决定征服它,即使违背了他的顾问的建议.",
+        "label_text": "顾问"
+    },
+    {
+        "source": "原文 : then i see hes posted a picture of them both that shes took saying 'love of my life'.",
+        "hyp": "文 2 : 然后我看到他发布了他们两个的照片, 她说'我生命的爱'.",
+        "label_text": ", 她说'我生命的爱'."
+    },
+    {
+        "source": "原文 : then i see hes posted a picture of them both that shes took saying 'love of my life'.",
+        "hyp": "文 2 : 然后我看到他发布了他们两个的照片, 她说'我生命的爱'.",
+        "label_text": ", 她说'我生命的爱'."
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 3 : 单体<unk>氨酸是<unk>氨酸的重组形式,具有突变,可以将四<unk>体分解为单体,并提高产生的分离子单元的溶解度.",
+        "label_text": "分离子单元"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 3 : 单体<unk>氨酸是<unk>氨酸的重组形式,具有突变,可以将四<unk>体分解为单体,并提高产生的分离子单元的溶解度.",
+        "label_text": "分离子单元"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 4 : 迪克希塔尔是塔拉的大师,也是唯一一个在卡尔纳特语的七个基本塔拉中拥有克里蒂斯的作曲家.",
+        "label_text": "卡尔纳特语"
+    },
+    {
+        "source": "原文 : It’s just a white screen or it times out loading it, or the page becomes unresponsive!",
+        "hyp": "文 5 : 这只是一个白色的屏幕,或者它加载的时间过了,或者页面不再响应!",
+        "label_text": "这只是一个白色的屏幕"
+    },
+    {
+        "source": "原文 : It’s just a white screen or it times out loading it, or the page becomes unresponsive!",
+        "hyp": "文 5 : 这只是一个白色的屏幕,或者它加载的时间过了,或者页面不再响应!",
+        "label_text": "这只是一个白色的屏幕"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 1 : 在2007年6月,纳迪埃洛拒绝了巴恩斯利的新合同,并避开了诺维奇城的兴趣,与冠军队队友皇后公园流浪者签下了为期两年的合同,这一举动受到巴恩斯利当时的董事长戈登·谢珀德的批评.",
+        "label_text": "并避开了诺维奇城的兴趣"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 1 : 在2007年6月,纳迪埃洛拒绝了巴恩斯利的新合同,并避开了诺维奇城的兴趣,与冠军队队友皇后公园流浪者签下了为期两年的合同,这一举动受到巴恩斯利当时的董事长戈登·谢珀德的批评.",
+        "label_text": "冠军队队友"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 1 : 在2007年6月,纳迪埃洛拒绝了巴恩斯利的新合同,并避开了诺维奇城的兴趣,与冠军队队友皇后公园流浪者签下了为期两年的合同,这一举动受到巴恩斯利当时的董事长戈登·谢珀德的批评.",
+        "label_text": "兴趣"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 1 : 在2007年6月,纳迪埃洛拒绝了巴恩斯利的新合同,并避开了诺维奇城的兴趣,与冠军队队友皇后公园流浪者签下了为期两年的合同,这一举动受到巴恩斯利当时的董事长戈登·谢珀德的批评.",
+        "label_text": "冠军队队友"
+    },
+    {
+        "source": "原文 : The imperfect subjunctive is used in subordinate clauses taking the subjunctive where the sense of the verb requires the imperfect.",
+        "hyp": "文 2 : 不完美的副词在附属句子中使用,在动词的意义需要不完美的情况下使用副词.",
+        "label_text": "不完美的副词在附属句子中使用,在动词的意义需要不完美的情况下使用副词."
+    },
+    {
+        "source": "原文 : The imperfect subjunctive is used in subordinate clauses taking the subjunctive where the sense of the verb requires the imperfect.",
+        "hyp": "文 2 : 不完美的副词在附属句子中使用,在动词的意义需要不完美的情况下使用副词.",
+        "label_text": "不完美的副词在附属句子中使用,在动词的意义需要不完美的情况下使用副词."
+    },
+    {
+        "source": "原文 : Never because one had issues or broke, just because I wanted to stay upgraded and \"in the loop\" and I did.",
+        "hyp": "文 2 : 从来没有因为有一个问题或破裂, 只是因为我想保持升级和\"在循环\"我做了.",
+        "label_text": "从来没有因为有一个问题或破裂, "
+    },
+    {
+        "source": "原文 : Hi guys, I was drinking with my friends from the US and my boyfriend and everyone’s fallen asleep, and I want to play some truth or dare or drink, so if you have Discord or Kik, just message me, owo",
+        "hyp": "文 3 : 大家好,我和来自美国的朋友和我的男朋友一起喝酒,每个人都睡着了,我想玩一些真相或挑战或喝酒,所以如果你有Discord或Kik,",
+        "label_text": "玩一些真相或挑战或喝酒"
+    },
+    {
+        "source": "原文 : Hi guys, I was drinking with my friends from the US and my boyfriend and everyone’s fallen asleep, and I want to play some truth or dare or drink, so if you have Discord or Kik, just message me, owo",
+        "hyp": "文 3 : 大家好,我和来自美国的朋友和我的男朋友一起喝酒,每个人都睡着了,我想玩一些真相或挑战或喝酒,所以如果你有Discord或Kik,",
+        "label_text": "玩一些真相或挑战或喝酒"
+    },
+    {
+        "source": "原文 : Other than that I’ve made this my new school bag for college.",
+        "hyp": "文 1 : 除此之外,我还为大学制作了我的新学袋 ⁇",
+        "label_text": "制作了"
+    },
+    {
+        "source": "原文 : Other than that I’ve made this my new school bag for college.",
+        "hyp": "文 1 : 除此之外,我还为大学制作了我的新学袋 ⁇",
+        "label_text": "制作了"
+    },
+    {
+        "source": "原文 : Other than that I’ve made this my new school bag for college.",
+        "hyp": "文 1 : 除此之外,我还为大学制作了我的新学袋 ⁇",
+        "label_text": "新学袋"
+    },
+    {
+        "source": "原文 : The Tab A is heavy so if your laying down watching a video the case slips in your hand so you have to make frequent adjustments.",
+        "hyp": "文 5 : 标签A很重,所以如果您躺下观看视频, 盒子会在您的手中滑动,",
+        "label_text": "盒子会在您的手中滑动"
+    },
+    {
+        "source": "原文 : But I can imagine that you want to rewrite a sentence that it is not written by male, but it is written by a female instead or, I do not know, like you can have a scientific and unscientific explanation of certain phenomena.",
+        "hyp": "文 2 : 但是我可以想象你想要重写一个句子,它不是由男性写的,而是由女性写的,或者,我不知道,就像你可以对某些现象有科学和非科学的解释.",
+        "label_text": "它不是由男性写的,而是由女性写的"
+    },
+    {
+        "source": "原文 : all the things she screams @ ppl to NOT do to her she turns around and does the exact same rude petty shit to any/everyone else that doesn’t agree with her",
+        "hyp": "文 3 : 她向所有不同意她的人<unk>叫不要对她做的事情. 她转过身来,对任何不同意她的人做同样粗鲁的小事.",
+        "label_text": "她向所有不同意她的人<unk>叫不要对她做的事情. 她转过身来,对任何不同意她的人做同样粗鲁的小事."
+    },
+    {
+        "source": "原文 : Both nations have signed several agreements such as a Trade and Navigation Treaty (1911); Agreement on Military Service (1959); Agreement for Economic, Industrial and Scientific Cooperation (1994); Agreement on Technical and Cultural Cooperation (1994); Agreement for the Promotion and Protection of Investments and its Protocol (1995); Agreement of Cooperation in the fight against Terrorism, Organized Crime and Drug Trafficking (1996); Agreement on Cultural Collaboration and its executive protocols (1997); Antarctic Cooperation Agreement (2001); Agreement of technical cooperation and mutual assistance between the Carabineros de Chile and the Italian Carabinieri (2006); Mutual Assistance Treaty in Criminal Matters (2011); Cinematographic Co-Production Agreement (2013); Agreement of Cooperation in the Defense sector (2016); Agreement to Eliminate Double Taxation in Relation to Income Taxes and to Prevent Tax Evasion and its Protocol (2016); Mutual Administrative Assistance Agreement for the Prevention, Investigation and Repression of Customs Offenses (2017) and an Extradition Treaty (2017).",
+        "hyp": "文 4 : 两国签署了几项协议,如贸易和航行条约(1997年);军事服务协定(1997年);经济,工业和科学合作协定(1996年);技术和文化合作协定(1996年);促进和保护投资协定及其议定书(1996年);打击恐怖主义,有组织犯罪和毒品贩运合作协定(1996年);文化合作协定及其执行议定书(1997年);南极合作协定(2001年);智利海警和意大利海警之间技术合作和互助协定(2006年);刑事案件互助条约(2011年);电影联合制作协定(2013年);在税务部门的合作协定(2016年);消除与所得税有关的双重征税和防止逃税及其议定书(2016年);相互行政援助协定(2017年);对海关犯罪的调查,惩罚和处罚协定(2016年) ⁇",
+        "label_text": "1997年"
+    },
+    {
+        "source": "原文 : Both nations have signed several agreements such as a Trade and Navigation Treaty (1911); Agreement on Military Service (1959); Agreement for Economic, Industrial and Scientific Cooperation (1994); Agreement on Technical and Cultural Cooperation (1994); Agreement for the Promotion and Protection of Investments and its Protocol (1995); Agreement of Cooperation in the fight against Terrorism, Organized Crime and Drug Trafficking (1996); Agreement on Cultural Collaboration and its executive protocols (1997); Antarctic Cooperation Agreement (2001); Agreement of technical cooperation and mutual assistance between the Carabineros de Chile and the Italian Carabinieri (2006); Mutual Assistance Treaty in Criminal Matters (2011); Cinematographic Co-Production Agreement (2013); Agreement of Cooperation in the Defense sector (2016); Agreement to Eliminate Double Taxation in Relation to Income Taxes and to Prevent Tax Evasion and its Protocol (2016); Mutual Administrative Assistance Agreement for the Prevention, Investigation and Repression of Customs Offenses (2017) and an Extradition Treaty (2017).",
+        "hyp": "文 4 : 两国签署了几项协议,如贸易和航行条约(1997年);军事服务协定(1997年);经济,工业和科学合作协定(1996年);技术和文化合作协定(1996年);促进和保护投资协定及其议定书(1996年);打击恐怖主义,有组织犯罪和毒品贩运合作协定(1996年);文化合作协定及其执行议定书(1997年);南极合作协定(2001年);智利海警和意大利海警之间技术合作和互助协定(2006年);刑事案件互助条约(2011年);电影联合制作协定(2013年);在税务部门的合作协定(2016年);消除与所得税有关的双重征税和防止逃税及其议定书(2016年);相互行政援助协定(2017年);对海关犯罪的调查,惩罚和处罚协定(2016年) ⁇",
+        "label_text": "1997年"
+    },
+    {
+        "source": "原文 : Both nations have signed several agreements such as a Trade and Navigation Treaty (1911); Agreement on Military Service (1959); Agreement for Economic, Industrial and Scientific Cooperation (1994); Agreement on Technical and Cultural Cooperation (1994); Agreement for the Promotion and Protection of Investments and its Protocol (1995); Agreement of Cooperation in the fight against Terrorism, Organized Crime and Drug Trafficking (1996); Agreement on Cultural Collaboration and its executive protocols (1997); Antarctic Cooperation Agreement (2001); Agreement of technical cooperation and mutual assistance between the Carabineros de Chile and the Italian Carabinieri (2006); Mutual Assistance Treaty in Criminal Matters (2011); Cinematographic Co-Production Agreement (2013); Agreement of Cooperation in the Defense sector (2016); Agreement to Eliminate Double Taxation in Relation to Income Taxes and to Prevent Tax Evasion and its Protocol (2016); Mutual Administrative Assistance Agreement for the Prevention, Investigation and Repression of Customs Offenses (2017) and an Extradition Treaty (2017).",
+        "hyp": "文 4 : 两国签署了几项协议,如贸易和航行条约(1997年);军事服务协定(1997年);经济,工业和科学合作协定(1996年);技术和文化合作协定(1996年);促进和保护投资协定及其议定书(1996年);打击恐怖主义,有组织犯罪和毒品贩运合作协定(1996年);文化合作协定及其执行议定书(1997年);南极合作协定(2001年);智利海警和意大利海警之间技术合作和互助协定(2006年);刑事案件互助条约(2011年);电影联合制作协定(2013年);在税务部门的合作协定(2016年);消除与所得税有关的双重征税和防止逃税及其议定书(2016年);相互行政援助协定(2017年);对海关犯罪的调查,惩罚和处罚协定(2016年) ⁇",
+        "label_text": "1996年"
+    },
+    {
+        "source": "原文 : Both nations have signed several agreements such as a Trade and Navigation Treaty (1911); Agreement on Military Service (1959); Agreement for Economic, Industrial and Scientific Cooperation (1994); Agreement on Technical and Cultural Cooperation (1994); Agreement for the Promotion and Protection of Investments and its Protocol (1995); Agreement of Cooperation in the fight against Terrorism, Organized Crime and Drug Trafficking (1996); Agreement on Cultural Collaboration and its executive protocols (1997); Antarctic Cooperation Agreement (2001); Agreement of technical cooperation and mutual assistance between the Carabineros de Chile and the Italian Carabinieri (2006); Mutual Assistance Treaty in Criminal Matters (2011); Cinematographic Co-Production Agreement (2013); Agreement of Cooperation in the Defense sector (2016); Agreement to Eliminate Double Taxation in Relation to Income Taxes and to Prevent Tax Evasion and its Protocol (2016); Mutual Administrative Assistance Agreement for the Prevention, Investigation and Repression of Customs Offenses (2017) and an Extradition Treaty (2017).",
+        "hyp": "文 4 : 两国签署了几项协议,如贸易和航行条约(1997年);军事服务协定(1997年);经济,工业和科学合作协定(1996年);技术和文化合作协定(1996年);促进和保护投资协定及其议定书(1996年);打击恐怖主义,有组织犯罪和毒品贩运合作协定(1996年);文化合作协定及其执行议定书(1997年);南极合作协定(2001年);智利海警和意大利海警之间技术合作和互助协定(2006年);刑事案件互助条约(2011年);电影联合制作协定(2013年);在税务部门的合作协定(2016年);消除与所得税有关的双重征税和防止逃税及其议定书(2016年);相互行政援助协定(2017年);对海关犯罪的调查,惩罚和处罚协定(2016年) ⁇",
+        "label_text": "1996年"
+    },
+    {
+        "source": "原文 : Both nations have signed several agreements such as a Trade and Navigation Treaty (1911); Agreement on Military Service (1959); Agreement for Economic, Industrial and Scientific Cooperation (1994); Agreement on Technical and Cultural Cooperation (1994); Agreement for the Promotion and Protection of Investments and its Protocol (1995); Agreement of Cooperation in the fight against Terrorism, Organized Crime and Drug Trafficking (1996); Agreement on Cultural Collaboration and its executive protocols (1997); Antarctic Cooperation Agreement (2001); Agreement of technical cooperation and mutual assistance between the Carabineros de Chile and the Italian Carabinieri (2006); Mutual Assistance Treaty in Criminal Matters (2011); Cinematographic Co-Production Agreement (2013); Agreement of Cooperation in the Defense sector (2016); Agreement to Eliminate Double Taxation in Relation to Income Taxes and to Prevent Tax Evasion and its Protocol (2016); Mutual Administrative Assistance Agreement for the Prevention, Investigation and Repression of Customs Offenses (2017) and an Extradition Treaty (2017).",
+        "hyp": "文 4 : 两国签署了几项协议,如贸易和航行条约(1997年);军事服务协定(1997年);经济,工业和科学合作协定(1996年);技术和文化合作协定(1996年);促进和保护投资协定及其议定书(1996年);打击恐怖主义,有组织犯罪和毒品贩运合作协定(1996年);文化合作协定及其执行议定书(1997年);南极合作协定(2001年);智利海警和意大利海警之间技术合作和互助协定(2006年);刑事案件互助条约(2011年);电影联合制作协定(2013年);在税务部门的合作协定(2016年);消除与所得税有关的双重征税和防止逃税及其议定书(2016年);相互行政援助协定(2017年);对海关犯罪的调查,惩罚和处罚协定(2016年) ⁇",
+        "label_text": "1996年"
+    },
+    {
+        "source": "原文 : Both nations have signed several agreements such as a Trade and Navigation Treaty (1911); Agreement on Military Service (1959); Agreement for Economic, Industrial and Scientific Cooperation (1994); Agreement on Technical and Cultural Cooperation (1994); Agreement for the Promotion and Protection of Investments and its Protocol (1995); Agreement of Cooperation in the fight against Terrorism, Organized Crime and Drug Trafficking (1996); Agreement on Cultural Collaboration and its executive protocols (1997); Antarctic Cooperation Agreement (2001); Agreement of technical cooperation and mutual assistance between the Carabineros de Chile and the Italian Carabinieri (2006); Mutual Assistance Treaty in Criminal Matters (2011); Cinematographic Co-Production Agreement (2013); Agreement of Cooperation in the Defense sector (2016); Agreement to Eliminate Double Taxation in Relation to Income Taxes and to Prevent Tax Evasion and its Protocol (2016); Mutual Administrative Assistance Agreement for the Prevention, Investigation and Repression of Customs Offenses (2017) and an Extradition Treaty (2017).",
+        "hyp": "文 4 : 两国签署了几项协议,如贸易和航行条约(1997年);军事服务协定(1997年);经济,工业和科学合作协定(1996年);技术和文化合作协定(1996年);促进和保护投资协定及其议定书(1996年);打击恐怖主义,有组织犯罪和毒品贩运合作协定(1996年);文化合作协定及其执行议定书(1997年);南极合作协定(2001年);智利海警和意大利海警之间技术合作和互助协定(2006年);刑事案件互助条约(2011年);电影联合制作协定(2013年);在税务部门的合作协定(2016年);消除与所得税有关的双重征税和防止逃税及其议定书(2016年);相互行政援助协定(2017年);对海关犯罪的调查,惩罚和处罚协定(2016年) ⁇",
+        "label_text": "智利海警和意大利海警"
+    },
+    {
+        "source": "原文 : Both nations have signed several agreements such as a Trade and Navigation Treaty (1911); Agreement on Military Service (1959); Agreement for Economic, Industrial and Scientific Cooperation (1994); Agreement on Technical and Cultural Cooperation (1994); Agreement for the Promotion and Protection of Investments and its Protocol (1995); Agreement of Cooperation in the fight against Terrorism, Organized Crime and Drug Trafficking (1996); Agreement on Cultural Collaboration and its executive protocols (1997); Antarctic Cooperation Agreement (2001); Agreement of technical cooperation and mutual assistance between the Carabineros de Chile and the Italian Carabinieri (2006); Mutual Assistance Treaty in Criminal Matters (2011); Cinematographic Co-Production Agreement (2013); Agreement of Cooperation in the Defense sector (2016); Agreement to Eliminate Double Taxation in Relation to Income Taxes and to Prevent Tax Evasion and its Protocol (2016); Mutual Administrative Assistance Agreement for the Prevention, Investigation and Repression of Customs Offenses (2017) and an Extradition Treaty (2017).",
+        "hyp": "文 4 : 两国签署了几项协议,如贸易和航行条约(1997年);军事服务协定(1997年);经济,工业和科学合作协定(1996年);技术和文化合作协定(1996年);促进和保护投资协定及其议定书(1996年);打击恐怖主义,有组织犯罪和毒品贩运合作协定(1996年);文化合作协定及其执行议定书(1997年);南极合作协定(2001年);智利海警和意大利海警之间技术合作和互助协定(2006年);刑事案件互助条约(2011年);电影联合制作协定(2013年);在税务部门的合作协定(2016年);消除与所得税有关的双重征税和防止逃税及其议定书(2016年);相互行政援助协定(2017年);对海关犯罪的调查,惩罚和处罚协定(2016年) ⁇",
+        "label_text": "在税务部门的合作协定"
+    },
+    {
+        "source": "原文 : Both nations have signed several agreements such as a Trade and Navigation Treaty (1911); Agreement on Military Service (1959); Agreement for Economic, Industrial and Scientific Cooperation (1994); Agreement on Technical and Cultural Cooperation (1994); Agreement for the Promotion and Protection of Investments and its Protocol (1995); Agreement of Cooperation in the fight against Terrorism, Organized Crime and Drug Trafficking (1996); Agreement on Cultural Collaboration and its executive protocols (1997); Antarctic Cooperation Agreement (2001); Agreement of technical cooperation and mutual assistance between the Carabineros de Chile and the Italian Carabinieri (2006); Mutual Assistance Treaty in Criminal Matters (2011); Cinematographic Co-Production Agreement (2013); Agreement of Cooperation in the Defense sector (2016); Agreement to Eliminate Double Taxation in Relation to Income Taxes and to Prevent Tax Evasion and its Protocol (2016); Mutual Administrative Assistance Agreement for the Prevention, Investigation and Repression of Customs Offenses (2017) and an Extradition Treaty (2017).",
+        "hyp": "文 4 : 两国签署了几项协议,如贸易和航行条约(1997年);军事服务协定(1997年);经济,工业和科学合作协定(1996年);技术和文化合作协定(1996年);促进和保护投资协定及其议定书(1996年);打击恐怖主义,有组织犯罪和毒品贩运合作协定(1996年);文化合作协定及其执行议定书(1997年);南极合作协定(2001年);智利海警和意大利海警之间技术合作和互助协定(2006年);刑事案件互助条约(2011年);电影联合制作协定(2013年);在税务部门的合作协定(2016年);消除与所得税有关的双重征税和防止逃税及其议定书(2016年);相互行政援助协定(2017年);对海关犯罪的调查,惩罚和处罚协定(2016年) ⁇",
+        "label_text": "消除与所得税有关的双重征税和防止逃税及其议定书(2016年);相互行政援助协定(2017年)"
+    },
+    {
+        "source": "原文 : When the plate of which it was a part subducted under another plate, the terrane failed to subduct, detached from its transporting plate, and accreted onto the overriding plate.",
+        "hyp": "文 1 : 当它组成的板块在另一个板块下<unk>下时,地板未能<unk>下,从运输板块中脱离,并<unk>积到覆盖板块上.",
+        "label_text": "地板"
+    },
+    {
+        "source": "原文 : It’s only been a few hours and she feels very sleepy, but when we pet her she sounds like a running car motor.",
+        "hyp": "文 1 : 这仅仅是几个小时, 她觉得很睡觉, 但当我们抚摸她她听起来像一个运行的汽车发动机.",
+        "label_text": "她觉得很睡觉"
+    },
+    {
+        "source": "原文 : Just to clarify, when I say “anything” I mean anything within the FM’s current power.",
+        "hyp": "文 2 : 只是为了澄清,当我说\"任何东西\"时,我的意思是FM当前功率内的任何东西.",
+        "label_text": "功率内"
+    },
+    {
+        "source": "原文 : so like, after my glow up or whatever more ppl started talkin to me ya?",
+        "hyp": "文 1 : 所以,像,在我发光之后或者任何更多的人开始跟我说话吗?",
+        "label_text": "发光"
+    },
+    {
+        "source": "原文 : so like, after my glow up or whatever more ppl started talkin to me ya?",
+        "hyp": "文 1 : 所以,像,在我发光之后或者任何更多的人开始跟我说话吗?",
+        "label_text": "任何"
+    },
+    {
+        "source": "原文 : The Indian cormorant makes short dives to capture the fish and a group will often fish communally, forming a broad front to drive fish into a corner.",
+        "hyp": "文 2 : 印度<unk>鱼进行短暂的潜水来捕捉鱼类, 一群人经常共同捕鱼, 形成一个宽<unk>的前线,",
+        "label_text": "短暂的潜水"
+    },
+    {
+        "source": "原文 : The Indian cormorant makes short dives to capture the fish and a group will often fish communally, forming a broad front to drive fish into a corner.",
+        "hyp": "文 2 : 印度<unk>鱼进行短暂的潜水来捕捉鱼类, 一群人经常共同捕鱼, 形成一个宽<unk>的前线,",
+        "label_text": "一群人"
+    },
+    {
+        "source": "原文 : This is because I made the mistake of turning things into her desk and not the bin, meaning I have like 4 or 5 assignments that I’ve done but are nowhere in the books,",
+        "hyp": "文 4 : 这是因为我犯了一个错误,把东西放在她的桌子里,而不是垃圾桶里,",
+        "label_text": "垃圾桶里"
+    },
+    {
+        "source": "原文 : Reid kicked off his run for Governor of Nevada in Las Vegas on October 15, 2009, with a second event in Reno the following day as part of an effort to gain recognition in Northern Nevada.",
+        "hyp": "文 4 : 里德在2009年10月15日在拉斯维加斯开始竞选内华达州州长,第二天在里诺举行第二场比赛,作为北内华达州获得认可的努力的一部分.",
+        "label_text": "比赛"
+    },
+    {
+        "source": "原文 : Polis stated that he wishes that more time was spent on the issue of immigration during the meeting of governors at the White House, but the issue \"came up.\"",
+        "hyp": "文 3 : 波利斯表示,他希望在白宫州长会议期间花更多时间讨论移民问题,但这个问题\"出现了\".",
+        "label_text": "但这个问题\"出现了"
+    },
+    {
+        "source": "原文 : When I try to get it into the port to charge it, however, it launches right back out.",
+        "hyp": "文 2 : 然而,当我试图把它放进端口充电时, 它就会立即启动.",
+        "label_text": "立即启动"
+    },
+    {
+        "source": "原文 : In one way, it kind of helped me find the cup lowkey grip, but god damn was it difficult trying not to stab myself.",
+        "hyp": "文 5 : 在某种程度上, 它帮助我找到杯子低调的握手, 但上帝的诅咒是很难试图不刺伤自己.",
+        "label_text": "低调的握手"
+    },
+    {
+        "source": "原文 : In one way, it kind of helped me find the cup lowkey grip, but god damn was it difficult trying not to stab myself.",
+        "hyp": "文 5 : 在某种程度上, 它帮助我找到杯子低调的握手, 但上帝的诅咒是很难试图不刺伤自己.",
+        "label_text": "但上帝的诅咒是很难试图不刺伤自己"
+    },
+    {
+        "source": "原文 : Me and my real life friends need a team that we (or especially I) can VOD review in order to learn about tarping, switching layers and positioning.",
+        "hyp": "文 2 : 我和我的真实生活朋友需要一个团队, 我们 (或尤其是我) 可以VOD审查,",
+        "label_text": "我和我的真实生活朋友需要一个团队, 我们 (或尤其是我) 可以VOD审查,"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 4 : 我敢打<unk>你没有打扰阅读整个数字,或注意到我放进来的字母,现在你会回去检查只有意识到没有字母.",
+        "label_text": "你没有打扰阅读整个数字"
+    },
+    {
+        "source": "原文 : You can easily get an infinite powerlock in longer fights.",
+        "hyp": "文 3 : 在更长的战斗中,你可以很容易地获得无限的权力锁.",
+        "label_text": "权力锁"
+    },
+    {
+        "source": "原文 : The bot that searches your in-game chat for toxic behavior after a report doesn’t understand the context.",
+        "hyp": "文 4 : 报告后搜索游戏内聊天中的有毒行为的机器人不理解上下文.",
+        "label_text": "报告后"
+    },
+    {
+        "source": "原文 : One is immature and shy and always pulling me down.",
+        "hyp": "文 3 : 一个是不成熟的和害羞的, 总是把我拉下来.",
+        "label_text": "总是把我拉下来."
+    },
+    {
+        "source": "原文 : Looking for single bedroom flats or flatshares is a legit issue as 3 letting agents in the city own them all, and are only letting to students.",
+        "hyp": "文 4 : 寻找单卧室公寓或共享公寓是一个合法的问题, 因为城市中的3个租<unk>代理人拥有它们,",
+        "label_text": "合法的问题"
+    },
+    {
+        "source": "原文 : I think that some people here are AI or something.",
+        "hyp": "文 5 : 我认为这里的一些人是人工智能或其他东西.",
+        "label_text": "或其他东西"
+    },
+    {
+        "source": "原文 : Towards the end, my husband sends me a Facebook message saying he’s ready for her to leave (she’d been there 2 hours at this point) and then he starts passive-aggressive cleaning in front of us.",
+        "hyp": "文 4 : 在结束时,我的丈夫给我发了一条Facebook消息, 说他已经准备好让她离开了(她已经在那里两个小时了), 然后他开始在我们面前进行被动攻击的清洁.",
+        "label_text": "被动攻击的清洁"
+    },
+    {
+        "source": "原文 : The original three skulls (all assigned to different species) were poorly known, and the genus had been considered a junior synonym of \"Metriorhynchus,\" \"Geosaurus\" or \"Dakosaurus\" by different palaeontologists in the past.",
+        "hyp": "文 3 : 原来的三个头骨(所有都被分配给不同的物种)是鲜为人知的,该属在过去被不同的古生物学家认为是\"Metriorhynchus\"\",Geosaurus\"或\"Dakosaurus\"的初级同义词.",
+        "label_text": "所有都被分配给不同的物种"
+    },
+    {
+        "source": "原文 : okay so i went out with my gf to go to 7-11 and i had my hair in my face, a hoodie, and a mask and someone called me he/him.",
+        "hyp": "文 1 : 好吧,所以我和我的女朋友出去去七十一, 我有我的头发在我的脸, 一个帽子, 和一个面具和有人叫我他/他.",
+        "label_text": "七十一"
+    },
+    {
+        "source": "原文 : okay so i went out with my gf to go to 7-11 and i had my hair in my face, a hoodie, and a mask and someone called me he/him.",
+        "hyp": "文 1 : 好吧,所以我和我的女朋友出去去七十一, 我有我的头发在我的脸, 一个帽子, 和一个面具和有人叫我他/他.",
+        "label_text": " 我有我的头发在我的脸"
+    },
+    {
+        "source": "原文 : My GF faces just turned red because the treasure he found was her dildo.",
+        "hyp": "文 2 : 我的男朋友的脸刚刚变红了,因为他发现的宝藏是她的<unk>.",
+        "label_text": "男朋友"
+    },
+    {
+        "source": "原文 : savings from thEn and i barely made 200usd till now.",
+        "hyp": "文 2 : 到目前为止,我几乎没有赚到200美元.",
+        "label_text": "几乎没有赚到"
+    },
+    {
+        "source": "原文 : The reptarenavirus family, responsible for inclusion body disease in snakes, shows a very high degree of genetic diversity due to reassortment of genetic material from multiple strains in the same infected animal.",
+        "hyp": "文 3 : 蛇类<unk>虫病毒家族,负责蛇类<unk>虫体疾病,由于同一个受感染动物的多个菌株的遗传材料重新分类,表现出非常高的遗传多样性.",
+        "label_text": "重新分类"
+    },
+    {
+        "source": "原文 : In 2018, Lufkin's crime rate was 4,666 crimes per 100,000 persons, which was an overall decrease by 2% from 2017; 134 violent crimes and 1,403 property crimes were reported.",
+        "hyp": "文 3 : 2018年,卢夫金的犯罪率为每10万人466起犯罪,比2017年总体下降2%;报告了134起暴力犯罪和1403起财产犯罪.",
+        "label_text": "466"
+    },
+    {
+        "source": "原文 : You honestly deserve to get scammed if you give a random guy on the internet like 300€ worth of fake internet points, like wtf are you doing honestly LOL",
+        "hyp": "文 5 : 如果你在互联网上给一个随机的人300欧元的假互联网积分,",
+        "label_text": "假互联网积分"
+    },
+    {
+        "source": "原文 : if I do I will be in my mid 30’s cuz I wanna live life my way",
+        "hyp": "文 5 : 如果我这样做,我就会在30多岁,因为我想以我自己的方式生活.",
+        "label_text": "如果我这样做,我就会在30多岁"
+    },
+    {
+        "source": "原文 : I don’t expect an apology from T, because she never has once ever apologized for anything she’s ever done wrong.",
+        "hyp": "文 2 : 我不希望T道歉, 因为她从来没有为自己做错的事情道歉.",
+        "label_text": "不希望T道歉"
+    },
+    {
+        "source": "原文 : However, always. Possibility that the man behind us did it.",
+        "hyp": "文 1 : 然而,总是. 可能性是我们后面的男人做到了.",
+        "label_text": "可能性是我们后面的男人做到了"
+    },
+    {
+        "source": "原文 : So yeah, I think this is actual lols, she thinks it doesn’t exist.",
+        "hyp": "文 4 : 所以,是的,我认为这是真正的lol,她认为它不存在.",
+        "label_text": "我认为这是真正的lol"
+    },
+    {
+        "source": "原文 : When computing several derivatives in the N-jet simultaneously, discrete scale-space smoothing with the discrete analogue of the Gaussian kernel, or with a recursive filter approximation, followed by small support difference operators, may be both faster and more accurate than computing recursive approximations of each derivative operator.",
+        "hyp": "文 2 : 在N-jet中同时计算多个导数时,与高斯核的离散模拟或以递归过<unk>器近似进行离散尺度空间平滑,随后使用小支持差异运算符,可能比计算每个导数运算符的递归近似更快更准确.",
+        "label_text": "在N-jet中同时计算多个导数时"
+    },
+    {
+        "source": "原文 : The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",
+        "hyp": "文 5 : 实验并没有创造这个读数上的事实, 而是选择进行哪些实验来控制哪些事实被发现.",
+        "label_text": "这个读数上的事实"
+    },
+    {
+        "source": "原文 : She could see the date I opened my first line and then the second.",
+        "hyp": "文 5 : 她可以看到我开了第一行,然后开了第二行.",
+        "label_text": "我开了第一行,然后开了第二行"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 2 : 在过去的四年里, 我一直穿着莱恩·布莱恩特的休息室胸罩,",
+        "label_text": "休息室胸罩"
+    },
+    {
+        "source": "原文 : I think the designation of \"non-binary\" needs to be extended from just a gender term, to be used when referring to sex.",
+        "hyp": "文 3 : 我认为\"非二进制\"的名称需要从一个性别术语扩展,",
+        "label_text": "非二进制"
+    },
+    {
+        "source": "原文 : I love my boyfriend and desperately want to keep his system happy.",
+        "hyp": "文 1 : 我爱我的男朋友, 绝望地想让他的系统快乐.",
+        "label_text": "让他的系统快乐"
+    },
+    {
+        "source": "原文 : The suspect is expected to appear in Bond Court Saturday, Brown said, where more details about the evidence they have collected will be presented.",
+        "hyp": "文 4 : 布朗说, 嫌疑人预计将在周六出现在债券法院,",
+        "label_text": "债券法院"
+    },
+    {
+        "source": "原文 : all these skin mods and such hows it being done",
+        "hyp": "文 1 : 所有这些皮肤修改和它是如何完成的",
+        "label_text": "皮肤修改和它"
+    },
+    {
+        "source": "原文 : Today it’s my birthday, so I’m sharing my “strange” coming out story.",
+        "hyp": "文 4 : 今天是我的生日,所以我分享我的\"奇怪\"出来的故事.",
+        "label_text": "\"奇怪\"出来的故事"
+    }
+]

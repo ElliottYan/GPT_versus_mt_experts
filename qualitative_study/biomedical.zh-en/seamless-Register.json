@@ -1,0 +1,377 @@
+[
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 3 : Of the other 690 reports, the main ones were digestive system (stomach discomfort, lack of appetite, abdominal pain, nausea or vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial watering (0.15%), etc.",
+        "label_text": "lack"
+    },
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 3 : Of the other 690 reports, the main ones were digestive system (stomach discomfort, lack of appetite, abdominal pain, nausea or vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial watering (0.15%), etc.",
+        "label_text": "itching"
+    },
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 3 : Of the other 690 reports, the main ones were digestive system (stomach discomfort, lack of appetite, abdominal pain, nausea or vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial watering (0.15%), etc.",
+        "label_text": "itching"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : （3）消化性溃疡、胃肠出血、溃疡性结肠炎",
+        "hyp": "文 3 : (3) Digestive ulcers, stomach and intestinal bleeding, and ulcerative colitis",
+        "label_text": "stomach and intestinal"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "kidney failure"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "kidney inflammation"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "kidney disease"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "kidney failure"
+    },
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 5 : Satisfactory blood sugar control can be achieved by adjusting the dosage of both drugs by combining the drug with the drug.",
+        "label_text": "blood sugar"
+    },
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 5 : Satisfactory blood sugar control can be achieved by adjusting the dosage of both drugs by combining the drug with the drug.",
+        "label_text": "blood sugar"
+    },
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 5 : Satisfactory blood sugar control can be achieved by adjusting the dosage of both drugs by combining the drug with the drug.",
+        "label_text": " the drug"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": " digestive ulcers"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "see"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "digestive ulcers"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": " digestive ulcers"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "digestive ulcers"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 3 : 2. Patients with severe blood abnormalities [may have adverse reactions such as blood disorders, which may further worsen blood abnormalities]",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 3 : 2. Patients with severe blood abnormalities [may have adverse reactions such as blood disorders, which may further worsen blood abnormalities]",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 3 : 2. Patients with severe blood abnormalities [may have adverse reactions such as blood disorders, which may further worsen blood abnormalities]",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 3 : 2. Patients with severe blood abnormalities [may have adverse reactions such as blood disorders, which may further worsen blood abnormalities]",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 3 : 2. Patients with severe blood abnormalities [may have adverse reactions such as blood disorders, which may further worsen blood abnormalities]",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 3 : 2. Patients with severe blood abnormalities [may have adverse reactions such as blood disorders, which may further worsen blood abnormalities]",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 2 : Patients with aspirin-induced asthma (asthma seizures caused by non-steroidal anti-inflammatory analgesics, etc.) or their previous history [may cause asthma seizures], and asthma patients who are allergic to aspirin;",
+        "label_text": "their"
+    },
+    {
+        "source": "原文 : 复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 1 : Relapses are generally more severe than those of the initial attack and may include life-threatening low blood pressure and death.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 1 : Relapses are generally more severe than those of the initial attack and may include life-threatening low blood pressure and death.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 比较各组患者治疗3、6、24个月的血液学、细胞遗传学和分子学反应。",
+        "hyp": "文 1 : Comparison of hematology, cell genetics, and molecular responses of groups of patients treated for 3-6-24 months.",
+        "label_text": "cell genetics"
+    },
+    {
+        "source": "原文 : 比较各组患者治疗3、6、24个月的血液学、细胞遗传学和分子学反应。",
+        "hyp": "文 1 : Comparison of hematology, cell genetics, and molecular responses of groups of patients treated for 3-6-24 months.",
+        "label_text": "hematology"
+    },
+    {
+        "source": "原文 : 比较各组患者治疗3、6、24个月的血液学、细胞遗传学和分子学反应。",
+        "hyp": "文 1 : Comparison of hematology, cell genetics, and molecular responses of groups of patients treated for 3-6-24 months.",
+        "label_text": "cell genetics"
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 5 : Cholamine is an anion-exchanging resin that binds to the product in the digestive tract, delaying or inhibiting the absorption of the product.",
+        "label_text": "anion-exchanging"
+    },
+    {
+        "source": "原文 : 学员通过点播课件、提问答疑、网上讨论等方式进行学习。",
+        "hyp": "文 3 : Students learn by broadcasting lessons, asking questions, answering questions, and discussing online.",
+        "label_text": "asking questions, answering questions"
+    },
+    {
+        "source": "原文 : 学员通过点播课件、提问答疑、网上讨论等方式进行学习。",
+        "hyp": "文 3 : Students learn by broadcasting lessons, asking questions, answering questions, and discussing online.",
+        "label_text": "asking questions, answering questions"
+    },
+    {
+        "source": "原文 : 细胞迁移是指细胞朝着特定的化学浓度梯度发生定向迁移运动，其在胚胎发育、伤口愈合、肿瘤转移中发挥着至关重要的作用。",
+        "hyp": "文 2 : Cell migration is the directional movement of cells towards a specific chemical concentration gradient, which plays a crucial role in embryo development, wound healing, and tumor transfer.",
+        "label_text": "transfer"
+    },
+    {
+        "source": "原文 : 这种超敏反应复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 5 : The recurrence of this hypersensitivity reaction is generally more severe than the first attack, and may include life-threatening low blood pressure and death.",
+        "label_text": "first attack"
+    },
+    {
+        "source": "原文 : 这种超敏反应复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 5 : The recurrence of this hypersensitivity reaction is generally more severe than the first attack, and may include life-threatening low blood pressure and death.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 应告知患者和/或看护者乳酸酸中毒的风险。",
+        "hyp": "文 4 : Patients and or caregivers should be informed of the risk of lactic acid poisoning.",
+        "label_text": "acid poisoning"
+    },
+    {
+        "source": "原文 : 严重的肾功能衰竭（eGFR<45mL/min/1.73m2）；",
+        "hyp": "文 3 : severe kidney failure (eGFR is less than 45 mL/min/1.73 m2);",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 可能影响肾功能的急性病情，如：脱水、严重感染、休克；",
+        "hyp": "文 5 : Acute conditions that may affect kidney function, such as: dehydration, severe kidney infection, kidney shock;",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 3 : Serious infections and injuries, major surgeries, clinical low blood pressure and oxygen deprivation, etc.",
+        "label_text": "injuries"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 3 : Serious infections and injuries, major surgeries, clinical low blood pressure and oxygen deprivation, etc.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 任何急性代谢性酸中毒，包括乳酸酸中毒、糖尿病酮症酸中毒；",
+        "hyp": "文 5 : Any acute metabolic acid poisoning, including lactic acid poisoning, diabetes mellitus acid poisoning;",
+        "label_text": "acid poisoning"
+    },
+    {
+        "source": "原文 : 任何急性代谢性酸中毒，包括乳酸酸中毒、糖尿病酮症酸中毒；",
+        "hyp": "文 5 : Any acute metabolic acid poisoning, including lactic acid poisoning, diabetes mellitus acid poisoning;",
+        "label_text": "acid poisoning"
+    },
+    {
+        "source": "原文 : 肝功能不全、急性酒精中毒、酗酒；",
+        "hyp": "文 1 : Incomplete liver function, acute alcohol poisoning and alcoholism;",
+        "label_text": "Incomplete liver function"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 5 : 2) When used in combination with acetaminophen, the latter's sodium excretion and blood pressure-lowering effect is weakened; when used in combination with antihypertensive drugs, the latter's blood pressure-lowering effect is also reduced.",
+        "label_text": "blood pressure-lowering"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 5 : 2) When used in combination with acetaminophen, the latter's sodium excretion and blood pressure-lowering effect is weakened; when used in combination with antihypertensive drugs, the latter's blood pressure-lowering effect is also reduced.",
+        "label_text": "blood pressure-lowering"
+    },
+    {
+        "source": "原文 : 二甲双胍禁用于急性和不稳定性心衰的患者（见【禁忌】）。",
+        "hyp": "文 2 : It is forbidden to be used in patients with acute and unstable heart failure (see <unk> taboo<unk>).",
+        "label_text": "taboo"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "verification"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 4 : \"Injection of iodine shadowing agents into the bloodstream may lead to shadowing agent cystitis, which may cause methamphetamine accumulation and increase the risk of lactic acid poisoning\".",
+        "label_text": "acid poisoning"
+    },
+    {
+        "source": "原文 : 因此，计划做这类检查的患者，在检查前或检查时必须停止服用二甲双胍，在检查完成至少48小时后且仅在再次检查肾功能稳定的情况下才可以恢复用药。",
+        "hyp": "文 1 : Therefore, patients who plan to undergo this type of examination must stop taking the drug before or at the time of the examination and should resume taking the drug at least 48 hours after the examination has been completed and only if the kidney function has stabilized.",
+        "label_text": " the drug"
+    },
+    {
+        "source": "原文 : 因此，计划做这类检查的患者，在检查前或检查时必须停止服用二甲双胍，在检查完成至少48小时后且仅在再次检查肾功能稳定的情况下才可以恢复用药。",
+        "hyp": "文 1 : Therefore, patients who plan to undergo this type of examination must stop taking the drug before or at the time of the examination and should resume taking the drug at least 48 hours after the examination has been completed and only if the kidney function has stabilized.",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 3）如与其他药物同时使用可能会发生药物相互作用，详情请咨询医师或药师。",
+        "hyp": "文 4 : 3) If drug interactions may occur with other drugs, please consult your doctor or pharmacist for details.",
+        "label_text": "doctor"
+    },
+    {
+        "source": "原文 : 据国外文献报道，即使二甲双胍服药量达到85g都没有发生低血糖，但在这种情况下会发生乳酸酸中毒。",
+        "hyp": "文 2 : According to foreign literature, even if the dosage of methamphetamine reaches 85 g, there is no low blood sugar, but in this case lactic acid poisoning occurs.",
+        "label_text": "low blood sugar"
+    },
+    {
+        "source": "原文 : 据国外文献报道，即使二甲双胍服药量达到85g都没有发生低血糖，但在这种情况下会发生乳酸酸中毒。",
+        "hyp": "文 2 : According to foreign literature, even if the dosage of methamphetamine reaches 85 g, there is no low blood sugar, but in this case lactic acid poisoning occurs.",
+        "label_text": "acid poisoning"
+    },
+    {
+        "source": "原文 : 在良好的血液动力学的状况下二甲双胍可以以170mL/min的速度透析清除。",
+        "hyp": "文 4 : Under conditions of good blood dynamics, methamphetamine can be removed by dialysis at a rate of 170 mL per minute.",
+        "label_text": "blood dynamics"
+    },
+    {
+        "source": "原文 : 红细胞可能是二甲双胍的第二分布腔室，平均分布容积（Vd）约为1.12 L/kg。",
+        "hyp": "文 3 : Red blood cells may be the second distribution chamber of the diphtheria, with an average distribution volume (Vd) of about 1.12 L/kg.",
+        "label_text": "distribution volume (Vd)"
+    },
+    {
+        "source": "原文 : 为了避免重新服用阿巴卡韦和多替拉韦，应当告知出现可疑超敏反应的患者丢弃剩余的本品药片。",
+        "hyp": "文 4 : In order to avoid re-administration of abacave and doctilab, patients with suspected hypersensitivity should be advised to discard any remaining original tablets.",
+        "label_text": "original"
+    },
+    {
+        "source": "原文 : 在感染HIV患者中，无论患者人种如何，开始使用含阿巴卡韦的产品治疗前，应当筛查是否携带HLA-B*5701等位基因。",
+        "hyp": "文 5 : In HIV-infected patients, regardless of the patient's ethnicity, before starting treatment with products containing abacavir, it should be screened for carriers of the HLA-B5701 allele gene.",
+        "label_text": "allele gene"
+    },
+    {
+        "source": "原文 : 本研究为含裂纹斑块的破裂风险评估提供了一定的理论依据。",
+        "hyp": "文 2 : This study provides a certain theoretical basis for the risk assessment of rupture of fissure-containing patches.",
+        "label_text": "fissure"
+    },
+    {
+        "source": "原文 : 本研究为含裂纹斑块的破裂风险评估提供了一定的理论依据。",
+        "hyp": "文 2 : This study provides a certain theoretical basis for the risk assessment of rupture of fissure-containing patches.",
+        "label_text": "patches"
+    },
+    {
+        "source": "原文 : 有报告指出，合用其他非甾体类抗炎镇痛药引起了痉挛。",
+        "hyp": "文 1 : It has been reported that the combination of other non-steroidal anti-inflammatory painkillers has caused seizures.",
+        "label_text": "painkillers"
+    },
+    {
+        "source": "原文 : 抗反转录病毒治疗期间，可能发生体重增加以及血脂和血糖水平升高。",
+        "hyp": "文 3 : Weight gain and elevated blood lipid and blood sugar levels may occur during antiretroviral therapy.",
+        "label_text": "sugar "
+    },
+    {
+        "source": "原文 : 术后至少48小时或恢复进食并且肾功能经评估稳定后才可以重新开始治疗。",
+        "hyp": "文 5 : Treatment can be resumed at least 48 hours after surgery or after eating is restored and kidney function is assessed to be stable.",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 现有的免疫功能定义如免疫过度、免疫抑制、免疫麻痹、免疫耐受均停留在描述性的概念，缺乏定量的诊断标准，结合临床表现及生物学指标将是未来最有效的量化方式。",
+        "hyp": "文 5 : Existing definitions of immune function such as immunodeficiency, immunosuppression, immune paralysis, and immune tolerance remain descriptive concepts, lacking quantitative diagnostic criteria, combined with clinical performance and biological indicators will be the most effective quantification in the future.",
+        "label_text": "performance"
+    },
+    {
+        "source": "原文 : 现有的PAP动物模型均不能完全反映人PAP疾病发展，需进一步开发和改进，为临床实践提供依据。",
+        "hyp": "文 5 : The existing PAP animal models do not fully reflect the development of human PAP disease and need to be further developed and improved to provide a basis for clinical practice.",
+        "label_text": "development"
+    },
+    {
+        "source": "原文 : 动物模型是开展各类基础研究的有效工具，目前的动物模型均是根据粒细胞-巨噬细胞集落刺激因子（GM-CSF）信号作用障碍和肺泡内环境稳态失衡这两个主要的发病机制而建立，应用研究集中在PAP的治疗策略上。",
+        "hyp": "文 1 : The animal model is an effective tool for conducting all kinds of basic research, and the current animal model is based on the two main mechanisms of the disease: the interference of the signaling action of the granulocyte-macrophage cluster stimulating factor (GM-CSF) and the imbalance of the stability of the environment in the pulmonary bladder.",
+        "label_text": "mechanisms of the disease"
+    },
+    {
+        "source": "原文 : 个性化定位组胫骨轴线分为直线型58膝（50.88%）、内弓型35膝（30.70%）、外弓型21膝（18.42%）。",
+        "hyp": "文 5 : The axis of the individualized positioning group of the tibia is divided into linear 58 knee (50.88%) <unk> internal arch 35 knee (30.70%) <unk> external arch 21 knee (18.42%) <unk>",
+        "label_text": "internal"
+    },
+    {
+        "source": "原文 : 个性化定位组胫骨轴线分为直线型58膝（50.88%）、内弓型35膝（30.70%）、外弓型21膝（18.42%）。",
+        "hyp": "文 5 : The axis of the individualized positioning group of the tibia is divided into linear 58 knee (50.88%) <unk> internal arch 35 knee (30.70%) <unk> external arch 21 knee (18.42%) <unk>",
+        "label_text": "external"
+    },
+    {
+        "source": "原文 : 如果成人或青少年的体重低于40 kg，不应当给予本品，因为本品是固定剂量片剂，不能减少剂量。",
+        "hyp": "文 5 : If the weight of an adult or a teenager is less than 40 kg, this product should not be given, because this product is a fixed dose tablet, the dose cannot be reduced.",
+        "label_text": " teenager "
+    },
+    {
+        "source": "原文 : 对于轻度肝损害（Child-Pugh 5-6分）患者，需要密切监测，如可行，包括监测阿巴卡韦血浆水平（见【注意事项】和【药代动力学】）。",
+        "hyp": "文 5 : For patients with mild liver damage (Child-Pugh score of 5-6), close monitoring is required, if possible, including monitoring of abacave plasma levels (see <unk> Precautions <unk> and <unk> Pharmacokinetics <unk>).",
+        "label_text": "damage"
+    },
+    {
+        "source": "原文 : 综上，基于CHB临床检验诊断路径的实验诊断学教学模式，实现了实验诊断学与临床医学的融合，提升了学生对CHB诊疗中各种实验室检查检测的整体认识，教学质量得到了提高。",
+        "hyp": "文 2 : In summary, the experimental diagnostic teaching model based on the CHB clinical examination diagnostic pathway has achieved the fusion of experimental diagnostic and clinical medicine, improved the overall understanding of students of various laboratory examinations and tests in CHB clinical treatment, and improved the quality of teaching.",
+        "label_text": "diagnostic"
+    },
+    {
+        "source": "原文 : 综上，基于CHB临床检验诊断路径的实验诊断学教学模式，实现了实验诊断学与临床医学的融合，提升了学生对CHB诊疗中各种实验室检查检测的整体认识，教学质量得到了提高。",
+        "hyp": "文 2 : In summary, the experimental diagnostic teaching model based on the CHB clinical examination diagnostic pathway has achieved the fusion of experimental diagnostic and clinical medicine, improved the overall understanding of students of various laboratory examinations and tests in CHB clinical treatment, and improved the quality of teaching.",
+        "label_text": "fusion"
+    },
+    {
+        "source": "原文 : 综上，基于CHB临床检验诊断路径的实验诊断学教学模式，实现了实验诊断学与临床医学的融合，提升了学生对CHB诊疗中各种实验室检查检测的整体认识，教学质量得到了提高。",
+        "hyp": "文 2 : In summary, the experimental diagnostic teaching model based on the CHB clinical examination diagnostic pathway has achieved the fusion of experimental diagnostic and clinical medicine, improved the overall understanding of students of various laboratory examinations and tests in CHB clinical treatment, and improved the quality of teaching.",
+        "label_text": "diagnostic"
+    },
+    {
+        "source": "原文 : 在这次新冠肺炎抗击战中，她和团队所提出的“四抗二平衡”方案及带去的人工肝、微生态和干细胞三大技术，显著提高了重症救治率。",
+        "hyp": "文 1 : In this fight against novel coronavirus pneumonia, she and her team proposed the \"four-to-two balance\" scheme and the three technologies of artificial liver, micro-ecology and stem cells, which significantly improved the cure rate of serious illnesses.",
+        "label_text": "serious"
+    },
+    {
+        "source": "原文 : 迄今为止，少有文献阐述MEG-BCI涉及的关键技术问题，为此本文聚焦MEG-BCI关键技术，详述了实用MEG-BCI系统中涉及的信号采集技术、MEG-BCI实验范式设计、MEG信号分析和解码关键技术、MEG-BCI神经反馈技术及其智能化方法。",
+        "hyp": "文 2 : To date, there is little literature on the key technical issues involved in MEG-BCI, so this article focuses on the key technology of MEG-BCI, detailing the signal acquisition technology involved in the practical MEG-BCI system, the experimental model design of MEG-BCI, the key technology of MEG signal analysis and decoding, the MEG-BCI neural feedback technology and its intelligent methods.",
+        "label_text": " little literature"
+    },
+    {
+        "source": "原文 : 应用LogistiC回归分析影响二三线疗效的因素. 三组患者治疗3、6、12个月达完全血液学反应（CHR）、主要细胞遗传学反应（MCyR）、主要分子学反应（MMR）率比较差异均有统计学意义（P<0.05）。",
+        "hyp": "文 2 : Application of LogistiC regression analysis to factors affecting secondary and tertiary efficacy. Three groups of patients treated for 3-6-12 months achieved complete hematological response (CHR) <unk> major cell genetic response (MCyR) <unk> major molecular response (MMR) rate comparison differences were statistically significant (P<0.05) <unk>",
+        "label_text": "hematological"
+    }
+]

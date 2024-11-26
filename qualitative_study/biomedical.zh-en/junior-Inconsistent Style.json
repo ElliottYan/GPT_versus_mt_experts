@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 5 : 2. Patients with severe blood abnormalities [may experience worsening conditions due to potential adverse reactions such as blood disorders].",
+        "label_text": " blood abnormalities"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 5 : 2. Patients with severe blood abnormalities [may experience worsening conditions due to potential adverse reactions such as blood disorders].",
+        "label_text": "blood disorders"
+    },
+    {
+        "source": "原文 : 龙眼肉还能润肤美容，养血安神,,补益心脾，壮阳益气，贫血的人也适合服用，失眠者也适合。",
+        "hyp": "文 1 : Longan meat can also moisturize the skin, nourish blood and calm nerves, tonify the heart and spleen, strengthen yang and benefit Qi. It is beneficial for individuals with anemia and insomnia.",
+        "label_text": "yang"
+    }
+]

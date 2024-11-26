@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : 如果因发动机缺机油导致发动机机油压力低，发动机机油压力低警告灯亮，并启动限制发动机动力的增强型发动机保护系统。此后，如果重复连续驾驶车辆，发动机故障警告灯亮。",
+        "hyp": "文 5 : If the engine oil pressure is low due to a lack of engine oil, the low engine oil pressure warning light will illuminate, and an enhanced engine protection system that limits engine power will be activated. Subsequently, if the vehicle is driven continuously without addressing the issue, the engine malfunction warning light will come on.",
+        "label_text": "without addressing the issue"
+    },
+    {
+        "source": "原文 : 3闪、5闪、7闪：向上/向下轻微移动转向信号操纵杆时，转向信号灯闪烁3次、5次或7次。",
+        "hyp": "文 3 : Three-flash, five-flash, seven-flash: When the turn signal lever is moved slightly up or down, the turn signal lights will blink 3, 5, or 7 times, respectively.",
+        "label_text": ", respectively"
+    }
+]

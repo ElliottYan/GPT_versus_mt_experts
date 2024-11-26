@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : Из электронной базы данных Главного управления ЗАГС Московской области (система ЕГР ЗАГС) за 2021 г.",
+        "hyp": "文 4 : From the electronic database of the Main Department of the Moscow Region Civil Registry Office (ESR ZAGS system) for 2021.",
+        "label_text": "ESR"
+    },
+    {
+        "source": "原文 : Из электронной базы данных Главного управления ЗАГС Московской области (система ЕГР ЗАГС) за 2021 г.",
+        "hyp": "文 4 : From the electronic database of the Main Department of the Moscow Region Civil Registry Office (ESR ZAGS system) for 2021.",
+        "label_text": "ESR"
+    },
+    {
+        "source": "原文 : Из электронной базы данных Главного управления ЗАГС Московской области (система ЕГР ЗАГС) за 2021 г.",
+        "hyp": "文 4 : From the electronic database of the Main Department of the Moscow Region Civil Registry Office (ESR ZAGS system) for 2021.",
+        "label_text": "ZAGS"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 2 : It somehow makes no sense (performing at the Ruki Vverkh Bar, in the Ruki Vverkh Band).",
+        "label_text": "Ruki Vverkh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 2 : It somehow makes no sense (performing at the Ruki Vverkh Bar, in the Ruki Vverkh Band).",
+        "label_text": "Ruki Vverkh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 2 : It somehow makes no sense (performing at the Ruki Vverkh Bar, in the Ruki Vverkh Band).",
+        "label_text": "Ruki Vverkh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 2 : It somehow makes no sense (performing at the Ruki Vverkh Bar, in the Ruki Vverkh Band).",
+        "label_text": "Ruki Vverkh"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 1 : we selected all cases where diseases are specified as a first cause of death (FCD) (all codes of external causes, injury and poisoning were excluded).",
+        "label_text": "FCD"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 1 : we selected all cases where diseases are specified as a first cause of death (FCD) (all codes of external causes, injury and poisoning were excluded).",
+        "label_text": "FCD"
+    },
+    {
+        "source": "原文 : Миграционная служба Аргентины начала приостанавливать и отменять действие вида на жительство (ВНЖ) россиян, получивших его через рождение ребенка, но не оставшихся жить в стране.",
+        "hyp": "文 3 : The Migration Service of Argentine began suspending and cancelling residence permits (RP) of those Russians who obtained them through the birth of a child but did not remain living in the country.",
+        "label_text": "The Migration Service of Argentine"
+    },
+    {
+        "source": "原文 : При утяжелении степени РПГИС пропорционально возрастают ишемические изменения во всех капиллярных слоях центральных отделов сетчатки по сравнению с группой контроля в 1,15 раза при легкой степени, в 1,24 раза при средней степени, в 1,5 раза при тяжелой степени.",
+        "hyp": "文 1 : With increase in the degree of RMOIS, ischemic changes in all capillary layers of the central parts of the retina proportionally increase in comparison with the control group by 1.15 times in mild degree, by 1.24 times in moderate degree, and by 1.5 times in severe RMOIS.",
+        "label_text": " RMOIS"
+    },
+    {
+        "source": "原文 : При утяжелении степени РПГИС пропорционально возрастают ишемические изменения во всех капиллярных слоях центральных отделов сетчатки по сравнению с группой контроля в 1,15 раза при легкой степени, в 1,24 раза при средней степени, в 1,5 раза при тяжелой степени.",
+        "hyp": "文 1 : With increase in the degree of RMOIS, ischemic changes in all capillary layers of the central parts of the retina proportionally increase in comparison with the control group by 1.15 times in mild degree, by 1.24 times in moderate degree, and by 1.5 times in severe RMOIS.",
+        "label_text": "RMOIS"
+    },
+    {
+        "source": "原文 : Были выявлены статистически значимые корреляционные связи между ИКЭФ и общим баллом по субтестам РАТ на понимание и воспроизведение речи до операции, но не в катамнезе.",
+        "hyp": "文 4 : Statistically significant correlational relationships were found between the communicative effectiveness index (CEI) and the total score according to RAT subtests for understanding and reproduction of speech before surgery, but not in the catamnesis.",
+        "label_text": "CEI"
+    }
+]

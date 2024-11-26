@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 1 : The scene of the annihilation of the Ninth Legion, which consumed a significant portion of the budget, was directly inspired by the opening sequence in the Germanic forests from the now classic \"Gladiator\" by Sir Ridley Scott. However, there's no desire to accuse Marshall of plagiarism for some reason: he works honestly and without pretense.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Миграционная служба Аргентины начала приостанавливать и отменять действие вида на жительство (ВНЖ) россиян, получивших его через рождение ребенка, но не оставшихся жить в стране.",
+        "hyp": "文 5 : The Argentine migration service has begun to suspend and cancel the residency permits of Russians who obtained them through childbirth but did not remain in the country.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Использование интраоперационного нейрофизиологического картирования коры головного мозга у пациентки в сознании по протоколу <i>asleep-awake-sedation</i> позволило верифицировать локализацию речевой зоны Вернике.",
+        "hyp": "文 3 : The use of intraoperative neurophysiological mapping of the cerebral cortex on a conscious patient following the asleep-awake-sedation protocol allowed for the verification of the localization of Wernicke's speech area.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Использование интраоперационного нейрофизиологического картирования коры головного мозга у пациентки в сознании по протоколу <i>asleep-awake-sedation</i> позволило верифицировать локализацию речевой зоны Вернике.",
+        "hyp": "文 3 : The use of intraoperative neurophysiological mapping of the cerebral cortex on a conscious patient following the asleep-awake-sedation protocol allowed for the verification of the localization of Wernicke's speech area.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : При анализе данных мф-ЭРГ в исследуемой группе обнаружено статистически значимое по сравнению с группой контроля снижение плотности биопотенциала Р1 (нВ/град<sup>2</sup>) центральной зоны сетчатки (0—27,7°; <i>p</i><0,05), отличия латентности Р1 (ms) были статистически незначимы (<i>p</i>>0,05).",
+        "hyp": "文 4 : In analyzing the mf-ERG data in the study group, a statistically significant reduction in the bio-potential density of P1 (nV/deg²) in the central zone of the retina (0—27.7°; p<0.05) was observed compared to the control group. The differences in the latency of P1 (ms) were not statistically significant (p>0.05).",
+        "label_text": "p>0.05"
+    },
+    {
+        "source": "原文 : Темп прироста решений и определений судов об удовлетворении требований компенсации морального вреда в размерах, превышающих 100 тыс. руб., составил 44% с 2013 по 2022 г.",
+        "hyp": "文 5 : The rate of increase in court decisions and rulings on the satisfaction of claims for compensation for moral damages in amounts exceeding 100,000 rubles was 44% from 2013 to 2022.",
+        "label_text": " "
+    }
+]

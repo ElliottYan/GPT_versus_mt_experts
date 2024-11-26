@@ -1,0 +1,157 @@
+[
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 4 : В течение последних четырех лет я носила Lane Bryants Lounge бюстгальтеры,и это был первый раз надела бюстгальтер с проволокой. за долгое время.",
+        "label_text": ". "
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 4 : В течение последних четырех лет я носила Lane Bryants Lounge бюстгальтеры,и это был первый раз надела бюстгальтер с проволокой. за долгое время.",
+        "label_text": ". "
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 1 : Я могу проверить что я пробовал ли до следующей встречи,",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 4 : Поэтому я хотел бы, чтобы [ЛИЦО4] связался с [ЛИЦО2].",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 4 : Поэтому я хотел бы, чтобы [ЛИЦО4] связался с [ЛИЦО2].",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 4 : Как сообщила в октябре газета Washington Post, в отказе отмечалось, что бывший помощник Пенса Марк Шорт, например, «вероятно, обладал информацией, важной для уголовного расследования Министерства юстиции о нападении на Капитолий 6 января 2021 года, которая не была доступна из других источников».",
+        "label_text": "«"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 4 : Как сообщила в октябре газета Washington Post, в отказе отмечалось, что бывший помощник Пенса Марк Шорт, например, «вероятно, обладал информацией, важной для уголовного расследования Министерства юстиции о нападении на Капитолий 6 января 2021 года, которая не была доступна из других источников».",
+        "label_text": "»"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 4 : Как сообщила в октябре газета Washington Post, в отказе отмечалось, что бывший помощник Пенса Марк Шорт, например, «вероятно, обладал информацией, важной для уголовного расследования Министерства юстиции о нападении на Капитолий 6 января 2021 года, которая не была доступна из других источников».",
+        "label_text": "«"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 4 : Как сообщила в октябре газета Washington Post, в отказе отмечалось, что бывший помощник Пенса Марк Шорт, например, «вероятно, обладал информацией, важной для уголовного расследования Министерства юстиции о нападении на Капитолий 6 января 2021 года, которая не была доступна из других источников».",
+        "label_text": "»"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 5 : Говорят что солдаты украли еще 1 440 000 франков КФА (2 845 долларов) у других людей.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Easy, simple, you do the thing that the player was expected to do.",
+        "hyp": "文 1 : Легко, просто: вы делаете то, что от игрока ожидали.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Ben Kingsley, left, and Liam Neeson star in the Holocaust drama 'Schindler's List.'",
+        "hyp": "文 5 : Бен Кингсли (слева) и Лиам Нисон играют главные роли в драме о Холокосте «Список Шиндлера».",
+        "label_text": "("
+    },
+    {
+        "source": "原文 : Ben Kingsley, left, and Liam Neeson star in the Holocaust drama 'Schindler's List.'",
+        "hyp": "文 5 : Бен Кингсли (слева) и Лиам Нисон играют главные роли в драме о Холокосте «Список Шиндлера».",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : Ben Kingsley, left, and Liam Neeson star in the Holocaust drama 'Schindler's List.'",
+        "hyp": "文 5 : Бен Кингсли (слева) и Лиам Нисон играют главные роли в драме о Холокосте «Список Шиндлера».",
+        "label_text": "«"
+    },
+    {
+        "source": "原文 : Ben Kingsley, left, and Liam Neeson star in the Holocaust drama 'Schindler's List.'",
+        "hyp": "文 5 : Бен Кингсли (слева) и Лиам Нисон играют главные роли в драме о Холокосте «Список Шиндлера».",
+        "label_text": "»"
+    },
+    {
+        "source": "原文 : I texted her in the night yesterday asking if she’s mad, and like she said she’s only a bit let down.",
+        "hyp": "文 1 : Я написал ей вчера вечером и спросил что сердится ли, и она ответила, что просто немного разочарована.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : It is with a broken heart that I must tell you of the death of my beloved wife, husband John Furlong confirmed in a statement on Friday morning.",
+        "hyp": "文 2 : С разбитым сердцем я должен сообщить вам о смерти моей любимой жены, - подтвердил муж Джон Ферлонг в своем заявлении в пятницу утром.",
+        "label_text": "- "
+    },
+    {
+        "source": "原文 : Ok, I’m running out of people to laugh at my jokes.",
+        "hyp": "文 3 : Ладно,никто больше не приходит посмеяться над моими шутками.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : But one time, he didn’t hear it and so he was like “what!?” reallyyy loudddly.",
+        "hyp": "文 2 : Но однажды он этого не услышал и подумал: «Что!?» действительно оооочень громко.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 3 : Вратарю \"Эвертона\" Тиму Ховарду пришлось спасать от Сандро, Кайла Уокера и Льюиса Холтби, а мародерствующему левому защитнику \"шпор\" Яну Вертонгену пришлось отказать в назначении пенальти после того, как его подрезал Шеймус Коулмэн.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 3 : Вратарю \"Эвертона\" Тиму Ховарду пришлось спасать от Сандро, Кайла Уокера и Льюиса Холтби, а мародерствующему левому защитнику \"шпор\" Яну Вертонгену пришлось отказать в назначении пенальти после того, как его подрезал Шеймус Коулмэн.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 3 : Вратарю \"Эвертона\" Тиму Ховарду пришлось спасать от Сандро, Кайла Уокера и Льюиса Холтби, а мародерствующему левому защитнику \"шпор\" Яну Вертонгену пришлось отказать в назначении пенальти после того, как его подрезал Шеймус Коулмэн.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 3 : Вратарю \"Эвертона\" Тиму Ховарду пришлось спасать от Сандро, Кайла Уокера и Льюиса Холтби, а мародерствующему левому защитнику \"шпор\" Яну Вертонгену пришлось отказать в назначении пенальти после того, как его подрезал Шеймус Коулмэн.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",
+        "hyp": "文 2 : Конец будет быстрым: несколько пар клыков впрыскивают смертельный яд, и воздух Дискры загрязняет ваши легкие.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 3 : Глава военного ведомства Украины генерал Валерий Залужный заявил, что с конца четверга до полудня пятницы российские войска выпустили 71 крылатую ракету, 35 ракет С-300 и семь беспилотников \"Шахед\", а украинские средства ПВО сбили 61 крылатую ракету и пять беспилотников.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 3 : Глава военного ведомства Украины генерал Валерий Залужный заявил, что с конца четверга до полудня пятницы российские войска выпустили 71 крылатую ракету, 35 ракет С-300 и семь беспилотников \"Шахед\", а украинские средства ПВО сбили 61 крылатую ракету и пять беспилотников.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 5 : Я могу спокойно открыть это вложение, так как оно исходит от моих друзей, родственников и доверенных организаций.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 5 : Я могу спокойно открыть это вложение, так как оно исходит от моих друзей, родственников и доверенных организаций.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 5 : Я могу спокойно открыть это вложение, так как оно исходит от моих друзей, родственников и доверенных организаций.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 5 : Я могу спокойно открыть это вложение, так как оно исходит от моих друзей, родственников и доверенных организаций.",
+        "label_text": "и"
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 5 : Я могу спокойно открыть это вложение, так как оно исходит от моих друзей, родственников и доверенных организаций.",
+        "label_text": "и "
+    }
+]

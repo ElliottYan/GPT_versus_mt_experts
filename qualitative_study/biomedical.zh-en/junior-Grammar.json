@@ -1,0 +1,107 @@
+[
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Acute renal failure, interstitial nephritis, and nephrotic syndrome may occur (frequency unknown*). Therefore, close observation is necessary. In case of oliguria, hematuria, urinary protein, BUN/blood creatinine increased, hyperkalemia, and hypoproteinemia, the administration should be discontinued, and appropriate measures should be taken.",
+        "label_text": "increased"
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 4 : 6. Patients with severe hypertension [may have blood pressure increased due to water and sodium retention caused by the inhibitory effects on prostaglandin synthesis]",
+        "label_text": "pressure increased"
+    },
+    {
+        "source": "原文 : 临床上不太可能断定使用本品时发生的超敏反应是由阿巴卡韦还是多替拉韦导致。",
+        "hyp": "文 1 : It is clinically difficult to determine whether the hypersensitivity reaction that occurs when using this product is caused by abacavir or dolutegravir.",
+        "label_text": "when using"
+    },
+    {
+        "source": "原文 : 临床上不太可能断定使用本品时发生的超敏反应是由阿巴卡韦还是多替拉韦导致。",
+        "hyp": "文 1 : It is clinically difficult to determine whether the hypersensitivity reaction that occurs when using this product is caused by abacavir or dolutegravir.",
+        "label_text": "when using"
+    },
+    {
+        "source": "原文 : 学员通过点播课件、提问答疑、网上讨论等方式进行学习。",
+        "hyp": "文 2 : Students learn through on-demand courses, Q&A sessions, and online discussions.",
+        "label_text": "learn"
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 3 : The entire process, including makeup and shooting, will take about two hours. The photographer is a young man from the post-95s generation, who may not be so skilled. Hope that you can offer more advice on the shooting poses of customers~ He is quite conversable, and we had an enjoyable time during the shoot.",
+        "label_text": " will "
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 3 : The entire process, including makeup and shooting, will take about two hours. The photographer is a young man from the post-95s generation, who may not be so skilled. Hope that you can offer more advice on the shooting poses of customers~ He is quite conversable, and we had an enjoyable time during the shoot.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 3 : The entire process, including makeup and shooting, will take about two hours. The photographer is a young man from the post-95s generation, who may not be so skilled. Hope that you can offer more advice on the shooting poses of customers~ He is quite conversable, and we had an enjoyable time during the shoot.",
+        "label_text": " will "
+    },
+    {
+        "source": "原文 : 细胞迁移是指细胞朝着特定的化学浓度梯度发生定向迁移运动，其在胚胎发育、伤口愈合、肿瘤转移中发挥着至关重要的作用。",
+        "hyp": "文 3 : Cell migration is the directed movement of cells towards a specific concentration gradient of chemicals, and it plays a critical role in embryonic development, wound healing, and tumor metastasis.",
+        "label_text": "directed"
+    },
+    {
+        "source": "原文 : 这些药物抑制本品的代谢酶（CYP2C9）。",
+        "hyp": "文 4 : These medications inhibit the metabolizing enzyme (CYP2C9) of this product.",
+        "label_text": "metabolizing"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 4 : Severe infections and traumas, major surgical procedures, clinical symptoms such as low blood pressure and hypoxia, etc.;",
+        "label_text": "traumas"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 4 : Severe infections and traumas, major surgical procedures, clinical symptoms such as low blood pressure and hypoxia, etc.;",
+        "label_text": "etc."
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 1 : The method's analytical performances, including sensitivity, specificity, and linear range were further validated. The results showed that in the same reaction system, the response range of katG315 was 1.0 pmol/L to 0.1 nmol/L, while that of rpoB531 and rpsL43 was 1.0 pmol/L to 50.0 pmol/L and 1.0 pmol/L to 20.0 pmol/L, respectively. The method exhibited good specificity and sensitivity, accurately identifying single-base mutations in mixed targets with a low limit of detection of 1.0 pmol/L. In the recovery experiment using simulated serum samples, the recovery rates ranged from 95.0% to 105.2%.",
+        "label_text": "performances"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 1 : The method's analytical performances, including sensitivity, specificity, and linear range were further validated. The results showed that in the same reaction system, the response range of katG315 was 1.0 pmol/L to 0.1 nmol/L, while that of rpoB531 and rpsL43 was 1.0 pmol/L to 50.0 pmol/L and 1.0 pmol/L to 20.0 pmol/L, respectively. The method exhibited good specificity and sensitivity, accurately identifying single-base mutations in mixed targets with a low limit of detection of 1.0 pmol/L. In the recovery experiment using simulated serum samples, the recovery rates ranged from 95.0% to 105.2%.",
+        "label_text": "linear"
+    },
+    {
+        "source": "原文 : 因此，计划做这类检查的患者，在检查前或检查时必须停止服用二甲双胍，在检查完成至少48小时后且仅在再次检查肾功能稳定的情况下才可以恢复用药。",
+        "hyp": "文 4 : Therefore, patients scheduled for such examinations must discontinue the use of metformin prior to or during the examination. They can only resume medication when renal function is confirmed to be stable in the second examination at least 48 hours later.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 本品对紫外线红斑（豚鼠）及角叉菜胶水肿（大鼠）急性炎症的ID50（经口给药）分别为4.4mg/kg、22 mg/kg，比阿司匹林的各值均有效。",
+        "hyp": "文 4 : This product demonstrates an ID50 (oral administration) of 4.4 mg/kg for UV erythema (guinea pigs) and 22 mg/kg for carrageenan-induced paw edema (rats), both values being superior to that of aspirin.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 在发生阿巴卡韦超敏反应后，重新使用阿巴卡韦，可能在数小时内重新出现症状。",
+        "hyp": "文 1 : After experiencing a hypersensitivity reaction to abacavir, re-administration of this drug may lead to a recurrence of symptoms within a few hours.",
+        "label_text": "After experiencing a hypersensitivity reaction to abacavir"
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 2 : Let's Talk about Autism: 55 Questions Closely Related to Autism by Bridget Harrison and Kim Thúy (Canadian) [Authentic Book]",
+        "label_text": "Canadian"
+    },
+    {
+        "source": "原文 : 塞浦路斯卫生部10日宣布该国首次确诊3例奥密克戎毒株感染病例。",
+        "hyp": "文 4 : On the 10th, the Ministry of Health in Cyprus announced the first confirmation of three cases of Omicron variant infection in the country.",
+        "label_text": " in "
+    },
+    {
+        "source": "原文 : 他还说 ： “ 现在还是早期，我们需要获得后期数据。",
+        "hyp": "文 2 : He added: \"It's still in an early stage. We need to get the data for the later stage.",
+        "label_text": " for"
+    },
+    {
+        "source": "原文 : 根据中怡康的预测，2020年，激光电视市场销量增长将超过140%，继续保持高速增长。",
+        "hyp": "文 5 : According to the China Market Monitor, the sale volume of laser TVs in 2020 is expected to increase by over 140%, maintaining a high-speed growth rate.",
+        "label_text": "sale"
+    }
+]

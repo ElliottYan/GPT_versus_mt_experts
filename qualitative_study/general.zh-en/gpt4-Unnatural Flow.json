@@ -1,0 +1,212 @@
+[
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 4 : A blue canopy of sky, clouds like cotton candy, faces of varying skin tones and expressions, a bustling environment—all of it feels so familiar, yet so foreign, as if it's a world away from me.",
+        "label_text": "A blue canopy of sky"
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 1 : In March 2020, as citizens stayed home during the pneumonia epidemic, the demand for flour surged. Flour mills, whose business had sharply declined, also attempted to shift from operating solely as wholesalers to launching retail packs of flour for home use, which were met with an enthusiastic response.",
+        "label_text": "stayed home"
+    },
+    {
+        "source": "原文 : 唐恩觉得有些眩晕，他后退一步，靠在光滑的墙上大口大口喘着粗气。",
+        "hyp": "文 1 : Don felt a bit dizzy, so he took a step back and leaned against the smooth wall, gasping for air in big, heavy breaths.",
+        "label_text": " gasping for air in big, heavy breaths."
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 1 : Due to the sensitive nature of some exhibits, the China Printing and Minting Museum, once completed, will only be open to industry insiders and will not be open to the public.",
+        "label_text": "sensitive nature"
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 1 : Due to the sensitive nature of some exhibits, the China Printing and Minting Museum, once completed, will only be open to industry insiders and will not be open to the public.",
+        "label_text": "will only be open to industry insiders and will not be open to the public"
+    },
+    {
+        "source": "原文 : 目前根据官方统计，周一的地震已经在土耳其造成超过2万人死亡，邻国叙利亚的死亡人数估计在3500人以上。",
+        "hyp": "文 4 : According to official statistics, the earthquake on Monday has already caused over 20,000 deaths in Turkey, with the estimated death toll in neighboring Syria exceeding 3,500.",
+        "label_text": "neighboring Syria"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 4 : The chest and belly are covered in a large patch of fluffy white fur, with the tips of the limbs being white as well. It is said that these snow-treading white paws have an instant knockout effect on girls, controlling their brainwaves and making them let out an \"Ahh~~ Ahh~~\" sound.",
+        "label_text": "the tips of the limbs"
+    },
+    {
+        "source": "原文 : 楚离不理他，冲赵颖笑着抱抱拳。",
+        "hyp": "文 4 : Chu Li ignored him and, smiling, gave Zhao Ying a fist-and-palm salute.",
+        "label_text": "and, smiling, gave Zhao Ying a fist-and-palm salute"
+    },
+    {
+        "source": "原文 : 晶莹剔透，闪烁着绚烂深泽。 最为美丽的是，水晶雕像的女子，空灵唯美，仿佛狐仙，那样美若天仙，那样令人痴迷。",
+        "hyp": "文 4 : Crystal clear and sparkling with a brilliant depth, the most beautiful aspect is the crystal statue of the woman, ethereal and exquisitely beautiful, as if she were a celestial fox spirit, so heavenly and enchanting that one cannot help but be captivated.",
+        "label_text": "sparkling with a brilliant depth, the most beautiful aspect"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 3 : \"Little floor dance\" (style move), a type of Breaking street dance.",
+        "label_text": "\"Little floor dance\""
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 3 : During the seminar, all participants were guided by Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era. They diligently studied the spirit of the 20th National Congress of the Communist Party of China and the important speech delivered by General Secretary Xi Jinping at the opening of the seminar. By relating theory to practice through in-depth discussions and exchanges, they deepened their understanding of a series of major theoretical and practical issues concerning Chinese-style modernization. This enhanced their confidence and determination to comprehensively advance the great rejuvenation of the Chinese nation under the strong leadership of the Party Central Committee with Comrade Xi Jinping at its core. It also strengthened their sense of responsibility and mission to fulfill their duties, perform well, and ensure a good start on the new journey in the new era.",
+        "label_text": " the spirit of the 20th National Congress "
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 3 : During the seminar, all participants were guided by Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era. They diligently studied the spirit of the 20th National Congress of the Communist Party of China and the important speech delivered by General Secretary Xi Jinping at the opening of the seminar. By relating theory to practice through in-depth discussions and exchanges, they deepened their understanding of a series of major theoretical and practical issues concerning Chinese-style modernization. This enhanced their confidence and determination to comprehensively advance the great rejuvenation of the Chinese nation under the strong leadership of the Party Central Committee with Comrade Xi Jinping at its core. It also strengthened their sense of responsibility and mission to fulfill their duties, perform well, and ensure a good start on the new journey in the new era.",
+        "label_text": "By relating theory to practice"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 3 : The Type 25A passenger car is one of the centralized power supply air-conditioned passenger car models of the Chinese Railways. It was manufactured jointly by several domestic railway factories through an international tender using loans. As a total of 168 cars were produced, it is commonly referred to as the \"168\" passenger car.",
+        "label_text": "the centralized power supply air-conditioned passenger car models"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 3 : The Type 25A passenger car is one of the centralized power supply air-conditioned passenger car models of the Chinese Railways. It was manufactured jointly by several domestic railway factories through an international tender using loans. As a total of 168 cars were produced, it is commonly referred to as the \"168\" passenger car.",
+        "label_text": " through an international tender using loans"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 5 : The headquarters of the Ninth Academy was originally located in Beijing, before its main engineering and production departments were relocated to Jinyintan in Xihai Town, Haiyan County, Qinghai Province, also known as Factory 221. In 1970, the main engineering and production departments moved to Sichuan, spreading out across the mountainous regions in the northern part of the province.",
+        "label_text": "also known as Factory 221"
+    },
+    {
+        "source": "原文 : 种种情节开始浮现在安林的脑海里，那一切梦幻的开端，不就是眼前这一幕吗！",
+        "hyp": "文 4 : Various scenes began to emerge in Anlin's mind, the very beginning of all those dreamlike events, wasn't it just this scene before his eyes!",
+        "label_text": "the very beginning of all those dreamlike events, wasn't it just this scene before his eyes"
+    },
+    {
+        "source": "原文 : 我一个半月前买的琴，缺个零件，通知亚马逊后给了我售后的电话，多次沟通后，零件现在还没收到，请问这是什么效率！",
+        "hyp": "文 1 : I bought a piano a month and a half ago that was missing a part. After notifying Amazon, they gave me the after-sales service number. Despite multiple communications, I still haven't received the part. What kind of efficiency is this?",
+        "label_text": "What kind of efficiency is this?"
+    },
+    {
+        "source": "原文 : 虽然时间已经过去很久了，但这机器依旧没什么毛病。",
+        "hyp": "文 3 : Even though a lot of time has passed, this machine still doesn't have any problems.",
+        "label_text": "ven though a lot of time has passed, this machine still doesn't have any problems"
+    },
+    {
+        "source": "原文 : 那笑容在时光看来，像嘲讽。",
+        "hyp": "文 2 : That smile, in the eyes of time, seemed like mockery.",
+        "label_text": "in the eyes of time"
+    },
+    {
+        "source": "原文 : 仅仅在叙利亚，就有多达530万人因为地震而失去家园。",
+        "hyp": "文 3 : In Syria alone, as many as 5.3 million people have been left homeless due to the earthquake.",
+        "label_text": "as many as 5.3 million people"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 4 : After the fall of the Balaliulu tribe, their location became a place where the people of the Haocha tribe cultivated miscellaneous grains. Even today, one can still see the ancient ruins, but the whereabouts of the survivors are completely unknown. On the other hand, the Kalixi tribe, although they regained independence and rebuilt their homeland, also perished under a landslide and great flood caused by a torrential rain. Only in the present-day Wutai tribe (located in Wutai Village, Wutai Township) are there some people who claim to be descendants of the Kalixi. Additionally, because he led the tribe to victory in war, the descendants of Boleng, the Dalapathan family (also known as Druluane or transliterated as \"Lulan\"), are also called \"military merit chiefs.\" They uniquely occupy the highest part of the old Haocha tribe's territory, Omomos (meaning \"prone to fog\"), and are considered one of the two major chieftain families alongside the original chieftain family, the Kadrangilan.",
+        "label_text": "military merit chiefs"
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 5 : The third-generation close-in weapon system (CIWS), the H/PJ-11, which was developed as an improvement on the second-generation H/PJ-7, was first spotted installed on China's Liaoning aircraft carrier. It was later found on the Type 054A missile frigates (starting with the Daqing missile frigate from the third batch) and the Type 052D missile destroyers (beginning with the Nanjing missile destroyer from the second batch). Currently, it has also been installed on the Type 055 missile destroyers, the Type 075 amphibious assault ships, and the Shandong aircraft carrier.",
+        "label_text": "was developed as an improvement on the second-generation H/PJ-7"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 3 : In the forty-ninth year of Kangxi's reign (1710), Emperor Kangxi, reminiscing about his former officials, issued a special edict to restore them to their original positions.",
+        "label_text": "In the forty-ninth year of Kangxi's reign (1710), Emperor Kangxi"
+    },
+    {
+        "source": "原文 : 孟奇仔细把玩了一下这拇指大小的玉佛，只见“它”满脸慈悲，栩栩如生，显然雕工不凡，同时，“它”手感细腻，既温润又给人清凉之感。",
+        "hyp": "文 1 : Meng Qi carefully examined the thumb-sized jade Buddha, observing its face full of compassion and vividly lifelike, clearly the work of an exceptional craftsman. At the same time, it felt delicate to the touch, both warm and soothingly cool.",
+        "label_text": "soothingly cool"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 5 : However, he also has a younger sister named Ye Ling and a younger brother named Ye Zifeng. They are not from the same mother, but share the same father, making them half-siblings. Three years ago, it seemed that their father was aware of his neglect towards Ye Mo, and he specifically proposed a marriage alliance with the Ning family to the Ye family patriarch. It's very likely that Ye Tianwen knew his health was failing, so he wanted to find a support for Ye Mo, which led him to the Ning family in the capital.",
+        "label_text": " They are not from the same mother, but share the same father, making them half-siblings. "
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 5 : However, he also has a younger sister named Ye Ling and a younger brother named Ye Zifeng. They are not from the same mother, but share the same father, making them half-siblings. Three years ago, it seemed that their father was aware of his neglect towards Ye Mo, and he specifically proposed a marriage alliance with the Ning family to the Ye family patriarch. It's very likely that Ye Tianwen knew his health was failing, so he wanted to find a support for Ye Mo, which led him to the Ning family in the capital.",
+        "label_text": "his health was failing"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 5 : The second Totes umbrella: 1. This one doesn't come with a cover. 2. The handle material is mediocre. 3. Although it's labeled as Large, it's actually just a convenient umbrella for one person; it would probably be a tight fit for two people.",
+        "label_text": "it would probably be a tight fit for two people"
+    },
+    {
+        "source": "原文 : 7名歌手竞演结束后，由听众评审团投票排出名次，排在第7位的歌手将被淘汰，那个位置由新的歌手替换。",
+        "hyp": "文 3 : After the competition among the seven singers concluded, the audience jury voted to determine the rankings. The singer who placed seventh will be eliminated and replaced by a new contestant.",
+        "label_text": "After the competition among the seven singers concluded"
+    },
+    {
+        "source": "原文 : 而且商品产品包装问题，我看评论2016年就有人评论过，到现在19年，还是老样子。",
+        "hyp": "文 5 : Moreover, the issue with the product packaging, I see that people have been commenting on it since 2016, and now in 2019, it's still the same old story.",
+        "label_text": "the issue with the product packaging, I see that people have been commenting on it since 2016, "
+    },
+    {
+        "source": "原文 : 而且商品产品包装问题，我看评论2016年就有人评论过，到现在19年，还是老样子。",
+        "hyp": "文 5 : Moreover, the issue with the product packaging, I see that people have been commenting on it since 2016, and now in 2019, it's still the same old story.",
+        "label_text": "it's still the same old story"
+    },
+    {
+        "source": "原文 : 所有人都停止了呼吸，目光死死的盯着祭坛之上！",
+        "hyp": "文 4 : Everyone held their breath, their gazes fixed intently on the altar above!",
+        "label_text": "on the altar above"
+    },
+    {
+        "source": "原文 : “这是你送给我的定情礼物，现在，还给你，我们，从此两不相欠。” 姜雪晴，无情的将雕像塞在苏羽手中，转身回到秦枫身侧，眺望天外，不再看苏羽，冷酷绝情。",
+        "hyp": "文 1 : \"This is the token of affection you gave me. Now, I'm returning it to you. From this moment on, we owe each other nothing.\" Jiang Xueqing heartlessly shoved the statue into Su Yu's hands, turned around, and went back to Qin Feng's side. She gazed into the distance, no longer looking at Su Yu, her demeanor cold and unfeeling.",
+        "label_text": "I'm returning it to you"
+    },
+    {
+        "source": "原文 : “这是你送给我的定情礼物，现在，还给你，我们，从此两不相欠。” 姜雪晴，无情的将雕像塞在苏羽手中，转身回到秦枫身侧，眺望天外，不再看苏羽，冷酷绝情。",
+        "hyp": "文 1 : \"This is the token of affection you gave me. Now, I'm returning it to you. From this moment on, we owe each other nothing.\" Jiang Xueqing heartlessly shoved the statue into Su Yu's hands, turned around, and went back to Qin Feng's side. She gazed into the distance, no longer looking at Su Yu, her demeanor cold and unfeeling.",
+        "label_text": "She gazed into the distance, no longer looking at Su Yu, her demeanor cold and unfeeling"
+    },
+    {
+        "source": "原文 : 机长、副机长决定在无法完全控制飞机的情况下遵循飞机左转的势头绕圈并降落，飞机继续向西北方向飞行。",
+        "hyp": "文 3 : The captain and first officer decided to follow the aircraft's left-turning momentum to circle and land, given the situation where they couldn't fully control the plane. The aircraft continued to fly in a northwesterly direction.",
+        "label_text": "in a northwesterly direction"
+    },
+    {
+        "source": "原文 : 然而，个别机构对消费复苏后的健身市场盲目乐观，刚从危机中走出来，又吹响开疆拓土的号角，把融资资金一股脑投入新店建设上。",
+        "hyp": "文 5 : However, some organizations are blindly optimistic about the fitness market's recovery post-consumption resurgence. Having just emerged from a crisis, they are sounding the trumpet for expansion and pouring all their financing into the construction of new stores.",
+        "label_text": "the fitness market's recovery post-consumption resurgence"
+    },
+    {
+        "source": "原文 : 3 自您签收次日起 12 个月内, 本产品出现《Redmi ArDots 2 真无线蓝牙耳机产品性能故障表》所列性能故障的情况, 经由小米售后服务中心检测确定, 可免费享受维修服务。",
+        "hyp": "文 4 : Starting from the day after you sign for the product, within 12 months, if the Redmi AirDots 2 True Wireless Bluetooth Earbuds experience any performance malfunctions listed in the \"Redmi AirDots 2 True Wireless Bluetooth Earbuds Performance Malfunction Table,\" and such malfunctions are confirmed upon inspection by the Xiaomi After-sales Service Center, you may enjoy free repair services.",
+        "label_text": "Redmi AirDots 2 True Wireless Bluetooth Earbuds Performance Malfunction Table"
+    },
+    {
+        "source": "原文 : 2016年10月27日，珠海大剧院举行全面运营启动暨开票仪式，首场演出1550张门票于开票后两小时内全部售出。",
+        "hyp": "文 3 : On October 27, 2016, the Zhuhai Grand Theatre held a ceremony to mark the commencement of full operations and the start of ticket sales, with all 1550 tickets for the first performance selling out within two hours of going on sale.",
+        "label_text": "two hours of going on sale"
+    },
+    {
+        "source": "原文 : 安林见状有些激动地问道：“这位漂亮的仙女姐姐，请问这里是什么地方，我初来乍到，对这个地方不是很懂呢。”",
+        "hyp": "文 5 : Seeing this, An Lin asked somewhat excitedly, \"Excuse me, beautiful fairy sister, where am I? I'm new here and don't really understand this place.\"",
+        "label_text": " understand this place"
+    },
+    {
+        "source": "原文 : 使用产品前请仔细阅读本说明书，并妥善保管。",
+        "hyp": "文 4 : Before using the product, please read the instructions carefully and keep them in a safe place.",
+        "label_text": "keep them"
+    },
+    {
+        "source": "原文 : 二十一世纪，东海市高级私人医院院长办公室。",
+        "hyp": "文 4 : 21st century, the office of the director of a high-end private hospital in Donghai City.",
+        "label_text": "the office of the director of a high-end "
+    },
+    {
+        "source": "原文 : 刀剑加身越来越多，鲜血点点飞出，疼痛一点点从全身各处聚焦，终于将脑海中的歌舞打断！",
+        "hyp": "文 3 : Blades upon blades added to his body, droplets of blood flew out, and pain gradually converged from all over, finally interrupting the song and dance in his mind!",
+        "label_text": "Blades upon blades added to his body"
+    },
+    {
+        "source": "原文 : 刀剑加身越来越多，鲜血点点飞出，疼痛一点点从全身各处聚焦，终于将脑海中的歌舞打断！",
+        "hyp": "文 3 : Blades upon blades added to his body, droplets of blood flew out, and pain gradually converged from all over, finally interrupting the song and dance in his mind!",
+        "label_text": "interrupting the song and dance in his mind"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Shock and allergic symptoms (with unknown frequency) may occur, therefore close observation is necessary. If symptoms such as chest tightness, chills, cold sweats, difficulty breathing, numbness in the limbs, low blood pressure, vascular edema, or hives occur, discontinue the medication and take appropriate measures.",
+        "label_text": "frequency"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Shock and allergic symptoms (with unknown frequency) may occur, therefore close observation is necessary. If symptoms such as chest tightness, chills, cold sweats, difficulty breathing, numbness in the limbs, low blood pressure, vascular edema, or hives occur, discontinue the medication and take appropriate measures.",
+        "label_text": "frequency"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Aplastic anemia, hemolytic anemia, granulocytopenia, and thrombocytopenia (all with unknown frequency) may occur. Therefore, close monitoring is necessary, and if any abnormalities are detected, the medication should be discontinued and appropriate measures taken.",
+        "label_text": "frequency"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Aplastic anemia, hemolytic anemia, granulocytopenia, and thrombocytopenia (all with unknown frequency) may occur. Therefore, close monitoring is necessary, and if any abnormalities are detected, the medication should be discontinued and appropriate measures taken.",
+        "label_text": "frequency"
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Digestive ulcers, gastrointestinal bleeding, and ulcerative colitis (all with unknown frequency) may occur. If any abnormalities are detected, discontinue the medication and take appropriate measures.",
+        "label_text": "frequency"
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Digestive ulcers, gastrointestinal bleeding, and ulcerative colitis (all with unknown frequency) may occur. If any abnormalities are detected, discontinue the medication and take appropriate measures.",
+        "label_text": "frequency"
+    },
+    {
+        "source": "原文 : 有可能出现中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）（频率均不明*），因此应充分进行观察，并采取相应措施。",
+        "hyp": "文 1 : There is a possibility of developing Toxic Epidermal Necrolysis (TEN) or Stevens-Johnson Syndrome, both of which have unknown frequencies*. Therefore, careful monitoring should be conducted, and appropriate measures should be taken.",
+        "label_text": "both of which have unknown frequencies*"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Acute renal failure, interstitial nephritis, and nephrotic syndrome (all with unknown frequency) may occur. Therefore, close monitoring is necessary. If symptoms such as oliguria, hematuria, proteinuria, elevated BUN/creatinine levels, hyperkalemia, or hypoproteinemia occur, discontinue the medication and take appropriate measures.",
+        "label_text": "frequency"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Acute renal failure, interstitial nephritis, and nephrotic syndrome (all with unknown frequency) may occur. Therefore, close monitoring is necessary. If symptoms such as oliguria, hematuria, proteinuria, elevated BUN/creatinine levels, hyperkalemia, or hypoproteinemia occur, discontinue the medication and take appropriate measures.",
+        "label_text": "frequency"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 5 : Patients with peptic ulcers (refer to the \"Precautions\" section) [Due to the inhibitory effect on prostaglandin synthesis, which can reduce the stomach's mucosal defense capabilities, there is a possibility that peptic ulcers may worsen.]",
+        "label_text": "\"Precautions\""
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 5 : Patients with peptic ulcers (refer to the \"Precautions\" section) [Due to the inhibitory effect on prostaglandin synthesis, which can reduce the stomach's mucosal defense capabilities, there is a possibility that peptic ulcers may worsen.]",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 5 : Patients with peptic ulcers (refer to the \"Precautions\" section) [Due to the inhibitory effect on prostaglandin synthesis, which can reduce the stomach's mucosal defense capabilities, there is a possibility that peptic ulcers may worsen.]",
+        "label_text": "\"Precautions\""
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 5 : Patients with peptic ulcers (refer to the \"Precautions\" section) [Due to the inhibitory effect on prostaglandin synthesis, which can reduce the stomach's mucosal defense capabilities, there is a possibility that peptic ulcers may worsen.]",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 2 : Patients with severe hypertension may experience further increases in blood pressure due to the inhibition of prostaglandin synthesis, which can lead to the retention of water and sodium.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 2 : Patients with severe hypertension may experience further increases in blood pressure due to the inhibition of prostaglandin synthesis, which can lead to the retention of water and sodium.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 2 : Patients with severe hypertension may experience further increases in blood pressure due to the inhibition of prostaglandin synthesis, which can lead to the retention of water and sodium.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 2 : Patients with severe hypertension may experience further increases in blood pressure due to the inhibition of prostaglandin synthesis, which can lead to the retention of water and sodium.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 4 : 10. Patients using Zidovudine [refer to \"Drug Interactions\"].",
+        "label_text": "\"Drug Interactions\""
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 4 : 10. Patients using Zidovudine [refer to \"Drug Interactions\"].",
+        "label_text": "\"Drug Interactions\""
+    },
+    {
+        "source": "原文 : 所谓古着，vintage，设计都会带有年代的复古感，也就是怀旧，之所以喜欢古着也是喜欢它的岁月感，和它的质感！",
+        "hyp": "文 5 : The so-called vintage clothing, or \"vintage,\" features a retro vibe from a bygone era, which is essentially a sense of nostalgia. The reason I like vintage clothes is precisely because of their sense of age and their texture!",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 所谓古着，vintage，设计都会带有年代的复古感，也就是怀旧，之所以喜欢古着也是喜欢它的岁月感，和它的质感！",
+        "hyp": "文 5 : The so-called vintage clothing, or \"vintage,\" features a retro vibe from a bygone era, which is essentially a sense of nostalgia. The reason I like vintage clothes is precisely because of their sense of age and their texture!",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 对CYP2C9有抑制作用的药物如伏立康唑、氟康唑",
+        "hyp": "文 1 : Drugs such as voriconazole and fluconazole inhibit CYP2C9.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 猪粪和牛粪的易分解碳库占总碳库的比例分别为52%和26%,易分解碳库分解速率常数分别为0.00085和0.00074 ℃<sup>-1</sup>,且差异显著。",
+        "hyp": "文 2 : The proportion of the easily decomposable carbon pool to the total carbon pool in pig manure and cow manure is 52% and 26%, respectively. The decomposition rate constants for the easily decomposable carbon pool are 0.00085 and 0.00074 °C^-1, respectively, and the difference is significant.",
+        "label_text": "^"
+    },
+    {
+        "source": "原文 : \"心衰患者缺氧和肾功能不全的风险更高。稳定性慢性心衰的患者在定期检查心、肾功能的情况下可以服用二甲双胍。\"",
+        "hyp": "文 5 : Patients with heart failure are at a higher risk of hypoxia and renal insufficiency. Those with stable chronic heart failure can take metformin as long as they undergo regular cardiac and renal function tests.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 可能影响肾功能的急性病情，如：脱水、严重感染、休克；",
+        "hyp": "文 3 : Acute medical conditions that may affect kidney function, such as: dehydration, severe infection, shock;",
+        "label_text": ": "
+    },
+    {
+        "source": "原文 : 肝功能不全、急性酒精中毒、酗酒；",
+        "hyp": "文 3 : Liver dysfunction, acute alcohol poisoning, alcohol abuse.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 二甲双胍禁用于急性和不稳定性心衰的患者（见【禁忌】）。",
+        "hyp": "文 3 : Metformin is contraindicated in patients with acute and unstable heart failure (see \"Contraindications\").",
+        "label_text": "\"Contraindications\""
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 2 : Out of the 121 strains of pathogens isolated, 76 strains (62.8%) were Gram-negative (G-), 40 strains (33.1%) were Gram-positive (G+), and 5 strains (4.1%) were fungi.",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 2 : Out of the 121 strains of pathogens isolated, 76 strains (62.8%) were Gram-negative (G-), 40 strains (33.1%) were Gram-positive (G+), and 5 strains (4.1%) were fungi.",
+        "label_text": "+"
+    },
+    {
+        "source": "原文 : ACE抑制剂如依那普利等",
+        "hyp": "文 4 : ACE inhibitors such as enalapril.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 5 : \"Let's Talk About Autism: 55 Key Questions Closely Related to Autism (+) by Bridget King-Trieu and Bridget Ha [Genuine] [Authentic Book]\"",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : 据国外文献报道，即使二甲双胍服药量达到85g都没有发生低血糖，但在这种情况下会发生乳酸酸中毒。",
+        "hyp": "文 1 : According to foreign literature, even when the dosage of metformin reaches 85g, hypoglycemia does not occur; however, under these circumstances, lactic acidosis can happen.",
+        "label_text": "85g"
+    },
+    {
+        "source": "原文 : 浸润性癌12例、原位癌3例；肿瘤分期：T <sub>is</sub>N <sub>0</sub>M <sub>0</sub> 3例，T <sub>1</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>1</sub>N <sub>2</sub>M <sub>0</sub> 2例，T <sub>2</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>2</sub>N <sub>1</sub>M <sub>0</sub> 2例。",
+        "hyp": "文 1 : Infiltrating carcinoma in 12 cases, carcinoma in situ in 3 cases; tumor staging: 3 cases of TisN0M0, 4 cases of T1N0M0, 2 cases of T1N2M0, 4 cases of T2N0M0, and 2 cases of T2N1M0.",
+        "label_text": "3 cases of TisN0M0, 4 cases of T1N0M0, 2 cases of T1N2M0, 4 cases of T2N0M0, and 2 cases of T2N1M0"
+    },
+    {
+        "source": "原文 : 对于轻度肝损害（Child-Pugh 5-6分）患者，需要密切监测，如可行，包括监测阿巴卡韦血浆水平（见【注意事项】和【药代动力学】）。",
+        "hyp": "文 4 : For patients with mild liver impairment (Child-Pugh score 5-6), close monitoring is required, including, if feasible, monitoring of abacavir plasma levels (see \"Precautions\" and \"Pharmacokinetics\").",
+        "label_text": "\"Precautions\""
+    },
+    {
+        "source": "原文 : 对于轻度肝损害（Child-Pugh 5-6分）患者，需要密切监测，如可行，包括监测阿巴卡韦血浆水平（见【注意事项】和【药代动力学】）。",
+        "hyp": "文 4 : For patients with mild liver impairment (Child-Pugh score 5-6), close monitoring is required, including, if feasible, monitoring of abacavir plasma levels (see \"Precautions\" and \"Pharmacokinetics\").",
+        "label_text": "\"Pharmacokinetics\""
+    }
+]

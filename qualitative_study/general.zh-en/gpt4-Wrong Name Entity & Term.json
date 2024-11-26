@@ -1,0 +1,397 @@
+[
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 1 : In March 2020, as citizens stayed home during the pneumonia epidemic, the demand for flour surged. Flour mills, whose business had sharply declined, also attempted to shift from operating solely as wholesalers to launching retail packs of flour for home use, which were met with an enthusiastic response.",
+        "label_text": "pneumonia epidemic"
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 1 : In March 2020, as citizens stayed home during the pneumonia epidemic, the demand for flour surged. Flour mills, whose business had sharply declined, also attempted to shift from operating solely as wholesalers to launching retail packs of flour for home use, which were met with an enthusiastic response.",
+        "label_text": "pneumonia epidemic"
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 1 : Due to the sensitive nature of some exhibits, the China Printing and Minting Museum, once completed, will only be open to industry insiders and will not be open to the public.",
+        "label_text": " China Printing and Minting Museum"
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 1 : Due to the sensitive nature of some exhibits, the China Printing and Minting Museum, once completed, will only be open to industry insiders and will not be open to the public.",
+        "label_text": " China Printing and Minting Museum"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 4 : After the shopping mall near Fukaya Garden Station opens, it is expected to welcome 649,000 passengers annually, making it the third busiest station following Kumagaya and Hanyu Stations, with annual revenue projected to reach 300 million yen.",
+        "label_text": "Fukaya Garden Station"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 4 : After the shopping mall near Fukaya Garden Station opens, it is expected to welcome 649,000 passengers annually, making it the third busiest station following Kumagaya and Hanyu Stations, with annual revenue projected to reach 300 million yen.",
+        "label_text": "Fukaya Garden Station"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 3 : \"Little floor dance\" (style move), a type of Breaking street dance.",
+        "label_text": "Little floor dance"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 3 : \"Little floor dance\" (style move), a type of Breaking street dance.",
+        "label_text": "Breaking street dance"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 3 : During the seminar, all participants were guided by Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era. They diligently studied the spirit of the 20th National Congress of the Communist Party of China and the important speech delivered by General Secretary Xi Jinping at the opening of the seminar. By relating theory to practice through in-depth discussions and exchanges, they deepened their understanding of a series of major theoretical and practical issues concerning Chinese-style modernization. This enhanced their confidence and determination to comprehensively advance the great rejuvenation of the Chinese nation under the strong leadership of the Party Central Committee with Comrade Xi Jinping at its core. It also strengthened their sense of responsibility and mission to fulfill their duties, perform well, and ensure a good start on the new journey in the new era.",
+        "label_text": "Xi Jinping's Thought"
+    },
+    {
+        "source": "原文 : 为了避免引起外界不必要的忧虑，误以为香港政府的财政实力及宏观经济的基础转弱，而影响香港的信贷评级，因此建议中的未来基金将仍然被列为香港政府财政储备的一部分。",
+        "hyp": "文 5 : To avoid causing unnecessary concern among external parties, leading to the misconception that the financial strength of the Hong Kong government and the foundation of its macroeconomy are weakening, which could affect Hong Kong's credit rating, it is therefore proposed that the future fund mentioned should still be considered a part of the Hong Kong government's fiscal reserves.",
+        "label_text": "future fund"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 3 : The Type 25A passenger car is one of the centralized power supply air-conditioned passenger car models of the Chinese Railways. It was manufactured jointly by several domestic railway factories through an international tender using loans. As a total of 168 cars were produced, it is commonly referred to as the \"168\" passenger car.",
+        "label_text": "Chinese Railways"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 3 : The Type 25A passenger car is one of the centralized power supply air-conditioned passenger car models of the Chinese Railways. It was manufactured jointly by several domestic railway factories through an international tender using loans. As a total of 168 cars were produced, it is commonly referred to as the \"168\" passenger car.",
+        "label_text": "Chinese Railways"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 5 : The headquarters of the Ninth Academy was originally located in Beijing, before its main engineering and production departments were relocated to Jinyintan in Xihai Town, Haiyan County, Qinghai Province, also known as Factory 221. In 1970, the main engineering and production departments moved to Sichuan, spreading out across the mountainous regions in the northern part of the province.",
+        "label_text": "The headquarters of the Ninth Academy"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 3 : The M4 Sherman (76mm turret variant) tank commander and radio operator (deputy team leader) is a second-year student at Saunders University High School. She first appeared in episode 4 of the series and is skilled at devising various tactics, serving as the team's strategist. However, she becomes very emotional and nervous during tankery matches. During the match against Oarai Girls Academy, her panicked and flustered behavior disrupted her teammates' morale. She attempted to exploit a loophole in the rules by secretly using a spy balloon to eavesdrop on the enemy, but this backfired, leading to a loss of advantage and ultimately defeat for her team. She was also punished by Kay. When she's upset or angry, she inexplicably mentions her secret crush on a boy named A-Xiao. In the movie, she is comforted by the Rabbit Team for this reason. Although she's sharp-tongued and full of cunning ideas, at heart she's a simple and somewhat silly girl with a rich personality. In the final chapter, episode 3, she falls for a high school trap, resulting in the destruction of her team's flag tank.",
+        "label_text": "Saunders University High School"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 3 : The M4 Sherman (76mm turret variant) tank commander and radio operator (deputy team leader) is a second-year student at Saunders University High School. She first appeared in episode 4 of the series and is skilled at devising various tactics, serving as the team's strategist. However, she becomes very emotional and nervous during tankery matches. During the match against Oarai Girls Academy, her panicked and flustered behavior disrupted her teammates' morale. She attempted to exploit a loophole in the rules by secretly using a spy balloon to eavesdrop on the enemy, but this backfired, leading to a loss of advantage and ultimately defeat for her team. She was also punished by Kay. When she's upset or angry, she inexplicably mentions her secret crush on a boy named A-Xiao. In the movie, she is comforted by the Rabbit Team for this reason. Although she's sharp-tongued and full of cunning ideas, at heart she's a simple and somewhat silly girl with a rich personality. In the final chapter, episode 3, she falls for a high school trap, resulting in the destruction of her team's flag tank.",
+        "label_text": "Oarai Girls Academy"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 3 : The M4 Sherman (76mm turret variant) tank commander and radio operator (deputy team leader) is a second-year student at Saunders University High School. She first appeared in episode 4 of the series and is skilled at devising various tactics, serving as the team's strategist. However, she becomes very emotional and nervous during tankery matches. During the match against Oarai Girls Academy, her panicked and flustered behavior disrupted her teammates' morale. She attempted to exploit a loophole in the rules by secretly using a spy balloon to eavesdrop on the enemy, but this backfired, leading to a loss of advantage and ultimately defeat for her team. She was also punished by Kay. When she's upset or angry, she inexplicably mentions her secret crush on a boy named A-Xiao. In the movie, she is comforted by the Rabbit Team for this reason. Although she's sharp-tongued and full of cunning ideas, at heart she's a simple and somewhat silly girl with a rich personality. In the final chapter, episode 3, she falls for a high school trap, resulting in the destruction of her team's flag tank.",
+        "label_text": "Kay"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 3 : The M4 Sherman (76mm turret variant) tank commander and radio operator (deputy team leader) is a second-year student at Saunders University High School. She first appeared in episode 4 of the series and is skilled at devising various tactics, serving as the team's strategist. However, she becomes very emotional and nervous during tankery matches. During the match against Oarai Girls Academy, her panicked and flustered behavior disrupted her teammates' morale. She attempted to exploit a loophole in the rules by secretly using a spy balloon to eavesdrop on the enemy, but this backfired, leading to a loss of advantage and ultimately defeat for her team. She was also punished by Kay. When she's upset or angry, she inexplicably mentions her secret crush on a boy named A-Xiao. In the movie, she is comforted by the Rabbit Team for this reason. Although she's sharp-tongued and full of cunning ideas, at heart she's a simple and somewhat silly girl with a rich personality. In the final chapter, episode 3, she falls for a high school trap, resulting in the destruction of her team's flag tank.",
+        "label_text": "A-Xiao"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 3 : The M4 Sherman (76mm turret variant) tank commander and radio operator (deputy team leader) is a second-year student at Saunders University High School. She first appeared in episode 4 of the series and is skilled at devising various tactics, serving as the team's strategist. However, she becomes very emotional and nervous during tankery matches. During the match against Oarai Girls Academy, her panicked and flustered behavior disrupted her teammates' morale. She attempted to exploit a loophole in the rules by secretly using a spy balloon to eavesdrop on the enemy, but this backfired, leading to a loss of advantage and ultimately defeat for her team. She was also punished by Kay. When she's upset or angry, she inexplicably mentions her secret crush on a boy named A-Xiao. In the movie, she is comforted by the Rabbit Team for this reason. Although she's sharp-tongued and full of cunning ideas, at heart she's a simple and somewhat silly girl with a rich personality. In the final chapter, episode 3, she falls for a high school trap, resulting in the destruction of her team's flag tank.",
+        "label_text": " high school "
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 5 : \"Julio Ríos, a renowned Spanish expert on Chinese affairs and honorary advisor to the China Policy Watch, recently stated in an interview with our reporter that China's epidemic prevention and control has entered a new phase, and the vitality of economic and social development will be further unleashed.\"",
+        "label_text": "Julio Ríos"
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 5 : \"Julio Ríos, a renowned Spanish expert on Chinese affairs and honorary advisor to the China Policy Watch, recently stated in an interview with our reporter that China's epidemic prevention and control has entered a new phase, and the vitality of economic and social development will be further unleashed.\"",
+        "label_text": "the China Policy Watch"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 4 : On February 22, 2017, after playing 53 games for the 76ers, Ersan Ilyasova was traded to the Atlanta Hawks. In return, the 76ers received center Tiago Splitter, a second-round pick in the 2017 draft, and the right to swap second-round draft positions with the Hawks.",
+        "label_text": "Ersan Ilyasova"
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 2 : The horseface unicornfish, also known as the short-horned unicornfish, is commonly known as black dazi, peeling fish, or horseface unicornfish. It belongs to the family Naso of the order Tetraodontiformes, which is part of the ray-finned fish class.",
+        "label_text": " horseface unicornfish"
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 2 : The horseface unicornfish, also known as the short-horned unicornfish, is commonly known as black dazi, peeling fish, or horseface unicornfish. It belongs to the family Naso of the order Tetraodontiformes, which is part of the ray-finned fish class.",
+        "label_text": " short-horned unicornfish"
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 2 : The horseface unicornfish, also known as the short-horned unicornfish, is commonly known as black dazi, peeling fish, or horseface unicornfish. It belongs to the family Naso of the order Tetraodontiformes, which is part of the ray-finned fish class.",
+        "label_text": " black dazi, peeling fish, or horseface unicornfish"
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 2 : The horseface unicornfish, also known as the short-horned unicornfish, is commonly known as black dazi, peeling fish, or horseface unicornfish. It belongs to the family Naso of the order Tetraodontiformes, which is part of the ray-finned fish class.",
+        "label_text": "Naso"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 4 : After the fall of the Balaliulu tribe, their location became a place where the people of the Haocha tribe cultivated miscellaneous grains. Even today, one can still see the ancient ruins, but the whereabouts of the survivors are completely unknown. On the other hand, the Kalixi tribe, although they regained independence and rebuilt their homeland, also perished under a landslide and great flood caused by a torrential rain. Only in the present-day Wutai tribe (located in Wutai Village, Wutai Township) are there some people who claim to be descendants of the Kalixi. Additionally, because he led the tribe to victory in war, the descendants of Boleng, the Dalapathan family (also known as Druluane or transliterated as \"Lulan\"), are also called \"military merit chiefs.\" They uniquely occupy the highest part of the old Haocha tribe's territory, Omomos (meaning \"prone to fog\"), and are considered one of the two major chieftain families alongside the original chieftain family, the Kadrangilan.",
+        "label_text": "Balaliulu tribe"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 4 : After the fall of the Balaliulu tribe, their location became a place where the people of the Haocha tribe cultivated miscellaneous grains. Even today, one can still see the ancient ruins, but the whereabouts of the survivors are completely unknown. On the other hand, the Kalixi tribe, although they regained independence and rebuilt their homeland, also perished under a landslide and great flood caused by a torrential rain. Only in the present-day Wutai tribe (located in Wutai Village, Wutai Township) are there some people who claim to be descendants of the Kalixi. Additionally, because he led the tribe to victory in war, the descendants of Boleng, the Dalapathan family (also known as Druluane or transliterated as \"Lulan\"), are also called \"military merit chiefs.\" They uniquely occupy the highest part of the old Haocha tribe's territory, Omomos (meaning \"prone to fog\"), and are considered one of the two major chieftain families alongside the original chieftain family, the Kadrangilan.",
+        "label_text": "Haocha tribe"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 4 : After the fall of the Balaliulu tribe, their location became a place where the people of the Haocha tribe cultivated miscellaneous grains. Even today, one can still see the ancient ruins, but the whereabouts of the survivors are completely unknown. On the other hand, the Kalixi tribe, although they regained independence and rebuilt their homeland, also perished under a landslide and great flood caused by a torrential rain. Only in the present-day Wutai tribe (located in Wutai Village, Wutai Township) are there some people who claim to be descendants of the Kalixi. Additionally, because he led the tribe to victory in war, the descendants of Boleng, the Dalapathan family (also known as Druluane or transliterated as \"Lulan\"), are also called \"military merit chiefs.\" They uniquely occupy the highest part of the old Haocha tribe's territory, Omomos (meaning \"prone to fog\"), and are considered one of the two major chieftain families alongside the original chieftain family, the Kadrangilan.",
+        "label_text": "Kalixi tribe"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 4 : After the fall of the Balaliulu tribe, their location became a place where the people of the Haocha tribe cultivated miscellaneous grains. Even today, one can still see the ancient ruins, but the whereabouts of the survivors are completely unknown. On the other hand, the Kalixi tribe, although they regained independence and rebuilt their homeland, also perished under a landslide and great flood caused by a torrential rain. Only in the present-day Wutai tribe (located in Wutai Village, Wutai Township) are there some people who claim to be descendants of the Kalixi. Additionally, because he led the tribe to victory in war, the descendants of Boleng, the Dalapathan family (also known as Druluane or transliterated as \"Lulan\"), are also called \"military merit chiefs.\" They uniquely occupy the highest part of the old Haocha tribe's territory, Omomos (meaning \"prone to fog\"), and are considered one of the two major chieftain families alongside the original chieftain family, the Kadrangilan.",
+        "label_text": "Kalixi"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 4 : After the fall of the Balaliulu tribe, their location became a place where the people of the Haocha tribe cultivated miscellaneous grains. Even today, one can still see the ancient ruins, but the whereabouts of the survivors are completely unknown. On the other hand, the Kalixi tribe, although they regained independence and rebuilt their homeland, also perished under a landslide and great flood caused by a torrential rain. Only in the present-day Wutai tribe (located in Wutai Village, Wutai Township) are there some people who claim to be descendants of the Kalixi. Additionally, because he led the tribe to victory in war, the descendants of Boleng, the Dalapathan family (also known as Druluane or transliterated as \"Lulan\"), are also called \"military merit chiefs.\" They uniquely occupy the highest part of the old Haocha tribe's territory, Omomos (meaning \"prone to fog\"), and are considered one of the two major chieftain families alongside the original chieftain family, the Kadrangilan.",
+        "label_text": "Boleng"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 4 : After the fall of the Balaliulu tribe, their location became a place where the people of the Haocha tribe cultivated miscellaneous grains. Even today, one can still see the ancient ruins, but the whereabouts of the survivors are completely unknown. On the other hand, the Kalixi tribe, although they regained independence and rebuilt their homeland, also perished under a landslide and great flood caused by a torrential rain. Only in the present-day Wutai tribe (located in Wutai Village, Wutai Township) are there some people who claim to be descendants of the Kalixi. Additionally, because he led the tribe to victory in war, the descendants of Boleng, the Dalapathan family (also known as Druluane or transliterated as \"Lulan\"), are also called \"military merit chiefs.\" They uniquely occupy the highest part of the old Haocha tribe's territory, Omomos (meaning \"prone to fog\"), and are considered one of the two major chieftain families alongside the original chieftain family, the Kadrangilan.",
+        "label_text": "old Haocha tribe"
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 5 : The third-generation close-in weapon system (CIWS), the H/PJ-11, which was developed as an improvement on the second-generation H/PJ-7, was first spotted installed on China's Liaoning aircraft carrier. It was later found on the Type 054A missile frigates (starting with the Daqing missile frigate from the third batch) and the Type 052D missile destroyers (beginning with the Nanjing missile destroyer from the second batch). Currently, it has also been installed on the Type 055 missile destroyers, the Type 075 amphibious assault ships, and the Shandong aircraft carrier.",
+        "label_text": "missile destroyers"
+    },
+    {
+        "source": "原文 : 根据2014年亚洲铁人三项青年奥运会资格赛的表现，新加坡队有2名选手获得青奥会参赛资格。",
+        "hyp": "文 2 : Based on their performance in the 2014 Asian Triathlon Youth Olympic Games Qualifier, two athletes from the Singapore team have qualified to compete in the Youth Olympic Games.",
+        "label_text": "2014 Asian Triathlon Youth Olympic Games Qualifier"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 1 : The \"Wen Kang A Urban Renewal Project\" is financed by Jie Xin Industrial Co., Ltd., with Hua Tai Bank as the financing trust entity. The architectural design is by Wu Yu-Hui Architect Office, and the construction is contracted to Jin Fu Yu Construction Co., Ltd. After the renewal, a reinforced concrete structure with 2 underground levels and 14 above-ground floors will be constructed. Apart from the third to fourteenth floors being allocated for residential apartments (129 units), there will also be plans for a shopping mall (17 retail units) and a cinema on the first and second floors. The project aims to increase the number of scooter parking spaces, along with 73 car parking spots, and will incorporate barrier-free facilities, pedestrian walkways, and friendly urban design elements such as street corner plazas. The building will be constructed using green building techniques and is expected to be completed in 2023.",
+        "label_text": "Jie Xin Industrial Co., Ltd."
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 1 : The \"Wen Kang A Urban Renewal Project\" is financed by Jie Xin Industrial Co., Ltd., with Hua Tai Bank as the financing trust entity. The architectural design is by Wu Yu-Hui Architect Office, and the construction is contracted to Jin Fu Yu Construction Co., Ltd. After the renewal, a reinforced concrete structure with 2 underground levels and 14 above-ground floors will be constructed. Apart from the third to fourteenth floors being allocated for residential apartments (129 units), there will also be plans for a shopping mall (17 retail units) and a cinema on the first and second floors. The project aims to increase the number of scooter parking spaces, along with 73 car parking spots, and will incorporate barrier-free facilities, pedestrian walkways, and friendly urban design elements such as street corner plazas. The building will be constructed using green building techniques and is expected to be completed in 2023.",
+        "label_text": "Hua Tai Bank"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 1 : The \"Wen Kang A Urban Renewal Project\" is financed by Jie Xin Industrial Co., Ltd., with Hua Tai Bank as the financing trust entity. The architectural design is by Wu Yu-Hui Architect Office, and the construction is contracted to Jin Fu Yu Construction Co., Ltd. After the renewal, a reinforced concrete structure with 2 underground levels and 14 above-ground floors will be constructed. Apart from the third to fourteenth floors being allocated for residential apartments (129 units), there will also be plans for a shopping mall (17 retail units) and a cinema on the first and second floors. The project aims to increase the number of scooter parking spaces, along with 73 car parking spots, and will incorporate barrier-free facilities, pedestrian walkways, and friendly urban design elements such as street corner plazas. The building will be constructed using green building techniques and is expected to be completed in 2023.",
+        "label_text": "Wu Yu-Hui Architect Office"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 1 : The \"Wen Kang A Urban Renewal Project\" is financed by Jie Xin Industrial Co., Ltd., with Hua Tai Bank as the financing trust entity. The architectural design is by Wu Yu-Hui Architect Office, and the construction is contracted to Jin Fu Yu Construction Co., Ltd. After the renewal, a reinforced concrete structure with 2 underground levels and 14 above-ground floors will be constructed. Apart from the third to fourteenth floors being allocated for residential apartments (129 units), there will also be plans for a shopping mall (17 retail units) and a cinema on the first and second floors. The project aims to increase the number of scooter parking spaces, along with 73 car parking spots, and will incorporate barrier-free facilities, pedestrian walkways, and friendly urban design elements such as street corner plazas. The building will be constructed using green building techniques and is expected to be completed in 2023.",
+        "label_text": "Jin Fu Yu Construction Co., Ltd"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 2 : On January 3, 2017, Wu Lei starred in the premiere of the ancient fantasy drama \"Magic Star,\" where he played the half-human, half-demon young hero Zhan Xiongfei. The series achieved over 1.3 billion views by its finale. Subsequently, he co-starred with Lin Yun in the fantasy drama \"Battle Through the Heavens,\" adapted from the novel of the same name by Tian Can Tu Dou, portraying the character Xiao Yan. On February 3, he continued his participation in the reality show \"24 Hours: Season 2.\" In March, he joined the cast of the drama film \"Shadow.\" On May 5, he became a regular host on the original cultural exploration program \"The Seventy-Two Layers.\" On September 30, the action movie he starred in, \"Ultimate Code,\" was released, where he played the genius teenager Tang Dingdong, adept in various high-end technologies. That same year, he also led the adventure-themed drama \"Sand Sea,\" playing the key explorer Li Cu.",
+        "label_text": "The Seventy-Two Layers"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 2 : On January 3, 2017, Wu Lei starred in the premiere of the ancient fantasy drama \"Magic Star,\" where he played the half-human, half-demon young hero Zhan Xiongfei. The series achieved over 1.3 billion views by its finale. Subsequently, he co-starred with Lin Yun in the fantasy drama \"Battle Through the Heavens,\" adapted from the novel of the same name by Tian Can Tu Dou, portraying the character Xiao Yan. On February 3, he continued his participation in the reality show \"24 Hours: Season 2.\" In March, he joined the cast of the drama film \"Shadow.\" On May 5, he became a regular host on the original cultural exploration program \"The Seventy-Two Layers.\" On September 30, the action movie he starred in, \"Ultimate Code,\" was released, where he played the genius teenager Tang Dingdong, adept in various high-end technologies. That same year, he also led the adventure-themed drama \"Sand Sea,\" playing the key explorer Li Cu.",
+        "label_text": "Ultimate Code"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 2 : On January 3, 2017, Wu Lei starred in the premiere of the ancient fantasy drama \"Magic Star,\" where he played the half-human, half-demon young hero Zhan Xiongfei. The series achieved over 1.3 billion views by its finale. Subsequently, he co-starred with Lin Yun in the fantasy drama \"Battle Through the Heavens,\" adapted from the novel of the same name by Tian Can Tu Dou, portraying the character Xiao Yan. On February 3, he continued his participation in the reality show \"24 Hours: Season 2.\" In March, he joined the cast of the drama film \"Shadow.\" On May 5, he became a regular host on the original cultural exploration program \"The Seventy-Two Layers.\" On September 30, the action movie he starred in, \"Ultimate Code,\" was released, where he played the genius teenager Tang Dingdong, adept in various high-end technologies. That same year, he also led the adventure-themed drama \"Sand Sea,\" playing the key explorer Li Cu.",
+        "label_text": "Tang Dingdong"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 2 : On January 3, 2017, Wu Lei starred in the premiere of the ancient fantasy drama \"Magic Star,\" where he played the half-human, half-demon young hero Zhan Xiongfei. The series achieved over 1.3 billion views by its finale. Subsequently, he co-starred with Lin Yun in the fantasy drama \"Battle Through the Heavens,\" adapted from the novel of the same name by Tian Can Tu Dou, portraying the character Xiao Yan. On February 3, he continued his participation in the reality show \"24 Hours: Season 2.\" In March, he joined the cast of the drama film \"Shadow.\" On May 5, he became a regular host on the original cultural exploration program \"The Seventy-Two Layers.\" On September 30, the action movie he starred in, \"Ultimate Code,\" was released, where he played the genius teenager Tang Dingdong, adept in various high-end technologies. That same year, he also led the adventure-themed drama \"Sand Sea,\" playing the key explorer Li Cu.",
+        "label_text": "Sand Sea"
+    },
+    {
+        "source": "原文 : 2014年10月2日，孙延在代表韩国出战在韩国仁川举行的仁川亚运艺术体操女子个人全能项目，她在决赛的圈操、带操和棒操分别取得18.216分、18.083分和18.100分的成绩，尽管在最后一项的球操环节出现失误，仅取得17.300分，她仍然以总分71.699分荣获金牌，成为首位达到此成绩的韩国选手。",
+        "hyp": "文 2 : On October 2, 2014, Son Yeon-jae represented South Korea in the individual all-around rhythmic gymnastics event at the Incheon Asian Games held in Incheon, South Korea. She scored 18.216 in hoop, 18.083 in ribbon, and 18.100 in clubs during the finals. Despite a mistake in the ball routine, where she only scored 17.300, she still secured the gold medal with a total score of 71.699, becoming the first South Korean athlete to achieve this feat.",
+        "label_text": "Incheon Asian Games"
+    },
+    {
+        "source": "原文 : 科湼夫现在知道了德军正在突围、因而被激怒及决心兑现对史达林不给任何“希特勒分子”或“法西斯分子”逃出包围圈，但是苏联的情报机构在这时高估了德军第3装甲军的装甲力量，因此科湼夫全力出击，这时苏军第20坦克军属下的坦克旅将新型的约瑟夫·史达林式重型坦克带到科尔逊战场，科湼夫命令所有可以使用的装甲车辆及火炮向突围部队开火，切断弧立的敌人及将他们打散，两个负责封锁的苏军步兵师，第206狙击师及第5亲卫空降师已被德军解围部队击败；没有步兵支援的苏军坦克只好从远距离向突围的德军开火，由于没有反坦克武器在战场， T-34型坦克冲入没有掩护的德军，司令部单位、落伍的士兵及救护兵均受攻击。",
+        "hyp": "文 3 : General Konev now knew that the German forces were attempting a breakout, and this enraged him and strengthened his resolve to fulfill Stalin's order not to let any \"Hitlerites\" or \"Fascists\" escape the encirclement. However, at this time, Soviet intelligence overestimated the armored strength of the German 3rd Panzer Army, leading Konev to commit his forces fully to the attack. The Soviet 20th Tank Army's tank brigades brought the new Joseph Stalin heavy tanks to the Korsun battlefield. Konev ordered all available armored vehicles and artillery to fire on the breakout troops, to cut off and disperse the encircled enemy. The two Soviet infantry divisions responsible for the blockade, the 206th Sniper Division and the 5th Guards Airborne Division, had already been defeated by the German relief forces. Without infantry support, the Soviet tanks were forced to fire at the breaking-out German forces from a distance. Since there were no anti-tank weapons on the battlefield, the T-34 tanks charged into the unprotected German forces, attacking command units, stragglers, and medics alike.",
+        "label_text": "the 206th Sniper Division"
+    },
+    {
+        "source": "原文 : “将外星飞船与气象气球混为一谈的讽刺意味很令人惊讶，但这不值得引发一场星际冲突，”梅杰说。",
+        "hyp": "文 1 : \"The irony of conflating alien spacecraft with weather balloons is quite surprising, but it's not worth sparking an interstellar conflict,\" Major said.",
+        "label_text": "Major"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": "Sanmon clan"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": "Sanmons"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": "Haruzoku Autumn Moon family"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": " Shiroda"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": "Autumn Moon family"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": "Sanmons"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": "Sanmons"
+    },
+    {
+        "source": "原文 : 另外一点值得注意的就是我在网上看到用户的评论说，这个摄像头支持的存储卡最小是8G，存储容量更小的就不能识别，希望大家注意这点。",
+        "hyp": "文 2 : Another point worth noting is that I saw user reviews online saying that the minimum supported storage card for this camera is 8GB; it can't recognize cards with smaller storage capacities, so I hope everyone takes note of this.",
+        "label_text": " storage card"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 3 : After the conclusion of the first season, which focused on the theme of sound, the second season of \"Kyoto Color Diary\" shifted to \"color\" as its central topic. Starting from July 17, 2013, it aired on the third Wednesday of every month at 1:58 AM (which is equivalent to early Thursday morning). Additionally, at the end of each episode, the segment \"Yui's Diary\" from the first season was maintained. However, in the second season, this segment featured hand-drawn diary illustrations by Yoko Yamate to review and summarize the content of the episode. Furthermore, during the broadcast on June 11, 2014, Yoko Yamate announced that the second season would continue into its second year and that a special episode would be produced for the first time since the show's inception. This special episode, which would extend to 90 minutes, was set to feature Rie Kitahara, a fellow AKB48 member, as a special guest.",
+        "label_text": "Kyoto Color Diary"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 3 : After the conclusion of the first season, which focused on the theme of sound, the second season of \"Kyoto Color Diary\" shifted to \"color\" as its central topic. Starting from July 17, 2013, it aired on the third Wednesday of every month at 1:58 AM (which is equivalent to early Thursday morning). Additionally, at the end of each episode, the segment \"Yui's Diary\" from the first season was maintained. However, in the second season, this segment featured hand-drawn diary illustrations by Yoko Yamate to review and summarize the content of the episode. Furthermore, during the broadcast on June 11, 2014, Yoko Yamate announced that the second season would continue into its second year and that a special episode would be produced for the first time since the show's inception. This special episode, which would extend to 90 minutes, was set to feature Rie Kitahara, a fellow AKB48 member, as a special guest.",
+        "label_text": "Yoko Yamate"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 3 : After the conclusion of the first season, which focused on the theme of sound, the second season of \"Kyoto Color Diary\" shifted to \"color\" as its central topic. Starting from July 17, 2013, it aired on the third Wednesday of every month at 1:58 AM (which is equivalent to early Thursday morning). Additionally, at the end of each episode, the segment \"Yui's Diary\" from the first season was maintained. However, in the second season, this segment featured hand-drawn diary illustrations by Yoko Yamate to review and summarize the content of the episode. Furthermore, during the broadcast on June 11, 2014, Yoko Yamate announced that the second season would continue into its second year and that a special episode would be produced for the first time since the show's inception. This special episode, which would extend to 90 minutes, was set to feature Rie Kitahara, a fellow AKB48 member, as a special guest.",
+        "label_text": "Yoko Yamate"
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 4 : \"The Newly Renovated Record of the Baishui Route\" cliff carvings, located in Wangjiahe Village, Daheidian Township, Hui County, Gansu Province, China, are a national key cultural relic protection unit, categorized as cave temples and stone inscriptions.",
+        "label_text": "The Newly Renovated Record of the Baishui Route"
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 4 : \"The Newly Renovated Record of the Baishui Route\" cliff carvings, located in Wangjiahe Village, Daheidian Township, Hui County, Gansu Province, China, are a national key cultural relic protection unit, categorized as cave temples and stone inscriptions.",
+        "label_text": "national key cultural relic protection unit"
+    },
+    {
+        "source": "原文 : 2009年11月27日，科学家发现一颗围绕白羊座30B旋转的大质量行星，它距离白羊座30B1个天文单位。",
+        "hyp": "文 5 : On November 27, 2009, scientists discovered a massive planet orbiting around Aries 30B, located one astronomical unit away from Aries 30B.",
+        "label_text": "Aries 30B"
+    },
+    {
+        "source": "原文 : 2009年11月27日，科学家发现一颗围绕白羊座30B旋转的大质量行星，它距离白羊座30B1个天文单位。",
+        "hyp": "文 5 : On November 27, 2009, scientists discovered a massive planet orbiting around Aries 30B, located one astronomical unit away from Aries 30B.",
+        "label_text": "Aries 30B"
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 2 : In August 2013, Jonas Christensen participated in the World Badminton Championships held in Guangzhou, China. He and Mads Pieler Kolding competed in the men's doubles event. They were defeated in the first round by Marcus Ellis and Paul van Rietvelde with a score of 0-2 (15-21, 8-21), thus concluding their participation in the tournament.",
+        "label_text": "Mads Pieler Kolding"
+    },
+    {
+        "source": "原文 : 本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。",
+        "hyp": "文 4 : This document has been prepared in accordance with the provisions of GB/T 1.1-202X Standardization Work Guidelines Part 1: Rules for the Structure and Drafting of Standardization Documents.",
+        "label_text": "202X"
+    },
+    {
+        "source": "原文 : GB/I 11383 一 1989 信息 处理 ”信息交换用八位代码结构和编码规则",
+        "hyp": "文 2 : GB/I 11383-1989 Information Processing - Structure and Coding Rules for 8-bit Codes for Information Interchange",
+        "label_text": "GB/I"
+    },
+    {
+        "source": "原文 : 据巴黎大众运输公司(RATP)的数据， 2011年伊普莱桑斯站的入站乘客总人次数为4647935人次。",
+        "hyp": "文 5 : According to data from the Paris Public Transport Company (RATP), the total number of passengers entering the Épinay-sur-Seine station in 2011 was 4,647,935.",
+        "label_text": "Paris Public Transport Company"
+    },
+    {
+        "source": "原文 : 据巴黎大众运输公司(RATP)的数据， 2011年伊普莱桑斯站的入站乘客总人次数为4647935人次。",
+        "hyp": "文 5 : According to data from the Paris Public Transport Company (RATP), the total number of passengers entering the Épinay-sur-Seine station in 2011 was 4,647,935.",
+        "label_text": "Épinay-sur-Seine"
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 4 : In the first week after the Spring Festival in 2023, the number of positions prioritizing returnees and the number of returnees seeking jobs domestically both showed an upward trend. On February 3rd, the number of positions prioritizing returnees increased by 11% compared to January 28th, and the number of returnees seeking jobs rose by 27%.",
+        "label_text": "returnees"
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 4 : In the first week after the Spring Festival in 2023, the number of positions prioritizing returnees and the number of returnees seeking jobs domestically both showed an upward trend. On February 3rd, the number of positions prioritizing returnees increased by 11% compared to January 28th, and the number of returnees seeking jobs rose by 27%.",
+        "label_text": "returnees"
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 4 : In the first week after the Spring Festival in 2023, the number of positions prioritizing returnees and the number of returnees seeking jobs domestically both showed an upward trend. On February 3rd, the number of positions prioritizing returnees increased by 11% compared to January 28th, and the number of returnees seeking jobs rose by 27%.",
+        "label_text": "returnees"
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 5 : In the context of mainland China, dubbed films include not only foreign-language films translated into Mandarin Chinese or various dialects but also films originally in Chinese that are translated into minority languages, as well as films originally in minority languages that are translated into Chinese. In rare cases, it may also include films in southern dialects like Min or Cantonese being translated into Mandarin.",
+        "label_text": "mainland China"
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 5 : In the context of mainland China, dubbed films include not only foreign-language films translated into Mandarin Chinese or various dialects but also films originally in Chinese that are translated into minority languages, as well as films originally in minority languages that are translated into Chinese. In rare cases, it may also include films in southern dialects like Min or Cantonese being translated into Mandarin.",
+        "label_text": "Chinese"
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 5 : In the context of mainland China, dubbed films include not only foreign-language films translated into Mandarin Chinese or various dialects but also films originally in Chinese that are translated into minority languages, as well as films originally in minority languages that are translated into Chinese. In rare cases, it may also include films in southern dialects like Min or Cantonese being translated into Mandarin.",
+        "label_text": "Chinese"
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 5 : In the context of mainland China, dubbed films include not only foreign-language films translated into Mandarin Chinese or various dialects but also films originally in Chinese that are translated into minority languages, as well as films originally in minority languages that are translated into Chinese. In rare cases, it may also include films in southern dialects like Min or Cantonese being translated into Mandarin.",
+        "label_text": "Min"
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 4 : In April 1943, the Lu Xun Academy of Fine Arts merged with the Yan'an Institute of Natural Sciences and the Shaanxi-Gansu-Ningxia Border Region Administrative College to form Yan'an University. This resulted in the establishment of the Department of Drama and Music within the \"Lu Xun Academy of Arts and Literature\" at Yan'an University, commonly referred to as the \"Drama and Music Department.\"",
+        "label_text": "Lu Xun Academy of Fine Arts"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 3 : Ku Kam-fai was born in Hong Kong and grew up in Tsuen Wan. He began his football career at the local club Tsuen Wan before transferring to Eastern in 1983. In 1984, he was invited by the club owner, Lam Kin-ngok, to join South China, where he became a key player. During his time there, he was selected eight times for the Hong Kong Football Best XI and was even named Hong Kong Footballer of the Year in 1987. He retired at the age of 38 to become an assistant coach for the team. On June 19, 2017, after a meeting of the South China board of directors and a review of the team's recent development, it was unanimously agreed that South China would withdraw from the Hong Kong Premier League in the following season to compete in the First Division League and focus on nurturing young players. To reduce the football department's expenses, only Ku Kam-fai, who had served South China for over thirty years, was retained.",
+        "label_text": " Kam-fai "
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 3 : Ku Kam-fai was born in Hong Kong and grew up in Tsuen Wan. He began his football career at the local club Tsuen Wan before transferring to Eastern in 1983. In 1984, he was invited by the club owner, Lam Kin-ngok, to join South China, where he became a key player. During his time there, he was selected eight times for the Hong Kong Football Best XI and was even named Hong Kong Footballer of the Year in 1987. He retired at the age of 38 to become an assistant coach for the team. On June 19, 2017, after a meeting of the South China board of directors and a review of the team's recent development, it was unanimously agreed that South China would withdraw from the Hong Kong Premier League in the following season to compete in the First Division League and focus on nurturing young players. To reduce the football department's expenses, only Ku Kam-fai, who had served South China for over thirty years, was retained.",
+        "label_text": "local club Tsuen Wan"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 3 : Ku Kam-fai was born in Hong Kong and grew up in Tsuen Wan. He began his football career at the local club Tsuen Wan before transferring to Eastern in 1983. In 1984, he was invited by the club owner, Lam Kin-ngok, to join South China, where he became a key player. During his time there, he was selected eight times for the Hong Kong Football Best XI and was even named Hong Kong Footballer of the Year in 1987. He retired at the age of 38 to become an assistant coach for the team. On June 19, 2017, after a meeting of the South China board of directors and a review of the team's recent development, it was unanimously agreed that South China would withdraw from the Hong Kong Premier League in the following season to compete in the First Division League and focus on nurturing young players. To reduce the football department's expenses, only Ku Kam-fai, who had served South China for over thirty years, was retained.",
+        "label_text": "Eastern"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 3 : Ku Kam-fai was born in Hong Kong and grew up in Tsuen Wan. He began his football career at the local club Tsuen Wan before transferring to Eastern in 1983. In 1984, he was invited by the club owner, Lam Kin-ngok, to join South China, where he became a key player. During his time there, he was selected eight times for the Hong Kong Football Best XI and was even named Hong Kong Footballer of the Year in 1987. He retired at the age of 38 to become an assistant coach for the team. On June 19, 2017, after a meeting of the South China board of directors and a review of the team's recent development, it was unanimously agreed that South China would withdraw from the Hong Kong Premier League in the following season to compete in the First Division League and focus on nurturing young players. To reduce the football department's expenses, only Ku Kam-fai, who had served South China for over thirty years, was retained.",
+        "label_text": "South China"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 3 : Ku Kam-fai was born in Hong Kong and grew up in Tsuen Wan. He began his football career at the local club Tsuen Wan before transferring to Eastern in 1983. In 1984, he was invited by the club owner, Lam Kin-ngok, to join South China, where he became a key player. During his time there, he was selected eight times for the Hong Kong Football Best XI and was even named Hong Kong Footballer of the Year in 1987. He retired at the age of 38 to become an assistant coach for the team. On June 19, 2017, after a meeting of the South China board of directors and a review of the team's recent development, it was unanimously agreed that South China would withdraw from the Hong Kong Premier League in the following season to compete in the First Division League and focus on nurturing young players. To reduce the football department's expenses, only Ku Kam-fai, who had served South China for over thirty years, was retained.",
+        "label_text": " Hong Kong Football Best XI"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 3 : Ku Kam-fai was born in Hong Kong and grew up in Tsuen Wan. He began his football career at the local club Tsuen Wan before transferring to Eastern in 1983. In 1984, he was invited by the club owner, Lam Kin-ngok, to join South China, where he became a key player. During his time there, he was selected eight times for the Hong Kong Football Best XI and was even named Hong Kong Footballer of the Year in 1987. He retired at the age of 38 to become an assistant coach for the team. On June 19, 2017, after a meeting of the South China board of directors and a review of the team's recent development, it was unanimously agreed that South China would withdraw from the Hong Kong Premier League in the following season to compete in the First Division League and focus on nurturing young players. To reduce the football department's expenses, only Ku Kam-fai, who had served South China for over thirty years, was retained.",
+        "label_text": "South China"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 3 : Ku Kam-fai was born in Hong Kong and grew up in Tsuen Wan. He began his football career at the local club Tsuen Wan before transferring to Eastern in 1983. In 1984, he was invited by the club owner, Lam Kin-ngok, to join South China, where he became a key player. During his time there, he was selected eight times for the Hong Kong Football Best XI and was even named Hong Kong Footballer of the Year in 1987. He retired at the age of 38 to become an assistant coach for the team. On June 19, 2017, after a meeting of the South China board of directors and a review of the team's recent development, it was unanimously agreed that South China would withdraw from the Hong Kong Premier League in the following season to compete in the First Division League and focus on nurturing young players. To reduce the football department's expenses, only Ku Kam-fai, who had served South China for over thirty years, was retained.",
+        "label_text": "South China"
+    }
+]

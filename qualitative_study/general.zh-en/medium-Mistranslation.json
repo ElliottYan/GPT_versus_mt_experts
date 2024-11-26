@@ -1,0 +1,332 @@
+[
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 4 : However, these address spaces may increase the burden on routers on the internet, as they do not necessarily effectively converge in the classless inter-domain routing system.",
+        "label_text": "they do not necessarily effectively converge"
+    },
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 4 : However, these address spaces may increase the burden on routers on the internet, as they do not necessarily effectively converge in the classless inter-domain routing system.",
+        "label_text": "do not necessarily effectively converge"
+    },
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 1 : Eight hundred years ago, the Nine Emperors, rulers of the Kunlun Realm, completely became the past and disappeared in the long history.",
+        "label_text": "Eight hundred years ago, the Nine Emperors, rulers of the Kunlun Realm,"
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 2 : \"My Spirit Root is injured still!\" Ling Han murmured with a frown. Ling Zhongkuan's attack hurt his Spirit Root, which was a troublesome injury that could not be healed through ordinary therapies.",
+        "label_text": " is injured still"
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 2 : \"My Spirit Root is injured still!\" Ling Han murmured with a frown. Ling Zhongkuan's attack hurt his Spirit Root, which was a troublesome injury that could not be healed through ordinary therapies.",
+        "label_text": "through ordinary therapies"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 1 : It has a large patch of fluffy white hair on the chest and the belly, with some on the four claws. It is said that these snow-white gloves have a strong appeal to girls and can control their brain waves, making them elicit sounds of \"Ah.\"",
+        "label_text": "with some on the four claws"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 1 : It has a large patch of fluffy white hair on the chest and the belly, with some on the four claws. It is said that these snow-white gloves have a strong appeal to girls and can control their brain waves, making them elicit sounds of \"Ah.\"",
+        "label_text": "with some on the four claws"
+    },
+    {
+        "source": "原文 : 楚离不理他，冲赵颖笑着抱抱拳。",
+        "hyp": "文 3 : Ignoring him, Chu Li smiled at and saluted Zhao Ying with his hands folded.",
+        "label_text": "with his hands folded"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 3 : After the official operation, the mall near the Fukaya Hanazono Station is expected to receive 649,000 passengers every year and gain annual revenue of 300 million yen. Under its influence, the Fukaya Hanazono Station will be the third busiest station after Kumagaya and Hanyū Stations.",
+        "label_text": " After the official operation, the mall near the Fukaya Hanazono Station is expected to receive 649,000 passengers every year and gain annual revenue of 300 million yen."
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 3 : After the official operation, the mall near the Fukaya Hanazono Station is expected to receive 649,000 passengers every year and gain annual revenue of 300 million yen. Under its influence, the Fukaya Hanazono Station will be the third busiest station after Kumagaya and Hanyū Stations.",
+        "label_text": "Under its influence"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 3 : After the official operation, the mall near the Fukaya Hanazono Station is expected to receive 649,000 passengers every year and gain annual revenue of 300 million yen. Under its influence, the Fukaya Hanazono Station will be the third busiest station after Kumagaya and Hanyū Stations.",
+        "label_text": "the mall near the Fukaya Hanazono Station is expected to receive"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 4 : The style move is a type of breaking dance.",
+        "label_text": "type"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 4 : The style move is a type of breaking dance.",
+        "label_text": "a type"
+    },
+    {
+        "source": "原文 : 人类修炼武道，登峰造极，达到超凡入圣境界。",
+        "hyp": "文 5 : In terms of martial cultivation, humans seek to reach the highest realm of Extraordinary Saint.",
+        "label_text": "reach the highest realm of Extraordinary Saint"
+    },
+    {
+        "source": "原文 : 为了避免引起外界不必要的忧虑，误以为香港政府的财政实力及宏观经济的基础转弱，而影响香港的信贷评级，因此建议中的未来基金将仍然被列为香港政府财政储备的一部分。",
+        "hyp": "文 4 : To avoid affecting Hong Kong's credit rating due to the outside community's unnecessary concerns and mistaken belief that the HK government's fiscal strength and macroeconomic fundamentals have weakened, it is recommended that future funds should remain listed as part of the HK government's fiscal reserves.",
+        "label_text": " due to the outside community's unnecessary concerns and mistaken belief that the HK government's fiscal strength and macroeconomic fundamentals have weakened"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 4 : The 25A rolling stock is one of the centralized power supply air-conditioned passenger coach models of China Railways. Financed by loans, it is jointly manufactured by several domestic railway factories through international bidding. As 160 units of this model are produced, it is generally known as the \"168 passenger coach.\"",
+        "label_text": "160"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 4 : The 25A rolling stock is one of the centralized power supply air-conditioned passenger coach models of China Railways. Financed by loans, it is jointly manufactured by several domestic railway factories through international bidding. As 160 units of this model are produced, it is generally known as the \"168 passenger coach.\"",
+        "label_text": "160"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 1 : The Ninth Institute was initially located in Beijing. Later, its major engineering and production department was relocated to the 221st Factory located on Jinyintan Grassland, Xihai Town, Haiyan County, Qinghai Province. In 1970, the department was relocated to the mountainous area in northern Sichuan.",
+        "label_text": "department"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 1 : The Ninth Institute was initially located in Beijing. Later, its major engineering and production department was relocated to the 221st Factory located on Jinyintan Grassland, Xihai Town, Haiyan County, Qinghai Province. In 1970, the department was relocated to the mountainous area in northern Sichuan.",
+        "label_text": " relocated to the 221st Factory"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 1 : The Ninth Institute was initially located in Beijing. Later, its major engineering and production department was relocated to the 221st Factory located on Jinyintan Grassland, Xihai Town, Haiyan County, Qinghai Province. In 1970, the department was relocated to the mountainous area in northern Sichuan.",
+        "label_text": "the department was"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 5 : Luckily, there is always a way out. When Hong Dali wanted to kill himself, the metallic sound from the System appeared again, \"Note: The Host can earn one attribute bonus for every 100,000 yuan he wastes.\"",
+        "label_text": "wanted to kill himself"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 5 : Luckily, there is always a way out. When Hong Dali wanted to kill himself, the metallic sound from the System appeared again, \"Note: The Host can earn one attribute bonus for every 100,000 yuan he wastes.\"",
+        "label_text": "wanted to kill himself"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 4 : She is the overall commander and messenger of the M4 Sherman (76mm Gun) Tank Team (vice commander of the Tank Division). She is a sophomore at the Saunders University High School and her first appearance is in Episode 4 of this season. She is good at planning tactics and is the military advisor of the team. However, she is easy to get emotional and nervous in tank competitions. When her team was competing with the Oarai Girls' Academy's team, her flurried and dejected behavior affected the morale of other teammates. She took advantage of a rule loophole and secretly used a spy balloon to eavesdrop on intelligence. However, she was beaten back by a counter-blow, which resulted in the team's loss of advantages and the final defeat. Because of the cheat, she was punished by Kay. When she is sad or angry, she will inexplicably mention the boy (called Takashi) she has a crush on. In the film adaptation, she was consoled by the Rabbit Team for this reason. Despite her usual sharp tongue and bad ideas, she is inherently simple-minded and is merely a somewhat silly girl with a complex personality. In Episode 3 of the final season, she fell into a trap planned by the Continuation High School, and thus, the flag tank she was commanding was destroyed.",
+        "label_text": "cheat"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 4 : She is the overall commander and messenger of the M4 Sherman (76mm Gun) Tank Team (vice commander of the Tank Division). She is a sophomore at the Saunders University High School and her first appearance is in Episode 4 of this season. She is good at planning tactics and is the military advisor of the team. However, she is easy to get emotional and nervous in tank competitions. When her team was competing with the Oarai Girls' Academy's team, her flurried and dejected behavior affected the morale of other teammates. She took advantage of a rule loophole and secretly used a spy balloon to eavesdrop on intelligence. However, she was beaten back by a counter-blow, which resulted in the team's loss of advantages and the final defeat. Because of the cheat, she was punished by Kay. When she is sad or angry, she will inexplicably mention the boy (called Takashi) she has a crush on. In the film adaptation, she was consoled by the Rabbit Team for this reason. Despite her usual sharp tongue and bad ideas, she is inherently simple-minded and is merely a somewhat silly girl with a complex personality. In Episode 3 of the final season, she fell into a trap planned by the Continuation High School, and thus, the flag tank she was commanding was destroyed.",
+        "label_text": "film adaptation"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 4 : She is the overall commander and messenger of the M4 Sherman (76mm Gun) Tank Team (vice commander of the Tank Division). She is a sophomore at the Saunders University High School and her first appearance is in Episode 4 of this season. She is good at planning tactics and is the military advisor of the team. However, she is easy to get emotional and nervous in tank competitions. When her team was competing with the Oarai Girls' Academy's team, her flurried and dejected behavior affected the morale of other teammates. She took advantage of a rule loophole and secretly used a spy balloon to eavesdrop on intelligence. However, she was beaten back by a counter-blow, which resulted in the team's loss of advantages and the final defeat. Because of the cheat, she was punished by Kay. When she is sad or angry, she will inexplicably mention the boy (called Takashi) she has a crush on. In the film adaptation, she was consoled by the Rabbit Team for this reason. Despite her usual sharp tongue and bad ideas, she is inherently simple-minded and is merely a somewhat silly girl with a complex personality. In Episode 3 of the final season, she fell into a trap planned by the Continuation High School, and thus, the flag tank she was commanding was destroyed.",
+        "label_text": " bad ideas"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 4 : She is the overall commander and messenger of the M4 Sherman (76mm Gun) Tank Team (vice commander of the Tank Division). She is a sophomore at the Saunders University High School and her first appearance is in Episode 4 of this season. She is good at planning tactics and is the military advisor of the team. However, she is easy to get emotional and nervous in tank competitions. When her team was competing with the Oarai Girls' Academy's team, her flurried and dejected behavior affected the morale of other teammates. She took advantage of a rule loophole and secretly used a spy balloon to eavesdrop on intelligence. However, she was beaten back by a counter-blow, which resulted in the team's loss of advantages and the final defeat. Because of the cheat, she was punished by Kay. When she is sad or angry, she will inexplicably mention the boy (called Takashi) she has a crush on. In the film adaptation, she was consoled by the Rabbit Team for this reason. Despite her usual sharp tongue and bad ideas, she is inherently simple-minded and is merely a somewhat silly girl with a complex personality. In Episode 3 of the final season, she fell into a trap planned by the Continuation High School, and thus, the flag tank she was commanding was destroyed.",
+        "label_text": "Gun"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 4 : She is the overall commander and messenger of the M4 Sherman (76mm Gun) Tank Team (vice commander of the Tank Division). She is a sophomore at the Saunders University High School and her first appearance is in Episode 4 of this season. She is good at planning tactics and is the military advisor of the team. However, she is easy to get emotional and nervous in tank competitions. When her team was competing with the Oarai Girls' Academy's team, her flurried and dejected behavior affected the morale of other teammates. She took advantage of a rule loophole and secretly used a spy balloon to eavesdrop on intelligence. However, she was beaten back by a counter-blow, which resulted in the team's loss of advantages and the final defeat. Because of the cheat, she was punished by Kay. When she is sad or angry, she will inexplicably mention the boy (called Takashi) she has a crush on. In the film adaptation, she was consoled by the Rabbit Team for this reason. Despite her usual sharp tongue and bad ideas, she is inherently simple-minded and is merely a somewhat silly girl with a complex personality. In Episode 3 of the final season, she fell into a trap planned by the Continuation High School, and thus, the flag tank she was commanding was destroyed.",
+        "label_text": " bad ideas"
+    },
+    {
+        "source": "原文 : 一辆出租车在他前面下客，他快步走上前，然后钻了进去。 唐恩在车上看了躺在寒风中享受“晚餐”的乞丐最后一眼，让司机将他带回那个陌生的家。",
+        "hyp": "文 5 : When a taxi was dropping off passengers in front of him, he stepped quickly forward and got on it. Sitting in the car, Tang En shot a last glance at the beggar enjoying the \"supper\" while lying in the cold wind and then ordered the driver to take him back to the home unfamiliar to him.",
+        "label_text": "supper"
+    },
+    {
+        "source": "原文 : 其他同学看到这一幕，如看神人一般望着王宝乐。",
+        "hyp": "文 1 : When other students observed this scene, they looked at Wang Baole as if he was an immortal.",
+        "label_text": "immortal"
+    },
+    {
+        "source": "原文 : 整体打个四星，还是值的。",
+        "hyp": "文 2 : It remains worth a four-star grade.",
+        "label_text": "remains"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 1 : After playing 53 games on behalf of the Philadelphia 76ers, İlyasova was traded again on February 22, 2017, this time to the Atlanta Hawks in exchange for the center Tiago Splitter (transferred to the Philadelphia 76ers), a protected 2017 second-round pick, and the option to swap a second-round pick (with the Atlanta Hawks).",
+        "label_text": "again"
+    },
+    {
+        "source": "原文 : “哈哈，玄藏师兄你吩咐的事情，师弟我哪敢担一句‘劳烦’？ 这等小事，何需如此？” 玄心一口答应了下来。",
+        "hyp": "文 3 : \"Ha-Ha! Senior Brother Xuanzang, since this is your order, how can I accept your thanks? You don't need to be so humble for such trifles,\" Younger Brother Xuanxin accepted the task readily.",
+        "label_text": "accept your thanks"
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 5 : The black scraper (scientific name: Thamnaconus modestus; common names: Madazai, skinned fish, and Meuschenia) is a species of filefish (Monacanthidae) in the order Tetraodontiformes under the class Actinopterygii.",
+        "label_text": " common names: Madazai, skinned fish, and Meuschenia"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 2 : After the fall of the Palhalhivolo Tribe, its territory became the Kucapungane people's base to plant coarse cereals. Today, the remnants of the relevant ancient city can still be observed here. However, no one knows the whereabouts of the tribe's remaining people. On the other hand, although the Kala-lhilhisane Tribe was independent again and rebuilt their home, it was still destroyed by a rainstorm-caused landslide and a heavy flood. Now, only some of the people living in the Wutai Tribe (located in Wutai Village, Wutai Township) call themselves the descendants of the Kala-lhilhisane Tribe. As Dalapathan (also known as Druluane, transliterated as Lu Luan and reputed as the leader with military merits), a descendant of Peleng, led his tribe to win the war, he occupied Omomos (a place with a high possibility of seeing fog), the highest site of the old Kucapungane tribe, alone. Together with Kadrangilan, the original chieftain family, they are listed as the Two Chieftain Families.",
+        "label_text": "remaining people"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 2 : After the fall of the Palhalhivolo Tribe, its territory became the Kucapungane people's base to plant coarse cereals. Today, the remnants of the relevant ancient city can still be observed here. However, no one knows the whereabouts of the tribe's remaining people. On the other hand, although the Kala-lhilhisane Tribe was independent again and rebuilt their home, it was still destroyed by a rainstorm-caused landslide and a heavy flood. Now, only some of the people living in the Wutai Tribe (located in Wutai Village, Wutai Township) call themselves the descendants of the Kala-lhilhisane Tribe. As Dalapathan (also known as Druluane, transliterated as Lu Luan and reputed as the leader with military merits), a descendant of Peleng, led his tribe to win the war, he occupied Omomos (a place with a high possibility of seeing fog), the highest site of the old Kucapungane tribe, alone. Together with Kadrangilan, the original chieftain family, they are listed as the Two Chieftain Families.",
+        "label_text": "occupied"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 2 : After the fall of the Palhalhivolo Tribe, its territory became the Kucapungane people's base to plant coarse cereals. Today, the remnants of the relevant ancient city can still be observed here. However, no one knows the whereabouts of the tribe's remaining people. On the other hand, although the Kala-lhilhisane Tribe was independent again and rebuilt their home, it was still destroyed by a rainstorm-caused landslide and a heavy flood. Now, only some of the people living in the Wutai Tribe (located in Wutai Village, Wutai Township) call themselves the descendants of the Kala-lhilhisane Tribe. As Dalapathan (also known as Druluane, transliterated as Lu Luan and reputed as the leader with military merits), a descendant of Peleng, led his tribe to win the war, he occupied Omomos (a place with a high possibility of seeing fog), the highest site of the old Kucapungane tribe, alone. Together with Kadrangilan, the original chieftain family, they are listed as the Two Chieftain Families.",
+        "label_text": "a place with a high possibility of seeing fog"
+    },
+    {
+        "source": "原文 : “好小子，你有一套！我们走，赶紧扫货！”",
+        "hyp": "文 3 : \"Hey, Kid! You have something special. Let's go! We should hurry up to fetch goods!\"",
+        "label_text": "You have something special"
+    },
+    {
+        "source": "原文 : 过了片刻，他看见一名穿着道袍的女子走来，连忙上去打招呼。",
+        "hyp": "文 5 : After a moment, he saw a woman in a Taoist robe coming over, so he immediately hurried up to greet her.",
+        "label_text": "so"
+    },
+    {
+        "source": "原文 : 之前一开始还担心相机的包装，这次还好，里面有充气包，相机三码一致，也能在官网注册，快门次数0，其余的就只能等时间检验了 。",
+        "hyp": "文 2 : Before receiving the camera, I worried about its packing. Luckily, the camera I receive this time is intact, as it is covered with a gas-filled bag. The camera's three codes are consistent and it supports registration on the official website, with the shutter count registering 0. Other conditions can only be tested over time.",
+        "label_text": "The camera's three codes are consistent"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 2 : In the 49th year of his reign (1710), Emperor Kangxi missed his old official so much, and thus, issued a special edict to resume the original post of the man.",
+        "label_text": "1710"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 2 : In the 49th year of his reign (1710), Emperor Kangxi missed his old official so much, and thus, issued a special edict to resume the original post of the man.",
+        "label_text": "missed his old official so much"
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 2 : It was after a long time that Lin Feng gradually adapted to the changes in his body. He thought to himself with comfort, \"Finally, I have a certain ability to save my life.\" However, at the thought of the System's ultimate goal to make him establish the No. 1 sect in history and himself the No. 1 grandmaster in history, Lin Feng was suddenly under great pressure and promptly checked the other things left in the novice package.",
+        "label_text": "save my life"
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 2 : It was after a long time that Lin Feng gradually adapted to the changes in his body. He thought to himself with comfort, \"Finally, I have a certain ability to save my life.\" However, at the thought of the System's ultimate goal to make him establish the No. 1 sect in history and himself the No. 1 grandmaster in history, Lin Feng was suddenly under great pressure and promptly checked the other things left in the novice package.",
+        "label_text": "grandmaster"
+    },
+    {
+        "source": "原文 : 孟奇仔细把玩了一下这拇指大小的玉佛，只见“它”满脸慈悲，栩栩如生，显然雕工不凡，同时，“它”手感细腻，既温润又给人清凉之感。",
+        "hyp": "文 2 : Meng Qi carefully turned the thumb-sized jade Buddha pendant in his hands, only to find that \"it\" had a merciful facial expression, and was vividly and exquisitely carved. Meanwhile, \"it\" featured a delicate touch, making people feel both warm and cool.",
+        "label_text": "turned"
+    },
+    {
+        "source": "原文 : 宗族冲突可能导致械斗和造成流血事件，参与者人口可能数十人到几万人。",
+        "hyp": "文 5 : Clan warfare may lead to knife fights and bloodshed, with the number of participants ranging from dozens to tens of thousands.",
+        "label_text": "knife fights"
+    },
+    {
+        "source": "原文 : 江瑶扮相俊美，表演扎实，师承范瑞娟派，兼唱其他流派。",
+        "hyp": "文 5 : Jiang Yao looks handsome when wearing her makeup and costume and has a solid mastery of basic performance skills. While being an apprentice of Fan Ruijuan, she can also sing in other schools' ways.",
+        "label_text": "apprentice"
+    },
+    {
+        "source": "原文 : 江瑶扮相俊美，表演扎实，师承范瑞娟派，兼唱其他流派。",
+        "hyp": "文 5 : Jiang Yao looks handsome when wearing her makeup and costume and has a solid mastery of basic performance skills. While being an apprentice of Fan Ruijuan, she can also sing in other schools' ways.",
+        "label_text": "sing"
+    },
+    {
+        "source": "原文 : 小护士疑惑地看着赵耀说道：“赵先生，你没事吧？”",
+        "hyp": "文 1 : Looking at Zhao Yao confusedly, the little nurse asked, \"Mr. Zhao, are you all right?\"",
+        "label_text": "little"
+    },
+    {
+        "source": "原文 : “哦，这么厉害？” 张汉惊疑一声拒绝道：“那我不比了。”",
+        "hyp": "文 5 : “Oh, so terrible?” Zhang Han exclaimed in disbelief and refused, saying, “Then I won’t compare with you.”",
+        "label_text": "Oh, so terrible"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 5 : In an article published by Billboard in August 2021, the magazine pointed out that the band’s fans have “through above-board means” taken advantage of loopholes in chart tabulations to boost the ranks of singles such as “Butter” in the US and help the song top the Hot 100 for multiple weeks. While the chart performance of singles on the Hot 100 typically depends on streaming and airplay, that of “Butter” was notably driven mostly by sales (the bulk of which came from BTS’ webstore, which allows fans to buy multiple copies of a song, unlike iTunes) and by fan-led crowdfunding efforts (including using money collected from fans worldwide on services like PayPal to make purchases that count toward US sales only). However, an article in The Korea Times pushed back against claims of chart manipulation. It opined that fanbases of other artists such as Justin Bieber and Ariana Grande have employed similar promotional measures, that such measures were neither illegal nor unethical, and that fans engaging in those measures were merely “intelligent consumers leading global trends”.",
+        "label_text": "the magazine"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 5 : In an article published by Billboard in August 2021, the magazine pointed out that the band’s fans have “through above-board means” taken advantage of loopholes in chart tabulations to boost the ranks of singles such as “Butter” in the US and help the song top the Hot 100 for multiple weeks. While the chart performance of singles on the Hot 100 typically depends on streaming and airplay, that of “Butter” was notably driven mostly by sales (the bulk of which came from BTS’ webstore, which allows fans to buy multiple copies of a song, unlike iTunes) and by fan-led crowdfunding efforts (including using money collected from fans worldwide on services like PayPal to make purchases that count toward US sales only). However, an article in The Korea Times pushed back against claims of chart manipulation. It opined that fanbases of other artists such as Justin Bieber and Ariana Grande have employed similar promotional measures, that such measures were neither illegal nor unethical, and that fans engaging in those measures were merely “intelligent consumers leading global trends”.",
+        "label_text": "intelligent consumers"
+    },
+    {
+        "source": "原文 : 楚阳的身躯缓缓从空中落下，缓缓倒了下去，便如晚秋飘零的枯叶，倒在尘埃，脸上带着淡淡的却温暖的笑，喃喃的道：“轻舞，若是有来生，伴君天下舞！”",
+        "hyp": "文 5 : Chu Yang’s body slowly descended from the air, falling gently to the ground like a withered leave drifting in late autumn. He landed in the dust, with a faint yet warm smile on his face. He murmured, “Qingwu, if there is a next life, I will dance with you throughout the world!”",
+        "label_text": "I will dance with you throughout the world"
+    },
+    {
+        "source": "原文 : “五行杂灵根，这是最最低等的灵根，难怪前身虽然无比努力，却只有炼体二层的修为。” “于我而言，五行杂灵根虽然有点棘手，但辅以丹药，最多四百年我必然还能重临巅峰！”",
+        "hyp": "文 3 :  “The Five Elements Mixed Spirit Root is the lowest-grade spirit root. No wonder despite my previous tremendous efforts, I could only attain the second level of physical refinement.” “Although the Five Elements Mixed Spirit Root is a bit challenging for me, with the help of elixirs, I will definitely be able to reach the peak again within four hundred years!”",
+        "label_text": "my"
+    },
+    {
+        "source": "原文 : “五行杂灵根，这是最最低等的灵根，难怪前身虽然无比努力，却只有炼体二层的修为。” “于我而言，五行杂灵根虽然有点棘手，但辅以丹药，最多四百年我必然还能重临巅峰！”",
+        "hyp": "文 3 :  “The Five Elements Mixed Spirit Root is the lowest-grade spirit root. No wonder despite my previous tremendous efforts, I could only attain the second level of physical refinement.” “Although the Five Elements Mixed Spirit Root is a bit challenging for me, with the help of elixirs, I will definitely be able to reach the peak again within four hundred years!”",
+        "label_text": "I"
+    },
+    {
+        "source": "原文 : 然而，个别机构对消费复苏后的健身市场盲目乐观，刚从危机中走出来，又吹响开疆拓土的号角，把融资资金一股脑投入新店建设上。",
+        "hyp": "文 3 : However, some institutions were blindly optimistic about the fitness market after the consumption recovery. Just after they got out of the crisis, they vigorously started expanding this market and invested all their financing funds into new store construction.",
+        "label_text": "institutions"
+    },
+    {
+        "source": "原文 : 然而，个别机构对消费复苏后的健身市场盲目乐观，刚从危机中走出来，又吹响开疆拓土的号角，把融资资金一股脑投入新店建设上。",
+        "hyp": "文 3 : However, some institutions were blindly optimistic about the fitness market after the consumption recovery. Just after they got out of the crisis, they vigorously started expanding this market and invested all their financing funds into new store construction.",
+        "label_text": "market"
+    },
+    {
+        "source": "原文 : 弗莱明也从一边跑了过来：“托尼，你现在不能回家。 我们在比赛，你是主教练，你要指挥球队！”",
+        "hyp": "文 4 : Fleming also ran over and said, “Tony, you can’t go home now.” We’re in the middle of a match, and you are the head coach. You need to direct the team!”",
+        "label_text": " ran over "
+    },
+    {
+        "source": "原文 : 3 自您签收次日起 12 个月内, 本产品出现《Redmi ArDots 2 真无线蓝牙耳机产品性能故障表》所列性能故障的情况, 经由小米售后服务中心检测确定, 可免费享受维修服务。",
+        "hyp": "文 5 : 3. From the day after you receive the product, within a period of 12 months, if the product experiences any performance issues as listed in the Redmi AirDots 2 True Wireless Bluetooth Earbuds Performance Failure Table, and it is confirmed by the Xiaomi after-sales service center through detection, you can enjoy free repair services.",
+        "label_text": "From the day after you receive the product"
+    },
+    {
+        "source": "原文 : 2016年10月27日，珠海大剧院举行全面运营启动暨开票仪式，首场演出1550张门票于开票后两小时内全部售出。",
+        "hyp": "文 5 : On October 27, 2016, the Zhuhai Grand Theater held a comprehensive operation launch and ticket sales ceremony. The first performance sold out all 1,550 tickets within two hours after the start of ticket sales.",
+        "label_text": "The first performance sold out all 1,550 tickets"
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 1 : In August 2013, Jonas Kristiansen participated in the BWF World Championships held in Guangzhou, China. He competed in the men’s doubles event with partner Marius Meyer but was eliminated in the first round after losing 0-2 (15-21, 8-21) to Marcus Ellis and Paul van Rietvelde. Thus, their tournament journey concluded.",
+        "label_text": "Marius Meyer"
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 1 : In August 2013, Jonas Kristiansen participated in the BWF World Championships held in Guangzhou, China. He competed in the men’s doubles event with partner Marius Meyer but was eliminated in the first round after losing 0-2 (15-21, 8-21) to Marcus Ellis and Paul van Rietvelde. Thus, their tournament journey concluded.",
+        "label_text": " losing 0-2"
+    },
+    {
+        "source": "原文 : 休息室中，有三人，一对少年男女，一位气质高贵，威仪不凡男子。",
+        "hyp": "文 3 : In the lounge, there were three people: a young couple and a noble and dignified man.",
+        "label_text": "a young couple"
+    },
+    {
+        "source": "原文 : 多少他真的会给人提供一些热血，一点点感动。",
+        "hyp": "文 3 : He sometimes makes others motivated and touched.",
+        "label_text": "sometimes"
+    },
+    {
+        "source": "原文 : “这谁点的三会传？”他随口问了句小厮。",
+        "hyp": "文 2 : He casually asked the servant, “Who chose to watch the ‘Story of Three Meetings’?”",
+        "label_text": "Who chose to watch"
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 1 : “You...” Gu Jingze was about to turn around and grab her, but he felt an unbearable discomfort in his body. He could not restrain the rising of his arousal once again.",
+        "label_text": "discomfort "
+    },
+    {
+        "source": "原文 : 2009年11月16日，有线电视宣布投得2010年至2013年三季英超香港独家播映权，但由于英超已经安排于当时的高清200-205台、有线301-306台及有线690台作收费播放，意味著英超台不可能于Ch63重开。",
+        "hyp": "文 2 : On November 16, 2009, Cable TV announced that it had acquired the exclusive broadcasting rights for the Premier League for the seasons 2010 to 2013 in Hong Kong. However, due to the Premier League already being scheduled for paid broadcast on the HD channels 200-205, Cable TV channels 301-306, and Cable TV channel 690 at that time, it meant that reopening Ch63 for the Premier League was not possible.",
+        "label_text": "reopening Ch63"
+    }
+]

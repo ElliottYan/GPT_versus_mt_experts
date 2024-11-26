@@ -1,0 +1,37 @@
+[
+    {
+        "source": "原文 : Показаниями к их удалению является миграция, развитие окклюзионной гидроцефалии и инфекционных осложнений.",
+        "hyp": "文 3 : The indications for removal thereof are migration, development of obstructive hydrocephalus and infectious complications.",
+        "label_text": "thereof "
+    },
+    {
+        "source": "原文 : В уборке примут участие 114 единиц спецтехники и 123 рабочих.",
+        "hyp": "文 1 : In total, 114 special vehicles and 123 workers will be employed in the cleaning.",
+        "label_text": "In total,"
+    },
+    {
+        "source": "原文 : В уборке примут участие 114 единиц спецтехники и 123 рабочих.",
+        "hyp": "文 1 : In total, 114 special vehicles and 123 workers will be employed in the cleaning.",
+        "label_text": "In total,"
+    },
+    {
+        "source": "原文 : Это касается не только россиян, но и граждан других стран.",
+        "hyp": "文 3 : This applies not only to the Russians, but to the citizens of other countries.",
+        "label_text": "the "
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 2 : The use of the Brainmax drug resulted in a significant improvement of the cognitive performance indices (concentration and maintenance of attention, working memory, visual and constructive skills, attention breadth and speed of switching, speed of information processing and executive functions), a reduction in severity of asthenic manifestations and an improvement of quality of life measures.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 2 : The use of the Brainmax drug resulted in a significant improvement of the cognitive performance indices (concentration and maintenance of attention, working memory, visual and constructive skills, attention breadth and speed of switching, speed of information processing and executive functions), a reduction in severity of asthenic manifestations and an improvement of quality of life measures.",
+        "label_text": "an "
+    },
+    {
+        "source": "原文 : Разработка данных показателей в перспективе может привести к новому подходу в здравоохранении, направленному на повышение качества оказания медицинской помощи и на создание максимально комфортной среды для работников медицинской организации.",
+        "hyp": "文 2 : In the long run, the development of these indices may lead to a new approach in the healthcare system that is aimed at improvement of the quality of medical care and creation of the most comfortable environment for employees of a medical organization.",
+        "label_text": " In the long run"
+    }
+]

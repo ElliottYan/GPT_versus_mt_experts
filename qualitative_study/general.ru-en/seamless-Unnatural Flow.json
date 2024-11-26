@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : \"Нам надо провести глубокий анализ, чтобы убедиться, что эта причина не распространяется на подобные конструкции на будущих пусках.",
+        "hyp": "文 4 : \"We need to conduct an in-depth analysis to make sure that this reason does not extend to similar designs in future launches.",
+        "label_text": " this reason does not extend to "
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 2 : After a slight decrease in the number of participants in the protests on Tuesday compared to the first two \"days of mobilization,\" the unions hope this time to take to the streets a larger number of protesters, taking into account those citizens who did not have the opportunity to participate in the demonstrations on weekdays.",
+        "label_text": "days of mobilization"
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 2 : After a slight decrease in the number of participants in the protests on Tuesday compared to the first two \"days of mobilization,\" the unions hope this time to take to the streets a larger number of protesters, taking into account those citizens who did not have the opportunity to participate in the demonstrations on weekdays.",
+        "label_text": "the unions hope this time to take to the streets a larger number of protesters, taking into"
+    },
+    {
+        "source": "原文 : Пользуясь случаем, желаю Вам крепкого здоровья и многих лет жизни\".",
+        "hyp": "文 1 : I take this opportunity to wish you good health and many years of life\".",
+        "label_text": "I take this opportunity to"
+    },
+    {
+        "source": "原文 : Может светскую беседу вести, и огнетушителем по морде съездить, но не в силах пропустить ни одной юбки.",
+        "hyp": "文 5 : He may have a worldly conversation, and a fire extinguisher in his face, but he can't miss a single skirt.",
+        "label_text": "miss a single skirt"
+    },
+    {
+        "source": "原文 : К заброшенному трейлеру где-то посреди условной пустыни подкатывает тачка, из которой выходят три пары добротнейших сисек.",
+        "hyp": "文 3 : An abandoned trailer, somewhere in the middle of the desert, is being driven by a carriage with three pairs of lovely boobs.",
+        "label_text": "is being driven by a carriage with three pairs of lovely boobs"
+    },
+    {
+        "source": "原文 : Поддержка в Вотсапе на мои возмущения по поводу цвета и количества цветов ответила \"видимо перепутали цвет\".",
+        "hyp": "文 4 : Votsap support responded to my complaints about the color and number of colors with \"apparently confused color\".",
+        "label_text": "apparently confused color"
+    },
+    {
+        "source": "原文 : Разработка данных показателей в перспективе может привести к новому подходу в здравоохранении, направленному на повышение качества оказания медицинской помощи и на создание максимально комфортной среды для работников медицинской организации.",
+        "hyp": "文 1 : The development of these indicators in the future may lead to a new approach in healthcare aimed at improving the quality of medical care and creating the most comfortable environment for healthcare workers.",
+        "label_text": "aimed at"
+    },
+    {
+        "source": "原文 : Впрочем, хорошо хотя бы то, что героиня российской картины хоть и чужая, но совсем не лысая.",
+        "hyp": "文 3 : However, it is good at least that the heroine of the Russian picture, although a stranger, is not at all bald.",
+        "label_text": "not at all bald"
+    },
+    {
+        "source": "原文 : Июльский номер традиционно сдается во время Московского кинофестиваля, и это, конечно, очень грустно: вычитывать полосы, когда душа рвется на Шаброля.",
+        "hyp": "文 3 : The July number is traditionally handed out during the Moscow Film Festival, and this, of course, is very sad: to read the stripes when the soul is torn on Chabrol.",
+        "label_text": "this, of course, is very sad"
+    },
+    {
+        "source": "原文 : Персонал внимательный, подскажут, направят, проконсультируют даже если пришел не в приемные дни.",
+        "hyp": "文 3 : The staff is attentive, they'll tell you, they'll guide you, they'll advise you even if you don't show up on reception days.",
+        "label_text": "they'll tell you, they'll guide you, they'll advise"
+    },
+    {
+        "source": "原文 : Примечательно, что это третий такой случай в Зелёной Околице на моей памяти.",
+        "hyp": "文 2 : It is noteworthy that this is the third such case in the Green Eye in my memory.",
+        "label_text": "It is noteworthy that this is"
+    },
+    {
+        "source": "原文 : Завершить прогулку нужно пятиминутной ходьбой в спокойном темпе и несколькими упражнениями на растяжку.",
+        "hyp": "文 4 : To complete the walk, you need a five-minute walk at a calm pace and several stretching exercises.",
+        "label_text": "walk, you need a five-minute walk"
+    }
+]

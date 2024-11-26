@@ -1,0 +1,127 @@
+[
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 5 : Мы ещё объяснили влияние личных факторов на то, как общество \nвзаимодействует с пищевой средой.",
+        "label_text": "ещё"
+    },
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 5 : Мы ещё объяснили влияние личных факторов на то, как общество \nвзаимодействует с пищевой средой.",
+        "label_text": "личных"
+    },
+    {
+        "source": "原文 : It's great at making coffee and keeping it hot, but there are too many other issues with it to invest in it at the current price.",
+        "hyp": "文 4 : Он отлично справляется с приготовлением кофе и сохранением тепла, но ещё есть много других проблем, которые делают его неинвестируемым по нынешней цене.",
+        "label_text": "сохранением тепла"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 1 : Еще один резервный (добровольческий) отряд был создан в 1981 году и состоял из неоплачиваемых гражданских лиц, желающих выполнять ограниченные полицейские обязанности.",
+        "label_text": "Еще один"
+    },
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 2 : Короче, эти ужасные воспоминания продолжали преследовать меня, и вчера я наконец набралась смелости и написала ему сообщение.",
+        "label_text": "сообщение"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 4 : Так я и сделал, и во втором или третьем посте узнал, что шоу AJ заблокировали на YouTube. Я не поклонник правых вещей, и именно по этой причине я перестал его смотреть 2 или 3 года назад, хотя небольшой аромат Свободу было так трудно найти среди 90% национал-капитализма, которые этот сайт может предложить, но в любом случае у меня возникла идея о видеосайте без цензуры, таком как LiveLeak, но гораздо более простом и менее «новостном», на котором каждый может публиковать сообщения.",
+        "label_text": "узнал"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 4 : Так я и сделал, и во втором или третьем посте узнал, что шоу AJ заблокировали на YouTube. Я не поклонник правых вещей, и именно по этой причине я перестал его смотреть 2 или 3 года назад, хотя небольшой аромат Свободу было так трудно найти среди 90% национал-капитализма, которые этот сайт может предложить, но в любом случае у меня возникла идея о видеосайте без цензуры, таком как LiveLeak, но гораздо более простом и менее «новостном», на котором каждый может публиковать сообщения.",
+        "label_text": "правых вещей"
+    },
+    {
+        "source": "原文 : This page presents an overview of the state of the art based on official sources.",
+        "hyp": "文 4 : На этой странице представлен обзор новейших технологий, на основе официальных источников.",
+        "label_text": "новейших технологий"
+    },
+    {
+        "source": "原文 : The researchers were able to report, for example, that about a quarter of cards went to relatives, nearly two-thirds to friends, and 8 percent to colleagues.",
+        "hyp": "文 3 : Исследователи смогли выяснить, что, например, около четверти поздравительных открыток отправляется родственникам, почти две трети друзьям и 8 процентов коллегам.",
+        "label_text": "поздравительных"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 4 : Как сообщила в октябре газета Washington Post, в отказе отмечалось, что бывший помощник Пенса Марк Шорт, например, «вероятно, обладал информацией, важной для уголовного расследования Министерства юстиции о нападении на Капитолий 6 января 2021 года, которая не была доступна из других источников».",
+        "label_text": " газета "
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 4 : Это белый экран, тайм-аут загрузки или страница не отвечает??!",
+        "label_text": "тайм-аут"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 1 : Я могу определить, где был и что сделал по вкусу, когда он возвращается?",
+        "label_text": "определить"
+    },
+    {
+        "source": "原文 : There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.",
+        "hyp": "文 4 : Существует много свидетельств того, что общение в реальном мире не может быть сведено к отправке независимых от контекста сигналов.",
+        "label_text": "независимых от контекста сигналов"
+    },
+    {
+        "source": "原文 : There's another way: In Bailout, Neil Barofsky's memoir of his time in Washington serving as the special inspector general overseeing the Troubled Asset Relief Program, he described the advice he received from Kristine Belisle, the woman he smartly hired to be his communications director.",
+        "hyp": "文 3 : Есть и другой путь: В книге 《Bailout》, мемуарах Нила Барофски о его работе в Вашингтоне в качестве специального генерального инспектора по надзору за Программой помощи проблемным активам, он описывает совет, полученный им от Кристин Белисль, женщины, которую он с умом нанял на должность директора по коммуникациям.",
+        "label_text": "книге"
+    },
+    {
+        "source": "原文 : It makes me feel like this is an infatuation that will pass.",
+        "hyp": "文 4 : Мне кажется, что это наваждение, которое пройдет.",
+        "label_text": "Мне кажется"
+    },
+    {
+        "source": "原文 : Sony could also benefit from fresher advertising, as its main television campaigns for PlayStation have run for weeks.",
+        "hyp": "文 3 : Sony также может выиграть от более свежей рекламы, поскольку ее основные телевизионные кампании для PlayStation продолжаются уже несколько недель.",
+        "label_text": "выиграть от более"
+    },
+    {
+        "source": "原文 : I'm bored and my friends are busy or out rn sooo...",
+        "hyp": "文 2 : Мне скучно, а мои друзья сейчас заняты или гуляют, так что...",
+        "label_text": "гуляют"
+    },
+    {
+        "source": "原文 : So, there will be problems on various fronts, I'm sure, and we will need the numbers very soon.",
+        "hyp": "文 1 : Так что я считаю, что проблемы будут по всем фронтам, и нам скоро понадобятся эти цифры.",
+        "label_text": "Так что я считаю"
+    },
+    {
+        "source": "原文 : We report clinical and chest radiograph findings using descriptive statistics.",
+        "hyp": "文 3 : Мы приводим результаты клинических исследований и рентгенографии грудной клетки с использованием описательной статистики.",
+        "label_text": "приводим"
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 5 : Я могу спокойно открыть это вложение, так как оно исходит от моих друзей, родственников и доверенных организаций.",
+        "label_text": "родственников"
+    },
+    {
+        "source": "原文 : I look on it again i see jane but this time i can look at there conversation history throughout this whole year and last.",
+        "hyp": "文 2 : Я увидел Джейн опять, но на этот раз мне были доступны стенограммы их разговоров за этот и прошлый год.",
+        "label_text": "стенограммы"
+    },
+    {
+        "source": "原文 : So i get tipped on the app, gave me cash at the door, then took away the tip on the app after?",
+        "hyp": "文 4 : То есть мне дали чаевые в приложении, дали наличные на входе, а потом забрали чаевые в приложении?",
+        "label_text": "на входе"
+    },
+    {
+        "source": "原文 : He finds one he likes, a Jericho, and buys it and some ammo.",
+        "hyp": "文 3 : Он нашел свой любимый пистолет Jericho и купил его и боеприпасы.",
+        "label_text": "Jericho"
+    },
+    {
+        "source": "原文 : The wind would start to rustle in the bare trees, then die down. However, it didn’t go away, it was still here.",
+        "hyp": "文 4 : Ветер зашумел среди голых деревьев, а затем утих. Однако ветер не утих, он еще здесь.",
+        "label_text": "не утих"
+    },
+    {
+        "source": "原文 : However, banks still maintain telephone banking systems that allow customers to perform routine transactions.",
+        "hyp": "文 1 : Однако банк сохранил свою систему телефонного банкинга, чтобы клиенты можно осуществлять свои ежедневные транзакции.",
+        "label_text": "ежедневные транзакции"
+    }
+]

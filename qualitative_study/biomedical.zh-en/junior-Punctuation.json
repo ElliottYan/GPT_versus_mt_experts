@@ -1,0 +1,82 @@
+[
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 3 : 4、 Hanhoo Red Pomegranate Fresh Moisturizing Six-piece Set (Hydrating and Moisturizing Skin care and Cosmetics Set for Female  Students, Complete Gift Box Set with Facial Cleanser, Toning Lotion, Facial Cream and Eye Cream)",
+        "label_text": "、"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 3 : 4、 Hanhoo Red Pomegranate Fresh Moisturizing Six-piece Set (Hydrating and Moisturizing Skin care and Cosmetics Set for Female  Students, Complete Gift Box Set with Facial Cleanser, Toning Lotion, Facial Cream and Eye Cream)",
+        "label_text": "、"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 3 : 4、 Hanhoo Red Pomegranate Fresh Moisturizing Six-piece Set (Hydrating and Moisturizing Skin care and Cosmetics Set for Female  Students, Complete Gift Box Set with Facial Cleanser, Toning Lotion, Facial Cream and Eye Cream)",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 磺酰脲类降糖药如氯磺丙脲、格列本脲等",
+        "hyp": "文 4 : Sulfonylurea hypoglycemic drugs such as chlorpropamide and glibenclamide.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 对CYP2C9有抑制作用的药物如伏立康唑、氟康唑",
+        "hyp": "文 4 : Medications such as fluconazole and voriconazole have inhibitory effects on CYP2C9.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 猪粪和牛粪的易分解碳库占总碳库的比例分别为52%和26%,易分解碳库分解速率常数分别为0.00085和0.00074 ℃<sup>-1</sup>,且差异显著。",
+        "hyp": "文 4 : The proportion of labile carbon pool in pig manure and cow dung is 52% and 26% of the total carbon pool, respectively. The decomposition rate constants for the labile carbon pool are 0.00085/℃ and 0.00074/℃, respectively, and the difference is statistically significant.",
+        "label_text": "/℃"
+    },
+    {
+        "source": "原文 : 猪粪和牛粪的易分解碳库占总碳库的比例分别为52%和26%,易分解碳库分解速率常数分别为0.00085和0.00074 ℃<sup>-1</sup>,且差异显著。",
+        "hyp": "文 4 : The proportion of labile carbon pool in pig manure and cow dung is 52% and 26% of the total carbon pool, respectively. The decomposition rate constants for the labile carbon pool are 0.00085/℃ and 0.00074/℃, respectively, and the difference is statistically significant.",
+        "label_text": "/℃"
+    },
+    {
+        "source": "原文 : \"心衰患者缺氧和肾功能不全的风险更高。稳定性慢性心衰的患者在定期检查心、肾功能的情况下可以服用二甲双胍。\"",
+        "hyp": "文 4 : Heart failure patients have an increased risk of hypoxia and renal insufficiency. Patients with stable chronic heart failure can safely use metformin while undergoing regular monitoring of their cardiac and renal function.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 严重的肾功能衰竭（eGFR<45mL/min/1.73m2）；",
+        "hyp": "文 4 : Severe renal insufficiency (eGFR < 45 mL/min/1.73 m2);",
+        "label_text": "2"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 2 : Administration of iodinated contrast agents through intravascular injection may lead to contrast-induced nephropathy, which can result in the accumulation of metformin and an increased risk of lactic acidosis.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 1 : Among the isolated 121 pathogenic strains, 76 strains (62.8%) were Gram-negative (G-), 40 strains (33.1%) were Gram-positive (G+), and 5 strains (4.1%) were fungi.",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 1 : Among the isolated 121 pathogenic strains, 76 strains (62.8%) were Gram-negative (G-), 40 strains (33.1%) were Gram-positive (G+), and 5 strains (4.1%) were fungi.",
+        "label_text": "+"
+    },
+    {
+        "source": "原文 : β受体阻滞剂如普萘洛尔等",
+        "hyp": "文 2 : Beta blockers such as propranolol",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 浸润性癌12例、原位癌3例；肿瘤分期：T <sub>is</sub>N <sub>0</sub>M <sub>0</sub> 3例，T <sub>1</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>1</sub>N <sub>2</sub>M <sub>0</sub> 2例，T <sub>2</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>2</sub>N <sub>1</sub>M <sub>0</sub> 2例。",
+        "hyp": "文 2 : There were 12 cases of invasive cancer and 3 cases of carcinoma in situ. The tumor staging included 3 cases of TisN0M0, 4 cases of T1N0M0, 2 cases of T1N2M0, 1 case of T2N0M0, and 2 cases of T2N1M0.",
+        "label_text": "3 cases of TisN0M0, 4 cases of T1N0M0, 2 cases of T1N2M0, 1 case of T2N0M0, and 2 cases of T2N1M0"
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 3 : Polymorphisms of the N-acetyltransferase 2 (NAT2) gene and enzyme (NAT2) phenotype have a significant impact on isoniazid plasma concentration.",
+        "label_text": "NAT2"
+    },
+    {
+        "source": "原文 : “很多疾病早期检测、切除不到位，跟医生手术室用的灯有关 。 ”",
+        "hyp": "文 3 : The operating lights may be a factor affecting the early detection of many diseases and the removal of relevant pathological tissues.",
+        "label_text": " "
+    }
+]

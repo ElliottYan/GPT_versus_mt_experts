@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 3 : Крайний нападающий может оказаться необходимостью в зависимости от FA, и парень из Айовы (я не могу написать его имя) хорош, но до такого нам еще тянуться и тянуться.",
+        "label_text": "FA"
+    },
+    {
+        "source": "原文 : There's another way: In Bailout, Neil Barofsky's memoir of his time in Washington serving as the special inspector general overseeing the Troubled Asset Relief Program, he described the advice he received from Kristine Belisle, the woman he smartly hired to be his communications director.",
+        "hyp": "文 4 : А вот и другой способ: В Спасении, мемуарах Нила Барофски о его пребывании в Вашингтоне в качестве специального генерального инспектора, наблюдающего за Программой Выкупа Проблемных Активов, он описал советы, полученные им от Кристин Белисл, женщины, которую он нанял на роль своего директора по связям с общественностью, что оказалось разумным решением.",
+        "label_text": "Спасении"
+    },
+    {
+        "source": "原文 : Also reintroduced with the Omens expansion was the Shyft faction, as well as the first 2.0 non-unique Mage Spawn figures.",
+        "hyp": "文 5 : Кроме того, вновь введенной вслед за расширением Предзнаменований стала фракция Шайфт, также как первые неуникальные фигурки Отродие Мага 2.0.",
+        "label_text": "Мага"
+    }
+]

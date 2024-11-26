@@ -1,0 +1,342 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 5 : Хм, ну не знаю, может быть, все дело в том, что мы РАЗНЫЕ ЛЮДИ с РАЗНОЙ ФИГУРОЙ???",
+        "label_text": "РАЗНОЙ ФИГУРОЙ"
+    },
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 2 : Попробуй набрать в чате: \"Я не буду жульничать в этой игре!\"",
+        "label_text": "набрать"
+    },
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 2 : Попробуй набрать в чате: \"Я не буду жульничать в этой игре!\"",
+        "label_text": "набрать"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 4 : Кто то на сервере продавал набор за 100 штук, а я такой: “Чёрта с два, это явно не стоит 100 штук”, братан.",
+        "label_text": "100 штук"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 4 : Кто то на сервере продавал набор за 100 штук, а я такой: “Чёрта с два, это явно не стоит 100 штук”, братан.",
+        "label_text": "100 штук"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 4 : Кто то на сервере продавал набор за 100 штук, а я такой: “Чёрта с два, это явно не стоит 100 штук”, братан.",
+        "label_text": "100 штук"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 4 : Кто то на сервере продавал набор за 100 штук, а я такой: “Чёрта с два, это явно не стоит 100 штук”, братан.",
+        "label_text": "100 штук"
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 2 : Я могу проверить до следующей встречи, пока я буду пробовать",
+        "label_text": "пока я буду пробовать"
+    },
+    {
+        "source": "原文 : Other times, the works simply remain unperformed because the composer doesn't have a big name like Beethoven or Vivaldi that draws big crowds.",
+        "hyp": "文 3 : В других же случаях произведения попросту остаются неисполненными, потому что у композитора нет громкого имени, такого как Бетховен или Вивальди, которое привлекало бы большие массы народа.",
+        "label_text": " большие массы народа"
+    },
+    {
+        "source": "原文 : Other times, the works simply remain unperformed because the composer doesn't have a big name like Beethoven or Vivaldi that draws big crowds.",
+        "hyp": "文 3 : В других же случаях произведения попросту остаются неисполненными, потому что у композитора нет громкого имени, такого как Бетховен или Вивальди, которое привлекало бы большие массы народа.",
+        "label_text": "попросту остаются неисполненными"
+    },
+    {
+        "source": "原文 : Other times, the works simply remain unperformed because the composer doesn't have a big name like Beethoven or Vivaldi that draws big crowds.",
+        "hyp": "文 3 : В других же случаях произведения попросту остаются неисполненными, потому что у композитора нет громкого имени, такого как Бетховен или Вивальди, которое привлекало бы большие массы народа.",
+        "label_text": " большие массы народа"
+    },
+    {
+        "source": "原文 : On August 31, 1933, Alexander Dahl took the first picture of the Earth's curvature in an open hydrogen gas balloon.",
+        "hyp": "文 4 : 31 августа 1933 года Александр Даль сделал первый снимок кривизны Земли при помощи открытого баллона с водородным газом.",
+        "label_text": "баллона "
+    },
+    {
+        "source": "原文 : On August 31, 1933, Alexander Dahl took the first picture of the Earth's curvature in an open hydrogen gas balloon.",
+        "hyp": "文 4 : 31 августа 1933 года Александр Даль сделал первый снимок кривизны Земли при помощи открытого баллона с водородным газом.",
+        "label_text": "баллона"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 1 : Некий Ламбет поднял флаг, и адмиралу Эйскью пришлось сдаться Тромпу на \"Гауде\" - это первый и последний раз в истории, когда британский адмирал столь высокого ранга был захвачен в плен в море.",
+        "label_text": "поднял"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 1 : Некий Ламбет поднял флаг, и адмиралу Эйскью пришлось сдаться Тромпу на \"Гауде\" - это первый и последний раз в истории, когда британский адмирал столь высокого ранга был захвачен в плен в море.",
+        "label_text": "поднял"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 5 : Быть тебе настоящим другом со всеми вытекающими отсюда плюсами и минусами - ты можешь понизить ее соответственно (например, с друга до “кого-то, кого я знаю”).",
+        "label_text": "отсюда плюсами и минусами"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 5 : Быть тебе настоящим другом со всеми вытекающими отсюда плюсами и минусами - ты можешь понизить ее соответственно (например, с друга до “кого-то, кого я знаю”).",
+        "label_text": "отсюда плюсами и минусами"
+    },
+    {
+        "source": "原文 : This page presents an overview of the state of the art based on official sources.",
+        "hyp": "文 5 : На этой странице представлен обзор современного состояния, основанный на официальных источниках.",
+        "label_text": "современного состояния"
+    },
+    {
+        "source": "原文 : This page presents an overview of the state of the art based on official sources.",
+        "hyp": "文 5 : На этой странице представлен обзор современного состояния, основанный на официальных источниках.",
+        "label_text": "современного состояния"
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology).",
+        "hyp": "文 1 : Арес (греческая мифология) против Марса (римская мифология) против Световида (славянская мифология) против Одина (скандинавская мифология) против Большого взрыва (атеистическая мифология).",
+        "label_text": "скандинавская"
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology).",
+        "hyp": "文 1 : Арес (греческая мифология) против Марса (римская мифология) против Световида (славянская мифология) против Одина (скандинавская мифология) против Большого взрыва (атеистическая мифология).",
+        "label_text": "скандинавская"
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology).",
+        "hyp": "文 2 : Арес (греческая мифология) против Марса (римская мифология) против Световида (славянская мифология) против Одина (скандинавская мифология) против Большого взрыва (атеистическая мифология).",
+        "label_text": "скандинавская"
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology).",
+        "hyp": "文 2 : Арес (греческая мифология) против Марса (римская мифология) против Световида (славянская мифология) против Одина (скандинавская мифология) против Большого взрыва (атеистическая мифология).",
+        "label_text": "скандинавская"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 3 : Тем не менее, последние несколько месяцев она ездит по той же велосипедной дорожке, что и я (и только я), мы пересекаемся где-то каждые пару недель и немного общаемся.",
+        "label_text": "и только я"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 3 : Тем не менее, последние несколько месяцев она ездит по той же велосипедной дорожке, что и я (и только я), мы пересекаемся где-то каждые пару недель и немного общаемся.",
+        "label_text": "и только я"
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 2 : Спасибо, доброго утра, приятного вечера и хорошего вечернего шоу Трумана, ха-ха.",
+        "label_text": "вечернего"
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 2 : Спасибо, доброго утра, приятного вечера и хорошего вечернего шоу Трумана, ха-ха.",
+        "label_text": "вечернего"
+    },
+    {
+        "source": "原文 : Charles was expected to attend a showing of the completed film, but died before it opened.",
+        "hyp": "文 3 : Ожидалось, что Чарльз появится на показе завершенного фильма, но он умер до премьеры.",
+        "label_text": "премьеры"
+    },
+    {
+        "source": "原文 : I sometimes feel sad for them when they r asked to do all this.",
+        "hyp": "文 5 : Иногда мне становится грустно за них, когда им говорят сделать все это.",
+        "label_text": " говорят "
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 1 : После долгих исследований я начал использовать этот продукт много лет назад.",
+        "label_text": "долгих "
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 3 : После долгих исследований я начал использовать этот продукт много лет назад.",
+        "label_text": "долгих "
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 4 : После долгих исследований я начал использовать этот продукт много лет назад.",
+        "label_text": "долгих "
+    },
+    {
+        "source": "原文 : It’s getting old, and you look like an idiot when you spell like this.",
+        "hyp": "文 2 : Это уже устарело, и ты выглядишь как идиот, когда так говоришь.",
+        "label_text": "устарело"
+    },
+    {
+        "source": "原文 : It’s getting old, and you look like an idiot when you spell like this.",
+        "hyp": "文 2 : Это уже устарело, и ты выглядишь как идиот, когда так говоришь.",
+        "label_text": "говоришь"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 4 : Недавно я попробовал их, но, к сожалению, каждый раз, когда я пробую один из них, моя машина Keurig выдает мне сообщение об ошибке о том, что модуль несовместим с машиной.",
+        "label_text": "модуль"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 4 : Недавно я попробовал их, но, к сожалению, каждый раз, когда я пробую один из них, моя машина Keurig выдает мне сообщение об ошибке о том, что модуль несовместим с машиной.",
+        "label_text": "модуль"
+    },
+    {
+        "source": "原文 : Get some bumper stickers that are anti-Trump and plaster them all over.",
+        "hyp": "文 1 : Купите несколько наклеек на бампер \" Нет Трампу\" и наклейте их повсюду.",
+        "label_text": "Нет Трампу"
+    },
+    {
+        "source": "原文 : Get some bumper stickers that are anti-Trump and plaster them all over.",
+        "hyp": "文 1 : Купите несколько наклеек на бампер \" Нет Трампу\" и наклейте их повсюду.",
+        "label_text": "Нет Трампу"
+    },
+    {
+        "source": "原文 : Is poignant with today's pair of demi-gods holding world political position.",
+        "hyp": "文 2 : Просто невыносимо, что сегодняшняя пара полубогов занимает мировое политическое положение.",
+        "label_text": "невыносимо"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 4 : Я физиономией не вышел, чтобы даже разглагольствовать в snapchat, поэтому вместо этого я делаю это на reddit",
+        "label_text": "Я физиономией не вышел"
+    },
+    {
+        "source": "原文 : THE MOMENT I LOOK UP, PAUL IS LOOKING STRAIGHT AT ME, STILL WALKING TOWARDS ME.",
+        "hyp": "文 2 : В ТОТ МОМЕНТ, КОГДА Я ПОДНИМАЮ ГЛАЗА, ПОЛ СМОТРИТ ПРЯМО НА МЕНЯ, ВСЕ ЕЩЕ НАПРАВЛЯЯСЬ КО МНЕ.",
+        "label_text": "ПОЛ "
+    },
+    {
+        "source": "原文 : One of her friend said that she was sad as fuck all day because of me but didn’t want to say why.",
+        "hyp": "文 1 : Одна из ее подруг бросила, что ей было какого-то черта грустно весь день из-за меня, но незахотела пояснить причину.",
+        "label_text": "бросила"
+    },
+    {
+        "source": "原文 : I wouldn’t do that to him of course, but I was just wondering how bad is it to cheat?",
+        "hyp": "文 3 : Я конечно не собираюсь так с ним поступать, но мне просто любопытно, насколько плоха измена?",
+        "label_text": "измена"
+    },
+    {
+        "source": "原文 : Moreover, at the cellular level they change over time, these including changes under the influence of the streams of sensory signals they perceive and the life experience gained, including the consequences of their own actions under certain circumstances.",
+        "hyp": "文 1 : Наряду с этим, на клеточном уровне они меняются с течением времени, в том числе под влиянием потоков воспринимаемых ими сенсорных сигналов и приобретенного жизненного опыта, включая последствия их собственных действий при определенных обстоятельствах.",
+        "label_text": "Наряду с этим"
+    },
+    {
+        "source": "原文 : But it's more difficult to find people to follow and build up your timeline.",
+        "hyp": "文 4 : Но найти людей, за которыми можно следить, и выстроить свою хронологию сложнее.",
+        "label_text": "хронологию"
+    },
+    {
+        "source": "原文 : The boss says I should do that more on the battle, the place we’ve been fighting in!",
+        "hyp": "文 4 : Начальник говорит, что я должна больше рассказывать об этой битве, о месте, где мы сражались!",
+        "label_text": "рассказывать об этой битве, о месте,"
+    },
+    {
+        "source": "原文 : I love my boyfriend and desperately want to keep his system happy.",
+        "hyp": "文 4 : Я люблю своего парня и отчаянно хочу, чтобы у него все было в порядке со здоровьем.",
+        "label_text": "у него все было в порядке со здоровьем"
+    },
+    {
+        "source": "原文 : But by the next day, Tom Gross JPost: Tom Gross - The BBC discovers 'terrorism,' briefly and many others noted that the online articles had been edited, replacing \"terrorists\" by \"bombers\".",
+        "hyp": "文 3 : Но на следующий день Том Гросс опубликовал: Том Гросс - BBC кратко раскрывает \"терроризм\", многие другие также отметили, что онлайн-статьи были отредактированы, заменив \"террористов\" на \"бомбардировщиков\".",
+        "label_text": "Том Гросс опубликовал: Том Гросс - BBC кратко раскрывает"
+    },
+    {
+        "source": "原文 : But one time, he didn’t hear it and so he was like “what!?” reallyyy loudddly.",
+        "hyp": "文 4 : Но как-то раз он этого не расслышал и такой спросил: “Что!?” очень-очень громко.",
+        "label_text": "спросил"
+    },
+    {
+        "source": "原文 : We are probably not getting him the ball as much as we need.",
+        "hyp": "文 3 : Наверное, мы не передаем ему мяч столько, сколько должны бы.",
+        "label_text": " должны бы"
+    },
+    {
+        "source": "原文 : Remarkably, these relationships are not static, as they change throughout an organism's lifetime and on an evolutionary scale.",
+        "hyp": "文 3 : Стоит отметить, что эти взаимосвязи не статичны, поскольку они меняются на протяжении жизни организма и в эволюционном масштабе.",
+        "label_text": "Стоит отметить"
+    },
+    {
+        "source": "原文 : It seems no matter what i do i literally can't keep the dust at bay for more than 24hrs and i am losing my mind.",
+        "hyp": "文 5 : Кажется, что бы я ни делал, я буквально всегда в безвыходном положении, я уже схожу с ума.",
+        "label_text": "я буквально всегда в безвыходном положении"
+    },
+    {
+        "source": "原文 : Cleaning pipes maintenance is the most important but wearing work to operate the Type 93 torpedo.",
+        "hyp": "文 2 : Чистка труб - самая важная, но изнурительная работа по эксплуатации торпеды Type 93.",
+        "label_text": "изнурительная"
+    },
+    {
+        "source": "原文 : Idek what kind of dog this was but it was so ugly my god who would own such a thing.",
+        "hyp": "文 5 : Представляю себе, что это была за собака такая, но она была настолько уродливой, боже мой! И кто только завел ее.",
+        "label_text": " Представляю себе"
+    },
+    {
+        "source": "原文 : I walked all the way home and, ah shit, I’m getting shin splints from all this walking up and down the hill.",
+        "hyp": "文 2 : Я прошел пешком всю дорогу до дома и, черт возьми, у меня уже все ноги затекли от этих подъемом и спусков по холмам",
+        "label_text": "все ноги"
+    },
+    {
+        "source": "原文 : It makes me feel like this is an infatuation that will pass.",
+        "hyp": "文 5 : У меня такое ощущение, что это увлечение пройдет.",
+        "label_text": "пройдет"
+    },
+    {
+        "source": "原文 : Derry midfielder Adam Reilly closes down Lee Grace at the Brandywell",
+        "hyp": "文 3 : Полузащитник \"Дерри\" Адам Рейли заменил Ли Грейса в \"Брэндивелле\"",
+        "label_text": "заменил"
+    },
+    {
+        "source": "原文 : If you translate something and then you change it, then actually I read it already, it's in my brain.",
+        "hyp": "文 4 : Если вы что-то переводите, а потом аносите изменения, значит, на самом деле я это уже прочитал и это уже отложилось в голове.",
+        "label_text": "аносите "
+    },
+    {
+        "source": "原文 : If you translate something and then you change it, then actually I read it already, it's in my brain.",
+        "hyp": "文 4 : Если вы что-то переводите, а потом аносите изменения, значит, на самом деле я это уже прочитал и это уже отложилось в голове.",
+        "label_text": "отложилось"
+    },
+    {
+        "source": "原文 : However, his shield’s gun is overpowered and his rewind ability is somewhat annoying.",
+        "hyp": "文 2 : Однако оружие его щита подавлено, а его способность к перемотке назад несколько раздражает.",
+        "label_text": "подавлено"
+    },
+    {
+        "source": "原文 : What is it with those that follow Obama, if Romney would of done it too, therefore it is OK for Obama to do it?",
+        "hyp": "文 5 : Что такое с теми, кто следует за Обамой, если Ромни сделал бы то же самое, следовательно, для Обамы это нормально?",
+        "label_text": "Что такое с теми"
+    },
+    {
+        "source": "原文 : The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",
+        "hyp": "文 5 : Конец наступает быстро, словно несколько клыков впрыскивают свой смертельный яд, а воздух Дискры загрязняет ваши легкие.",
+        "label_text": "словно"
+    },
+    {
+        "source": "原文 : I know they're utter pish and paper wise we should be wiping the floor with them but just not feelin the 2/3 nil vibe atm!",
+        "hyp": "文 4 : Я знаю, что они полнейшая ерунда, и с точки зрения бумаги мы должны были бы вытирать ими пол, но просто не ощущаем атмосферу 2/3 ноля в банкомате!",
+        "label_text": "в банкомате"
+    },
+    {
+        "source": "原文 : I know that it doesn’t matter if your dog is friendly, aggressive, or otherwise, doesn’t matter if your dog is already barking and growling, or just minding its own business.",
+        "hyp": "文 2 : Я понимаю, что не имеет никакого значения, агрессивная собака у вас или нет, не важно, лает она и рычит или же занята по своими делами.",
+        "label_text": "не имеет никакого значения"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical \"u shud be good but ur not so im gunna giveu unrealistIC GOals\", or should i be at 1:49?",
+        "hyp": "文 3 : 1:49 -это просто типично для моего тренера \"ты должен быть хорош, но таковым не являешься, поэтому я ставлю перед тобой нереальные цели\", или я правда должен быть на 1:49?",
+        "label_text": "нереальные"
+    },
+    {
+        "source": "原文 : Officials say that mismatch in death tallies may be caused by several factors, including over-caution.",
+        "hyp": "文 3 : Согласно официальным заявлениям, несоответствие в подсчетах смертей может быть вызвано несколькими факторами, включая чрезмерную осторожность.",
+        "label_text": "заявлениям"
+    },
+    {
+        "source": "原文 : Maybe it is not faster for your end, but at least you should consider it.",
+        "hyp": "文 1 : Может быть, для вас это и не быстрее, но, по крайней мере, вам стоит подумать на данный счет.",
+        "label_text": "вас "
+    },
+    {
+        "source": "原文 : The wind would start to rustle in the bare trees, then die down. However, it didn’t go away, it was still here.",
+        "hyp": "文 2 : Ветер начинал шелестеть среди голых веток деревьях, затем стихал. Однако он никуда не исчез, и по-прежнему ощущается здесь.",
+        "label_text": "по-прежнему ощущается здесь"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : 慢性肾脏病变是糖尿病的常见并发症.",
+        "hyp": "文 1 : Chronic renal disease is a common complication of diabetes.",
+        "label_text": "Chronic renal disease"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 3 : The intravascular injection of iodinated contrasts may result in radiographic contrast nephropathy, potentially causing an accumulation of metformin and increasing the risk of lactic acidosis.",
+        "label_text": "adiographic contrast nephropathy,"
+    },
+    {
+        "source": "原文 : β受体阻滞剂如普萘洛尔等",
+        "hyp": "文 5 : Beta receptor blockers: propranolol, etc.",
+        "label_text": "Beta receptor blockers"
+    },
+    {
+        "source": "原文 : 本品对乙酰胆碱诱导升高（小鼠）的ID50（经口给药）为1.9mg/kg，效果是阿司匹林的28倍。",
+        "hyp": "文 2 : The ID50 value (oral) of this product in rats with acetylcholine-induced elevation was 1.9 mg/kg, exhibiting an efficacy 28 times greater than that of aspirin.",
+        "label_text": "rats"
+    }
+]

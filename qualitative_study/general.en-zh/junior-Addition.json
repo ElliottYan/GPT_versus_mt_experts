@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 1 : 我列出了我能想到的所有问题（有些多，哈哈哈），但是如果有人能花时间回答这些问题，我将不胜感激。",
+        "label_text": "但是"
+    },
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 1 : 我列出了我能想到的所有问题（有些多，哈哈哈），但是如果有人能花时间回答这些问题，我将不胜感激。",
+        "label_text": "但是"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 4 : 在最基本的层面上，电负性由以下因素决定：核电荷（原子的质子越多，它对电子的“吸引力”就越大）以及原子壳中其他电子的数量和位置（原子的电子越多，价电子离原子核越远，这样，它们所承受的正电荷就越少——这是由于它们距原子核的距离远以及较低能核轨道中其他电子相互作用以保护价电子不受带正电的原子核的影响）。",
+        "label_text": "相互作用"
+    },
+    {
+        "source": "原文 : I’m not positive, but I think the owners are aware and did it to cut corners.",
+        "hyp": "文 2 : 我不太确定，但我认为业主们知道这件事并且在偷工减料。",
+        "label_text": " 我不太确定，"
+    }
+]

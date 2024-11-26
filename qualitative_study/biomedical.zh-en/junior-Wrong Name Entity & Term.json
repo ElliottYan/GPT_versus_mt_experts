@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 1 : Among the 17,485 cases in the report of the original research product, 532 cases (3.04%) had adverse reactions.",
+        "label_text": "original research product"
+    },
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 1 : Among the 17,485 cases in the report of the original research product, 532 cases (3.04%) had adverse reactions.",
+        "label_text": "original research product"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 3 : 4、 Hanhoo Red Pomegranate Fresh Moisturizing Six-piece Set (Hydrating and Moisturizing Skin care and Cosmetics Set for Female  Students, Complete Gift Box Set with Facial Cleanser, Toning Lotion, Facial Cream and Eye Cream)",
+        "label_text": "Fresh Moisturizing Six-piece Set"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 3 : 4、 Hanhoo Red Pomegranate Fresh Moisturizing Six-piece Set (Hydrating and Moisturizing Skin care and Cosmetics Set for Female  Students, Complete Gift Box Set with Facial Cleanser, Toning Lotion, Facial Cream and Eye Cream)",
+        "label_text": "Fresh Moisturizing Six-piece Set"
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 2 : Let's Talk about Autism: 55 Questions Closely Related to Autism by Bridget Harrison and Kim Thúy (Canadian) [Authentic Book]",
+        "label_text": "Bridget Harrison"
+    },
+    {
+        "source": "原文 : 辅料为：乳糖、交联羧甲基纤维素钠、羟丙纤维素。",
+        "hyp": "文 1 : The excipients include lactose, cross-linked sodium carboxymethyl cellulose, and hydroxypropyl cellulose.",
+        "label_text": "cross-linked sodium carboxymethyl cellulose"
+    }
+]

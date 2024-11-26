@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : 他差两个餐没送，但有个 order 已完结",
+        "hyp": "文 3 : He has two more orders to complete, but one order has been completed.",
+        "label_text": "more"
+    },
+    {
+        "source": "原文 : 在20名就诊工人中，根据GBZ 68-2013《职业性苯中毒的诊断》，共确诊职业性慢性苯中毒12例，诊断为职业性慢性轻度苯中毒2例、中度苯中毒7例、重度苯中毒3例。",
+        "hyp": "文 3 : Of the 20 workers who visited, 12 were confirmed to have occupational chronic benzene poisoning according to the Diagnosis of Occupational Chronic Benzene Poisoning (GBZ 68-2013). The condition was mild in 2, moderate in 7 and severe in 3.",
+        "label_text": "Chronic"
+    }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 1 : For the average person, eating out once a month is already considered a luxury, let alone having every meal like he does.",
+        "label_text": "eating out"
+    },
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 1 : For the average person, eating out once a month is already considered a luxury, let alone having every meal like he does.",
+        "label_text": "eating out"
+    },
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 3 : Old Chief Shimura looked at Lin Feng strangely, but then shivered with fright.",
+        "label_text": "Shimura"
+    },
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 3 : Old Chief Shimura looked at Lin Feng strangely, but then shivered with fright.",
+        "label_text": "but"
+    },
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 3 : Old Chief Shimura looked at Lin Feng strangely, but then shivered with fright.",
+        "label_text": "Old Chief Shimura"
+    },
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 2 : Eight hundred years ago, the Nine Emperors, who once dominated the Kunlun realm, completely became a thing of the past, vanishing into the river of history.",
+        "label_text": "Eight hundred years ago, the Nine Emperors, who once dominated the Kunlun realm"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 5 : Country R has developed a colorless, odorless biochemical weapon, intending to smuggle it into Hua country to execute a heinous and inhumane conspiracy.",
+        "label_text": "smuggle"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 4 : The chest and belly are covered in a large patch of fluffy white fur, with the tips of the limbs being white as well. It is said that these snow-treading white paws have an instant knockout effect on girls, controlling their brainwaves and making them let out an \"Ahh~~ Ahh~~\" sound.",
+        "label_text": "snow-treading white paws"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 4 : The chest and belly are covered in a large patch of fluffy white fur, with the tips of the limbs being white as well. It is said that these snow-treading white paws have an instant knockout effect on girls, controlling their brainwaves and making them let out an \"Ahh~~ Ahh~~\" sound.",
+        "label_text": "instant knockout effect "
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 4 : The chest and belly are covered in a large patch of fluffy white fur, with the tips of the limbs being white as well. It is said that these snow-treading white paws have an instant knockout effect on girls, controlling their brainwaves and making them let out an \"Ahh~~ Ahh~~\" sound.",
+        "label_text": "snow-treading white paws"
+    },
+    {
+        "source": "原文 : 楚离不理他，冲赵颖笑着抱抱拳。",
+        "hyp": "文 4 : Chu Li ignored him and, smiling, gave Zhao Ying a fist-and-palm salute.",
+        "label_text": " smiling, gave Zhao Ying "
+    },
+    {
+        "source": "原文 : 晶莹剔透，闪烁着绚烂深泽。 最为美丽的是，水晶雕像的女子，空灵唯美，仿佛狐仙，那样美若天仙，那样令人痴迷。",
+        "hyp": "文 4 : Crystal clear and sparkling with a brilliant depth, the most beautiful aspect is the crystal statue of the woman, ethereal and exquisitely beautiful, as if she were a celestial fox spirit, so heavenly and enchanting that one cannot help but be captivated.",
+        "label_text": "brilliant depth"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 3 : \"Little floor dance\" (style move), a type of Breaking street dance.",
+        "label_text": " type"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 3 : \"Little floor dance\" (style move), a type of Breaking street dance.",
+        "label_text": "a type of"
+    },
+    {
+        "source": "原文 : 人类修炼武道，登峰造极，达到超凡入圣境界。",
+        "hyp": "文 4 : Humans cultivate martial arts, reach the pinnacle of mastery, and attain a transcendent and saintly realm.",
+        "label_text": " attain a transcendent and saintly realm"
+    },
+    {
+        "source": "原文 : 为了避免引起外界不必要的忧虑，误以为香港政府的财政实力及宏观经济的基础转弱，而影响香港的信贷评级，因此建议中的未来基金将仍然被列为香港政府财政储备的一部分。",
+        "hyp": "文 5 : To avoid causing unnecessary concern among external parties, leading to the misconception that the financial strength of the Hong Kong government and the foundation of its macroeconomy are weakening, which could affect Hong Kong's credit rating, it is therefore proposed that the future fund mentioned should still be considered a part of the Hong Kong government's fiscal reserves.",
+        "label_text": "external parties"
+    },
+    {
+        "source": "原文 : 为了避免引起外界不必要的忧虑，误以为香港政府的财政实力及宏观经济的基础转弱，而影响香港的信贷评级，因此建议中的未来基金将仍然被列为香港政府财政储备的一部分。",
+        "hyp": "文 5 : To avoid causing unnecessary concern among external parties, leading to the misconception that the financial strength of the Hong Kong government and the foundation of its macroeconomy are weakening, which could affect Hong Kong's credit rating, it is therefore proposed that the future fund mentioned should still be considered a part of the Hong Kong government's fiscal reserves.",
+        "label_text": "external parties"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 3 : The Type 25A passenger car is one of the centralized power supply air-conditioned passenger car models of the Chinese Railways. It was manufactured jointly by several domestic railway factories through an international tender using loans. As a total of 168 cars were produced, it is commonly referred to as the \"168\" passenger car.",
+        "label_text": "cars"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 5 : The headquarters of the Ninth Academy was originally located in Beijing, before its main engineering and production departments were relocated to Jinyintan in Xihai Town, Haiyan County, Qinghai Province, also known as Factory 221. In 1970, the main engineering and production departments moved to Sichuan, spreading out across the mountainous regions in the northern part of the province.",
+        "label_text": "The headquarters "
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 3 : Fortunately, when Hong Dali was on the verge of despair, contemplating suicide, the metallic voice of the system rang out again: \"Note: For every 100,000 yuan (RMB) the host squanders, one attribute point will be awarded.\"",
+        "label_text": "contemplating suicide"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 3 : The M4 Sherman (76mm turret variant) tank commander and radio operator (deputy team leader) is a second-year student at Saunders University High School. She first appeared in episode 4 of the series and is skilled at devising various tactics, serving as the team's strategist. However, she becomes very emotional and nervous during tankery matches. During the match against Oarai Girls Academy, her panicked and flustered behavior disrupted her teammates' morale. She attempted to exploit a loophole in the rules by secretly using a spy balloon to eavesdrop on the enemy, but this backfired, leading to a loss of advantage and ultimately defeat for her team. She was also punished by Kay. When she's upset or angry, she inexplicably mentions her secret crush on a boy named A-Xiao. In the movie, she is comforted by the Rabbit Team for this reason. Although she's sharp-tongued and full of cunning ideas, at heart she's a simple and somewhat silly girl with a rich personality. In the final chapter, episode 3, she falls for a high school trap, resulting in the destruction of her team's flag tank.",
+        "label_text": " a high school trap"
+    },
+    {
+        "source": "原文 : 种种情节开始浮现在安林的脑海里，那一切梦幻的开端，不就是眼前这一幕吗！",
+        "hyp": "文 4 : Various scenes began to emerge in Anlin's mind, the very beginning of all those dreamlike events, wasn't it just this scene before his eyes!",
+        "label_text": "dreamlike events"
+    },
+    {
+        "source": "原文 : “请问，这里是陆寻老师的课堂吗？”",
+        "hyp": "文 1 : \"Excuse me, is this Mr. Lu Xun's classroom?\"",
+        "label_text": "Mr. Lu Xun's classroom"
+    },
+    {
+        "source": "原文 : “请问，这里是陆寻老师的课堂吗？”",
+        "hyp": "文 1 : \"Excuse me, is this Mr. Lu Xun's classroom?\"",
+        "label_text": "Mr. Lu Xun's classroom"
+    },
+    {
+        "source": "原文 : 那笑容在时光看来，像嘲讽。",
+        "hyp": "文 2 : That smile, in the eyes of time, seemed like mockery.",
+        "label_text": "in the eyes of time"
+    },
+    {
+        "source": "原文 : 他机智、有小聪明、口才好、富有正义感，对于人生、事业和爱情有着自己的理解和感触，善于讨女孩子的欢心；但他同时又爱面子、懒惰、软弱、遇事犹豫不决。",
+        "hyp": "文 3 : He is clever, shrewd, eloquent, and possesses a strong sense of justice. He has his own understanding and feelings about life, career, and love, and is adept at winning over girls' hearts. However, he is also prideful, lazy, weak, and indecisive when faced with challenges.",
+        "label_text": "prideful"
+    },
+    {
+        "source": "原文 : 一辆出租车在他前面下客，他快步走上前，然后钻了进去。 唐恩在车上看了躺在寒风中享受“晚餐”的乞丐最后一眼，让司机将他带回那个陌生的家。",
+        "hyp": "文 3 : A taxi dropped off a passenger right in front of him, and he quickly walked up and got in. From the car, Don gave one last look at the beggar lying in the cold wind, enjoying his \"dinner,\" before asking the driver to take him back to that unfamiliar home.",
+        "label_text": " Don gave one last look at the beggar lying in the cold wind, enjoying his \"dinner,\" "
+    },
+    {
+        "source": "原文 : 徐缺一脸贱笑，眉毛一挑，伸手就直接扒向女子的裙摆。",
+        "hyp": "文 5 : Xu Que wore a smug smirk, raised an eyebrow, and reached out to directly lift the hem of the woman's skirt.",
+        "label_text": "raised an eyebrow"
+    },
+    {
+        "source": "原文 : 他们本来就要处理宁城的尸体，却想不到有人过来处理，而且还给银币，这种好事情，他们当然不会拒绝。",
+        "hyp": "文 5 : They were originally supposed to deal with the corpses in Ningcheng, but they never expected someone to come along and take care of it, and even pay them in silver coins. Such a good deal, of course, they wouldn't refuse.",
+        "label_text": "take care of it"
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 2 : The horseface unicornfish, also known as the short-horned unicornfish, is commonly known as black dazi, peeling fish, or horseface unicornfish. It belongs to the family Naso of the order Tetraodontiformes, which is part of the ray-finned fish class.",
+        "label_text": "which is part of the ray-finned fish class"
+    },
+    {
+        "source": "原文 : 在巴拉里乌鲁灭亡后，该部落的位置就成为了好茶部落族人种植杂粮的地方，现今还是可以看到相关的古城遗迹，但关于其遗民的去向则完全不得而知；另一方面，卡里希部落虽然重新获得独立并重建家园，但在一次豪雨造成的山崩和大洪水之下也灭亡了，只有在现今的雾台部落（位于雾台乡雾台村）里有一些人自称是卡里希的后裔；此外，因为带领部落打赢了战争，伯冷的后代达拉巴舟家（Dalapathan ，又有称Druluane及音译作“卢峦”）又被称为“军功头目” ，独有旧好茶部落最高处Omomos （意思为“容易起雾”） ，和原本的头目家族卡拉伊朗(Kadrangilan)家并列为两大头目家族。",
+        "hyp": "文 4 : After the fall of the Balaliulu tribe, their location became a place where the people of the Haocha tribe cultivated miscellaneous grains. Even today, one can still see the ancient ruins, but the whereabouts of the survivors are completely unknown. On the other hand, the Kalixi tribe, although they regained independence and rebuilt their homeland, also perished under a landslide and great flood caused by a torrential rain. Only in the present-day Wutai tribe (located in Wutai Village, Wutai Township) are there some people who claim to be descendants of the Kalixi. Additionally, because he led the tribe to victory in war, the descendants of Boleng, the Dalapathan family (also known as Druluane or transliterated as \"Lulan\"), are also called \"military merit chiefs.\" They uniquely occupy the highest part of the old Haocha tribe's territory, Omomos (meaning \"prone to fog\"), and are considered one of the two major chieftain families alongside the original chieftain family, the Kadrangilan.",
+        "label_text": "he"
+    },
+    {
+        "source": "原文 : 他只提了其中两个处罚，分别是最轻和最重的，其余还有罚做苦力、抄经、杖责、面壁等。",
+        "hyp": "文 4 : He only mentioned two of the punishments, the lightest and the most severe, with others including hard labor, copying scriptures, caning, and facing the wall.",
+        "label_text": "facing the wall"
+    },
+    {
+        "source": "原文 : 打天九和麻将一样，都是中国国粹，但天九在中原几近失传，即使在香港，懂得玩天九的亦越来越少。",
+        "hyp": "文 1 : Tien Gow, like Mahjong, is a quintessential Chinese game, but it has almost disappeared in the Central Plains. Even in Hong Kong, the number of people who know how to play Tien Gow is dwindling.",
+        "label_text": "the Central Plains"
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 5 : In terms of administrative management, Casteljaloux falls under the jurisdiction of the Lot-et-Garonne department within the Nouvelle-Aquitaine region of France, specifically in the arrondissement of Nérac. Regarding local elections, Casteljaloux is the location of the central polling station, with its municipal boundaries entirely encompassed within it. In terms of social administration, Casteljaloux is an integral part of the area.",
+        "label_text": "with its municipal boundaries entirely encompassed within it"
+    },
+    {
+        "source": "原文 : 之前一开始还担心相机的包装，这次还好，里面有充气包，相机三码一致，也能在官网注册，快门次数0，其余的就只能等时间检验了 。",
+        "hyp": "文 4 : Initially, I was worried about the packaging of the camera, but this time it was fine. There was an inflatable bag inside, the camera's serial numbers matched, and I was able to register it on the official website. The shutter count is at 0, and as for the rest, only time will tell.",
+        "label_text": "the camera's serial numbers matched"
+    },
+    {
+        "source": "原文 : 肠出血者应禁食，大量出血者应输血，并发肠穿孔时宜及早手术治疗。",
+        "hyp": "文 1 : Individuals with intestinal bleeding should fast, those with significant blood loss should receive blood transfusions, and in cases of intestinal perforation, timely surgical treatment is advisable.",
+        "label_text": "timely"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 3 : In the forty-ninth year of Kangxi's reign (1710), Emperor Kangxi, reminiscing about his former officials, issued a special edict to restore them to their original positions.",
+        "label_text": "1710"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 1 : The \"Wen Kang A Urban Renewal Project\" is financed by Jie Xin Industrial Co., Ltd., with Hua Tai Bank as the financing trust entity. The architectural design is by Wu Yu-Hui Architect Office, and the construction is contracted to Jin Fu Yu Construction Co., Ltd. After the renewal, a reinforced concrete structure with 2 underground levels and 14 above-ground floors will be constructed. Apart from the third to fourteenth floors being allocated for residential apartments (129 units), there will also be plans for a shopping mall (17 retail units) and a cinema on the first and second floors. The project aims to increase the number of scooter parking spaces, along with 73 car parking spots, and will incorporate barrier-free facilities, pedestrian walkways, and friendly urban design elements such as street corner plazas. The building will be constructed using green building techniques and is expected to be completed in 2023.",
+        "label_text": "The project aims to"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 1 : The \"Wen Kang A Urban Renewal Project\" is financed by Jie Xin Industrial Co., Ltd., with Hua Tai Bank as the financing trust entity. The architectural design is by Wu Yu-Hui Architect Office, and the construction is contracted to Jin Fu Yu Construction Co., Ltd. After the renewal, a reinforced concrete structure with 2 underground levels and 14 above-ground floors will be constructed. Apart from the third to fourteenth floors being allocated for residential apartments (129 units), there will also be plans for a shopping mall (17 retail units) and a cinema on the first and second floors. The project aims to increase the number of scooter parking spaces, along with 73 car parking spots, and will incorporate barrier-free facilities, pedestrian walkways, and friendly urban design elements such as street corner plazas. The building will be constructed using green building techniques and is expected to be completed in 2023.",
+        "label_text": "scooter"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 1 : The \"Wen Kang A Urban Renewal Project\" is financed by Jie Xin Industrial Co., Ltd., with Hua Tai Bank as the financing trust entity. The architectural design is by Wu Yu-Hui Architect Office, and the construction is contracted to Jin Fu Yu Construction Co., Ltd. After the renewal, a reinforced concrete structure with 2 underground levels and 14 above-ground floors will be constructed. Apart from the third to fourteenth floors being allocated for residential apartments (129 units), there will also be plans for a shopping mall (17 retail units) and a cinema on the first and second floors. The project aims to increase the number of scooter parking spaces, along with 73 car parking spots, and will incorporate barrier-free facilities, pedestrian walkways, and friendly urban design elements such as street corner plazas. The building will be constructed using green building techniques and is expected to be completed in 2023.",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 1 : The \"Wen Kang A Urban Renewal Project\" is financed by Jie Xin Industrial Co., Ltd., with Hua Tai Bank as the financing trust entity. The architectural design is by Wu Yu-Hui Architect Office, and the construction is contracted to Jin Fu Yu Construction Co., Ltd. After the renewal, a reinforced concrete structure with 2 underground levels and 14 above-ground floors will be constructed. Apart from the third to fourteenth floors being allocated for residential apartments (129 units), there will also be plans for a shopping mall (17 retail units) and a cinema on the first and second floors. The project aims to increase the number of scooter parking spaces, along with 73 car parking spots, and will incorporate barrier-free facilities, pedestrian walkways, and friendly urban design elements such as street corner plazas. The building will be constructed using green building techniques and is expected to be completed in 2023.",
+        "label_text": "barrier-free facilities, pedestrian walkways, and friendly urban design elements such as street corner plazas"
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 4 : After a long while, Lin Feng finally began to adapt to the changes in his body, feeling a sense of relief in his heart: \"At last, I have some ability to defend myself.\" However, the thought of the system's ultimate goal for him to establish the greatest sect in history and become the foremost grandmaster filled Lin Feng with immense pressure. He quickly proceeded to check the other items in his starter pack.",
+        "label_text": "foremost grandmaster"
+    },
+    {
+        "source": "原文 : 江瑶扮相俊美，表演扎实，师承范瑞娟派，兼唱其他流派。",
+        "hyp": "文 3 : Jiang Yao boasts a handsome appearance and delivers solid performances. He is a disciple of the Fan Ruijuan school and also sings in other styles.",
+        "label_text": "sings"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 2 : On January 3, 2017, Wu Lei starred in the premiere of the ancient fantasy drama \"Magic Star,\" where he played the half-human, half-demon young hero Zhan Xiongfei. The series achieved over 1.3 billion views by its finale. Subsequently, he co-starred with Lin Yun in the fantasy drama \"Battle Through the Heavens,\" adapted from the novel of the same name by Tian Can Tu Dou, portraying the character Xiao Yan. On February 3, he continued his participation in the reality show \"24 Hours: Season 2.\" In March, he joined the cast of the drama film \"Shadow.\" On May 5, he became a regular host on the original cultural exploration program \"The Seventy-Two Layers.\" On September 30, the action movie he starred in, \"Ultimate Code,\" was released, where he played the genius teenager Tang Dingdong, adept in various high-end technologies. That same year, he also led the adventure-themed drama \"Sand Sea,\" playing the key explorer Li Cu.",
+        "label_text": "On January 3, 2017, Wu Lei starred in the premiere"
+    },
+    {
+        "source": "原文 : 科湼夫现在知道了德军正在突围、因而被激怒及决心兑现对史达林不给任何“希特勒分子”或“法西斯分子”逃出包围圈，但是苏联的情报机构在这时高估了德军第3装甲军的装甲力量，因此科湼夫全力出击，这时苏军第20坦克军属下的坦克旅将新型的约瑟夫·史达林式重型坦克带到科尔逊战场，科湼夫命令所有可以使用的装甲车辆及火炮向突围部队开火，切断弧立的敌人及将他们打散，两个负责封锁的苏军步兵师，第206狙击师及第5亲卫空降师已被德军解围部队击败；没有步兵支援的苏军坦克只好从远距离向突围的德军开火，由于没有反坦克武器在战场， T-34型坦克冲入没有掩护的德军，司令部单位、落伍的士兵及救护兵均受攻击。",
+        "hyp": "文 3 : General Konev now knew that the German forces were attempting a breakout, and this enraged him and strengthened his resolve to fulfill Stalin's order not to let any \"Hitlerites\" or \"Fascists\" escape the encirclement. However, at this time, Soviet intelligence overestimated the armored strength of the German 3rd Panzer Army, leading Konev to commit his forces fully to the attack. The Soviet 20th Tank Army's tank brigades brought the new Joseph Stalin heavy tanks to the Korsun battlefield. Konev ordered all available armored vehicles and artillery to fire on the breakout troops, to cut off and disperse the encircled enemy. The two Soviet infantry divisions responsible for the blockade, the 206th Sniper Division and the 5th Guards Airborne Division, had already been defeated by the German relief forces. Without infantry support, the Soviet tanks were forced to fire at the breaking-out German forces from a distance. Since there were no anti-tank weapons on the battlefield, the T-34 tanks charged into the unprotected German forces, attacking command units, stragglers, and medics alike.",
+        "label_text": "Stalin's order"
+    },
+    {
+        "source": "原文 : 听到招呼声，李杜起身道：“喔，是的，汉娜，有什么事吗？”",
+        "hyp": "文 2 : Hearing the call, Li Du stood up and said, \"Oh, yes, Hannah, what's the matter?\"",
+        "label_text": "the call"
+    },
+    {
+        "source": "原文 : “将外星飞船与气象气球混为一谈的讽刺意味很令人惊讶，但这不值得引发一场星际冲突，”梅杰说。",
+        "hyp": "文 1 : \"The irony of conflating alien spacecraft with weather balloons is quite surprising, but it's not worth sparking an interstellar conflict,\" Major said.",
+        "label_text": "conflating"
+    },
+    {
+        "source": "原文 : 这些著作推动了罗马法向司法实践最底层的进一步渗透，对当时的法盲们也有潜移默化的影响。",
+        "hyp": "文 2 : These works facilitated the further penetration of Roman law into the lowest levels of judicial practice and had a subtle influence on the legally uneducated of the time.",
+        "label_text": "of the time"
+    },
+    {
+        "source": "原文 : 丁丁把模型船带回家陈列，但它在米鲁和邻居的猫互相追逐的时候摔坏了，一只羊皮纸卷轴从摔断的船桅中空掉了出来，滚进桌下，米鲁试图提醒丁丁但失败了。",
+        "hyp": "文 3 : Tintin brought the model ship home to display, but it was broken when Snowy and the neighbor's cat chased each other. A scroll of parchment fell out from the broken mast and rolled under the table. Snowy tried to alert Tintin but failed.",
+        "label_text": "alert"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 2 : An article published by Billboard magazine in August 2021 noted that the group's fans \"exploited chart loopholes through legitimate means\" to boost the rankings of singles like <Butter> in the United States, helping the song to remain at the top of the Hot 100 chart for several consecutive weeks. Although chart performance on the Hot 100 is usually dependent on streaming and airplay, the chart success of <Butter> was primarily driven by sales (most of which came from BTS's online store, which allows fans to purchase multiple copies of a single song, unlike iTunes) and fan-led crowdfunding campaigns (including purchases made with funds raised from the global fan community through services like PayPal, which only count towards US sales). However, an article from The Korea Times countered the claims of chart manipulation, arguing that fans of other artists like Justin Bieber and Ariana Grande have also engaged in similar promotional tactics, which are neither illegal nor unethical. The fans participating in these activities are simply \"smart consumers leading global trends.\"",
+        "label_text": "the group"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 2 : An article published by Billboard magazine in August 2021 noted that the group's fans \"exploited chart loopholes through legitimate means\" to boost the rankings of singles like <Butter> in the United States, helping the song to remain at the top of the Hot 100 chart for several consecutive weeks. Although chart performance on the Hot 100 is usually dependent on streaming and airplay, the chart success of <Butter> was primarily driven by sales (most of which came from BTS's online store, which allows fans to purchase multiple copies of a single song, unlike iTunes) and fan-led crowdfunding campaigns (including purchases made with funds raised from the global fan community through services like PayPal, which only count towards US sales). However, an article from The Korea Times countered the claims of chart manipulation, arguing that fans of other artists like Justin Bieber and Ariana Grande have also engaged in similar promotional tactics, which are neither illegal nor unethical. The fans participating in these activities are simply \"smart consumers leading global trends.\"",
+        "label_text": " legitimate"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 2 : An article published by Billboard magazine in August 2021 noted that the group's fans \"exploited chart loopholes through legitimate means\" to boost the rankings of singles like <Butter> in the United States, helping the song to remain at the top of the Hot 100 chart for several consecutive weeks. Although chart performance on the Hot 100 is usually dependent on streaming and airplay, the chart success of <Butter> was primarily driven by sales (most of which came from BTS's online store, which allows fans to purchase multiple copies of a single song, unlike iTunes) and fan-led crowdfunding campaigns (including purchases made with funds raised from the global fan community through services like PayPal, which only count towards US sales). However, an article from The Korea Times countered the claims of chart manipulation, arguing that fans of other artists like Justin Bieber and Ariana Grande have also engaged in similar promotional tactics, which are neither illegal nor unethical. The fans participating in these activities are simply \"smart consumers leading global trends.\"",
+        "label_text": "smart consumers"
+    },
+    {
+        "source": "原文 : 2016年12月28日上午10时开行往贵阳北、南宁、玉溪站方向的动车组列车，三班首发列车分别是开往贵阳北的G4136次、开往南宁的D4208次以及开往玉溪的D9109次。",
+        "hyp": "文 4 : On December 28, 2016, at 10 a.m., high-speed trains were launched towards Guiyang North, Nanning, and Yuxi stations. The three inaugural trains were G4136 to Guiyang North, D4208 to Nanning, and D9109 to Yuxi, respectively.",
+        "label_text": "inaugural trains"
+    },
+    {
+        "source": "原文 : 楚阳的身躯缓缓从空中落下，缓缓倒了下去，便如晚秋飘零的枯叶，倒在尘埃，脸上带着淡淡的却温暖的笑，喃喃的道：“轻舞，若是有来生，伴君天下舞！”",
+        "hyp": "文 4 : Chu Yang's body slowly descended from the sky, gently collapsing to the ground, like a withered leaf drifting down in late autumn, landing in the dust. A faint yet warm smile graced his face as he murmured, \"Qingwu, if there is another life, I wish to dance with you under the heavens!\"",
+        "label_text": "I wish to dance with you under the heavens"
+    },
+    {
+        "source": "原文 : “这是你送给我的定情礼物，现在，还给你，我们，从此两不相欠。” 姜雪晴，无情的将雕像塞在苏羽手中，转身回到秦枫身侧，眺望天外，不再看苏羽，冷酷绝情。",
+        "hyp": "文 1 : \"This is the token of affection you gave me. Now, I'm returning it to you. From this moment on, we owe each other nothing.\" Jiang Xueqing heartlessly shoved the statue into Su Yu's hands, turned around, and went back to Qin Feng's side. She gazed into the distance, no longer looking at Su Yu, her demeanor cold and unfeeling.",
+        "label_text": "shoved"
+    },
+    {
+        "source": "原文 : 小计量有却没有什么大阴谋，每个人看上去都那么单纯可爱。",
+        "hyp": "文 1 : There's no grand conspiracy in the small measures, everyone just seems so pure and adorable.",
+        "label_text": "in the small measures"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 1 : Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons originally served the wealthy Haruzoku Autumn Moon family. The father once engaged in combat with the Nue clan while carrying out a mission to eliminate members of the Shiroda family. However, as the mother passed away and the Autumn Moon family terminated their contract with the Sanmons to hire another assassin, they sought to silence the father to prevent the Sanmons, who knew the family's secrets, from leaking information. This led to the assassination of the father and the subsequent scattering of the family, affecting both the protagonist and their sister. During a time of despair, they encountered Mr. Natsume, who runs a loan business, in a park. He offered a helping hand, lending them 500,000 Japanese yen for emergency use and self-investment. In gratitude to Mr. Natsume, the protagonist sought employment with him and was eventually designated as the successor to run the company.",
+        "label_text": "Born into the assassin family of the Sanmon clan, honed in combat skills through the family's influence, the Sanmons "
+    },
+    {
+        "source": "原文 : 短短数息之间，徐缺从手无缚鸡之力的凡人变成修仙者，直接冲刺到炼气期十层，距离筑基期仅仅一步之差。",
+        "hyp": "文 4 : In just a few short moments, Xu Que transformed from an ordinary person with no strength to tie up a chicken into a cultivator, rocketing straight to the tenth level of the Qi Refining stage, merely one step away from reaching the Foundation Establishment phase.",
+        "label_text": "with no strength to tie up a chicken"
+    },
+    {
+        "source": "原文 : 弗莱明也从一边跑了过来：“托尼，你现在不能回家。 我们在比赛，你是主教练，你要指挥球队！”",
+        "hyp": "文 1 : Fleming also ran over from the side: \"Tony, you can't go home right now. We're in the middle of a game, and you're the head coach. You need to lead the team!\"",
+        "label_text": " ran over "
+    },
+    {
+        "source": "原文 : 乔子衿连连摇头，她妈都这个年纪了，肾肯定没比她好到哪儿去，既然都要了，她肯定要个好的：“妈，你是生我养我的妈，我可舍不得你动刀子，我爸肯定也是不行的。”",
+        "hyp": "文 4 : Qiao Zijin shook her head repeatedly. Her mother was already of a certain age, and her kidneys were surely no better than her own. Since a transplant was needed, she definitely wanted the best one for her: \"Mom, you're the one who gave birth to me and raised me. I can't bear the thought of you undergoing surgery, and I'm sure Dad wouldn't agree to it either.\"",
+        "label_text": "I'm sure Dad wouldn't agree to it either"
+    },
+    {
+        "source": "原文 : 只有核心学员、学府高层、权贵能在此地休息，除此之外，黄金学员、白银学员都无资格。",
+        "hyp": "文 5 : Only core students, academic elites, and the privileged are allowed to rest here; beyond that, neither gold nor silver tier students are eligible.",
+        "label_text": "academic elites"
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 2 : In August 2013, Jonas Christensen participated in the World Badminton Championships held in Guangzhou, China. He and Mads Pieler Kolding competed in the men's doubles event. They were defeated in the first round by Marcus Ellis and Paul van Rietvelde with a score of 0-2 (15-21, 8-21), thus concluding their participation in the tournament.",
+        "label_text": "World Badminton Championships"
+    },
+    {
+        "source": "原文 : 休息室中，有三人，一对少年男女，一位气质高贵，威仪不凡男子。",
+        "hyp": "文 1 : In the lounge, there are three people: a young couple and a man of noble demeanor and extraordinary presence.",
+        "label_text": "a young couple"
+    },
+    {
+        "source": "原文 : “这回可真是没话说了，我不无敌谁无敌？”",
+        "hyp": "文 4 : \"This time I'm truly at a loss for words. If I'm not invincible, then who is?\"",
+        "label_text": "This time I'm truly at a loss for words"
+    },
+    {
+        "source": "原文 : “耍流氓啊……”一个绝对是高分贝的女高音，就在叶默面前响起，叶默刚才只顾检查自己的小**，居然忘了查看周围的情况。 没想到这个小胡同还是连通的，只是前面的转弯处这里看不到而已。",
+        "hyp": "文 3 : \"Stop being a hooligan...\" A piercingly high-pitched female voice rang out right in front of Ye Mo. He had been so preoccupied with checking his own belongings that he had actually forgotten to survey his surroundings. Unexpectedly, this small alley was still connected; it was just that the turn up ahead was out of sight from here.",
+        "label_text": " checking his own belongings"
+    },
+    {
+        "source": "原文 : 节清单从这里删到试图支持传统 C 编译器的某些方面.",
+        "hyp": "文 5 : The changelog has been trimmed from here to attempt to support certain aspects of traditional C compilers.",
+        "label_text": "changelog"
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 4 : In April 1943, the Lu Xun Academy of Fine Arts merged with the Yan'an Institute of Natural Sciences and the Shaanxi-Gansu-Ningxia Border Region Administrative College to form Yan'an University. This resulted in the establishment of the Department of Drama and Music within the \"Lu Xun Academy of Arts and Literature\" at Yan'an University, commonly referred to as the \"Drama and Music Department.\"",
+        "label_text": "This resulted in the establishment of the Department of"
+    }
+]

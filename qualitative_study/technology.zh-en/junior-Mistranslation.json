@@ -1,0 +1,547 @@
+[
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 5 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline or ethanol gasoline containing methanol (also called wood alcohol) sold instead of leaded or unleaded gasoline.",
+        "label_text": "ethanol gasoline containing methanol "
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 5 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline or ethanol gasoline containing methanol (also called wood alcohol) sold instead of leaded or unleaded gasoline.",
+        "label_text": "gasoline or ethanol gasoline containing methanol (also called wood alcohol) "
+    },
+    {
+        "source": "原文 : 除非牢固踩下制动踏板，否则禁止挂档。如果发动机在高速运转时挂入前进档或倒档，车辆可能会突然移动。此时，您可能还无法及时做出车辆控制反应，从而引发意外事故，而导致严重或致命人身伤害，或者车辆损坏。",
+        "hyp": "文 5 : Do not shift gear unless the brake pedal is firmly pressed. If the engine is shifted into forward or reverse gear while running at high speed, the vehicle may suddenly move. At this time, you may not be able to react in time to control the vehicle, causing an accident, resulting in serious or fatal personal injury, or vehicle damage.",
+        "label_text": "the engine is shifted into forward or reverse gear while running at high speed"
+    },
+    {
+        "source": "原文 : 除非牢固踩下制动踏板，否则禁止挂档。如果发动机在高速运转时挂入前进档或倒档，车辆可能会突然移动。此时，您可能还无法及时做出车辆控制反应，从而引发意外事故，而导致严重或致命人身伤害，或者车辆损坏。",
+        "hyp": "文 5 : Do not shift gear unless the brake pedal is firmly pressed. If the engine is shifted into forward or reverse gear while running at high speed, the vehicle may suddenly move. At this time, you may not be able to react in time to control the vehicle, causing an accident, resulting in serious or fatal personal injury, or vehicle damage.",
+        "label_text": "the engine is shifted into forward or reverse gear while running at high speed"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 4 : The driver-centered immersive cockpit has 10.25-inch smart dual screens, which is equipped with intelligent connected system 4.0, and can realize various personalized application and information interactions. The cockpit can provide the convenient experience brought by smart technology, and can be controlled at your fingertips, enabling unlimited smart connectivity for a personalized and unrestricted experience.",
+        "label_text": "various personalized application and information interactions"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 4 : The driver-centered immersive cockpit has 10.25-inch smart dual screens, which is equipped with intelligent connected system 4.0, and can realize various personalized application and information interactions. The cockpit can provide the convenient experience brought by smart technology, and can be controlled at your fingertips, enabling unlimited smart connectivity for a personalized and unrestricted experience.",
+        "label_text": "can be controlled at your fingertips"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 4 : The driver-centered immersive cockpit has 10.25-inch smart dual screens, which is equipped with intelligent connected system 4.0, and can realize various personalized application and information interactions. The cockpit can provide the convenient experience brought by smart technology, and can be controlled at your fingertips, enabling unlimited smart connectivity for a personalized and unrestricted experience.",
+        "label_text": "various personalized application and information interactions"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 4 : The driver-centered immersive cockpit has 10.25-inch smart dual screens, which is equipped with intelligent connected system 4.0, and can realize various personalized application and information interactions. The cockpit can provide the convenient experience brought by smart technology, and can be controlled at your fingertips, enabling unlimited smart connectivity for a personalized and unrestricted experience.",
+        "label_text": "can be controlled at your fingertips"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 5 : The 1.5T high-power engine applies the globally pioneering CVVD technology, unleashing a strong power output of up to 200 horsepower. The dynamic dual-sided quad exhaust pipes provide a rich and resonant sound. With one-click SPORT+ driving mode, instant acceleration can be achieved, allowing you to enjoy the pleasure of driving control.",
+        "label_text": "dynamic dual-sided quad exhaust pipes"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 5 : The 1.5T high-power engine applies the globally pioneering CVVD technology, unleashing a strong power output of up to 200 horsepower. The dynamic dual-sided quad exhaust pipes provide a rich and resonant sound. With one-click SPORT+ driving mode, instant acceleration can be achieved, allowing you to enjoy the pleasure of driving control.",
+        "label_text": "dynamic dual-sided quad exhaust pipes"
+    },
+    {
+        "source": "原文 : 驾驶员靠近联动：当携带智能钥匙靠近车辆时，自动控制外后视镜展开和迎宾灯亮。",
+        "hyp": "文 3 : Driver proximity linkage: When the driver approaches the vehicle with the smart key, the exterior rearview mirrors will be automatically unfolded and the welcome lights will light up.",
+        "label_text": "automatically"
+    },
+    {
+        "source": "原文 : 有澎湃动力，探索世界的旅程就没有边界：搭载380T GDi发动机，配合8速自动变速箱与HTRAC智能四驱系统，不但动力强劲充沛，更提供超强抓地力，适合全地形驾驶， 打开世界，再无疆界。",
+        "hyp": "文 5 : With its powerful performance, there are no boundaries to the journey of exploration: equipped with a 380T GDi engine, an 8AT transmission and an HTRAC intelligent 4WD system, the engine not only has strong and abundant power, but also provides exceptional grip, making vehicle suitable for all-terrain driving, and opening up the world without boundaries.",
+        "label_text": "the engine "
+    },
+    {
+        "source": "原文 : 有澎湃动力，探索世界的旅程就没有边界：搭载380T GDi发动机，配合8速自动变速箱与HTRAC智能四驱系统，不但动力强劲充沛，更提供超强抓地力，适合全地形驾驶， 打开世界，再无疆界。",
+        "hyp": "文 5 : With its powerful performance, there are no boundaries to the journey of exploration: equipped with a 380T GDi engine, an 8AT transmission and an HTRAC intelligent 4WD system, the engine not only has strong and abundant power, but also provides exceptional grip, making vehicle suitable for all-terrain driving, and opening up the world without boundaries.",
+        "label_text": "the engine "
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 3 : For the appearance of CUSTO, the front of CUSTO adopts a very stable design and looks very stable and majestic. The front headlights are highly appealing to consumers, providing a visually striking impact. The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the body, the body size is 4950MM*1850MM*1734MM. The vehicle adopts fashionable and simple lines, providing strong and confident aura. With large-sized and thick-walled tires, the vehicle exhibits a sporty look. At the rear of the vehicle, the rear overall shape of CUSTO echoes its front part. The taillights have a very individual and flamboyant feeling. Coupled with the uniquely shaped exhaust pipe, it looks very unique.",
+        "label_text": "opening and closing"
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 3 : For the appearance of CUSTO, the front of CUSTO adopts a very stable design and looks very stable and majestic. The front headlights are highly appealing to consumers, providing a visually striking impact. The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the body, the body size is 4950MM*1850MM*1734MM. The vehicle adopts fashionable and simple lines, providing strong and confident aura. With large-sized and thick-walled tires, the vehicle exhibits a sporty look. At the rear of the vehicle, the rear overall shape of CUSTO echoes its front part. The taillights have a very individual and flamboyant feeling. Coupled with the uniquely shaped exhaust pipe, it looks very unique.",
+        "label_text": "shutdown"
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 3 : For the appearance of CUSTO, the front of CUSTO adopts a very stable design and looks very stable and majestic. The front headlights are highly appealing to consumers, providing a visually striking impact. The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the body, the body size is 4950MM*1850MM*1734MM. The vehicle adopts fashionable and simple lines, providing strong and confident aura. With large-sized and thick-walled tires, the vehicle exhibits a sporty look. At the rear of the vehicle, the rear overall shape of CUSTO echoes its front part. The taillights have a very individual and flamboyant feeling. Coupled with the uniquely shaped exhaust pipe, it looks very unique.",
+        "label_text": "thick-walled"
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 3 : For the appearance of CUSTO, the front of CUSTO adopts a very stable design and looks very stable and majestic. The front headlights are highly appealing to consumers, providing a visually striking impact. The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the body, the body size is 4950MM*1850MM*1734MM. The vehicle adopts fashionable and simple lines, providing strong and confident aura. With large-sized and thick-walled tires, the vehicle exhibits a sporty look. At the rear of the vehicle, the rear overall shape of CUSTO echoes its front part. The taillights have a very individual and flamboyant feeling. Coupled with the uniquely shaped exhaust pipe, it looks very unique.",
+        "label_text": "opening and closing"
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 3 : For the appearance of CUSTO, the front of CUSTO adopts a very stable design and looks very stable and majestic. The front headlights are highly appealing to consumers, providing a visually striking impact. The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the body, the body size is 4950MM*1850MM*1734MM. The vehicle adopts fashionable and simple lines, providing strong and confident aura. With large-sized and thick-walled tires, the vehicle exhibits a sporty look. At the rear of the vehicle, the rear overall shape of CUSTO echoes its front part. The taillights have a very individual and flamboyant feeling. Coupled with the uniquely shaped exhaust pipe, it looks very unique.",
+        "label_text": "shutdown"
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 3 : For the appearance of CUSTO, the front of CUSTO adopts a very stable design and looks very stable and majestic. The front headlights are highly appealing to consumers, providing a visually striking impact. The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the body, the body size is 4950MM*1850MM*1734MM. The vehicle adopts fashionable and simple lines, providing strong and confident aura. With large-sized and thick-walled tires, the vehicle exhibits a sporty look. At the rear of the vehicle, the rear overall shape of CUSTO echoes its front part. The taillights have a very individual and flamboyant feeling. Coupled with the uniquely shaped exhaust pipe, it looks very unique.",
+        "label_text": "thick-walled"
+    },
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 4 : If the frontview camera installation part of the front windshield or the sensor is blocked by snow, rain or other foreign objects, the detection performance of the sensor will be reduced, which will cause the FCA function to be suspended or turned off.",
+        "label_text": "reduced"
+    },
+    {
+        "source": "原文 : 在弯道上行驶时，会严重影响正面防撞辅助传感器的检测性能，正面防撞辅助(FCA)功能可能检测不到弯道上前方的车辆或行人。这可能导致在必要时不发出碰撞危险预警、不采取紧急制动辅助控制措施。",
+        "hyp": "文 3 : When the vehicle is driving on a curve, the detection performance of the FCA sensor will be seriously affected. The FCA function may not detect vehicles or pedestrians ahead on the curve. This may result in that a collision warning is not sent and emergency braking assistance control measures are not initiated if necessary.",
+        "label_text": "may not detect"
+    },
+    {
+        "source": "原文 : 当检测到从左后侧面/右后侧面驶近的目标车辆时，外后视镜上的[BCW]警告灯闪烁，并在仪表盘LCD显示屏上显示“紧急制动”的警告信息，同时发出警报声的方式，向驾驶员发出碰撞危险预警。如果后视监视器(RVM)功能在启动状态，通过信息娱乐系统显示屏也会发出警报。",
+        "hyp": "文 5 : When a target vehicle approaching from the rear left/rear right is detected, the [BCW] warning light on the exterior rearview mirror flashes, and the \"Emergency Braking\" warning message is displayed on the instrument panel LCD display, and at the same time an alarm sounds to warn the driver of the collision danger. If the rear view monitor (RVM) function is activated, an alarm will also sound via the infotainment system display.",
+        "label_text": "a target vehicle approaching"
+    },
+    {
+        "source": "原文 : 当检测到从左后侧面/右后侧面驶近的目标车辆时，外后视镜上的[BCW]警告灯闪烁，并在仪表盘LCD显示屏上显示“紧急制动”的警告信息，同时发出警报声的方式，向驾驶员发出碰撞危险预警。如果后视监视器(RVM)功能在启动状态，通过信息娱乐系统显示屏也会发出警报。",
+        "hyp": "文 5 : When a target vehicle approaching from the rear left/rear right is detected, the [BCW] warning light on the exterior rearview mirror flashes, and the \"Emergency Braking\" warning message is displayed on the instrument panel LCD display, and at the same time an alarm sounds to warn the driver of the collision danger. If the rear view monitor (RVM) function is activated, an alarm will also sound via the infotainment system display.",
+        "label_text": "sound"
+    },
+    {
+        "source": "原文 : 当检测到从左后侧面/右后侧面驶近的目标车辆时，外后视镜上的[BCW]警告灯闪烁，并在仪表盘LCD显示屏上显示“紧急制动”的警告信息，同时发出警报声的方式，向驾驶员发出碰撞危险预警。如果后视监视器(RVM)功能在启动状态，通过信息娱乐系统显示屏也会发出警报。",
+        "hyp": "文 5 : When a target vehicle approaching from the rear left/rear right is detected, the [BCW] warning light on the exterior rearview mirror flashes, and the \"Emergency Braking\" warning message is displayed on the instrument panel LCD display, and at the same time an alarm sounds to warn the driver of the collision danger. If the rear view monitor (RVM) function is activated, an alarm will also sound via the infotainment system display.",
+        "label_text": "sound"
+    },
+    {
+        "source": "原文 : 将千斤顶支撑在靠近需更换车轮的指定顶起位置。千斤顶顶起的指定位置是，在车架纵梁上焊接的，带有2个凹槽的钢板。禁止把千斤顶支撑在除了指定位置外的其它车辆部位上。否则，会损坏车辆侧面密封或其它部件。",
+        "hyp": "文 2 : Support the jack in the designated jacking position close to the wheel to be replaced. The designated jacking position is a steel plate with 2 grooves welded to the frame longitudinal beam. Do not support the jack on any part of the vehicle other than the designated position. Otherwise, the vehicle side seals or other components will be damaged.",
+        "label_text": "Support the jack"
+    },
+    {
+        "source": "原文 : 将千斤顶支撑在靠近需更换车轮的指定顶起位置。千斤顶顶起的指定位置是，在车架纵梁上焊接的，带有2个凹槽的钢板。禁止把千斤顶支撑在除了指定位置外的其它车辆部位上。否则，会损坏车辆侧面密封或其它部件。",
+        "hyp": "文 2 : Support the jack in the designated jacking position close to the wheel to be replaced. The designated jacking position is a steel plate with 2 grooves welded to the frame longitudinal beam. Do not support the jack on any part of the vehicle other than the designated position. Otherwise, the vehicle side seals or other components will be damaged.",
+        "label_text": "Do not support the jack"
+    },
+    {
+        "source": "原文 : 将千斤顶支撑在靠近需更换车轮的指定顶起位置。千斤顶顶起的指定位置是，在车架纵梁上焊接的，带有2个凹槽的钢板。禁止把千斤顶支撑在除了指定位置外的其它车辆部位上。否则，会损坏车辆侧面密封或其它部件。",
+        "hyp": "文 2 : Support the jack in the designated jacking position close to the wheel to be replaced. The designated jacking position is a steel plate with 2 grooves welded to the frame longitudinal beam. Do not support the jack on any part of the vehicle other than the designated position. Otherwise, the vehicle side seals or other components will be damaged.",
+        "label_text": "Support the jack"
+    },
+    {
+        "source": "原文 : 将千斤顶支撑在靠近需更换车轮的指定顶起位置。千斤顶顶起的指定位置是，在车架纵梁上焊接的，带有2个凹槽的钢板。禁止把千斤顶支撑在除了指定位置外的其它车辆部位上。否则，会损坏车辆侧面密封或其它部件。",
+        "hyp": "文 2 : Support the jack in the designated jacking position close to the wheel to be replaced. The designated jacking position is a steel plate with 2 grooves welded to the frame longitudinal beam. Do not support the jack on any part of the vehicle other than the designated position. Otherwise, the vehicle side seals or other components will be damaged.",
+        "label_text": " support the jack"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "opening and closing"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "shutdown"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "thick-walled"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "opening and closing"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "shutdown"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "thick-walled"
+    },
+    {
+        "source": "原文 : 最后再来看下仪表盘和座椅，仪表盘设计可圈可点，设计比较稳重。该车采用了仿皮座椅，座椅包裹性到位，用料讲究，乘坐舒适。",
+        "hyp": "文 2 : Finally, let's take a look at the instrument panel and seats. The design of the instrument panel is remarkable, displaying a sophisticated design. The vehicle uses synthetic leather seats with excellent wrapping and meticulous material selection, ensuring a comfortable seating experience.",
+        "label_text": "displaying a sophisticated design"
+    },
+    {
+        "source": "原文 : 最后再来看下仪表盘和座椅，仪表盘设计可圈可点，设计比较稳重。该车采用了仿皮座椅，座椅包裹性到位，用料讲究，乘坐舒适。",
+        "hyp": "文 2 : Finally, let's take a look at the instrument panel and seats. The design of the instrument panel is remarkable, displaying a sophisticated design. The vehicle uses synthetic leather seats with excellent wrapping and meticulous material selection, ensuring a comfortable seating experience.",
+        "label_text": "with excellent wrapping"
+    },
+    {
+        "source": "原文 : 最后再来看下仪表盘和座椅，仪表盘设计可圈可点，设计比较稳重。该车采用了仿皮座椅，座椅包裹性到位，用料讲究，乘坐舒适。",
+        "hyp": "文 2 : Finally, let's take a look at the instrument panel and seats. The design of the instrument panel is remarkable, displaying a sophisticated design. The vehicle uses synthetic leather seats with excellent wrapping and meticulous material selection, ensuring a comfortable seating experience.",
+        "label_text": "sophisticated"
+    },
+    {
+        "source": "原文 : 最后再来看下仪表盘和座椅，仪表盘设计可圈可点，设计比较稳重。该车采用了仿皮座椅，座椅包裹性到位，用料讲究，乘坐舒适。",
+        "hyp": "文 2 : Finally, let's take a look at the instrument panel and seats. The design of the instrument panel is remarkable, displaying a sophisticated design. The vehicle uses synthetic leather seats with excellent wrapping and meticulous material selection, ensuring a comfortable seating experience.",
+        "label_text": "with excellent wrapping"
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 1 : The i-GMP platform technology is applied to an SUV model for the first time, combined with the globally pioneering CVVD technology. The powerful 1.5T CVVD+8AT powertrain delivers a strong 200 horsepower while achieving a fuel consumption as low as 6.9L/100 km, which offers a smooth and exhilarating driving experience, allowing you to effortlessly move forward.",
+        "label_text": "powertrain"
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 1 : The i-GMP platform technology is applied to an SUV model for the first time, combined with the globally pioneering CVVD technology. The powerful 1.5T CVVD+8AT powertrain delivers a strong 200 horsepower while achieving a fuel consumption as low as 6.9L/100 km, which offers a smooth and exhilarating driving experience, allowing you to effortlessly move forward.",
+        "label_text": "powertrain"
+    },
+    {
+        "source": "原文 : 以百度3.0智能网联平台为基础，可高度识别自然语言指令，带来更轻松的语音控制。以BLE手机蓝牙钥匙为核心的IT配置，实现了多项个性化配置及跨越空间的人车联动。",
+        "hyp": "文 5 : Based on Baidu 3.0 intelligent connected platform, the i-GMP platform technology can highly recognize natural language commands, providing a more effortless voice control experience. Based on the BLE mobile Bluetooth key as the core, the IT configuration enables multiple personalized settings and achieves seamless integration between the vehicle and the user across distances.",
+        "label_text": "BLE mobile Bluetooth key"
+    },
+    {
+        "source": "原文 : 第五代途胜L 8AT的1.5T发动机采用全球首创的CVVD连续可变气门持续期技术，可根据巡航行驶、加速行驶等情况，合理控制气门开启持续时间，无需在性能和燃油效率之间妥协，可实现性能提升4%、能耗降低5%、排放减少12%。",
+        "hyp": "文 4 : The 8 AT 1.5T engine of the fifth-generation Tucson L uses the globally pioneering continuously variable valve duration (CVVD) technology, which can reasonably control the valve opening duration according to cruising and acceleration, without compromising between performance and fuel efficiency. It can improve performance by 4%, reduce energy consumption by 5%, and reduce emissions by 12%.",
+        "label_text": " 8 AT 1.5T engine of the fifth-generation Tucson L"
+    },
+    {
+        "source": "原文 : 第五代途胜L 8AT的1.5T发动机采用全球首创的CVVD连续可变气门持续期技术，可根据巡航行驶、加速行驶等情况，合理控制气门开启持续时间，无需在性能和燃油效率之间妥协，可实现性能提升4%、能耗降低5%、排放减少12%。",
+        "hyp": "文 4 : The 8 AT 1.5T engine of the fifth-generation Tucson L uses the globally pioneering continuously variable valve duration (CVVD) technology, which can reasonably control the valve opening duration according to cruising and acceleration, without compromising between performance and fuel efficiency. It can improve performance by 4%, reduce energy consumption by 5%, and reduce emissions by 12%.",
+        "label_text": " 8 AT 1.5T engine of the fifth-generation Tucson L"
+    },
+    {
+        "source": "原文 : 而全新搭载的8AT变速箱，更是让行车过程变得轻松流畅。8AT变速箱更大范围的速比设计，令起步加速响应更加灵敏，动力衔接更加紧密，能够精准了解驾驶者的驾驶意图。",
+        "hyp": "文 3 : Furthermore, the newly installed 8AT transmission makes the driving process effortless and smooth. The wider speed ratio design of the 8AT transmission enables more responsive acceleration during startup, ensuring a tighter power delivery and precise understanding of the driver's intentions.",
+        "label_text": "newly installed"
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 2 : When the vehicle leaves the highway, the difficulty of driving increases greatly, presenting a more severe test for the vehicle. Not only is the power output required to be powerful and uninterrupted, but it must also be easy to control smoothly and consistently. Once the power output suddenly increases, it is easy for the vehicle to get stuck in sandy terrain. The complex and changeable road conditions also require excellent overall quality in all aspects of the vehicle.",
+        "label_text": "quality"
+    },
+    {
+        "source": "原文 : PM1.0级空调过滤器增加含有熔喷布的高性能集尘层，0.3~0.5?尘埃过滤效率≥97%，过滤效果超过N95口罩，即便车外尘土飞扬，车内空气依然如清晨一般洁净。智能车机系统预装大量APP令旅途不枯燥，而高度便捷的自然语音识别系统，即便在你双手紧握方向盘时，依然可以操作车辆的各种功能。",
+        "hyp": "文 5 : The PM1.0 A/C filter adds a high-performance dust collection layer containing melt-blown cloth. The 0.3~0.5? dust filtration efficiency is ≥ 97%. The filtration effect exceeds that of N95 masks. Even if there is dust outside the vehicle, the air inside the vehicle is still as clean as that in the morning. The intelligent vehicle system is pre-installed with a large number of APPs to make the journey less boring, and the highly convenient natural voice recognition system allow you to operate various functions of the vehicle even when you hold the steering wheel with both hands.",
+        "label_text": "The PM1.0 A/C filter adds a high-performance dust collection layer "
+    },
+    {
+        "source": "原文 : PM1.0级空调过滤器增加含有熔喷布的高性能集尘层，0.3~0.5?尘埃过滤效率≥97%，过滤效果超过N95口罩，即便车外尘土飞扬，车内空气依然如清晨一般洁净。智能车机系统预装大量APP令旅途不枯燥，而高度便捷的自然语音识别系统，即便在你双手紧握方向盘时，依然可以操作车辆的各种功能。",
+        "hyp": "文 5 : The PM1.0 A/C filter adds a high-performance dust collection layer containing melt-blown cloth. The 0.3~0.5? dust filtration efficiency is ≥ 97%. The filtration effect exceeds that of N95 masks. Even if there is dust outside the vehicle, the air inside the vehicle is still as clean as that in the morning. The intelligent vehicle system is pre-installed with a large number of APPs to make the journey less boring, and the highly convenient natural voice recognition system allow you to operate various functions of the vehicle even when you hold the steering wheel with both hands.",
+        "label_text": "The PM1.0 A/C filter adds a high-performance dust collection layer "
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 4 : The overall power of the hybrid system is 193 horsepower and 350 N·m. Unlike Toyota and Honda, the vehicle does not use an E-CVT transmission for its transmission system, but chooses a 6AT transmission. There is also a traditional tachometer on the instrument panel.",
+        "label_text": "The overall power of the hybrid system is 193 horsepower and 350 N·m."
+    },
+    {
+        "source": "原文 : 在从A区进入B区的过程中，车辆的响应速度与转向的准确性都不错，并且在第一次变线时电子稳定系统便已开始介入，虽然强度不大， 但足以帮助车辆在进入B区后保持更好的轮胎抓地力。",
+        "hyp": "文 5 : In the process of entering Zone B from Zone A, the vehicle had good response speed and steering accuracy. The electronic stability system began to intervene during the first line change. Although the intervention degree is not great, it is enough to help the vehicle maintain better tire grip after entering Zone B.",
+        "label_text": "line change"
+    },
+    {
+        "source": "原文 : 在从A区进入B区的过程中，车辆的响应速度与转向的准确性都不错，并且在第一次变线时电子稳定系统便已开始介入，虽然强度不大， 但足以帮助车辆在进入B区后保持更好的轮胎抓地力。",
+        "hyp": "文 5 : In the process of entering Zone B from Zone A, the vehicle had good response speed and steering accuracy. The electronic stability system began to intervene during the first line change. Although the intervention degree is not great, it is enough to help the vehicle maintain better tire grip after entering Zone B.",
+        "label_text": "line change"
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 1 : The new vehicle has not changed in the design level, using the latest family-style front face, the rim is of the style of the entry-level model currently available, indicating that it is a base model. The size of the vehicle is 4750*1820*1488 mm, and the wheelbase is 2730 mm, which is consistent with the current model.",
+        "label_text": "the rim is of the style of the entry-level model currently available"
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 1 : The new vehicle has not changed in the design level, using the latest family-style front face, the rim is of the style of the entry-level model currently available, indicating that it is a base model. The size of the vehicle is 4750*1820*1488 mm, and the wheelbase is 2730 mm, which is consistent with the current model.",
+        "label_text": " entry-level model "
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 1 : The new vehicle has not changed in the design level, using the latest family-style front face, the rim is of the style of the entry-level model currently available, indicating that it is a base model. The size of the vehicle is 4750*1820*1488 mm, and the wheelbase is 2730 mm, which is consistent with the current model.",
+        "label_text": " entry-level model "
+    },
+    {
+        "source": "原文 : 帕萨特在外形设计上相比老款运动得多，整体不再是一板一眼的传统三厢轿车设计，C柱的线条更加流畅，营造出了微微溜背的感觉。",
+        "hyp": "文 3 : The new Passat, compared to the old model, has a sportier sense in the shape of the design, the overall no longer follows the traditional sedan design, and the C-pillar line is smoother, creating a slightly sloping roofline.",
+        "label_text": " the overall no longer follows the traditional sedan design, "
+    },
+    {
+        "source": "原文 : 外观配置重点看看灯光，这次测试的三款车都是顶配车型，都采用LED远近光灯，都配备LED日间行车灯。",
+        "hyp": "文 3 : The appearance configuration focuses on the lights. The three vehicles in this test are models with top configuration, all of which use LED high and low beams, and are equipped with LED daytime running lights.",
+        "label_text": "The appearance configuration focuses on the lights."
+    },
+    {
+        "source": "原文 : 前排座椅降至最低，三款车的头部空间都是一拳，差别很小。",
+        "hyp": "文 3 : With the front seats reduced to a minimum, the head space in three vehicles is about the size of a fist, with a small difference.",
+        "label_text": "With the front seats reduced to a minimum"
+    },
+    {
+        "source": "原文 : 传统的6挡手自一体变速箱动力衔接更平顺，特别是在低速拥堵路况时，其平顺性要明显好于大众的DQ380。",
+        "hyp": "文 5 : The traditional 6-speed automatic&manual integrated transmission provides smoother power connection, especially in low-speed congested road conditions, and its smoothness is significantly better than that of the Volkswagen DQ380.",
+        "label_text": "power connection"
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 3 : Among mid-size vehicles, the Regal follows a youthful and sporty style, while the Lacrosse emphasizes a more stable and business-oriented style. After modification, the Lacrosse also joined the ranks of playing lights, and the shape of the daytime running lights and the rear marker lights complement each other and are easily recognizable at night.",
+        "label_text": "joined the ranks of playing lights"
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 3 : Among mid-size vehicles, the Regal follows a youthful and sporty style, while the Lacrosse emphasizes a more stable and business-oriented style. After modification, the Lacrosse also joined the ranks of playing lights, and the shape of the daytime running lights and the rear marker lights complement each other and are easily recognizable at night.",
+        "label_text": " shape"
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 3 : Among mid-size vehicles, the Regal follows a youthful and sporty style, while the Lacrosse emphasizes a more stable and business-oriented style. After modification, the Lacrosse also joined the ranks of playing lights, and the shape of the daytime running lights and the rear marker lights complement each other and are easily recognizable at night.",
+        "label_text": "complement each other"
+    },
+    {
+        "source": "原文 : 压缩机运转1次的时间不要超过10分钟。否则，可能会导致压缩机过热而损坏。",
+        "hyp": "文 2 : The operating time of the compressor shall not exceed 10 minutes at one time. Otherwise, the compressor may be overheated and damaged.",
+        "label_text": "overheated and damaged"
+    },
+    {
+        "source": "原文 : 如果发动机处于热态，检查发动机冷却液时要小心。冷却液可能会在压力作用下喷出，导致严重烫伤。",
+        "hyp": "文 5 : If the engine is hot, be careful when checking the engine coolant. The coolant may squirt out under pressure, causing severe burns.",
+        "label_text": "burn"
+    },
+    {
+        "source": "原文 : 检查驱动轴、防尘套和卡箍是否龟裂、变质或损坏。必要时更换损坏的部件或补充润滑脂。",
+        "hyp": "文 4 : Check drive shaft, dust-proof sleeve and clamp for cracks, deterioration or damage. Replace damaged components or add grease if necessary.",
+        "label_text": "dust-proof sleeve"
+    },
+    {
+        "source": "原文 : 作为同一品牌下的车型，锐志在用料方面的表现要比凯美瑞厚道一些，中控台上部全部采用了软质材料，并不是那种在硬塑料上包裹一层类似皮革材料的感觉，而是搪塑工艺。",
+        "hyp": "文 4 : Reiz and Camry are under the same brand, but Reiz performs better than Camry in terms of materials, and the upper part of the center console is all made of soft materials, not the kind of hard plastic wrapped in a layer of leather-like material, and these soft materials are through the process of slush-molding.",
+        "label_text": "Reiz performs better than Camry in terms of materials"
+    },
+    {
+        "source": "原文 : 在斜坡或弯道上，由于燃油箱内的燃油向一侧移动，燃油表指针可能发生波动或燃油量不足警告灯比平时提早亮。",
+        "hyp": "文 3 : The fuel in the fuel tank moves to one side if the vehicle is on a slope or curve, the pointer of the fuel gauge may fluctuate or low fuel indicator may light up earlier than usual.",
+        "label_text": "fluctuate "
+    },
+    {
+        "source": "原文 : 它的方向盘指向较为模糊，激烈驾驶时回馈力度有点轻，悬架很软，车身响应偏慢。",
+        "hyp": "文 2 : Its steering wheel response is rather vague, and the feedback is relatively light during aggressive driving. The suspension is soft, and the vehicle's response is somewhat sluggish.",
+        "label_text": "steering wheel response"
+    },
+    {
+        "source": "原文 : 它的方向盘指向较为模糊，激烈驾驶时回馈力度有点轻，悬架很软，车身响应偏慢。",
+        "hyp": "文 2 : Its steering wheel response is rather vague, and the feedback is relatively light during aggressive driving. The suspension is soft, and the vehicle's response is somewhat sluggish.",
+        "label_text": "the feedback is relatively light"
+    },
+    {
+        "source": "原文 : [绿色]满足车道保持辅助功能运行条件时。",
+        "hyp": "文 4 : [Green] When the conditions for the lane-keeping assist function are met.",
+        "label_text": " [Green] When the conditions for the lane-keeping assist function are met"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 1 : The Magotan B7, introduced in 2011, once again consolidated Magotan's benchmark position in the mid-size vehicle market. The vehicle is equipped with a large number of comfort and luxury and safety electronic systems, and can be called the most intelligent mid-size vehicle. Such as active braking function, driver fatigue monitoring, automatic high beam, lateral XDS electronic differential lock, tire pressure monitoring, lane departure warning, rear vehicle fast approach warning, parking assistance system, speed limit sign warning function, noise suppression function, and automatic parking.",
+        "label_text": "with a large number of comfort and luxury and safety electronic systems"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 1 : The Magotan B7, introduced in 2011, once again consolidated Magotan's benchmark position in the mid-size vehicle market. The vehicle is equipped with a large number of comfort and luxury and safety electronic systems, and can be called the most intelligent mid-size vehicle. Such as active braking function, driver fatigue monitoring, automatic high beam, lateral XDS electronic differential lock, tire pressure monitoring, lane departure warning, rear vehicle fast approach warning, parking assistance system, speed limit sign warning function, noise suppression function, and automatic parking.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 实际测试中，锐志的起步也确实要快于其余10款车型，直到速度达到50km/h以后，它才逐渐被一众增压车型超过。",
+        "hyp": "文 4 : In the actual test, Reiz does indeed have faster than the other 10 models. However, once the speed reaches 50 km/h, it gradually gets surpassed by numerous turbocharged models.",
+        "label_text": " have faster"
+    },
+    {
+        "source": "原文 : 实际测试中，锐志的起步也确实要快于其余10款车型，直到速度达到50km/h以后，它才逐渐被一众增压车型超过。",
+        "hyp": "文 4 : In the actual test, Reiz does indeed have faster than the other 10 models. However, once the speed reaches 50 km/h, it gradually gets surpassed by numerous turbocharged models.",
+        "label_text": " numerous"
+    },
+    {
+        "source": "原文 : 如果车门、机舱盖或行李箱盖处于打开状态，就会显示此警告信息。",
+        "hyp": "文 5 : If the doors, engine hood, or trunk lid are open, this warning message will be displayed.",
+        "label_text": "engine hood"
+    },
+    {
+        "source": "原文 : 选择“动感(SPORT)”驾驶模式时。详细信息请参考第6章的“驾驶模式集成控制系统”部分。",
+        "hyp": "文 2 : When the \"Sport\" driving mode is selected. For more detailed information, please refer to the \"Integrated driving mode control system\" section in Chapter 6.",
+        "label_text": "Integrated driving mode control system\" "
+    },
+    {
+        "source": "原文 : 此模式显示小计里程、油耗等驾驶信息。详细信息请参考本章的“行车电脑”部分。",
+        "hyp": "文 2 : This mode displays driving information such as trip mileage and fuel consumption. For more detailed information, please refer to the \"On-board computer\" section in this chapter.",
+        "label_text": "This mode displays"
+    },
+    {
+        "source": "原文 : 在驾乘方面，雅阁同样做得很均衡，驾驶时灵动轻快，乘坐又不失沉稳。",
+        "hyp": "文 4 : In terms of driving and riding experience, Accord also achieves a great balance. It offers agile and nimble operating while maintaining a comfortable and stable ride.",
+        "label_text": "operating"
+    },
+    {
+        "source": "原文 : 新车侧面线条营造出更加硬朗的视觉效果，一条腰线贯穿整个车身。车尾没有过多的下沉式设计，LED尾灯内部不规则的方块灯组看起来科技感十足。",
+        "hyp": "文 2 : The new vehicle's side lines offer a more robust visual effect, with a waistline running throughout the vehicle. The rear of the vehicle does not feature an excessive downward design, and the irregular square-shaped light sets inside the LED taillights provide a high-tech sense to its appearance.",
+        "label_text": "downward design"
+    },
+    {
+        "source": "原文 : 车身侧面部分，预计两车差别不会太大，可能最大的变化在于车侧末端以及车身尺寸。",
+        "hyp": "文 1 : In terms of the side profile, it is expected that the two vehicles will not have significant differences, with the most noticeable changes possibly occurring at the rear end and the size of the vehicle body.",
+        "label_text": "rear end"
+    },
+    {
+        "source": "原文 : 在慕尼黑车展中，大众汽车集团不仅首次发布了ID.GTI概念车、全新CUPRA DarkRebel展车，还带来新一代Passat和Tiguan等燃油车型，呈现了全新的品牌理念。",
+        "hyp": "文 5 : At the IAA Mobility, the Volkswagen Group not only launched the ID.GTI concept vehicle and the brand-new CUPRA DarkRebel show vehicle but also introduced the next generation of gasoline models such as Passat and Tiguan, showcasing a new brand concept.",
+        "label_text": "CUPRA DarkRebel show vehicle"
+    },
+    {
+        "source": "原文 : B7时代的帕萨特和迈腾都是基于PQ平台打造，B8时代两款车型都采用的是MQB平台，所以帕萨特和迈腾最直观的差别是造型。",
+        "hyp": "文 1 : The Passat and Magotan of the B7 generation are both built on the PQ platform, while in the B8 generation, both models adopt the MQB platform. Therefore, the most noticeable difference between the Passat and Magotan is their shape style.",
+        "label_text": "are both built "
+    },
+    {
+        "source": "原文 : B7和B8时期彻底告别了一切与“圆”有关的造型语言，转而采用更加方正的线条，圆润的V字型一体式中网也彻底的采用了分体结构，前脸进气格栅与车灯成贯穿式，下包围部分也将进气格栅与雾灯连成整体。这样的“双层”造型也被沿用至今。",
+        "hyp": "文 2 : During the B7 and B8 generations, the design language completely departs from anything related to \"round\" shapes and instead adopts more squared lines. The round V-shaped integrated grille is of the split structure. The front intake grille seamlessly integrates with the headlights, while the lower bumper integrates the intake grille with the fog lights. The \"double-layer\" shape style has been carried over to the present day.",
+        "label_text": "The round V-shaped integrated grille is of the split structure. "
+    },
+    {
+        "source": "原文 : SCC/LKA此组显示智能巡航控制(SCC)功能和车道保持辅助(LKA)功能的运行状态。",
+        "hyp": "文 1 : SCC/LKA group displays the operation status of the smart cruise control (SCC) and lane-keeping assist (LKA) functions.",
+        "label_text": " SCC/LKA group displays"
+    },
+    {
+        "source": "原文 : 前方安全警告时间指设置或变更驾驶员辅助系统的前方安全警告时间。详细信息请参考第7章的“正面防撞辅助(FCA)”部分。",
+        "hyp": "文 5 : The forward safety warning time refers to the setting or change of the forward safety warning time for the driver assistance system. For more detailed information, please refer to the \"Forward collision-avoidance assist (FCA)\" section in Chapter 7.",
+        "label_text": " The forward safety warning time refers to"
+    },
+    {
+        "source": "原文 : 日前，乘联会发布3月乘用车市场分析，3月狭义乘用车零售销量158.7万台，同比增长0.3%，环比增长14.3%，其中MPV市场销量同比增长明显，达到38.6%。新能源汽车3月零售销量合计54.3万台，同比增长21.9%，环比增长23.6%。",
+        "hyp": "文 3 : Recently, the China Passenger Car Association (CPCA) released its analysis of passenger vehicle market in March. In March, the narrow definition of retail sales of passenger vehicles reached 1,587,000 units, showing a year-on-year growth of 0.3% and a month-on-month growth of 14.3%. Among them, the MPV market sales increased significantly, up to 38.6%. The total retail sales of new energy vehicles in March reached 543,000 units, showing a year-on-year growth of 21.9% and a month-on-month growth of 23.6%.",
+        "label_text": "the narrow definition of"
+    },
+    {
+        "source": "原文 : 从各大城市的行情来看，相比过去几个月，凯美瑞的让利幅度进一步加大。一方面是它的车型已经许久没有改款，另外，凯美瑞也需要加大优惠，为今年销量目标冲刺一把。",
+        "hyp": "文 1 : From the market conditions in major cities, compared to the past few months, the Camry has further increased its discount range. On one hand, its models have not been redesigned for a long time. On the other hand, the Camry also needs to increase its incentives to make a final push towards achieving its sales target for this year.",
+        "label_text": "its models have not been redesigned"
+    },
+    {
+        "source": "原文 : 同时随着“年轻化”被越来越多厂商重视起来，新款车型还提供了两种不同的前脸满足更多用户的需求，近日，我们从福州某经销商处获悉，帕萨特目前最高可享3.50万元现金优惠。相当于打了8.2折。",
+        "hyp": "文 2 : At the same time, with \"youthfulness\" being increasingly valued by many manufacturers, the new model offers two different front-end designs to meet the demands of more users. Recently, we learned from a dealer in Fuzhou that the Passat currently offers a maximum cash discount of RMB 35,000. This is equivalent to an 18% discount.",
+        "label_text": "front-end"
+    },
+    {
+        "source": "原文 : 可以初始化用户设置模式菜单。将用户设置模式内的所有菜单设置初始化至出厂设置值。",
+        "hyp": "文 4 : The User Settings Menu can be initialized. Initialize all menu settings within the user settings mode to their factory default values.",
+        "label_text": "User Settings Menu "
+    },
+    {
+        "source": "原文 : 两款车型长度都不到5米，轴距基本都在2800mm左右，在这一级别中都属于标准身材，相比之下帕萨特长度和轴距略占优，而凯美瑞在车身宽度略微领先。",
+        "hyp": "文 2 : Both models have a length of less than 5 m, and their wheelbases are mainly around 2800 mm, which is considered standard for this level. In comparison, the Passat has a slight advantage in terms of length and wheelbase, while Camry slightly leads in terms of vehicle body width.",
+        "label_text": "for this level"
+    },
+    {
+        "source": "原文 : 空间部分两台车尺较为接近，所表现出来的乘坐及后备厢容积也基本处在同一水平，相比之下帕萨特的优势主要体现在后排腿部空间表现更优，同时后备厢支持按照4/6比例放倒，扩展性更好。",
+        "hyp": "文 3 : In terms of interior space, both vehicles have similar dimensions, and passenger and trunk volumes are roughly at the same level. However, Passat's advantage lies in its superior rear leg space in the rear seats. Additionally, Passat's trunk can be folded in a 4/6 ratio, providing better expandability.",
+        "label_text": "passenger and trunk volumes are roughly at the same level"
+    },
+    {
+        "source": "原文 : 空间部分两台车尺较为接近，所表现出来的乘坐及后备厢容积也基本处在同一水平，相比之下帕萨特的优势主要体现在后排腿部空间表现更优，同时后备厢支持按照4/6比例放倒，扩展性更好。",
+        "hyp": "文 3 : In terms of interior space, both vehicles have similar dimensions, and passenger and trunk volumes are roughly at the same level. However, Passat's advantage lies in its superior rear leg space in the rear seats. Additionally, Passat's trunk can be folded in a 4/6 ratio, providing better expandability.",
+        "label_text": " in the rear seats"
+    },
+    {
+        "source": "原文 : 车门会开锁，危险警告灯闪烁2次。如果在信息娱乐系统显示屏上设置菜单中选择“门锁开锁联动”项，外后视镜会自动展开。",
+        "hyp": "文 2 : The doors will unlock, and the hazard indicators will flash twice. If the \"Lock/Unlock Linkage\" option is selected in the Settings Menu on the infotainment system display, the exterior rearview mirrors will be automatically unfolded.",
+        "label_text": "Lock/Unlock Linkage\""
+    },
+    {
+        "source": "原文 : 帕萨特的这款车采用了纯电动的动力模式，相比于现在成熟的轮毂电机技术，这款车显得有些不高明，因为它只是将原来的发动机换成了电动机，甚至还保留了自动变速器。",
+        "hyp": "文 2 : Passat's electric power mode relies on pure electric power. However, compared to the mature wheel motor technology available today, this vehicle seems somewhat less sophisticated since it simply replaces the traditional engine with an electric motor, even retaining the automatic transmission.",
+        "label_text": "Passat's electric power mode relies on pure electric power"
+    },
+    {
+        "source": "原文 : 变速器是为弥补发动机的转速、扭矩曲线的不足才出现的。发动机只会在某一特定的转速区间才会爆发一定的扭矩和功率，而车需要行驶在从静止到极速的任何一个速度上，变速器的作用就是将不同的车速转换成发动机的工作转速。",
+        "hyp": "文 1 : Transmission is designed to compensate for the deficiencies in the engine's speed and torque curves. The engine only produces a certain amount of torque and power within a specific speed range, whereas a vehicle needs to operate at any speed from a standstill to its top speed. The function of the transmission is to convert different vehicle speeds into the operating speed of the engine.",
+        "label_text": "whereas"
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 2 : Shanghai Volkswagen Lavida will carry out a mid-period facelift from the second half of this year to early next year and had its official generational change in 2013. The generation change model of the Santana had been released in 2012, with a full platform and powertrain replacement, but still retaining the brand name.",
+        "label_text": "generation change model of the Santana had been released in 2012"
+    },
+    {
+        "source": "原文 : 君越车门防撞梁的面积和厚度基本上处于目前国产中型车的较高水平，尤其是80mm左右的宽度，在这个级别中是比较少见的，可以见得通用对于君越的被动安全性设计还是下了不少的心思。",
+        "hyp": "文 5 : The area and thickness of the anti-collision beams in the doors of the Lacrosse are generally at a higher level among current domestic mid-size vehicles. Particularly, the width of around 80 mm is relatively uncommon in this level. This demonstrates that General Motors has put considerable effort into the passive safety design of the Lacrosse.",
+        "label_text": "in the doors"
+    },
+    {
+        "source": "原文 : 睿翼的车门密封方式与很多日系车也不太相同，并没有采用传统的密封膜的做法，而是借鉴了不少欧美车型的经验，就是用一整块塑料板覆盖住车门，在上面设计一些穿孔，为了让线束能够穿过，而不会出现密封不严的情况，这点值得肯定。",
+        "hyp": "文 2 : The door sealing method of the Mazda Ruiyi is different from many Japanese models. Instead of using traditional sealing films, it takes inspiration from several European and American vehicles. It uses a plastic plate to cover the door, incorporating perforations to allow wiring harnesses to pass through without compromising the sealing. This method is praiseworthy as it ensures effective sealing.",
+        "label_text": "different from many Japanese models"
+    },
+    {
+        "source": "原文 : 和一般车型不同的是，凯美瑞前车门上有一根管状防撞梁，而后车门上则有两根管状防撞梁，这主要是考虑到侧面碰撞时，对后排乘客的安全考虑。",
+        "hyp": "文 3 : Unlike general models, the Camry features a tubular anti-collision beam on the front door and two tubular anti-collision beams on the rear door. This design primarily takes into account the safety of rear passengers in the event of a side collision.",
+        "label_text": "rear passengers"
+    },
+    {
+        "source": "原文 : 车门板上隔音材质的手感也很不错，符合这个价格的水平，其他部件的安装方式虽然不像君越那样复杂，但是也运用了卡扣和螺丝，在耐久性方面应该没有问题。",
+        "hyp": "文 2 : The feel of the soundproofing material on the door panel is also quite good and meets the standards for this price range. Although the installation method of other components is not as complex as that of the Lacrosse, it still uses clips and screws, which should ensure durability without any issues.",
+        "label_text": "clips "
+    },
+    {
+        "source": "原文 : 索纳塔前车门管状梁外径尺寸约为31.93mm，后管状防撞梁的外径尺寸约为31.21mm。",
+        "hyp": "文 1 : The outer diameter of the tubular beams in the front doors of the Sonata is approximately 31.93 mm, while the outer diameter of the tubular anti-collision beams in the rear doors is approximately 31.21 mm.",
+        "label_text": "in"
+    },
+    {
+        "source": "原文 : 索纳塔前车门管状梁外径尺寸约为31.93mm，后管状防撞梁的外径尺寸约为31.21mm。",
+        "hyp": "文 1 : The outer diameter of the tubular beams in the front doors of the Sonata is approximately 31.93 mm, while the outer diameter of the tubular anti-collision beams in the rear doors is approximately 31.21 mm.",
+        "label_text": "in"
+    },
+    {
+        "source": "原文 : 前车门管状梁外径尺寸33.25mm，后车门上方梁外径尺寸25.70mm，下方梁外径尺寸为32.34mm。",
+        "hyp": "文 1 : The outer diameter of the tubular beams in the front doors of the Sonata is approximately 33.25 mm. The outer diameter of the upper beam of the rear doors is approximately 25.70 mm, while the outer diameter of the lower beam is approximately 32.34 mm.",
+        "label_text": "in"
+    },
+    {
+        "source": "原文 : 前车门管状梁外径尺寸33.25mm，后车门上方梁外径尺寸25.70mm，下方梁外径尺寸为32.34mm。",
+        "hyp": "文 1 : The outer diameter of the tubular beams in the front doors of the Sonata is approximately 33.25 mm. The outer diameter of the upper beam of the rear doors is approximately 25.70 mm, while the outer diameter of the lower beam is approximately 32.34 mm.",
+        "label_text": "of "
+    },
+    {
+        "source": "原文 : RCD510系统最大的特点就是拥有一块6.5寸的彩色中文显示屏，带有触摸功能。它除了拥有FM、CD、MP3以及外接音源播放功能外。",
+        "hyp": "文 3 : The key feature of the RCD510 system is that it has a 6.5 inch color Chinese display with touch function. In addition to its FM, CD, MP3, and external source playback functions,",
+        "label_text": "Chinese display"
+    },
+    {
+        "source": "原文 : RCD510系统与原车的倒车雷达组合，可以显示模拟倒车影像。同时还支持原厂倒车摄像头，其6.5寸屏幕可用于显示倒车影像功能。",
+        "hyp": "文 4 : the RCD510 system is combined with the vehicle's reversing radar, allowing it to display analog reversing image. Additionally, it also supports the original factory reversing camera, and its 6.5-inch screen can be used to display the reversing image function.",
+        "label_text": "analog"
+    },
+    {
+        "source": "原文 : RCD510系统与原车的倒车雷达组合，可以显示模拟倒车影像。同时还支持原厂倒车摄像头，其6.5寸屏幕可用于显示倒车影像功能。",
+        "hyp": "文 4 : the RCD510 system is combined with the vehicle's reversing radar, allowing it to display analog reversing image. Additionally, it also supports the original factory reversing camera, and its 6.5-inch screen can be used to display the reversing image function.",
+        "label_text": "display the reversing image function"
+    },
+    {
+        "source": "原文 : 如果您拿着智能手机并且连接蓝牙钥匙的情况下按下车门、行李箱盖上的按钮，可执行闭锁、开锁动作。如果不能正常工作，可能是智能手机和车辆之间的通信不良，请调整智能手机的位置后重试。",
+        "hyp": "文 1 : If you have a smartphone and it is connected to the Bluetooth key, you can press the buttons on the doors or trunk lid to perform the lock or unlock actions. If it does not work normally, it may be due to poor communication between the smartphone and the vehicle. Please try adjusting the position of the smartphone and retry.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 这台3缸发动机装配有Valvetronic电子气门技术以及一个双涡管涡轮，压缩比超越了N20和N55达到了11:1，作为一台涡轮增压发动机，如此高的压缩比已经超越很多自然吸气发动机，而如何控制好发动机的爆震也显得尤为重要，此外它还应用了缸内直喷技术。",
+        "hyp": "文 2 : This 3-cylinder engine is equipped with Valvetronic technology and a twin-scroll turbine. It has a compression ratio of 11:1, surpassing that of the N20 and N55 engines. As a turbocharged engine, such a high compression ratio has exceeded many naturally aspirated engines. Controlling engine knock is also quite importance. Additionally, it also uses direct injection technology.",
+        "label_text": "such a high compression ratio has exceeded many naturally aspirated engines"
+    },
+    {
+        "source": "原文 : 1.2TSI发动机拥有4个气缸，发动机缸体使用全铝材质，加之相关结构轻量化的设计，刨去发动机周边像发电机以及空调压缩机等附件后，发动机本体的重量仅为89.5千克。",
+        "hyp": "文 2 : The 1.2TSI engine is equipped with 4 cylinders, and the engine cylinder block is all made of aluminum. Thanks to lightweight design and structure, the weight of the engine itself is only 89.5 kg after excluding peripheral components such as the generator and A/C compressor.",
+        "label_text": "lightweight design and structure"
+    }
+]

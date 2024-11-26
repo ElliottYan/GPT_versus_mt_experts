@@ -1,0 +1,317 @@
+[
+    {
+        "source": "原文 : （2）再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症",
+        "hyp": "文 5 : (2) Regenerative anemia, hemolysis, anemia, decreased platelet count, decreased platelet count",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 有可能出现中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）（频率均不明*），因此应充分进行观察，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (frequency unknown), so full observation and appropriate measures should be taken.",
+        "label_text": "unknown"
+    },
+    {
+        "source": "原文 : 有可能出现中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）（频率均不明*），因此应充分进行观察，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (frequency unknown), so full observation and appropriate measures should be taken.",
+        "label_text": "unknown"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 2 : Patients using Zydov prescribed [refer to <unk> drug interaction<unk>];",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 2 : Patients using Zydov prescribed [refer to <unk> drug interaction<unk>];",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 2 : Patients using Zydov prescribed [refer to <unk> drug interaction<unk>];",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 2 : Patients using Zydov prescribed [refer to <unk> drug interaction<unk>];",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 有可能增强香豆素类抗凝血药（华法林）的作用，因此应注意调整用量。",
+        "hyp": "文 4 : There is a possibility of enhancing the effect of the anticoagulant warfarin, so care should be taken to adjust the dosage.",
+        "label_text": "warfarin"
+    },
+    {
+        "source": "原文 : 有可能增强香豆素类抗凝血药（华法林）的作用，因此应注意调整用量。",
+        "hyp": "文 4 : There is a possibility of enhancing the effect of the anticoagulant warfarin, so care should be taken to adjust the dosage.",
+        "label_text": "warfarin"
+    },
+    {
+        "source": "原文 : 阿司匹林制剂（作为抗血小板药使用时）",
+        "hyp": "文 3 : Aspirin preparations (when used as an anti-platelet drug)",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : 阿司匹林制剂（作为抗血小板药使用时）",
+        "hyp": "文 3 : Aspirin preparations (when used as an anti-platelet drug)",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 4 : 4 Hanhoo red pomegranate freshly chopped six sets (skin care cosmetics set waterproofing student girl washing face milk refreshing skin lotion tears gift box properly packed)",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 4 : 4 Hanhoo red pomegranate freshly chopped six sets (skin care cosmetics set waterproofing student girl washing face milk refreshing skin lotion tears gift box properly packed)",
+        "label_text": "4 "
+    },
+    {
+        "source": "原文 : 比较各组患者治疗3、6、24个月的血液学、细胞遗传学和分子学反应。",
+        "hyp": "文 1 : Comparison of hematology, cell genetics, and molecular responses of groups of patients treated for 3-6-24 months.",
+        "label_text": "-6-"
+    },
+    {
+        "source": "原文 : 卫生巾最好两三个小时更换一次，不然容易滋生细菌，除去睡眠时间，最坏的情况是一天更换6次，每月7天，那就是42片，如果加上提前准备的份可能有50片，并不是每个月用一片。",
+        "hyp": "文 3 : It is better to change the towel once every two or three hours, otherwise it is easy to breed bacteria, except for sleeping time, the worst case is to change it six times a day, seven days a month, that is, 42 pieces, if you add the portion prepared in advance, there may be 50 pieces, not one piece a month.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 二线组患者治疗3、6、12个月达MMR率分别为19.28%、33.72%、60.24%，三线组分别为11.48%、26.23%、49.18%，均高于对照组的0.00%、2.70%、0.00%；二线组治疗12个月达MMR率高于三线组，差异均有统计学意义（P<0.05）。",
+        "hyp": "文 1 : Patients in the second-line group had an MMR of 19.28% < 33.72% < 60.24% and the third-line group of 11.48% < 26.23% < 49.18%, respectively, both higher than the control group of 0.00% < 2.70% < 0.00%; the second-line group had an MMR of 12 months higher than the third-line group, the difference was statistically significant (P < 0.05) <",
+        "label_text": "< "
+    },
+    {
+        "source": "原文 : 二线组患者治疗3、6、12个月达MMR率分别为19.28%、33.72%、60.24%，三线组分别为11.48%、26.23%、49.18%，均高于对照组的0.00%、2.70%、0.00%；二线组治疗12个月达MMR率高于三线组，差异均有统计学意义（P<0.05）。",
+        "hyp": "文 1 : Patients in the second-line group had an MMR of 19.28% < 33.72% < 60.24% and the third-line group of 11.48% < 26.23% < 49.18%, respectively, both higher than the control group of 0.00% < 2.70% < 0.00%; the second-line group had an MMR of 12 months higher than the third-line group, the difference was statistically significant (P < 0.05) <",
+        "label_text": "< "
+    },
+    {
+        "source": "原文 : 二线组患者治疗3、6、12个月达MMR率分别为19.28%、33.72%、60.24%，三线组分别为11.48%、26.23%、49.18%，均高于对照组的0.00%、2.70%、0.00%；二线组治疗12个月达MMR率高于三线组，差异均有统计学意义（P<0.05）。",
+        "hyp": "文 1 : Patients in the second-line group had an MMR of 19.28% < 33.72% < 60.24% and the third-line group of 11.48% < 26.23% < 49.18%, respectively, both higher than the control group of 0.00% < 2.70% < 0.00%; the second-line group had an MMR of 12 months higher than the third-line group, the difference was statistically significant (P < 0.05) <",
+        "label_text": " < "
+    },
+    {
+        "source": "原文 : 二线组患者治疗3、6、12个月达MMR率分别为19.28%、33.72%、60.24%，三线组分别为11.48%、26.23%、49.18%，均高于对照组的0.00%、2.70%、0.00%；二线组治疗12个月达MMR率高于三线组，差异均有统计学意义（P<0.05）。",
+        "hyp": "文 1 : Patients in the second-line group had an MMR of 19.28% < 33.72% < 60.24% and the third-line group of 11.48% < 26.23% < 49.18%, respectively, both higher than the control group of 0.00% < 2.70% < 0.00%; the second-line group had an MMR of 12 months higher than the third-line group, the difference was statistically significant (P < 0.05) <",
+        "label_text": "< "
+    },
+    {
+        "source": "原文 : 二线组患者治疗3、6、12个月达MMR率分别为19.28%、33.72%、60.24%，三线组分别为11.48%、26.23%、49.18%，均高于对照组的0.00%、2.70%、0.00%；二线组治疗12个月达MMR率高于三线组，差异均有统计学意义（P<0.05）。",
+        "hyp": "文 1 : Patients in the second-line group had an MMR of 19.28% < 33.72% < 60.24% and the third-line group of 11.48% < 26.23% < 49.18%, respectively, both higher than the control group of 0.00% < 2.70% < 0.00%; the second-line group had an MMR of 12 months higher than the third-line group, the difference was statistically significant (P < 0.05) <",
+        "label_text": " <"
+    },
+    {
+        "source": "原文 : 二线组患者治疗3、6、12个月达MMR率分别为19.28%、33.72%、60.24%，三线组分别为11.48%、26.23%、49.18%，均高于对照组的0.00%、2.70%、0.00%；二线组治疗12个月达MMR率高于三线组，差异均有统计学意义（P<0.05）。",
+        "hyp": "文 1 : Patients in the second-line group had an MMR of 19.28% < 33.72% < 60.24% and the third-line group of 11.48% < 26.23% < 49.18%, respectively, both higher than the control group of 0.00% < 2.70% < 0.00%; the second-line group had an MMR of 12 months higher than the third-line group, the difference was statistically significant (P < 0.05) <",
+        "label_text": " < "
+    },
+    {
+        "source": "原文 : 常见于肾功能急性恶化、患有心肺疾病或败血症的患者中。",
+        "hyp": "文 5 : Common in patients with acute deterioration of renal function in patients with cardiovascular disease or sepsis.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 应告知患者和/或看护者乳酸酸中毒的风险。",
+        "hyp": "文 4 : Patients and or caregivers should be informed of the risk of lactic acid poisoning.",
+        "label_text": "and or"
+    },
+    {
+        "source": "原文 : 严重的肾功能衰竭（eGFR<45mL/min/1.73m2）；",
+        "hyp": "文 3 : severe kidney failure (eGFR is less than 45 mL/min/1.73 m2);",
+        "label_text": "2"
+    },
+    {
+        "source": "原文 : 可能影响肾功能的急性病情，如：脱水、严重感染、休克；",
+        "hyp": "文 5 : Acute conditions that may affect kidney function, such as: dehydration, severe kidney infection, kidney shock;",
+        "label_text": ": "
+    },
+    {
+        "source": "原文 : 使用这些药品观察到的超敏反应（下文所述）有一些共同特征，例如发热和／或皮疹，以及提示累及多器官的其他症状。",
+        "hyp": "文 2 : The hypersensitivity reactions observed with these drugs (described below) have some common characteristics, such as fever and or rash, as well as other symptoms that suggest multi-organ overload.",
+        "label_text": "and or"
+    },
+    {
+        "source": "原文 : 皮莱说 ： “ 他们能够在家里控制疾病，大多数人在隔离10至14天内康复 。 ”",
+        "hyp": "文 2 : They were able to control the disease at home, and most people recovered within 10 to 14 days of quarantine.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 二甲双胍禁用于急性和不稳定性心衰的患者（见【禁忌】）。",
+        "hyp": "文 2 : It is forbidden to be used in patients with acute and unstable heart failure (see <unk> taboo<unk>).",
+        "label_text": " <unk> taboo<unk>"
+    },
+    {
+        "source": "原文 : 二甲双胍禁用于急性和不稳定性心衰的患者（见【禁忌】）。",
+        "hyp": "文 2 : It is forbidden to be used in patients with acute and unstable heart failure (see <unk> taboo<unk>).",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "nmolL"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "pmolL"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "pmolL"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "pmolL"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "pmolL"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "output"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "pmolL"
+    },
+    {
+        "source": "原文 : 在接受常规、脊髓或硬膜外麻醉的手术时必须停止服用二甲双胍。",
+        "hyp": "文 4 : Metformin must be discontinued during surgery under conventional spinal or ectopic anesthesia.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 其他关键症状包括胃肠道、呼吸或全身症状，例如嗜睡和不适。",
+        "hyp": "文 2 : Other key symptoms include gastrointestinal shortness of breath or systemic symptoms such as drowsiness and nausea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 几乎所有发生超敏反应的患者会存在发热和／或皮疹（通常是斑丘疹或荨麻疹）作为综合征的一部分，但也发生过没有皮疹或发热的反应。",
+        "hyp": "文 4 : Almost all patients with hypersensitivity reactions have fever and or rash (usually psoriasis or psoriasis) as part of the syndrome, but there have also been reactions without rash or rash.",
+        "label_text": "and or"
+    },
+    {
+        "source": "原文 : 术后6个月放疗不良事件评分为（6.5±0.8）分。",
+        "hyp": "文 1 : Adverse radiation events 6 months after surgery were rated 6.5 ± 0.8.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 术后6个月放疗不良事件评分为（6.5±0.8）分。",
+        "hyp": "文 1 : Adverse radiation events 6 months after surgery were rated 6.5 ± 0.8.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 本品对紫外线红斑（豚鼠）及角叉菜胶水肿（大鼠）急性炎症的ID50（经口给药）分别为4.4mg/kg、22 mg/kg，比阿司匹林的各值均有效。",
+        "hyp": "文 5 : The ID50 (oral administration) of this product for acute inflammation of ultraviolet red spots (porcupine) and horned forks (rat) is 4.4 mg/kg <22 mg/kg, respectively, which is more effective than aspirin.",
+        "label_text": "<"
+    },
+    {
+        "source": "原文 : 他还说 ： “ 现在还是早期，我们需要获得后期数据。",
+        "hyp": "文 3 : He also said, \"It's still early, we need to get later data\".",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 1 : The polymorphism of the N-acetyltransferase 2 (NAT2) gene type and the NAT2 protein type significantly affects the concentration of hemoglobin in the blood.",
+        "label_text": "(NAT2)"
+    },
+    {
+        "source": "原文 : 每片含多替拉韦钠（以多替拉韦计）50mg、硫酸阿巴卡韦（以阿巴卡韦计）600mg和拉米夫定300mg。",
+        "hyp": "文 1 : Each tablet contains 50 mg of hydrochloric acid (in hydrochloric acid) Abacave (in hydrochloric acid) 600 mg and 300 mg of Ramifine.",
+        "label_text": ") "
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 1 : An analysis of the aggregated data from phase IIb to phase IIIb clinical trials revealed that the adverse reactions observed with the combination of doxycycline + abacave and ramifine were generally consistent with the adverse reactions observed with the single ingredient doxycycline <unk> abacave and ramifine.",
+        "label_text": "and "
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 1 : An analysis of the aggregated data from phase IIb to phase IIIb clinical trials revealed that the adverse reactions observed with the combination of doxycycline + abacave and ramifine were generally consistent with the adverse reactions observed with the single ingredient doxycycline <unk> abacave and ramifine.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 个性化定位组胫骨轴线分为直线型58膝（50.88%）、内弓型35膝（30.70%）、外弓型21膝（18.42%）。",
+        "hyp": "文 5 : The axis of the individualized positioning group of the tibia is divided into linear 58 knee (50.88%) <unk> internal arch 35 knee (30.70%) <unk> external arch 21 knee (18.42%) <unk>",
+        "label_text": " <unk> "
+    },
+    {
+        "source": "原文 : 个性化定位组胫骨轴线分为直线型58膝（50.88%）、内弓型35膝（30.70%）、外弓型21膝（18.42%）。",
+        "hyp": "文 5 : The axis of the individualized positioning group of the tibia is divided into linear 58 knee (50.88%) <unk> internal arch 35 knee (30.70%) <unk> external arch 21 knee (18.42%) <unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 因为再等待 20 分钟就已经等了 1 个小时 #NUMBER# 分鐘了",
+        "hyp": "文 1 : If you wait another 20 minutes, you've already waited an hour. #NUMBER #Minute",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 对于轻度肝损害（Child-Pugh 5-6分）患者，需要密切监测，如可行，包括监测阿巴卡韦血浆水平（见【注意事项】和【药代动力学】）。",
+        "hyp": "文 5 : For patients with mild liver damage (Child-Pugh score of 5-6), close monitoring is required, if possible, including monitoring of abacave plasma levels (see <unk> Precautions <unk> and <unk> Pharmacokinetics <unk>).",
+        "label_text": "<unk> Precautions <unk>"
+    },
+    {
+        "source": "原文 : 对于轻度肝损害（Child-Pugh 5-6分）患者，需要密切监测，如可行，包括监测阿巴卡韦血浆水平（见【注意事项】和【药代动力学】）。",
+        "hyp": "文 5 : For patients with mild liver damage (Child-Pugh score of 5-6), close monitoring is required, if possible, including monitoring of abacave plasma levels (see <unk> Precautions <unk> and <unk> Pharmacokinetics <unk>).",
+        "label_text": "<unk> Pharmacokinetics <unk>"
+    },
+    {
+        "source": "原文 : “很多疾病早期检测、切除不到位，跟医生手术室用的灯有关 。 ”",
+        "hyp": "文 4 : <unk> Early detection of many diseases <unk> Failure to remove the site is related to the lights used in the doctor's operating room <unk> <unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : “很多疾病早期检测、切除不到位，跟医生手术室用的灯有关 。 ”",
+        "hyp": "文 4 : <unk> Early detection of many diseases <unk> Failure to remove the site is related to the lights used in the doctor's operating room <unk> <unk>",
+        "label_text": " <unk> "
+    },
+    {
+        "source": "原文 : 肌酐清除率小于50 mL/min的患者，不建议服用本品（见【药代动力学】）。",
+        "hyp": "文 3 : Patients with myelogenous clearance of less than 50 mL/min are not recommended to take this product (see <unk> pharmacokinetics <unk>).",
+        "label_text": "<unk> "
+    },
+    {
+        "source": "原文 : 肌酐清除率小于50 mL/min的患者，不建议服用本品（见【药代动力学】）。",
+        "hyp": "文 3 : Patients with myelogenous clearance of less than 50 mL/min are not recommended to take this product (see <unk> pharmacokinetics <unk>).",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 应用LogistiC回归分析影响二三线疗效的因素. 三组患者治疗3、6、12个月达完全血液学反应（CHR）、主要细胞遗传学反应（MCyR）、主要分子学反应（MMR）率比较差异均有统计学意义（P<0.05）。",
+        "hyp": "文 2 : Application of LogistiC regression analysis to factors affecting secondary and tertiary efficacy. Three groups of patients treated for 3-6-12 months achieved complete hematological response (CHR) <unk> major cell genetic response (MCyR) <unk> major molecular response (MMR) rate comparison differences were statistically significant (P<0.05) <unk>",
+        "label_text": " <unk>"
+    },
+    {
+        "source": "原文 : 应用LogistiC回归分析影响二三线疗效的因素. 三组患者治疗3、6、12个月达完全血液学反应（CHR）、主要细胞遗传学反应（MCyR）、主要分子学反应（MMR）率比较差异均有统计学意义（P<0.05）。",
+        "hyp": "文 2 : Application of LogistiC regression analysis to factors affecting secondary and tertiary efficacy. Three groups of patients treated for 3-6-12 months achieved complete hematological response (CHR) <unk> major cell genetic response (MCyR) <unk> major molecular response (MMR) rate comparison differences were statistically significant (P<0.05) <unk>",
+        "label_text": "<unk>"
+    }
+]

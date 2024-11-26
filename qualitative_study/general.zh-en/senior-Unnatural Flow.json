@@ -1,0 +1,97 @@
+[
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 4 : The Nine Emperors who dominated the Kunlun Realm 800 years ago are all history now.",
+        "label_text": "are all history now"
+    },
+    {
+        "source": "原文 : 目前根据官方统计，周一的地震已经在土耳其造成超过2万人死亡，邻国叙利亚的死亡人数估计在3500人以上。",
+        "hyp": "文 1 : According to official statistics, Monday's quake has killed more than 20,000 people in Turkey, and the death toll in neighboring Syria is estimated at more than 3,500 people.",
+        "label_text": "Monday's quake"
+    },
+    {
+        "source": "原文 : 目前根据官方统计，周一的地震已经在土耳其造成超过2万人死亡，邻国叙利亚的死亡人数估计在3500人以上。",
+        "hyp": "文 1 : According to official statistics, Monday's quake has killed more than 20,000 people in Turkey, and the death toll in neighboring Syria is estimated at more than 3,500 people.",
+        "label_text": "neighboring Syria"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 5 : Chest and stomach areas are fluffy white hairs, and the tips of the limbs are white. It is said that such snow-white gloves have an amazing effect on girls, like they can control their brain waves, so that they would go \"ah ~ ~ ah ~ ~\".",
+        "label_text": "the tips of the limbs"
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 3 : Let me do the math. The shoes cost over 4,000 yen, which counts as 200 yuan. Option 1. I don't have shoes, and the loss is at 200 yuan.",
+        "label_text": "Option 1. I don't have shoes"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 4 : During the seminar, all the participants, guided by Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, studied the guiding principles of the 20th CPC National Congress and General Secretary Xi Jinping's important speech at the opening ceremony of the seminar. They had in-depth exchange of views in light of the realities and gained a deeper understanding of a series of major theoretical and practical issues concerning Chinese modernization. They developed greater confidence and resolve to promote the great rejuvenation of the Chinese nation in all aspects through Chinese modernization under the strong leadership of the CPC Central Committee, with Comrade Xi Jinping as the core. Moreover, they had a greater sense of responsibility and mission to perform their duties, do a good job, and ensure a good start of the new journey in the new era.",
+        "label_text": "hinese modernization"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 4 : During the seminar, all the participants, guided by Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, studied the guiding principles of the 20th CPC National Congress and General Secretary Xi Jinping's important speech at the opening ceremony of the seminar. They had in-depth exchange of views in light of the realities and gained a deeper understanding of a series of major theoretical and practical issues concerning Chinese modernization. They developed greater confidence and resolve to promote the great rejuvenation of the Chinese nation in all aspects through Chinese modernization under the strong leadership of the CPC Central Committee, with Comrade Xi Jinping as the core. Moreover, they had a greater sense of responsibility and mission to perform their duties, do a good job, and ensure a good start of the new journey in the new era.",
+        "label_text": "Chinese modernization"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 2 : The China Academy of Engineering Physics was first located in Beijing. Then the main engineering and production departments were moved to Jinyintan, Xihai Town, Haiyan County, Qinghai Province, i.e., Factory 221. In 1970, the main engineering and production departments were relocated in the mountainous areas of northern Sichuan.",
+        "label_text": "i.e., Factory 221"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 2 : The China Academy of Engineering Physics was first located in Beijing. Then the main engineering and production departments were moved to Jinyintan, Xihai Town, Haiyan County, Qinghai Province, i.e., Factory 221. In 1970, the main engineering and production departments were relocated in the mountainous areas of northern Sichuan.",
+        "label_text": "i.e., Factory 221"
+    },
+    {
+        "source": "原文 : 脸上有些痒痒的，周围似乎是一片草丛。",
+        "hyp": "文 1 : There was a little tickle on my face and there seemed to be grasses around me.",
+        "label_text": "a little tickle on my face"
+    },
+    {
+        "source": "原文 : 那玉石在他手心，就在他右手掌心里，居然融化起来。",
+        "hyp": "文 3 : The jade, in his hand or in the palm of his right hand, melted amazingly.",
+        "label_text": " in his hand or in the palm of his right hand"
+    },
+    {
+        "source": "原文 : 2015年8月，经济学人集团从培生集团手中回购了价值2.84亿美元的500万股股份，而培生集团所持有的其余价值4.47亿美元的股份则被出售给意大利投资公司。",
+        "hyp": "文 2 : In August 2015, the Economist Group repurchased 5 million shares from Pearson Group for $284 million. The remaining stake of $447 million was sold to an Italian investment firm.",
+        "label_text": "The remaining stake of $447 million"
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 1 : After a considerable period of time, Lin Feng began to adapt to his physical transformations and a sense of relief washed over him. \"Finally, I am capable of protecting myself,\" he muttered. However, he was overwhelmed by the idea that the ultimate goal was to establish the most prestigious sect in history, with himself as one of its illustrious founders. Eagerly, he proceeded to inspect the items in the gift bag for beginners.",
+        "label_text": "Eagerly"
+    },
+    {
+        "source": "原文 : “叶默，叶默，你没事吧，快点起来啊，马上要上课了，这节课是无情冰的，你赶紧起来。” 一个有些急的声音在叶默的耳边响起，叶默有一种很奇怪的感觉。",
+        "hyp": "文 3 : \"Ye Mo, Ye Mo, are you okay? Wake up, it's time for class. The lecture is going to be delivered by Ruthless. Hurry and get up,\" a hurried voice called out near Ye's ears, leaving him with a strange feeling.",
+        "label_text": "a hurried voice"
+    },
+    {
+        "source": "原文 : 孟奇仔细把玩了一下这拇指大小的玉佛，只见“它”满脸慈悲，栩栩如生，显然雕工不凡，同时，“它”手感细腻，既温润又给人清凉之感。",
+        "hyp": "文 4 : Meng Qi carefully examined the thumb-sized jade Buddha and noticed that it showed a compassionate expression and lifelike appearance, as well as exquisite craftsmanship. Moreover, it had a delicate texture that felt both warm and refreshingly cool to the touch.",
+        "label_text": "it showed a compassionate expression and lifelike appearance, as well as exquisite craftsmanship"
+    },
+    {
+        "source": "原文 : 宗族冲突可能导致械斗和造成流血事件，参与者人口可能数十人到几万人。",
+        "hyp": "文 1 : Intra-Clan conflicts can potentially lead to clashes and bloodshed, involving tens to tens of thousands of individuals.",
+        "label_text": " tens to tens of thousands of "
+    },
+    {
+        "source": "原文 : 三颗星是怪自己马虎没看清楚商品规格，你卖M码电商版我没意见，你货不对版是几个意思？",
+        "hyp": "文 2 : The reason I marked three stars is I should be blamed for not seeing the product specifications. I'm OK with your selling the M-size e-commerce version, but not OK with a product different from the what I see.",
+        "label_text": "but not OK with"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 3 : An articled published in the Billboard in August 2021 noted: The fans of BTS exploited an advantage concerning the billboard \"in an aboveboard way\" to promote the rankings of BTS's singles including Butter in the United States, listing them in the first group of the Top 100 for weeks. Although the list of Top 100 Singles usually depends on the streaming media and amount of playing, the ranking of Butter is primarily based on the sales (mostly via BTS's online store, which, different from iTunes, allows fans to purchase multiple copies of a song) and fan-led crowdfunding activities (including using fund raised from global fans to make purchases that are only taken into account in American sales via PayPal and the like services). But an article published in The Korea Times refuted the allegation of billboard manipulation, arguing that the fans of other singers, including Justin Bieber and Ariana Grande, had also taken the similar promotional measures, which were neither illegal nor immoral, and that these fans are simply \"intelligent-device-based consumers that lead a global trend\".",
+        "label_text": "amount of playing"
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 4 : In August 2013, Jonas Christensen competed in the BWF World Championships held in Guangzhou, China. Alongside his partner Marius Myhre in the men's doubles event, they lost in the opening round with a score of 0-2 (15-21, 8-21) to their opponents Marcus Ellis and Paul van Rietvelde, marking their end in the competition.",
+        "label_text": "marking their end "
+    }
+]

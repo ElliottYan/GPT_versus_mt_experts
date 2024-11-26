@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 2 : 根据伦敦交通局（TfL）进行的一项调查显示，15%的女性乘客在伦敦使用公共交通工具时遭遇过某种形式的不受欢迎的性骚扰，但有90%的事件并未被报告。为此，更安全交通指挥部联合英国交通警察部队（BTP）、伦敦金融城警察和伦敦交通局共同启动了“守护者计划”，旨在减少性侵犯事件并增加事件的报告率。",
+        "label_text": "部队"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 4 : 阿部总是隐藏自己的悲伤，笑容却来得很容易，而汤姆则不怕流露眼泪，但对粗俗的幽默不太感兴趣。",
+        "label_text": "阿部"
+    },
+    {
+        "source": "原文 : Do u pick up insects and spiders with your bare hands?",
+        "hyp": "文 4 : 你会用赤手空拳捡起昆虫和蜘蛛吗？",
+        "label_text": "赤手空拳"
+    },
+    {
+        "source": "原文 : Do u pick up insects and spiders with your bare hands?",
+        "hyp": "文 4 : 你会用赤手空拳捡起昆虫和蜘蛛吗？",
+        "label_text": "赤手空拳"
+    },
+    {
+        "source": "原文 : Do you pick up insects and spiders with your bare hands?",
+        "hyp": "文 5 : 你会用赤手空拳捡起昆虫和蜘蛛吗？",
+        "label_text": "赤手空拳捡起"
+    },
+    {
+        "source": "原文 : Do you pick up insects and spiders with your bare hands?",
+        "hyp": "文 5 : 你会用赤手空拳捡起昆虫和蜘蛛吗？",
+        "label_text": "赤手空拳捡起"
+    }
+]

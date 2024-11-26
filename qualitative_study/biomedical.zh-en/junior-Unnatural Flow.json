@@ -1,0 +1,52 @@
+[
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Acute renal failure, interstitial nephritis, and nephrotic syndrome may occur (frequency unknown*). Therefore, close observation is necessary. In case of oliguria, hematuria, urinary protein, BUN/blood creatinine increased, hyperkalemia, and hypoproteinemia, the administration should be discontinued, and appropriate measures should be taken.",
+        "label_text": "BUN/blood creatinine increased"
+    },
+    {
+        "source": "原文 : 有报告指出，阿司匹林削弱血小板聚集抑制作用。",
+        "hyp": "文 2 : Aspirin has been reported to impair platelet aggregation inhibition.",
+        "label_text": "impair platelet aggregation inhibition"
+    },
+    {
+        "source": "原文 : 所谓古着，vintage，设计都会带有年代的复古感，也就是怀旧，之所以喜欢古着也是喜欢它的岁月感，和它的质感！",
+        "hyp": "文 2 : Vintage clothing's designs evoke nostalgia tied to a specific era, making it appealing due to its historical significance and quality.",
+        "label_text": "historical significance and quality"
+    },
+    {
+        "source": "原文 : 塞浦路斯卫生部10日宣布该国首次确诊3例奥密克戎毒株感染病例。",
+        "hyp": "文 4 : On the 10th, the Ministry of Health in Cyprus announced the first confirmation of three cases of Omicron variant infection in the country.",
+        "label_text": "the first confirmation of"
+    },
+    {
+        "source": "原文 : 术后至少48小时或恢复进食并且肾功能经评估稳定后才可以重新开始治疗。",
+        "hyp": "文 1 : Treatment can only be resumed after a minimum of 48 hours post-surgery or upon stable renal function evaluation and resumption of eating.",
+        "label_text": "stable renal function evaluation"
+    },
+    {
+        "source": "原文 : 食管癌是我国常见恶性肿瘤之一，2015年食管癌发病率和死亡率分别为17.87/10万和13.68/10万，位列我国发病和死因顺位的第6位和第4位。",
+        "hyp": "文 2 : Esophageal cancer is a prevalent malignancy in China, with an incidence rate and mortality rate of 17.87 and 13.68 per 100,000 individuals respectively in 2015. It ranked 6th in terms of incidence and 4th in terms of mortality among all causes in China.",
+        "label_text": "17.87 and 13.68 per 100,000 "
+    },
+    {
+        "source": "原文 : 食管癌是我国常见恶性肿瘤之一，2015年食管癌发病率和死亡率分别为17.87/10万和13.68/10万，位列我国发病和死因顺位的第6位和第4位。",
+        "hyp": "文 2 : Esophageal cancer is a prevalent malignancy in China, with an incidence rate and mortality rate of 17.87 and 13.68 per 100,000 individuals respectively in 2015. It ranked 6th in terms of incidence and 4th in terms of mortality among all causes in China.",
+        "label_text": "It ranked 6th in terms of incidence and 4th in terms of mortality among all causes in China"
+    },
+    {
+        "source": "原文 : 动脉粥样硬化斑块破裂是引发众多心血管疾病的主要原因，而生物力学因素在斑块破裂过程中有着重要的作用。",
+        "hyp": "文 2 :  The rupture of the atherosclerotic plaque is a primary cause of cardiovascular diseases, where biomechanical factors play a crucial role in the process.",
+        "label_text": "where biomechanical factors play a crucial role in the process"
+    },
+    {
+        "source": "原文 : 月经无法控制，开始到结束为止的几天内24小时流血，能做的只有用卫生巾或卫生棉条吸血防止流到衣服椅子上。",
+        "hyp": "文 1 : During the uncontrollable menstrual period, which lasts for several days with continuous bleeding, the only recourse is to use sanitary pads or tampons to prevent blood from staining the clothes or chairs.",
+        "label_text": "During the uncontrollable menstrual period, which lasts for several days with continuous bleeding"
+    },
+    {
+        "source": "原文 : 肺泡蛋白沉积症（PAP）是一种呼吸系统罕见病，研究进展缓慢。",
+        "hyp": "文 3 : Pulmonary Alveolar Proteinosis (PAP) is a rare disease characterized by respiratory system disorder. Little progress has been made in its research.",
+        "label_text": "is a rare disease characterized by respiratory system disorder"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 1 : Умм, может быть, потому что мы разные люди с разными телами???",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 1 : Край может быть необходим в зависимости от FA, и парень из Айовы (я не могу написать его имя) хорош, но это все еще немного достижимо.",
+        "label_text": "FA"
+    },
+    {
+        "source": "原文 : Thus, Stimforte, which exhibits, on the one hand, antiviral activity against viruses of different families and, on the other hand, the immunomodulatory properties, could be promising as an etiopathogenic tool in helping to normalize both nonspecific and specific immunity.",
+        "hyp": "文 2 : Таким образом, Stimforte, который демонстрирует, с одной стороны, противовирусную активность против вирусов различных семейств и, с другой стороны, иммуномодулирующие свойства, может быть перспективным в качестве этиопатогенного инструмента, помогающего нормализовать как неспецифический, так и специфический иммунитет.",
+        "label_text": "Stimforte"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 1 : Таким образом, я хотел бы, чтобы [PERSON4] был в контакте с [PERSON2].",
+        "label_text": "PERSON4"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 1 : Таким образом, я хотел бы, чтобы [PERSON4] был в контакте с [PERSON2].",
+        "label_text": "PERSON2"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 1 : Таким образом, я хотел бы, чтобы [PERSON4] был в контакте с [PERSON2].",
+        "label_text": "PERSON4"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 1 : Таким образом, я хотел бы, чтобы [PERSON4] был в контакте с [PERSON2].",
+        "label_text": "PERSON2"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 2 : Как сообщало The Washington Post в октябре, в этом отклонении отмечалось, что бывший помощник Пенса Марк Шорт, например, \"вероятно, владел информацией, важной для уголовного расследования Министерства юстиции нападения 6 января 2021 года на Капитолий, которая не была доступна из других источников\".",
+        "label_text": "The Washington Post"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 2 : Солдаты, как утверждается, украли еще 1 440 000 CFA ($ 2 845) у других мужчин.",
+        "label_text": "CFA"
+    },
+    {
+        "source": "原文 : However, the expression level of the NUP153 gene from the alternative LINE-1 promoter was 17 times higher in chorionic villi and 23 times higher in extraembryonic mesoderm than in lymphocytes (p < 0.05).",
+        "hyp": "文 5 : Тем не менее, уровень экспрессии гена NUP153 от альтернативного промотора LINE-1 был в 17 раз выше в хорионических волосках и в 23 раза выше в экстраэмбриональной мезодерме, чем в лимфоцитах (p < 0,05).",
+        "label_text": "LINE"
+    },
+    {
+        "source": "原文 : It’s hard for me to join in convos w big groups of ppl which is related to adhd.",
+        "hyp": "文 3 : Мне трудно присоединяться к большим группам людей, которые связаны с ADHD.",
+        "label_text": "ADHD"
+    },
+    {
+        "source": "原文 : It’s the same as a whole one (and along that line), like, lol, why?”, and he was like “ok, oof, it’s not” and I’m like “lol, why did you say that?”",
+        "hyp": "文 3 : Это то же самое, что и целый (и вдоль этой линии), как, lol, почему? И он был как <unk>ok, oof, это <unk>не<unk> и я как <unk>lol, почему ты это сказал?<unk>",
+        "label_text": "oof"
+    }
+]

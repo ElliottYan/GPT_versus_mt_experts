@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : Я конкретно про \"лягушонок\", Тренер наш Анастасия Витальевна очень нравится ребенку и профессиональна!!",
+        "hyp": "文 4 : I talk specifically about \"lyagushonok\", my child like our coach Anastasia Vitalievna very much, and she is a professional!!!!",
+        "label_text": "lyagushonok"
+    },
+    {
+        "source": "原文 : Связалась напрямую с мастером Александром, который объяснил все тонкости ремонта и сразу обозначил ценовые рамки.",
+        "hyp": "文 4 : I contacted Alexander directly, he explained to me all the intricacies of the repair and outlined the price range straight away.",
+        "label_text": "I"
+    }
+]

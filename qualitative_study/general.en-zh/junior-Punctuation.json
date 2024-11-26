@@ -1,0 +1,117 @@
+[
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 2 : 一开始我并不知道该说什么，但是后来我又想起了一些事情，所以我就说了“但是我没有。”",
+        "label_text": "。"
+    },
+    {
+        "source": "原文 : I don’t care if your dog/child is friendly or “dog savvy”.",
+        "hyp": "文 1 : 我并不在乎你的狗/孩子是否友善或“聪明机智”。",
+        "label_text": "“"
+    },
+    {
+        "source": "原文 : I don’t care if your dog/child is friendly or “dog savvy”.",
+        "hyp": "文 1 : 我并不在乎你的狗/孩子是否友善或“聪明机智”。",
+        "label_text": "”"
+    },
+    {
+        "source": "原文 : I don’t care if your dog/child is friendly or “dog savvy”.",
+        "hyp": "文 1 : 我并不在乎你的狗/孩子是否友善或“聪明机智”。",
+        "label_text": "“"
+    },
+    {
+        "source": "原文 : I don’t care if your dog/child is friendly or “dog savvy”.",
+        "hyp": "文 1 : 我并不在乎你的狗/孩子是否友善或“聪明机智”。",
+        "label_text": "”"
+    },
+    {
+        "source": "原文 : If there's a ghost in the house, why the HELL would you go in the darkest and creepiest place in the house?!",
+        "hyp": "文 2 : 如果房子里有鬼，那你为什么要去房子最黑最恐怖的地方呢？",
+        "label_text": "？"
+    },
+    {
+        "source": "原文 : He read my reply which said \"I'm so worried about you!",
+        "hyp": "文 3 : 他看了我的回信（上面写着“我真为你担心！”）。",
+        "label_text": "（"
+    },
+    {
+        "source": "原文 : He read my reply which said \"I'm so worried about you!",
+        "hyp": "文 3 : 他看了我的回信（上面写着“我真为你担心！”）。",
+        "label_text": "）"
+    },
+    {
+        "source": "原文 : She could’ve said “I’m with my boyfriend, please don’t call me”, but she didn’t.",
+        "hyp": "文 4 : 她本可以说“我和我男朋友在一起，请不要给我打电话。”但是她并没有这样说。",
+        "label_text": "。”"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 4 : 【PERSON9】已开始收集数据，但我想在【PROJECT5】设置中看到该领域自适应的优势。",
+        "label_text": "【"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 4 : 【PERSON9】已开始收集数据，但我想在【PROJECT5】设置中看到该领域自适应的优势。",
+        "label_text": "】"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 4 : 【PERSON9】已开始收集数据，但我想在【PROJECT5】设置中看到该领域自适应的优势。",
+        "label_text": "【"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 4 : 【PERSON9】已开始收集数据，但我想在【PROJECT5】设置中看到该领域自适应的优势。",
+        "label_text": "】"
+    },
+    {
+        "source": "原文 : I felt my heart rate increase and started sweating more.",
+        "hyp": "文 3 : 我感觉我心率加快了并且开始大量出汗了。",
+        "label_text": "了"
+    },
+    {
+        "source": "原文 : Is my dog not allowed to be nervous around other puppies?).",
+        "hyp": "文 4 : 我的狗狗不能在其他小狗面前紧张吗？）",
+        "label_text": "？）"
+    },
+    {
+        "source": "原文 : Me and my real life friends need a team that we (or especially I) can VOD review in order to learn about tarping, switching layers and positioning.",
+        "hyp": "文 4 : 我和我现实生活中的朋友需要一个团队，这样我们(或特别是我)就可以开展VOD审查，了解铺防水布系统，交换层和定位。",
+        "label_text": "("
+    },
+    {
+        "source": "原文 : Me and my real life friends need a team that we (or especially I) can VOD review in order to learn about tarping, switching layers and positioning.",
+        "hyp": "文 4 : 我和我现实生活中的朋友需要一个团队，这样我们(或特别是我)就可以开展VOD审查，了解铺防水布系统，交换层和定位。",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : If you three could meet and double check what is [PROJECT5] doing with the -",
+        "hyp": "文 1 : 如果你们三人能见面并仔细检查【PROJECT5】正在做什么",
+        "label_text": "【"
+    },
+    {
+        "source": "原文 : If you three could meet and double check what is [PROJECT5] doing with the -",
+        "hyp": "文 1 : 如果你们三人能见面并仔细检查【PROJECT5】正在做什么",
+        "label_text": "】"
+    },
+    {
+        "source": "原文 : Towards the end, my husband sends me a Facebook message saying he’s ready for her to leave (she’d been there 2 hours at this point) and then he starts passive-aggressive cleaning in front of us.",
+        "hyp": "文 5 : 快结束时，我丈夫给我发了一条脸书消息（他准备让她离开(此时她已经呆了两个小时)），然后他开始在我面前不情愿地打扫卫生。",
+        "label_text": "（"
+    },
+    {
+        "source": "原文 : Towards the end, my husband sends me a Facebook message saying he’s ready for her to leave (she’d been there 2 hours at this point) and then he starts passive-aggressive cleaning in front of us.",
+        "hyp": "文 5 : 快结束时，我丈夫给我发了一条脸书消息（他准备让她离开(此时她已经呆了两个小时)），然后他开始在我面前不情愿地打扫卫生。",
+        "label_text": "）"
+    },
+    {
+        "source": "原文 : As the diocese that was growing and the world was changing, Bishop Ahr took part in all four sessions of the Second Vatican Council, 1962-1965, and subsequently guided implementation of the council's decrees in the diocese.",
+        "hyp": "文 5 : 由于主教教区的发展和世界的革新，主教阿赫尔（Bishop Ahr)参加了所有梵蒂冈第二届大公会议四阶段全体会议（1962年到1965年）,随后指导在主教教区执行会议法令。",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : He waited for me to leave to fire someone who has been a dedicated employee bc shes a poc with tattoos and”fits the part” of someone he considered would be on drugs.",
+        "hyp": "文 2 : 等我离开后，他就开除了一个敬业的员工，因为她是一个带纹身的有色人种，符合他认为的是吸毒的人的特征。",
+        "label_text": "符合"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "广告屏蔽"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "metathesis"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "glottalization"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "deletion"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 4 : 瓦齐里补充说,Djehuty 是国家财政部的监督员,并在哈切普苏特女王统治期间监督了工匠和艺术家的作品.",
+        "label_text": "Djehuty"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 3 : 在最基本的层面上,电子负率取决于核电荷 (原子有越多的质子,它对电子的\"拉动\"越大) 和原子外<unk>中的其他电子的数量和位置 (原子有越多的电子,等价电子离核越远,因此,它们会经历的正电荷越少 - - 无论是因为它们与核的距离增加,还是因为较低能量核心轨道中的其他电子会保护等价电子免受正电荷的核.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : He said yes n today came to do it , after a bit said he was done and leaving, I gave him £20 n said how greatful I am for the help .",
+        "hyp": "文 3 : 我给了他20英<unk>, 说我很感谢他的帮助.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : He said yes n today came to do it , after a bit said he was done and leaving, I gave him £20 n said how greatful I am for the help .",
+        "hyp": "文 3 : 我给了他20英<unk>, 说我很感谢他的帮助.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 4 : 一方面,叙事可以简单地和现实地解释在它的背景下,在中产阶级的法律学生和作家Humberto Peñaloza试图通过当代智利社会的行列, 严格根据阶级分裂; 另一方面,叙事可以解释在它的模<unk>和无形的本质, 在它本身没有定义, 因此历史是身份的神话和物质和心理世界之间的边界被打破和流动,",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Also please refrain from telling me that google/flutter apps suck on iOS and macOS.",
+        "hyp": "文 4 : 此外,请不要告诉我谷歌应用程序在iOS和MacOS上很糟糕.",
+        "label_text": "谷歌"
+    },
+    {
+        "source": "原文 : It’s chill, edgy, and if you want to join, comment and I’ll direct message you the link.",
+        "hyp": "文 2 : 如果您想加入,请留言,我会直接发送链接给您.",
+        "label_text": "如"
+    },
+    {
+        "source": "原文 : Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",
+        "hyp": "文 5 : 缺少足够的垃圾桶, 缺少解释灯光颜色意义的标志.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : So I will be starting a job next week and desperately need to move down to the city its based out off, as a daily commute is impossible.",
+        "hyp": "文 3 : 所以我将在下周开始工作, 迫切需要搬到城市, 因为每天通勤是不可能的.",
+        "label_text": "迫切需要搬到城市"
+    }
+]

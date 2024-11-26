@@ -1,0 +1,132 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 2 : Хм, может быть, это потому что мы РАЗНЫЕ ЛЮДИ с РАЗНЫМИ ТЕЛАМИ???",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 2 : Хм, может быть, это потому что мы РАЗНЫЕ ЛЮДИ с РАЗНЫМИ ТЕЛАМИ???",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 3 : В последние четыре года я носила бюстгальтеры для дома от Lane Bryant, и это был первый раз за очень долгое время, когда я надела бюстгальтер с косточками.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 3 : В последние четыре года я носила бюстгальтеры для дома от Lane Bryant, и это был первый раз за очень долгое время, когда я надела бюстгальтер с косточками.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 3 : помогите лол ой, подождите, я просто гуглю это нвм лол",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 3 : помогите лол ой, подождите, я просто гуглю это нвм лол",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 3 : Они договорились, что тот, кто первым заставит путешественника снять свой плащ, будет считаться сильнее другого.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 3 : Они договорились, что тот, кто первым заставит путешественника снять свой плащ, будет считаться сильнее другого.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 5 : Я исключил возможность механических препятствий, так как убедился, что на нейтральной передаче машина прекрасно катится под уклон.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 5 : Я исключил возможность механических препятствий, так как убедился, что на нейтральной передаче машина прекрасно катится под уклон.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 1 : Это просто белый экран или он зависает при загрузке, или страница перестаёт отвечать??!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 1 : Это просто белый экран или он зависает при загрузке, или страница перестаёт отвечать??!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 4 : Солдаты якобы украли у других мужчин ещё 1 440 000 CFA (2 845 долларов США).",
+        "label_text": "CFA"
+    },
+    {
+        "source": "原文 : Well I tried explaining to my buddies that porn is kind of shabby, and yeah just bad, and you know who listened…",
+        "hyp": "文 5 : Ну я пытался объяснить своим друзьям, что порно это как-то пошло, и да, просто плохо, и знаете кто послушался...",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : But it's more difficult to find people to follow and build up your timeline.",
+        "hyp": "文 3 : Но найти людей, за которыми можно следить и составить свою ленту, гораздо сложнее.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : The French company Citroën has devised a high-pressure hydraulics system for cars which was used for all manner of systems, even power-adjustable seats.",
+        "hyp": "文 3 : Французская компания Citroën разработала систему высокого давления для автомобилей, которая использовалась для самых разных систем, включая сиденья с электрорегулировкой.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I love my boyfriend and desperately want to keep his system happy.",
+        "hyp": "文 1 : Я люблю своего парня и отчаянно хочу, чтобы он был счастлив.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 4 : Между детьми с тяжелой гипоксемией (SpO₂: < 80%) и теми, у кого наблюдалась легкая гипоксемия (SpO₂: 80 до < 92%), не было значительной разницы в распространенности радиологической пневмонии или сердечно-сосудистых аномалий, а также в смертности в течение 28 дней.",
+        "label_text": "SpO₂: < 80%"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 4 : Между детьми с тяжелой гипоксемией (SpO₂: < 80%) и теми, у кого наблюдалась легкая гипоксемия (SpO₂: 80 до < 92%), не было значительной разницы в распространенности радиологической пневмонии или сердечно-сосудистых аномалий, а также в смертности в течение 28 дней.",
+        "label_text": "SpO₂: 80 до < 92%"
+    },
+    {
+        "source": "原文 : Personally, I think VII was (alongside RB1) the best Neps games in the entire franchise, what with having a storyline that doesn’t come off as too edgy nor melodramatic like Mk2/RB2, but neither as over-the-top like V/RB3, having the exact and necessary amount of seriousness and comedy.",
+        "hyp": "文 2 : Лично я считаю, что VII (наряду с RB1) была лучшей игрой во всей серии Neps, учитывая, что сюжет не кажется слишком тяжелым или мелодраматичным, как в Mk2/RB2, но и не чересчур абсурдным, как в V/RB3, имея в точности необходимое сочетание серьезности и комедии.",
+        "label_text": "Neps"
+    },
+    {
+        "source": "原文 : (PERSON6) So this is an important thing that we should have come across months ago.",
+        "hyp": "文 3 : (PERSON6), так вот это важная вещь, на которую мы должны были наткнуться месяцы назад.",
+        "label_text": "PERSON"
+    },
+    {
+        "source": "原文 : The WHO materials, regulatory documents, data from scientific literature of foreign countries and Russia about the vaccine interchangeability are summarized.",
+        "hyp": "文 4 : Материалы ВОЗ, нормативные документы, данные из научной литературы зарубежных стран и России о взаимозаменяемости вакцин подведены итогом.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Scientific study of this group is necessary for understanding of Orbivirus genus evolution patterns.",
+        "hyp": "文 5 : Изучение этой группы необходимо для понимания закономерностей эволюции рода Орбивирус.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Also FWIW I like the archive.org interface a lot more than the desktop #bandcamp \\- I've no idea how people use bc as their primary music platform (besides the political reasons).",
+        "hyp": "文 3 : Кстати, если что, мне интерфейс archive.org нравится гораздо больше, чем десктопная версия #bandcamp - не понимаю, как люди используют bc в качестве основной музыкальной платформы (политические причины отдельный вопрос).",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 1 : Глава военного ведомства Украины, генерал Валерий Залужный, сообщил, что российские войска запустили 71 крылатую ракету, 35 ракет системы С-300 и семь беспилотников Shahed с позднего четверга до полудня пятницы, добавив, что украинская противовоздушная оборона сбила 61 крылатую ракету и пять дронов.",
+        "label_text": "Shahed"
+    },
+    {
+        "source": "原文 : Finally they seem to want to engage w/ me and basically tell me they’re going to an event and they’d hope to see me there, which they reaffirm the next day and then day of.",
+        "hyp": "文 5 : Наконец они, кажется, захотели вступить со мной в контакт и, по сути, сообщили мне, что собираются на мероприятие и надеются увидеть меня там, что они подтвердили на следующий день и в день мероприятия.",
+        "label_text": " "
+    }
+]

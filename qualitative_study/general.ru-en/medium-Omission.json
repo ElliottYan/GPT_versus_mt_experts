@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 3 : The former player of Argentina national team, Hernan Crespo, commented on the movement of \"Benfica\" midfielder Enzo Fernandez to London's \"Chelsea\".",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Спасибо огромное главврачу Мевше Ольге Владимировне, которая организовала слаженную работу больницы!!!",
+        "hyp": "文 1 : Thank you very much to the chief doctor Olga Vladimirovna Mevsha who organized the well coordinated work of the hospital!!!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Аналитики предвкушают большое количество голов: тотал больше 2.5 мяча доступен за 1.53, ТМ 2.5 - за 2.60.",
+        "hyp": "文 4 : Analysts anticipate a large number of goals: the total of more than 2.5 goals is available for 1.53, 2.5 goals — for 2.60.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В статье изложены эпидемиологические и демографические характеристики патологического ожирения, по данным современной литературы.",
+        "hyp": "文 1 : The epidemiological and demographic characteristics of morbid obesity are described in the article according to modern literature.",
+        "label_text": " "
+    }
+]

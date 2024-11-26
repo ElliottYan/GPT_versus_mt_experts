@@ -1,0 +1,237 @@
+[
+    {
+        "source": "原文 : 如果轮胎气压低，就会显示此警告信息。车辆上的对应轮胎位置指示灯亮。详细信息请参考第8章的“轮胎气压监测系统(TPMS)”部分。",
+        "hyp": "文 3 : In case of low tire pressure, this warning message will pop up and the indicator corresponding to the tire will be on. See \"Tire Pressure Monitoring System (TPMS)\" Section in Chapter 8 for details.",
+        "label_text": "indicator corresponding to the tire"
+    },
+    {
+        "source": "原文 : 如果在天窗处于打开状态下关闭发动机， 就会显示此警告信息。 驾驶员离开车辆时，检查确认天窗在完全关闭状态。",
+        "hyp": "文 3 : This warning message will pop up if the engine is shut down with the sunroof open. The driver should check if the sunroof is fully closed when leaving the vehicle.",
+        "label_text": "The driver should check if the sunroof is fully closed when leaving the vehicle."
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 5 : The driver-centered immersive cockpit is equipped with a 10.25\" intelligent dual display and the 4.0 intelligent connected system, providing information linkage of personalized applications and convenient experience brought by intelligent technology. Seize control at every turn and effortlessly interconnect through intelligent technology.",
+        "label_text": " information linkage of personalized applications"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 3 : The worldwide pioneer CVVD technology is used on the 1.5T high-power engine to generate strong power up to 200 hp. Four tailpipes in total arranged on both side in a dynamic design brings deep sound waves. One-button SPORT+ driving mode features instant acceleration, giving you pleasant driving experience.",
+        "label_text": "worldwide"
+    },
+    {
+        "source": "原文 : 将遥控钥匙存放在远离任何液体和热源的阴凉干燥的地方。如果遥控钥匙暴露在潮湿(液体进入)或高温环境下，可能会导致遥控钥匙内部电路发生故障，而且这种情况不在车辆有限保修范围内。",
+        "hyp": "文 2 : Put the remote key in a cool and dry place far away from any liquid or heat source. If the remote key is exposed to moisture (liquid ingress) or high temperature, a fault of its internal circuit may occur, which is not covered by the limited warranty of the vehicle.",
+        "label_text": "a fault of its internal circuit may occur"
+    },
+    {
+        "source": "原文 : 将遥控钥匙存放在远离任何液体和热源的阴凉干燥的地方。如果遥控钥匙暴露在潮湿(液体进入)或高温环境下，可能会导致遥控钥匙内部电路发生故障，而且这种情况不在车辆有限保修范围内。",
+        "hyp": "文 2 : Put the remote key in a cool and dry place far away from any liquid or heat source. If the remote key is exposed to moisture (liquid ingress) or high temperature, a fault of its internal circuit may occur, which is not covered by the limited warranty of the vehicle.",
+        "label_text": "a fault of its internal circuit may occur"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心，打造出高科技感与活力感并存的数字化智能座舱，简约高贵的内饰设计，将车内空间感提升到极致",
+        "hyp": "文 5 : The driver-centered digital intelligent cockpit is built with a sense of high technology and vitality and simple and premium interior design, improving the sense of space in the vehicle to the utmost",
+        "label_text": "a sense of high technology and vitality and simple and premium interior design,"
+    },
+    {
+        "source": "原文 : 最后再来看下仪表盘和座椅，仪表盘设计可圈可点，设计比较稳重。该车采用了仿皮座椅，座椅包裹性到位，用料讲究，乘坐舒适。",
+        "hyp": "文 3 : At last, let's look at the instrument panel and the seats. The instrument panel is designed in a remarkable and prudent way. The seats are elaborately wrapped with exquisite and quality imitation leather, giving the occupants a feeling of comfort to the utmost.",
+        "label_text": "imitation leather"
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 1 : With its excellence, Sonata once set the \"record of 600,000 vehicles sold in 33 months\" in the last century. When its fifth-generation model was introduced into China, this new model was chosen by a variety of people, with its representative \"peanut-shape lights\" soon appeared in  almost every street and alley.",
+        "label_text": "With its excellence, Sonata once set the \"record of 600,000 vehicles sold in 33 months\" in the last century. "
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 1 : With its excellence, Sonata once set the \"record of 600,000 vehicles sold in 33 months\" in the last century. When its fifth-generation model was introduced into China, this new model was chosen by a variety of people, with its representative \"peanut-shape lights\" soon appeared in  almost every street and alley.",
+        "label_text": "With its excellence, Sonata once set the \"record of 600,000 vehicles sold in 33 months\" in the last century. "
+    },
+    {
+        "source": "原文 : 以百度3.0智能网联平台为基础，可高度识别自然语言指令，带来更轻松的语音控制。以BLE手机蓝牙钥匙为核心的IT配置，实现了多项个性化配置及跨越空间的人车联动。",
+        "hyp": "文 3 : Based on Baidu 3.0 intelligent connection platform, it can efficiently recognize natural language instructions, making voice control much easier. The IT configuration with BLE key as the core provides a lot of personalized configurations and linkage of human and vehicle in different positions.",
+        "label_text": "linkage of human and vehicle"
+    },
+    {
+        "source": "原文 : 而全新搭载的8AT变速箱，更是让行车过程变得轻松流畅。8AT变速箱更大范围的速比设计，令起步加速响应更加灵敏，动力衔接更加紧密，能够精准了解驾驶者的驾驶意图。",
+        "hyp": "文 5 : The 8AT transmission, which is applied for the first time, makes the driving easier and smoother. With a larger speed ratio, the 8AT transmission enables more sensitive standing start acceleration, shorter power switching, and precise understanding of the driver's driving intention. ",
+        "label_text": "driver's driving intention"
+    },
+    {
+        "source": "原文 : 而全新搭载的8AT变速箱，更是让行车过程变得轻松流畅。8AT变速箱更大范围的速比设计，令起步加速响应更加灵敏，动力衔接更加紧密，能够精准了解驾驶者的驾驶意图。",
+        "hyp": "文 5 : The 8AT transmission, which is applied for the first time, makes the driving easier and smoother. With a larger speed ratio, the 8AT transmission enables more sensitive standing start acceleration, shorter power switching, and precise understanding of the driver's driving intention. ",
+        "label_text": "driver's driving intention"
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 2 : In total, the power of the hybrid system is 193 hp, 350 N·m. Unlike Toyota and Honda, both of which adopts the E-CVT transmission, the 6AT transmission is equipped. However, the traditional speedometer is also installed in the instrument panel.",
+        "label_text": "Unlike Toyota and Honda, both of which adopts the E-CVT transmission, the 6AT transmission is equipped. "
+    },
+    {
+        "source": "原文 : 在从A区进入B区的过程中，车辆的响应速度与转向的准确性都不错，并且在第一次变线时电子稳定系统便已开始介入，虽然强度不大， 但足以帮助车辆在进入B区后保持更好的轮胎抓地力。",
+        "hyp": "文 1 : When entering Zone B from Zone A, the vehicle shows good response speed and steering accuracy. The electronic stability program has played its role since the first lane change. Although the effect is not strong enough, it still can help the vehicle maintain better tire grip after entering Zone B.",
+        "label_text": "good response speed"
+    },
+    {
+        "source": "原文 : 流线型车身线条优雅而动感，让人感受到强烈的视觉冲击力。车辆的细节处理也非常到位，无论是车灯、进气口还是车身线条，都展现出精湛的工艺水平。",
+        "hyp": "文 2 : The streamlined lines on the body are elegant and dynamic, producing a strong visual impact. The details, including the lights, air intake and body lines are process appropriately, showing exquisite processes.",
+        "label_text": "streamlined lines "
+    },
+    {
+        "source": "原文 : 流线型车身线条优雅而动感，让人感受到强烈的视觉冲击力。车辆的细节处理也非常到位，无论是车灯、进气口还是车身线条，都展现出精湛的工艺水平。",
+        "hyp": "文 2 : The streamlined lines on the body are elegant and dynamic, producing a strong visual impact. The details, including the lights, air intake and body lines are process appropriately, showing exquisite processes.",
+        "label_text": "streamlined lines "
+    },
+    {
+        "source": "原文 : 车身的线条比较硬朗，流露出硬派的风范，车头有着犀利的大灯，以及大面积的进气格栅，看起来足够时尚。",
+        "hyp": "文 2 : The lines of the body are hard, consistent with its style. There are headlights in a sharp shape and large grille on the front face, both of which are fashionable.",
+        "label_text": "The lines of the body are hard"
+    },
+    {
+        "source": "原文 : 车身的线条比较硬朗，流露出硬派的风范，车头有着犀利的大灯，以及大面积的进气格栅，看起来足够时尚。",
+        "hyp": "文 2 : The lines of the body are hard, consistent with its style. There are headlights in a sharp shape and large grille on the front face, both of which are fashionable.",
+        "label_text": " The lines of the body are hard, consistent with its style."
+    },
+    {
+        "source": "原文 : 检查驱动轴、防尘套和卡箍是否龟裂、变质或损坏。必要时更换损坏的部件或补充润滑脂。",
+        "hyp": "文 5 : Check if there is any crack, deterioration or damage on the drive shaft, dust cover and clamp. Replace the damaged parts or replenish the grease if necessary.",
+        "label_text": "Check if there is any crack, deterioration or damage on the drive shaft, dust cover and clamp"
+    },
+    {
+        "source": "原文 : 新一代蒙迪欧酷似阿斯顿·马丁的中网给人带来更多的新鲜感，这也成为消费者对它最多的评价。蒙迪欧的亮点除了它的外形，这台2.0T发动机242马力和350牛·米最大功率和扭矩也足够抢眼，这也使得它成为了很多追求运动风格消费者的最终选择。",
+        "hyp": "文 3 : For the new generation of Mondeo, its grille, which is much like the one of Aston Martin, presents a fresh appearance to the customers, which is the most common comments made by the customers. In addition to the appearance, Mondeo also features such highlight as its 2.0T engine, which outputs 242 hp and maximum power of 350 N·m. It is the determining factor for the customers favoring sport style to choose Mondeo in the end.",
+        "label_text": " which is the most common comments made by the customers."
+    },
+    {
+        "source": "原文 : 凯美瑞在后备厢的细节方面并不太讲究，支杆完全没有进行包裹，内部空间规整度一般，后备厢顶部的空气净化系统占据了一定空间，导致最小高度只有350mm，而且这辆顶配凯美瑞的后排座椅还无法放倒，实用性大打折扣。",
+        "hyp": "文 5 : Camry does not pay much attention to the details of the trunk. The lid supports are bared, and the trunk space is not so regular. The air purification system installed on the top of the trunk occupies a certain space, resulting in a minimum height of only 350 mm. In addition, the rear seats of the top-equipped vehicle cannot be put down, which reduces its practicality significantly.",
+        "label_text": "resulting in a minimum height of only 350 mm"
+    },
+    {
+        "source": "原文 : 凯美瑞在后备厢的细节方面并不太讲究，支杆完全没有进行包裹，内部空间规整度一般，后备厢顶部的空气净化系统占据了一定空间，导致最小高度只有350mm，而且这辆顶配凯美瑞的后排座椅还无法放倒，实用性大打折扣。",
+        "hyp": "文 5 : Camry does not pay much attention to the details of the trunk. The lid supports are bared, and the trunk space is not so regular. The air purification system installed on the top of the trunk occupies a certain space, resulting in a minimum height of only 350 mm. In addition, the rear seats of the top-equipped vehicle cannot be put down, which reduces its practicality significantly.",
+        "label_text": "cannot be put down"
+    },
+    {
+        "source": "原文 : 天籁的转向系统会过滤掉大部分的路感，但是转向力度比预想得要大，低速时甚至略显沉重，但这并不是欧洲车的那种沉稳，因为它的行驶稳定性相对来说要逊色一些。",
+        "hyp": "文 5 : The steering system of Teana filters out most of the road conditions. However, it requires a steering force much larger than expectation. When the vehicle is running at low speed, it is even a little hard to steer the vehicle. It even cannot be deemed as stable as European vehicles because its driving stability is poorer.",
+        "label_text": "filters out"
+    },
+    {
+        "source": "原文 : C5的悬架调校并不是传统法国车那种偏硬的感觉，这辆车完全追求的是舒适风格。方向盘回馈力度略沉，路感几乎被完全抹去了，驾驶起来很轻松。虽然路面细碎振动的反馈较明显，但对稍大起伏的吸收效果出众，经过减速带时弹跳幅度很小，有效吸收冲击力，这一点给人留下了非常深刻的印象。",
+        "hyp": "文 3 : The suspension adjustment of C5 is not as hard as that of a traditional French vehicle. It is dedicated to the pursuit of comfort. The feedback of the steering wheel is slightly heavy, and the feeling of road conditions is almost completely filtered out, making this vehicle easy to drive. Although the feedback of minor vibration on the paved road is obvious, it performs an excellent absorption on large ups and downs. The bounce amplitude when passing through the speed bumps is very small, with impact forces absorbed effectively, impressing the people deeply.",
+        "label_text": "The suspension adjustment of C5 is not as hard as that of a traditional French vehicle."
+    },
+    {
+        "source": "原文 : C5的悬架调校并不是传统法国车那种偏硬的感觉，这辆车完全追求的是舒适风格。方向盘回馈力度略沉，路感几乎被完全抹去了，驾驶起来很轻松。虽然路面细碎振动的反馈较明显，但对稍大起伏的吸收效果出众，经过减速带时弹跳幅度很小，有效吸收冲击力，这一点给人留下了非常深刻的印象。",
+        "hyp": "文 3 : The suspension adjustment of C5 is not as hard as that of a traditional French vehicle. It is dedicated to the pursuit of comfort. The feedback of the steering wheel is slightly heavy, and the feeling of road conditions is almost completely filtered out, making this vehicle easy to drive. Although the feedback of minor vibration on the paved road is obvious, it performs an excellent absorption on large ups and downs. The bounce amplitude when passing through the speed bumps is very small, with impact forces absorbed effectively, impressing the people deeply.",
+        "label_text": "The bounce"
+    },
+    {
+        "source": "原文 : 眼下，大众迈腾B9可能是大众燃油中型车市场的最后一搏，同时推出一款相同定位的中级电动车，以冲击新能源市场。",
+        "hyp": "文 5 : For now, the Magotan B9 may be the last attempt of Volkswagen in the fuel-powered medium size car market. Volkswagen has also launched a mid-level electric vehicle with the same positioning to hit the new energy market.",
+        "label_text": " hit "
+    },
+    {
+        "source": "原文 : 君越针对中国市场推出了30英寸弧面6K屏幕，分辨率达6008×934，内置高通骁龙8155芯片，售价17.99万元起。",
+        "hyp": "文 5 : For China's market, LaCrosse launched a 30\" 6K curved display, with a resolution of 6,008×934, equipped with Qualcomm SA8155. The new model with this display is sold at RMB 179,900 as a minimum. ",
+        "label_text": "6K curved"
+    },
+    {
+        "source": "原文 : 变速箱方面，日系品牌的两款CVT变速箱依靠出色的平顺性获得了高分。大众的DSG双离合变速箱换挡迅速，并且总是能选择合适的挡位，不过低挡位行车时偶有顿挫感，整体成绩位列第二集团。",
+        "hyp": "文 4 : In terms of transmission, two CVT transmissions used by Japanese brands have won high scores due to their excellent smoothness. Volkswagen's DSG dual-clutch transmission shifts quickly and can always engage the proper gear, but there are occasional pauses when driving at low gears, thereby taking up a position in the second group according to the overall performance.",
+        "label_text": "there are occasional pauses when driving at low gears"
+    },
+    {
+        "source": "原文 : 迈锐宝悬架偏软，刹车时车身前倾比较厉害，但刹车力度非常稳定，ABS工作细腻，踏板力度也很柔和，给人不错的刹车信心。",
+        "hyp": "文 3 : The suspension of Malibu is a little soft, and the vehicle lurches forward sharply during braking. However, the braking force is very stable, ABS works delicately, and the pedal force is also gentle, making people confident in its braking.",
+        "label_text": "pedal force is also gentle"
+    },
+    {
+        "source": "原文 : 君越接近1.8吨的整备质量是本次横评最大的，所幸四条245mm的宽胎让它的制动成绩提供了保障。全力制动时，踏板脚感偏硬，可变阻尼悬架提供了不错的支撑，前倾的情况并不严重。",
+        "hyp": "文 1 : With its nearly 1.8t weight, LaCrosse is the heaviest in this transverse test in terms of the curb weight. Fortunately, its braking performance is guaranteed by its four 245 mm wide tires. In case of full braking, the driver may feel hard when depressing the pedal. The adaptive damper suspension provides good support, preventing severe forward lurching.",
+        "label_text": "the driver may feel hard when depressing the pedal"
+    },
+    {
+        "source": "原文 : 新蒙迪欧在配置方面遥遥领先其它对手，装备了ACC自动巡航、并线辅助、防追尾预警、自动紧急刹车、车道保持、LED大灯等最先进的科技，舒适配置也是同样周到。2.0升涡轮增压发动机充满力量，爆发力十足，让这台车拥有充足的动力储备。",
+        "hyp": "文 1 : The new Mondeo is far ahead of its competitors in terms of configuration. In addition to its comfortable configuration, it is equipped with state-of-the-art technologies such as adaptive cruise control (ACC), lane change assist, rear-end collision warning, automatic emergency braking, lane keeping assist and LED lights. The 2.0T engine is full of strength and power, giving the vehicle sufficient power reserve.",
+        "label_text": "In addition to its comfortable configuration, it is equipped with state-of-the-art technologies "
+    },
+    {
+        "source": "原文 : 新车侧面线条营造出更加硬朗的视觉效果，一条腰线贯穿整个车身。车尾没有过多的下沉式设计，LED尾灯内部不规则的方块灯组看起来科技感十足。",
+        "hyp": "文 1 : The lines on the side of the new vehicle produces a harder visual effect. There is a waistline running through the entire vehicle body. There is not much sunken design in the rear part. The irregular square light set in the LED tail lights makes the vehicle full of high-tech sense.",
+        "label_text": "high-tech sense"
+    },
+    {
+        "source": "原文 : 车身侧面部分，预计两车差别不会太大，可能最大的变化在于车侧末端以及车身尺寸。",
+        "hyp": "文 5 : In terms of the sides of the two vehicles, it is expected that there will be no big difference. The biggest change may be made to the ends on both sides of the vehicle and the size of the vehicle body. ",
+        "label_text": "In terms of the sides of the two vehicle"
+    },
+    {
+        "source": "原文 : 在高速公路上行驶时，此功能可以帮助驾驶员控制车辆保持与前方车辆之间的车距和以设定速度恒速行驶，并控制车辆保持在本车道内行驶。",
+        "hyp": "文 3 : When driving on an expressway, this function can help the driver control the vehicle to keep a distance from the vehicle ahead, run at a set constant speed, and keep in its lane.",
+        "label_text": "run at a set constant speed"
+    },
+    {
+        "source": "原文 : 同时随着“年轻化”被越来越多厂商重视起来，新款车型还提供了两种不同的前脸满足更多用户的需求，近日，我们从福州某经销商处获悉，帕萨特目前最高可享3.50万元现金优惠。相当于打了8.2折。",
+        "hyp": "文 4 : At the same time, as more and more manufacturers pay attention to \"catering to the youth\", the new model is equipped with two front faces to meet the needs of more users. Recently, we learned from a dealer in Fuzhou that Passat has provided a cash discount up to RMB 35,000 for now, equal to an discount of 18%.",
+        "label_text": "equipped with two front faces"
+    },
+    {
+        "source": "原文 : 选择显示的语言。可在信息娱乐系统显示屏上设置菜单中选择显示的语言(如有配备)。",
+        "hyp": "文 2 : Display language selection: The display language, if equipped, can be selected via the setting menu on the IVI display.",
+        "label_text": "Display language selection: The display language, if equipped, "
+    },
+    {
+        "source": "原文 : 空间部分两台车尺较为接近，所表现出来的乘坐及后备厢容积也基本处在同一水平，相比之下帕萨特的优势主要体现在后排腿部空间表现更优，同时后备厢支持按照4/6比例放倒，扩展性更好。",
+        "hyp": "文 4 : In terms of space, these two models have similar sizes and almost the same seating capacity and trunk volume. By comparison, Passat has advantages in its rear room for legs and the trunk, which can be laid down according to a 4/6 ratio, producing better expansibility.",
+        "label_text": " laid down according to a 4/6 ratio"
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 5 : A facelift of Lavida under SAIC Volkswagen will be launched between the second half of this year to early next year, and a new model will be officially launched in 2013. The new-generation model of Santana, with a complete replacement of the platform, is also scheduled to be launched in 2012. But the brand name will be followed. ",
+        "label_text": "between the second half of this year to early next year"
+    },
+    {
+        "source": "原文 : 君越车门防撞梁的面积和厚度基本上处于目前国产中型车的较高水平，尤其是80mm左右的宽度，在这个级别中是比较少见的，可以见得通用对于君越的被动安全性设计还是下了不少的心思。",
+        "hyp": "文 3 : As for LaCrosse, the area and thickness of the anti-collision beams on the doors rank the top in the medium size cars manufactured in China, especially the rare beam width of 80mm in this category, from which we can see that GM has concentrated its efforts to the passive safety design of LaCrosse.",
+        "label_text": ", especially the rare beam width of 80mm in this category, from which we can see that GM has concentrated its efforts to the passive safety design of LaCrosse."
+    },
+    {
+        "source": "原文 : 在车门上凯美瑞使用了比较常规的密封膜设计，这样的设计主要是成本方面的考虑，而使用效果方面，如果密封胶粘性够好的情况下，这样的设计也无可厚非。",
+        "hyp": "文 2 : As for Camry, conventional sealing film design is used for the door, mainly for the sake of cost. In terms of use effect, if the sealant is of good adhesiveness, this design is also understandable.",
+        "label_text": "use effect"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 1 : If the vehicle is second-handed, please make sure that all the registered Bluetooth keys have been deleted. In addition, you should also inform the customer service center or the dealer of your purchasing.",
+        "label_text": "the vehicle is second-handed"
+    },
+    {
+        "source": "原文 : 如果您拿着智能手机并且连接蓝牙钥匙的情况下按下车门、行李箱盖上的按钮，可执行闭锁、开锁动作。如果不能正常工作，可能是智能手机和车辆之间的通信不良，请调整智能手机的位置后重试。",
+        "hyp": "文 2 : If you press the button on the door or trunk lid when you hold your smart phone that is connected the Bluetooth key, you can lock or unlock the door or trunk lid. In case of any malfunction, the communication between the smart phone and the vehicle may be poor. Please adjust the position of your smart phone and try again.",
+        "label_text": "when you hold your smart phone"
+    },
+    {
+        "source": "原文 : 如果您拿着智能手机并且连接蓝牙钥匙的情况下按下车门、行李箱盖上的按钮，可执行闭锁、开锁动作。如果不能正常工作，可能是智能手机和车辆之间的通信不良，请调整智能手机的位置后重试。",
+        "hyp": "文 2 : If you press the button on the door or trunk lid when you hold your smart phone that is connected the Bluetooth key, you can lock or unlock the door or trunk lid. In case of any malfunction, the communication between the smart phone and the vehicle may be poor. Please adjust the position of your smart phone and try again.",
+        "label_text": "the communication between the smart phone and the vehicle may be poor."
+    },
+    {
+        "source": "原文 : 如果您拿着智能手机并且连接蓝牙钥匙的情况下按下车门、行李箱盖上的按钮，可执行闭锁、开锁动作。如果不能正常工作，可能是智能手机和车辆之间的通信不良，请调整智能手机的位置后重试。",
+        "hyp": "文 2 : If you press the button on the door or trunk lid when you hold your smart phone that is connected the Bluetooth key, you can lock or unlock the door or trunk lid. In case of any malfunction, the communication between the smart phone and the vehicle may be poor. Please adjust the position of your smart phone and try again.",
+        "label_text": "adjust the position of your smart phone"
+    },
+    {
+        "source": "原文 : N13发动机与N55在技术装备上如出一辙，更形象的说，它就像是被“简配”掉两个气缸的N55发动机。它也配有双涡管技术的涡轮增压器、缸内直喷以及Valvetronic电子气门这三项技术。",
+        "hyp": "文 3 : The N13 engine has the same technical installations with the N55. To be more visualized, it is an N55 engine with two cylinders \"simplified\". This engine is also equipped with twin-scroll turbocharger, direct injection and Valvetronic technologies.",
+        "label_text": " it is an N55 engine with two cylinders \"simplified\""
+    },
+    {
+        "source": "原文 : 1.2TSI发动机拥有4个气缸，发动机缸体使用全铝材质，加之相关结构轻量化的设计，刨去发动机周边像发电机以及空调压缩机等附件后，发动机本体的重量仅为89.5千克。",
+        "hyp": "文 1 : The 1.2TSI engine has 4 cylinders, all of which are made of aluminum. In addition, the lightweight design is used for the relevant structures. Thereby, excluding the engine attachments such as generator and air conditioning compressor, the net weight of the engine is only 89.5 kg.",
+        "label_text": ". In addition, the lightweight design is used for the relevant structures."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 5 : Former Argentina national team player Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 1 : The cottages are clean, cosy, warm (even very warm), the cottage has its own small kitchen with coffee, tea, sugar, spices, sunflower oil, all necessary utensils.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Адрес: 105082, г. Москва, ул. Малая Почтовая, д. 12, стр. 1, офис 309",
+        "hyp": "文 3 : Address: 105082, Moscow, Str. Malaya Pochtovaya 12, bld. 1, office 309",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В статье изложены эпидемиологические и демографические характеристики патологического ожирения, по данным современной литературы.",
+        "hyp": "文 2 : The article outlines the epidemiological and demographic characteristics of morbid obesity, according to the current modern literature.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Дано определение понятия «биологическая травма» — нарушение структуры и функции организма в результате особого повреждающего воздействия, свойственного представителям живой природы (животным, растениям).",
+        "hyp": "文 5 : The definition of the concept \"biological trauma\" is given - violation of the structure and function of the organism as a result of a special damaging effect peculiar to representatives of living nature (animals, plants).",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Возникшие у беременных россиянок проблемы с въездом в Аргентину объяснили",
+        "hyp": "文 1 : Pregnant Russian women having problems with entry to Argentina explained",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Темп прироста решений и определений судов об удовлетворении требований компенсации морального вреда в размерах, превышающих 100 тыс. руб., составил 44% с 2013 по 2022 г.",
+        "hyp": "文 2 : The growth rate of court decisions and rulings on satisfaction of claims for compensation for moral damages in amounts exceeding 100 thousand roubles was 44% from 2013 to 2022.",
+        "label_text": " "
+    }
+]

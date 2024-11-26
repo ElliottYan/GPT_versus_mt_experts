@@ -1,0 +1,172 @@
+[
+    {
+        "source": "原文 : 在后座椅上没有乘员乘坐时，调整后排座 椅头枕高度至最低位置。如果后座椅头枕 过高，会影响驾驶员的车辆后方视野。",
+        "hyp": "文 2 : When there is no occupant in the rear seats, adjust the headrest to the lowest position. It may reduce the visibility of the rear area.",
+        "label_text": "occupant"
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累积信息时，按住方向盘上的[OK]按钮持续1秒钟以上。此时，小计里程、平均油耗和累计时间会同时被初始化。",
+        "hyp": "文 4 : For manual initialization, press the [OK] button on the steering wheel for more than 1 second when the cumulative information is displayed. Then the trip, RAFE and accumulative driving time will be initialized at the same time.",
+        "label_text": "RAFE "
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累积信息时，按住方向盘上的[OK]按钮持续1秒钟以上。此时，小计里程、平均油耗和累计时间会同时被初始化。",
+        "hyp": "文 4 : For manual initialization, press the [OK] button on the steering wheel for more than 1 second when the cumulative information is displayed. Then the trip, RAFE and accumulative driving time will be initialized at the same time.",
+        "label_text": "RAFE "
+    },
+    {
+        "source": "原文 : 有澎湃动力，探索世界的旅程就没有边界：搭载380T GDi发动机，配合8速自动变速箱与HTRAC智能四驱系统，不但动力强劲充沛，更提供超强抓地力，适合全地形驾驶， 打开世界，再无疆界。",
+        "hyp": "文 1 : No boundary for the journey of exploring the world with strong power: Equipped with a 380T GDi engine, an 8-speed automatic transmission and HTRAC intelligent four-wheel-drive system, it has both strong power and grip, suitable for all terrains. It will open up the world without boundaries.",
+        "label_text": "intelligent four-wheel-drive system"
+    },
+    {
+        "source": "原文 : 有澎湃动力，探索世界的旅程就没有边界：搭载380T GDi发动机，配合8速自动变速箱与HTRAC智能四驱系统，不但动力强劲充沛，更提供超强抓地力，适合全地形驾驶， 打开世界，再无疆界。",
+        "hyp": "文 1 : No boundary for the journey of exploring the world with strong power: Equipped with a 380T GDi engine, an 8-speed automatic transmission and HTRAC intelligent four-wheel-drive system, it has both strong power and grip, suitable for all terrains. It will open up the world without boundaries.",
+        "label_text": "intelligent four-wheel-drive system"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 5 : The tire pressure monitoring system (TPMS) detects whether the tire pressure is low via sensors in the tires to monitor changes to the tire rolling radius and vibration when the vehicle is running. For the normal operation, TPMS shall be initialized and the current tire pressure value shall be saved. After the initialization, if the pressure of a wheel or wheels is significantly lower than the saved pressure value, the warning indicator on the instrument panel will be on. In case of TPMS fault, the [TPMS] fault warning indicator will be on.",
+        "label_text": "wheel"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 5 : The tire pressure monitoring system (TPMS) detects whether the tire pressure is low via sensors in the tires to monitor changes to the tire rolling radius and vibration when the vehicle is running. For the normal operation, TPMS shall be initialized and the current tire pressure value shall be saved. After the initialization, if the pressure of a wheel or wheels is significantly lower than the saved pressure value, the warning indicator on the instrument panel will be on. In case of TPMS fault, the [TPMS] fault warning indicator will be on.",
+        "label_text": "wheels "
+    },
+    {
+        "source": "原文 : 最后再来看下仪表盘和座椅，仪表盘设计可圈可点，设计比较稳重。该车采用了仿皮座椅，座椅包裹性到位，用料讲究，乘坐舒适。",
+        "hyp": "文 3 : At last, let's look at the instrument panel and the seats. The instrument panel is designed in a remarkable and prudent way. The seats are elaborately wrapped with exquisite and quality imitation leather, giving the occupants a feeling of comfort to the utmost.",
+        "label_text": "imitation leather"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 4 : With the introduction of the new subframe, the load is distributed to the front and rear assembly supports effectively, which not only improves the strength but also  reduces the vibration and harshness during driving.",
+        "label_text": "assembly supports"
+    },
+    {
+        "source": "原文 : 而全新搭载的8AT变速箱，更是让行车过程变得轻松流畅。8AT变速箱更大范围的速比设计，令起步加速响应更加灵敏，动力衔接更加紧密，能够精准了解驾驶者的驾驶意图。",
+        "hyp": "文 5 : The 8AT transmission, which is applied for the first time, makes the driving easier and smoother. With a larger speed ratio, the 8AT transmission enables more sensitive standing start acceleration, shorter power switching, and precise understanding of the driver's driving intention. ",
+        "label_text": "standing start acceleration"
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 2 : In total, the power of the hybrid system is 193 hp, 350 N·m. Unlike Toyota and Honda, both of which adopts the E-CVT transmission, the 6AT transmission is equipped. However, the traditional speedometer is also installed in the instrument panel.",
+        "label_text": "speedometer"
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 2 : In total, the power of the hybrid system is 193 hp, 350 N·m. Unlike Toyota and Honda, both of which adopts the E-CVT transmission, the 6AT transmission is equipped. However, the traditional speedometer is also installed in the instrument panel.",
+        "label_text": "speedometer"
+    },
+    {
+        "source": "原文 : PilotAssist 智能领航辅助系统，在0-130公里/小时的时速区间提供精准驾控辅助。",
+        "hyp": "文 2 : The PilotAssist (an integrated adaptive cruise control system) provides accurate driving assistance in the speed range of 0-130 km/h.",
+        "label_text": "an integrated adaptive cruise control system"
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 3 : Compared with the existing model, there is no change to the design of the new model and the latest family front face and the rim of the selling progress model are used. It is believed that this model is at entry level. It is of a size of 4,750 mm*1,820 mm*1,488 mm (L*W*H), with a wheel base of 2,730 mm, which are identical to the existing model.",
+        "label_text": "progress model"
+    },
+    {
+        "source": "原文 : 三车中最舒适的当属君越，柔软的座椅、安静的车厢、减振器对于细碎振动的处理也非常到位，在铺装路面上，君越有着堪比中大型车的NVH表现，非常适合高速巡航驾驶。",
+        "hyp": "文 2 : Among these three models, LaCrosse is superior in terms of comfort. The soft seats, quiet in-vehicle space and the appropriate handling of the minor vibration by the shock absorber enable LaCrosse to have NVH performance almost identical to medium and large size cars on the paved road, suitable for high-speed cruising.",
+        "label_text": " car"
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 4 : After all, in the medium size cars, Regal aims at the people favoring young and sporty style, while LaCrosse targets at those preferring the prudent and business style. The modified model of LaCrosse also highlights the lights as other brands do. The LED daytime running lights echo the wide tail lights, so distinguishable at night.",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : 驾驶车辆行驶约7-10公里(或约10分钟)后，在安全地方停车。",
+        "hyp": "文 1 : Park the car in a safe place after driving for about 7-10 km (or about 10 minutes).",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : 加速性能测试包括最传统的0-100km/h加速测试、400米直线加速测试和行驶中的中途加速测试共3个部分。",
+        "hyp": "文 4 : The acceleration performance test consists of the most traditional 0-100km/h acceleration test, the 400 m linear acceleration test and the acceleration-during-driving test.",
+        "label_text": "acceleration-during-driving test"
+    },
+    {
+        "source": "原文 : 2007年，当迈腾B6第一次来到中国的时候，就成为了标杆级的产品，那一代产品以运动见长，也为中型车市场树立了新的标杆，比如经典的1.8T和2.0T缸内直喷发动机，DSG双离合变速箱，多连杆后悬架。",
+        "hyp": "文 1 : In 2007, when Magotan B6 was first launched in China, it became a benchmark product, which was good at sports and had also set a new benchmark for the medium size car market with its classic 1.8T and 2.0T direct injection engines, DSG dual-clutch transmission and multi-link rear suspension.",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 2 : Magotan B7, introduced in 2011, once again consolidates the benchmark position of Magotan in the medium size cars and can be regarded as the smartest medium sized car because of the large number of electronic systems equipped to provide comfort, luxury and safety, such as the automatic braking, driver fatigue monitoring, automatic full-beam light, transverse XDS electronic differential system, tire pressure monitoring, lane departure warning, rear fast-approaching vehicle alert, parking assist system, speed-limit sign alert, noise suppression and automatic parking.",
+        "label_text": "car"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 2 : Magotan B7, introduced in 2011, once again consolidates the benchmark position of Magotan in the medium size cars and can be regarded as the smartest medium sized car because of the large number of electronic systems equipped to provide comfort, luxury and safety, such as the automatic braking, driver fatigue monitoring, automatic full-beam light, transverse XDS electronic differential system, tire pressure monitoring, lane departure warning, rear fast-approaching vehicle alert, parking assist system, speed-limit sign alert, noise suppression and automatic parking.",
+        "label_text": " car "
+    },
+    {
+        "source": "原文 : 今年，大众汽车集团在中国燃油车市场的份额从18%提升到了20%，未来几年，大众将继续通过新款途观、速腾、迈腾及奥迪Q4和Q8等新车型强化产品阵容，到2030年，大众将推出共计17款全新燃油车型。",
+        "hyp": "文 5 : The share of Volkswagen Group in the fuel vehicle market in China has increased from 18% to 20% this year, and VW will continue to strengthen its product mix with new models of Touran, Sagitar, Magotan, and Audi Q4 and Q8 in the next few years. By 2030, VW will launch a total of 17 new models of fuel vehicles.",
+        "label_text": "Touran"
+    },
+    {
+        "source": "原文 : 君越针对中国市场推出了30英寸弧面6K屏幕，分辨率达6008×934，内置高通骁龙8155芯片，售价17.99万元起。",
+        "hyp": "文 5 : For China's market, LaCrosse launched a 30\" 6K curved display, with a resolution of 6,008×934, equipped with Qualcomm SA8155. The new model with this display is sold at RMB 179,900 as a minimum. ",
+        "label_text": "Qualcomm SA"
+    },
+    {
+        "source": "原文 : 在加速性能测试中，雅阁就表现出了这个级别自然吸气车型的顶级实力。没想到在油耗环节，雅阁再一次拔得头筹，证明了“地球梦科技”系列技术的先进性。",
+        "hyp": "文 2 : In the acceleration performance test, Accord showed the top strength of the naturally aspirated vehicles at its level. Surprisingly, Accord once again took the lead in fuel consumption, proving the advancement of the series of Earth Dream technology.",
+        "label_text": "Dream "
+    },
+    {
+        "source": "原文 : 如果高位制动灯工作异常，就会显示此警告信息。此时可能需要更换高位制动灯灯泡。",
+        "hyp": "文 4 : This warning message will pop up in case of malfunction of the high mounted stop light. In this case, the bulb of the stop light may be replaced.",
+        "label_text": "high mounted stop light"
+    },
+    {
+        "source": "原文 : 如果高位制动灯工作异常，就会显示此警告信息。此时可能需要更换高位制动灯灯泡。",
+        "hyp": "文 4 : This warning message will pop up in case of malfunction of the high mounted stop light. In this case, the bulb of the stop light may be replaced.",
+        "label_text": " stop light "
+    },
+    {
+        "source": "原文 : 日前，乘联会发布3月乘用车市场分析，3月狭义乘用车零售销量158.7万台，同比增长0.3%，环比增长14.3%，其中MPV市场销量同比增长明显，达到38.6%。新能源汽车3月零售销量合计54.3万台，同比增长21.9%，环比增长23.6%。",
+        "hyp": "文 1 : Recently, CPCA released an analysis on the passenger vehicle market in March. According to the analysis, the retail sales of the passenger cars was 1,587,000, increased by 0.3% YoY and 14.3% MoM, among which the MPV market showed a significant year-on-year growth of 38.6%. The retail sales of the new energy vehicles totaled 543,00, increased by 21.9% YoY and 23.6% MoM.",
+        "label_text": " passenger cars"
+    },
+    {
+        "source": "原文 : 3月厂商出口方面，上汽乘用车23,654辆、比亚迪13,312辆、特斯拉中国12,206辆、东风易捷特5,664辆、长城汽车4,693辆、哪吒汽车3,727辆、智马达汽车2,658辆、吉利汽车1,170辆、奇瑞汽车564辆、创维汽车517辆、江淮汽车388辆、上汽通用五菱366辆、一汽红旗240辆、东风乘用车164辆、上汽大通140辆。",
+        "hyp": "文 1 : In terms of export by manufacturers, SAIC Motor exported 23,654 passenger vehicles, BYD 13,312, Tesla China 12,206, Dongfeng GEGATE 5,664, GWM 4,693, NETA Auto 3,727, Smart 2,658, Geely 1,170, Chery 564, Skyworth 517, JAC 388, SGMW 366, FAW Hongqi 240, Dongfeng Passenger Vehicle 164 and SAIC Maxus 140.",
+        "label_text": "Dongfeng GEGATE"
+    },
+    {
+        "source": "原文 : 3月厂商出口方面，上汽乘用车23,654辆、比亚迪13,312辆、特斯拉中国12,206辆、东风易捷特5,664辆、长城汽车4,693辆、哪吒汽车3,727辆、智马达汽车2,658辆、吉利汽车1,170辆、奇瑞汽车564辆、创维汽车517辆、江淮汽车388辆、上汽通用五菱366辆、一汽红旗240辆、东风乘用车164辆、上汽大通140辆。",
+        "hyp": "文 1 : In terms of export by manufacturers, SAIC Motor exported 23,654 passenger vehicles, BYD 13,312, Tesla China 12,206, Dongfeng GEGATE 5,664, GWM 4,693, NETA Auto 3,727, Smart 2,658, Geely 1,170, Chery 564, Skyworth 517, JAC 388, SGMW 366, FAW Hongqi 240, Dongfeng Passenger Vehicle 164 and SAIC Maxus 140.",
+        "label_text": "Dongfeng Passenger Vehicle"
+    },
+    {
+        "source": "原文 : 驾驶员靠近：当携带智能钥匙靠近车辆时，自动控制外后视镜展开和迎宾灯亮。",
+        "hyp": "文 5 : Driver approaching: When the driver approaches the vehicle with the intelligent key, the outside rearview mirrors will be unfolded and the logo lamp will be on automatically.",
+        "label_text": "outside rearview"
+    },
+    {
+        "source": "原文 : 驾驶员靠近：当携带智能钥匙靠近车辆时，自动控制外后视镜展开和迎宾灯亮。",
+        "hyp": "文 5 : Driver approaching: When the driver approaches the vehicle with the intelligent key, the outside rearview mirrors will be unfolded and the logo lamp will be on automatically.",
+        "label_text": "logo lamp "
+    },
+    {
+        "source": "原文 : 1973年推出的第一代帕萨特（B1）与奥迪同平台打造，采用纵置布局，当年被外媒誉为最有乐趣的前驱车型之一。",
+        "hyp": "文 4 : The first-generation Passat (B1) launched in 1973 was manufactured on the same platform as Audi, with a vertical layout. It was praised by overseas media as one of the most interesting front-wheel-drive models that year.",
+        "label_text": "vertical layout"
+    },
+    {
+        "source": "原文 : 君越车门防撞梁的面积和厚度基本上处于目前国产中型车的较高水平，尤其是80mm左右的宽度，在这个级别中是比较少见的，可以见得通用对于君越的被动安全性设计还是下了不少的心思。",
+        "hyp": "文 3 : As for LaCrosse, the area and thickness of the anti-collision beams on the doors rank the top in the medium size cars manufactured in China, especially the rare beam width of 80mm in this category, from which we can see that GM has concentrated its efforts to the passive safety design of LaCrosse.",
+        "label_text": "cars"
+    },
+    {
+        "source": "原文 : 索纳塔前车门管状梁外径尺寸约为31.93mm，后管状防撞梁的外径尺寸约为31.21mm。",
+        "hyp": "文 3 : For Sonata, the outer diameter of the tubular bumper beam is about 31.93 mm for the front door and about 31.21 mm for the rear door.",
+        "label_text": "tubular bumper beam"
+    }
+]

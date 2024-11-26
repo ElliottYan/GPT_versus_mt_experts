@@ -1,0 +1,142 @@
+[
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 5 : The majority of the additional 690 cases reported experienced gastrointestinal symptoms (stomach discomfort, loss of appetite, abdominal pain, nausea/vomiting, etc.: 2.99%), rash (0.20%), pruritus (0.14%) and facial edema (0.15%).",
+        "label_text": "(0.15%)"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Adequate observation is necessary due to the potential occurrence (unknown frequency*) of shock and allergy. Discontinuation along with appropriate measures is required in case of chest distress, aversion to cold, cold sweating, dyspnea, numbness of limbs, decreased blood pressure, angioedema and urticaria.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Adequate observation is necessary due to the potential occurrence (unknown frequency*) of shock and allergy. Discontinuation along with appropriate measures is required in case of chest distress, aversion to cold, cold sweating, dyspnea, numbness of limbs, decreased blood pressure, angioedema and urticaria.",
+        "label_text": "urticaria"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 3 : Adequate observation is necessary due to the potential occurrence (unknown frequency*) of aplastic anemia, hemolytic anemia, granulocytopenia and thrombocytopenia. Discontinuation along with appropriate measures is required in case of any abnormalities.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 3 : Given the potential occurrence (unknown frequency*) of peptic ulcer, gastrointestinal bleeding and ulcerative colitis, discontinuation along with appropriate measures is required in case of any abnormalities.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 有可能出现中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）（频率均不明*），因此应充分进行观察，并采取相应措施。",
+        "hyp": "文 3 : Adequate observation along with appropriate measures is necessary due to the potential occurrence (unknown frequency*) of TEN and mucocutaneocular syndrome (Stevens-Johnson syndrome).",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 3 : Adequate observation is necessary due to the potential occurrence (unknown frequency*) of acute renal failure, interstitial nephritis and nephrotic syndrome. Discontinuation along with appropriate measures is required in case of oliguria, hematuria, proteinuria, increased BUN/creatinine ratio, hyperkalemia and hypoproteinemia.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 3 : Adequate observation is necessary due to the potential occurrence (unknown frequency*) of acute renal failure, interstitial nephritis and nephrotic syndrome. Discontinuation along with appropriate measures is required in case of oliguria, hematuria, proteinuria, increased BUN/creatinine ratio, hyperkalemia and hypoproteinemia.",
+        "label_text": "creatinine"
+    },
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 1 : Satisfactory control of glucose levels can be achieved when the product is used in combination with sulfonylureas by titrating the dosage of both medications.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 5 : 9. Patients with a current history of aspirin-induced asthma (asthma attacks triggered by nonsteroidal anti-inflammatory analgesics) or a past history [potential risk of asthma attacks], and asthma patients who are allergic to aspirin;",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 5 : 9. Patients with a current history of aspirin-induced asthma (asthma attacks triggered by nonsteroidal anti-inflammatory analgesics) or a past history [potential risk of asthma attacks], and asthma patients who are allergic to aspirin;",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 阿司匹林制剂（作为抗血小板药使用时）",
+        "hyp": "文 4 : Aspirin (when used as an antiplatelet drug)",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 阿司匹林制剂（作为抗血小板药使用时）",
+        "hyp": "文 4 : Aspirin (when used as an antiplatelet drug)",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 2 : 4. Hanhoo Red Pomegranate Freshening 6-piece Set (a hydrating and moisturizing gift set for school girls: cleanser, toner, face cream, eye cream, etc.)",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 2 : 4. Hanhoo Red Pomegranate Freshening 6-piece Set (a hydrating and moisturizing gift set for school girls: cleanser, toner, face cream, eye cream, etc.)",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 磁共振成像水脂分离技术在多发性骨髓瘤患者中的应用研究. 探讨磁共振成像水脂分离（Dixon）技术在多发性骨髓瘤患者中应用的临床意义. 将2019年4月至2021年4月于青岛大学附属医院行Dixon技术检查的初诊多发性骨髓瘤患者共41例纳入本研究。",
+        "hyp": "文 1 : Application of MRI Water-Fat Separation Technology in Patients with Multiple Myeloma. To explore the clinical significance of MRI water-fat separation (Dixon) technology in patients with multiple myeloma. A total of 41 patients newly diagnosed with multiple myeloma were enrolled who underwent Dixon procedure in the Affiliated Hospital of Qingdao University from April 2019 to April 2021.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 综上,猪粪的分解受到土壤复垦年限的影响,而牛粪的分解不受土壤复垦年限的影响。",
+        "hyp": "文 1 : To sum up, the decomposition of pig manure, but not cattle manure, was affected by the year of reclamation.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 二线组患者治疗3、6、12个月达MMR率分别为19.28%、33.72%、60.24%，三线组分别为11.48%、26.23%、49.18%，均高于对照组的0.00%、2.70%、0.00%；二线组治疗12个月达MMR率高于三线组，差异均有统计学意义（P<0.05）。",
+        "hyp": "文 5 : The rates of achieving MMR in the second-line group after 3, 6 and 12 months of treatment were 19.28%, 33.72% and 60.24%, respectively, while those in the third-line group were 11.48%, 26.23% and 49.18%, respectively; all these were higher than those in the control group (0.00%, 2.70% and 0.00%). The rate of achieving MMR after 12 months of treatment in the second-line group was higher than that in the third-line group, with a significant difference (P<0.05).",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 1）本品与其他解热、镇痛、抗炎药物同用时可增加胃肠道的副作用，并可能导致溃疡。",
+        "hyp": "文 4 : 1) The concomitant use of this product with other antipyretic, analgesic and anti-inflammatory drugs may increase gastrointestinal side effects and even result in ulcers.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，致使肾脏的钠排泄减少，锂清除率降低，血中锂浓度升高。",
+        "hyp": "文 1 : The inhibitory effects of this product can result in decreased sodium excretion and lithium clearance from the kidneys, as well as increased serum lithium concentrations.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 张忠谋也认定英特尔当时是看不起晶圆制程服务的。",
+        "hyp": "文 1 : Zhang Zhongmou also believes that Intel was looking down on wafer fabrication services.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 在发生阿巴卡韦超敏反应后，重新使用阿巴卡韦，可能在数小时内重新出现症状。",
+        "hyp": "文 2 : The resumption of abacavir following abacavir-induced hypersensitivity reactions may result in relapse within a few hours.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 4 : The provision of acupuncture and moxibustion services continues to decline, which is mainly due to the following: Disease-based triage diverts many patients with diseases suitable for acupuncture and moxibustion; the pursuit of economic benefits restricts the development of acupuncture and moxibustion characterized by \"convenience, effectiveness and inexpensiveness\".",
+        "label_text": "c"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，血管扩张作用和水、钠排泄被抑制。",
+        "hyp": "文 2 : The inhibitory effects of this product on prostaglandin synthesis can lead to vasodilatation and reduced water and sodium excretion.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 术后定期随访，评估缩乳情况及并发症发生情况，采用乳腺癌患者报告结局量表（BREAST-Q）评价患者满意度及生活质量，并行乳腺专科彩超、胸腹部CT、全身骨扫描等检查，评估肿瘤局部复发或远处转移情况。",
+        "hyp": "文 4 : Patients were regularly followed up after surgery to assess their breast reduction effects and identify any potential complications. The BREAST-Q, a patient-reported outcome measure designed for breast surgery, was used to evaluate patients’ satisfaction and quality of life. Furthermore, color Doppler ultrasound of the breast, chest and abdomen CT and whole-body bone scan were performed to assess the presence of local recurrence or distant metastasis.",
+        "label_text": "local recurrence or distant metastasis"
+    },
+    {
+        "source": "原文 : 如果需要停用活性成分之一或对其实施剂量调整，可以使用单独的多替拉韦、阿巴卡韦或拉米夫定制剂。",
+        "hyp": "文 3 : If discontinuance or dose adjustment is required for any of the active ingredients, dolutegravir, abacavir or lamivudine monotherapy may be used as an alternative.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 因为再等待 20 分钟就已经等了 1 个小时 #NUMBER# 分鐘了",
+        "hyp": "文 2 : My waiting will reach one hour and #NUMBER# minutes if I have to endure an additional 20 minutes.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 综上，基于CHB临床检验诊断路径的实验诊断学教学模式，实现了实验诊断学与临床医学的融合，提升了学生对CHB诊疗中各种实验室检查检测的整体认识，教学质量得到了提高。",
+        "hyp": "文 5 : To sum up, the teaching approach for laboratory diagnostics based on CHB clinical laboratory diagnostic paths not only integrates laboratory diagnostics with clinical medicine, but also enhances students' overall understanding of various laboratory tests essential for CHB diagnosis and treatment, thereby upgrading the quality of teaching.",
+        "label_text": " "
+    }
+]

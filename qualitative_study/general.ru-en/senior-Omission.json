@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : И обязательно рекомендую русский корпус нижегородского художественного музея - неожиданно прекрасная крллекция",
+        "hyp": "文 2 : I definitely recommend the Russian corpus of the Nizhny Novgorod Art Museum – a surprisingly fine collection",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Пациенты в зависимости от степени атеросклеротического стеноза внутренней сонной артерии и картины глазного дна были разделены на две группы.",
+        "hyp": "文 2 : Patients were divided into two groups depending on the severity of atherosclerotic internal carotid artery stenosis and ophthalmoscopic picture of the fundus.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Да, со своей последней картиной «Судный день», разбодяженным «Безумным Максом» для неимущих, Маршалл дал серьезную осечку",
+        "hyp": "文 4 : Yes, with his latest Doomsday, diluted by Mad Max for the have-nots, Marshall made a serious flash in the pan",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В статье изложены эпидемиологические и демографические характеристики патологического ожирения, по данным современной литературы.",
+        "hyp": "文 4 : The article outlines the epidemiological and demographic profile of morbid obesity according to the contemporary literature.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Связалась напрямую с мастером Александром, который объяснил все тонкости ремонта и сразу обозначил ценовые рамки.",
+        "hyp": "文 4 : I contacted Alexander directly, he explained to me all the intricacies of the repair and outlined the price range straight away.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Темп прироста решений и определений судов об удовлетворении требований компенсации морального вреда в размерах, превышающих 100 тыс. руб., составил 44% с 2013 по 2022 г.",
+        "hyp": "文 4 : The rate of increase in court decisions and rulings concerning satisfaction of claims for compensation for moral damage in amounts exceeding 100 thousand rubles was 44% from 2013 to 2022.",
+        "label_text": " "
+    }
+]

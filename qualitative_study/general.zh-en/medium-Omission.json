@@ -1,0 +1,57 @@
+[
+    {
+        "source": "原文 : 目前根据官方统计，周一的地震已经在土耳其造成超过2万人死亡，邻国叙利亚的死亡人数估计在3500人以上。",
+        "hyp": "文 5 : According to the official statistics, the earthquake on Monday has caused more than 20,000 deaths in Turkey, and more than 3,500 deaths in its neighbor Syria.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 目前根据官方统计，周一的地震已经在土耳其造成超过2万人死亡，邻国叙利亚的死亡人数估计在3500人以上。",
+        "hyp": "文 5 : According to the official statistics, the earthquake on Monday has caused more than 20,000 deaths in Turkey, and more than 3,500 deaths in its neighbor Syria.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 产品名称 :Redmi AirDots 2 真无线蓝牙耳机",
+        "hyp": "文 2 : Product name: Redmi AirDots 2 Wireless Bluetooth Headphones",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 脸上有些痒痒的，周围似乎是一片草丛。",
+        "hyp": "文 3 : Feeling a little itchy on the face, he found himself enclosed by a patch of grass.",
+        "label_text": " found himself enclosed by a patch of grass."
+    },
+    {
+        "source": "原文 : 聂耳小提琴是云南省博物馆参加综艺节目《国家宝藏》第二季的三件文物之一，由张若昀担任明星守护人。",
+        "hyp": "文 5 : Nie Er's violin is one of the three cultural relic items selected by the Yunnan Provincial Museum for participation in the second season of The Nation's Greatest Treasures. Zhang Ruoyun serves as the celebrity protector for it. ",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 肠出血者应禁食，大量出血者应输血，并发肠穿孔时宜及早手术治疗。",
+        "hyp": "文 3 : Those with intestinal bleeding should eat no food. Those bleeding too much should receive transfusions. When intestinal perforation is found, surgical treatment should be accepted as soon as possible.",
+        "label_text": "When intestinal perforation is found"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 4 : The Wenkang A Urban Renewal Project is funded by Jye Sin Enterprise Co., Ltd., architecturally designed by Wu Yuhui Architecture Firm and constructed by Gold Full Vast Technology Co., Ltd., with Hwatai Bank serving as the financing and trust unit. After the urban renewal, two floors under the ground and 14 floors above the ground will be transformed into reinforced-concrete structures. Floors 3 to 14 will be available for apartment dwellers (129 households), and Floors 1 and 2 are planned as the venue to run a mall (including 17 stores) and a cinema. It is hoped that new parking spaces for motorcycles, together with 73 parking spaces for passenger cars, can be provided. In addition, accessible facilities, pedestrian walkways, corner squares and other friendly space urban designs are adopted, and the green construction method is employed for the whole building. The project is expected to be completed in 2023.",
+        "label_text": "passenger cars"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 3 : On January 3, 2017, the costume fantasy series Magic Star, where Wu Lei starred as Zhan Xiongfei (a half-human and half-demon young hero), premiered. The series created a record of over 1.3 billion viewership by the last episode. Later, he co-starred with Lin Yun in the costume fantasy series Battle Through the Heaven, which was adapted from the popular novel of the same name by Tiancan Tudou. In this series, he portrayed Xiao Yan. On February 3, he continued to join the reality show Twenty-Four Hours Season 2. In March, he played a cameo role in the story film Shadow. On May 5, he participated in the original cultural adventure program 72 Floors of Mystery as a fixed host. On September 30, the action film S.M.A.R.T. Chase starring Wu Lei premiered and he played the role of Tang Dingdang, a young genius well versed in various advanced technologies, in the film. In the same year, he also starred in the adventure series Tomb of the Sea, where he played the role of Li Cu, a key member of the adventure team.",
+        "label_text": "Magic Star"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 4 : But he also has a younger sister named Ye Ling and a younger brother called Ye Zifeng. They are not from the same mother as him, but rather half-siblings from the same father. Three years ago, their father seemed to realize his indebtedness to Ye Mo. He specifically proposed a marriage alliance with the Ning family. It is very likely that Ye Tianwen knew that his physical condition was not good, so he wanted to find a strong backing for Ye Mo, which is why he approached the Ning family in the capital.",
+        "label_text": "He specifically proposed a marriage alliance with the Ning family. "
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 3 : The protagonist comes from the Sanmon family, a family of assassins. He acquired combat skills under the influence of his family. Originally, the Sanmon family served the wealthy Akizuki family. The protagonist’s father once had a confrontation with the Nue clan while carrying out a mission to eliminate the Yintian family. After the protagonist’s mother passed away, the Akizuki family terminated their contract with the Sanmon family and hired other assassins. To prevent the Sanmon family from exposing the secrets of the Akizuki family, the Akizuki family dispatched an assassin to kill the protagonist’s father. This event caused the protagonist, along with his younger sister, to be affected, leading to their family’s separation. During a period of despair, the protagonist encountered Mr. Natsume, who operated a loan company, in a park. Mr. Natsume gave him a helping hand and lent him 500,000 yen for handling emergencies and self-investment. In order to repay Mr. Natsume’s kindness, the protagonist sought employment with him and eventually became the successor in managing Mr. Natsume’s company.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 顶盖的弧度和控制面板的弧度居然不一致，拼合之后出现了一个最高2mm左右的高差。",
+        "hyp": "文 4 : Surprisingly, the curvature of the top cover and the control panel did not match, resulting in a height difference of approximately 2mm after assembly.",
+        "label_text": " "
+    }
+]

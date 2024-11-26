@@ -1,0 +1,92 @@
+[
+    {
+        "source": "原文 : Риторика потому, что подобный случай, повторю, со мной происходит уже третий раз.",
+        "hyp": "文 1 : Rhetoric because such a case, I repeat, is happening to me for the third time.",
+        "label_text": " Rhetoric because such a case"
+    },
+    {
+        "source": "原文 : Риторика потому, что подобный случай, повторю, со мной происходит уже третий раз.",
+        "hyp": "文 1 : Rhetoric because such a case, I repeat, is happening to me for the third time.",
+        "label_text": "is happening to me"
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 4 : Watch George Clooney team up with rock photographer-now-director Anton Corbijn (Control) for a very curious existential study of the psychology of an aging assassin hiding from the people of a small Italian town and belatedly grasping human nature.",
+        "label_text": " Watch George Clooney team up with rock "
+    },
+    {
+        "source": "原文 : В Англии, в портовом городе Грейт-Ярмут, в пятницу взорвалась авиабомба времен Второй мировой войны, которую пытались обезвредить саперы.",
+        "hyp": "文 3 : In the English port city of Great Yarmouth, a World War II-era bomb exploded Friday as bomb squad tried to defuse it.",
+        "label_text": "Friday"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 2 : All cases in which the initial cause of death (PPS) is a disease have been selected (all codes for external causes, injuries and poisoning have been excluded).",
+        "label_text": "All"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 2 : All cases in which the initial cause of death (PPS) is a disease have been selected (all codes for external causes, injuries and poisoning have been excluded).",
+        "label_text": "All"
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 4 : The unbreakable Armenian-Iranian relations, based on centuries-old history and mutual respect, are of particular importance for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 4 : The unbreakable Armenian-Iranian relations, based on centuries-old history and mutual respect, are of particular importance for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Пациентов необходимо информировать о том, что не всегда представляется возможным в полной мере устранить возникшие в результате травмы деформации и дефекты.",
+        "hyp": "文 1 : Patients should be informed that it is not always possible to completely eliminate the deformities and defects caused by injuries.",
+        "label_text": "injuries"
+    },
+    {
+        "source": "原文 : Уверен, что закаленные в атмосфере взаимного уважения и доверия армяно-иранские дружеские отношения в дальнейшем будет иметь еще большие достижения на благо народов Армении и Ирана.",
+        "hyp": "文 1 : I am sure that the Armenian-Iranian friendly relations, strengthened in an atmosphere of mutual respect and trust, will have even greater achievements for the benefit of the peoples of Armenia and Iran in the future.",
+        "label_text": "Armenian-Iranian "
+    },
+    {
+        "source": "原文 : Переход на армяно-турецкой границе открыли впервые за десятилетия для доставки гуманитарной помощи",
+        "hyp": "文 2 : The Armenian-Turkish border crossing was opened for the first time in decades for the delivery of humanitarian aid.",
+        "label_text": "Armenian-Turkish"
+    },
+    {
+        "source": "原文 : Цукерберг запускает сайт по целому ряду причин: отчасти из-за озлобленности на окружающий мир, отчасти из-за спортивного интереса и отчасти просто потому, что ЭТО «круто».",
+        "hyp": "文 5 : Zuckerberg is launching the site for a number of reasons: partly out of anger at the world around him, partly out of sporting interest, and partly simply because it's cool.",
+        "label_text": "it's"
+    },
+    {
+        "source": "原文 : В историко-краеведческом музее Стерлитамака открылась персональная выставка живописи Натальи Алексеевой",
+        "hyp": "文 4 : In the Historical and Regional Museum of Sterlitamak, a personal exhibition of paintings by Natalia Alekseyeva was opened.",
+        "label_text": "was opened"
+    },
+    {
+        "source": "原文 : Праздник учрежден для приобщения женщин и девочек к сфере науки, поощрения развития женщинами научной карьеры и признания достижения женщин в науке.",
+        "hyp": "文 2 : The holiday was established to involve women and girls in the field of science, encourage the development of women's scientific careers and recognize the achievements of women in science.",
+        "label_text": "involve "
+    },
+    {
+        "source": "原文 : Каково же разочарование бизнесмена, когда Настя в борьбе за независимость и в пику отцу выбирает его сверстника и делового партнера.",
+        "hyp": "文 3 : What is the disappointment of a businessman when Nastya in the struggle for independence and at the peak of his father chooses his peer and business partner.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : Пусть годаровские монтажные ходы в истории о двух школьниках, один из которых мечтает сделать бомбу, а другой — сыграть Баха задом наперед, выглядят странно, но за редкую попытку поэтизации окружающей реальности — спасибо.",
+        "hyp": "文 5 : The story of two schoolchildren, one of whom dreams of making a bomb and the other of playing Bach backwards, looks strange, but for a rare attempt to poeticise the surrounding reality, thank you.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : Ранее доводилось делать узи сердца, но чтобы так - впервые (к сожалению, не знаю имя врача, молодой мужчина).",
+        "hyp": "文 4 : I've done heart surgery before, but this is the first time I've done it. Unfortunately, I don't know the name of the doctor.",
+        "label_text": "Unfortunately"
+    },
+    {
+        "source": "原文 : Финчер и Соркин никогда не закроют книгу, если в ней будет хоть малейший намек на нечто подобное.",
+        "hyp": "文 1 : Fincher and Sorkin would never close a book if there was even the slightest hint of such a thing.",
+        "label_text": "would"
+    }
+]

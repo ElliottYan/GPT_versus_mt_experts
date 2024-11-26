@@ -1,0 +1,112 @@
+[
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 1 : The blue sky, cotton candy-like clouds, people with different skin colors and face expressions, and the hustle and bustle—everything seems so familiar and so strange, as if they were thousands of miles away from me.",
+        "label_text": " and"
+    },
+    {
+        "source": "原文 : 1654年，海德薇希·艾蕾诺拉与瑞典国王卡尔十世·古斯塔夫结婚，两人的独子是日后的卡尔十一世。",
+        "hyp": "文 2 : In 1654, Hedwig Eleonora married King Karl X Gustav of Sweden. The couple had one son Karl XI, King of Sweden.",
+        "label_text": "King of Sweden"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 5 : I don't want to be a foreigner! Let me back, please! Can Twain shout like that?",
+        "label_text": "Let me back"
+    },
+    {
+        "source": "原文 : 晶莹剔透，闪烁着绚烂深泽。 最为美丽的是，水晶雕像的女子，空灵唯美，仿佛狐仙，那样美若天仙，那样令人痴迷。",
+        "hyp": "文 5 : It is crystal clear, shimmering with splendid brilliance. The most beautiful thing is that the crystal female statue is ethereal and beautiful, like a fox fairy, so beautiful and so fascinating.",
+        "label_text": " The most beautiful thing is that the crystal female statue is "
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 5 : Correspondingly, if the default option \"-fno-exteznal-templates\" is used during compilation, all template instances will be explicitly set to built-in.",
+        "label_text": "set to built-in"
+    },
+    {
+        "source": "原文 : 东西还可以，但是亚马逊的售后服务真的比其他网站差太多了",
+        "hyp": "文 5 : The product is good, but the after-sales service of Amazon is really much worse than other websites.",
+        "label_text": "than other websites"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 3 : On February 22, 2017, Ilyasova was traded to the Atlanta Hawks after playing 53 games for the Philadelphia 76ers. In exchange, the Philadelphia 76ers acquired center Tiago Splitter, a second-round pick in 2017, and the option to swap a second-round pick from the Atlanta Hawks.",
+        "label_text": "from"
+    },
+    {
+        "source": "原文 : 面值为1元的纪念币。",
+        "hyp": "文 1 : Commemorative coin with a face value of RMB 1.",
+        "label_text": "Commemorative coin "
+    },
+    {
+        "source": "原文 : 由于与Bootstrap等其他传统CSS框架的基本概念不同，因此了解Tailwind是如何建立的理念及其基本用法非常重要。",
+        "hyp": "文 4 : As Tailwind is different from the basic concepts of Bootstrap and other traditional CSS frameworks, it is important to understand how the concept of Tailwind is built and its basic usage.",
+        "label_text": " Tailwind is different from the basic concepts of Bootstrap and other traditional CSS frameworks"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 1 : An article published by the Billboard in August 2021 pointed out that the band's fans have \"through above-board means\" taken advantage of loopholes in chart tabulations to boost the ranks of singles such as \"Butter\" in the US and help the song top the Hot 100 for multiple weeks. While the chart performance of singles on the Hot 100 typically depends on streaming and airplay, that of \"Butter\" was notably driven mostly by sales (the bulk of which came from BTS' webstore, which allows fans to buy multiple copies of a song, unlike iTunes) and by fan-led crowdfunding efforts (including using money collected from fans worldwide on services like PayPal to make purchases that count toward US sales only). However, an article in The Korea Times pushed back against claims of chart manipulation. It opined that fanbases of other artists such as Justin Bieber and Ariana Grande have employed similar promotional measures, such measures were neither illegal nor unethical, and fans engaged in those measures were merely \"intelligent consumers leading global trends\".",
+        "label_text": "have employed"
+    },
+    {
+        "source": "原文 : “烦恼落尽，红尘远离。”",
+        "hyp": "文 5 : \"The troubles are over, the mortal world is far away.\"",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 两名说话的狱卒这才看见侧边正站着一名身穿粗布麻衣的女子，这女子虽然穿着粗布麻衣，却依然能隐约看出她的不俗风姿。 唯一遗憾的是，她的脸已经毁容，被略微凌乱的头发遮掩，让人不愿再看第二眼。",
+        "hyp": "文 1 : Only then did the two jailers who were talking see a woman in sackcloth standing on the side. Despite her coarse sackcloth, she looked so charming and graceful. The only regret is that her face has been disfigured and is covered by messy hair, making people reluctant to take a second look.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : 两名说话的狱卒这才看见侧边正站着一名身穿粗布麻衣的女子，这女子虽然穿着粗布麻衣，却依然能隐约看出她的不俗风姿。 唯一遗憾的是，她的脸已经毁容，被略微凌乱的头发遮掩，让人不愿再看第二眼。",
+        "hyp": "文 1 : Only then did the two jailers who were talking see a woman in sackcloth standing on the side. Despite her coarse sackcloth, she looked so charming and graceful. The only regret is that her face has been disfigured and is covered by messy hair, making people reluctant to take a second look.",
+        "label_text": "has been"
+    },
+    {
+        "source": "原文 : 两名说话的狱卒这才看见侧边正站着一名身穿粗布麻衣的女子，这女子虽然穿着粗布麻衣，却依然能隐约看出她的不俗风姿。 唯一遗憾的是，她的脸已经毁容，被略微凌乱的头发遮掩，让人不愿再看第二眼。",
+        "hyp": "文 1 : Only then did the two jailers who were talking see a woman in sackcloth standing on the side. Despite her coarse sackcloth, she looked so charming and graceful. The only regret is that her face has been disfigured and is covered by messy hair, making people reluctant to take a second look.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 4 : The Ichirouta Mikado came from the assassin clan—Mikado Clan. He developed the skills of assassins through training by his clan. Originally, the Mikado Clan served the wealthy Akizuki Clan of Kazoku. His father was previously engaged in a hand-to-hand fight with the Nue Clan to assassinate the Yintian Clan. After his mother died of an illness, the Akizuki Clan terminated the contract with the Mikado Clan and hired other assassins. To prevent the Mikado Clan from disclosing the secrets of the Akizuki Clan, the Akizuki Clan assigned assassins to kill the father of Ichirouta Mikado. As a result, Ichirouta Mikado and his sister were affected, and their family was broken up. One day, Ichirouta Mikado met Mr. Natsume in a park, who operated a lending company, and borrowed JPY 500,000 from Mr. Natsume for emergencies and investment. To repay Mr. Natsume, Ichirouta Mikado worked for Mr. Natsume, and was therefore designated as the successor to manage the company by Mr. Natsume.",
+        "label_text": "The "
+    },
+    {
+        "source": "原文 : “楼市在回暖，此时更需要一针‘强心剂’。",
+        "hyp": "文 5 : \"As the real estate market recovering, it is necessary to inject strong impetus.\"",
+        "label_text": "As the real estate market recoverin"
+    },
+    {
+        "source": "原文 : 之所以猜测这是琥珀，是因为它色泽是淡黄色的，里面包裹着一个小虫，和他小学六年级时候看到过的一枚琥珀很像。 那时候他们的课本有一篇名为《琥珀》的课文，语文老师给他们上课的时候，就带来了一枚琥珀。",
+        "hyp": "文 2 : The reason why Li Du believed it to be a piece of amber was because the crystal was tinged with yellow and contained a small creature inside. At first glance, this crystal looked very similar to the one he had seen during his sixth-grade class in primary school. At that time, their textbook had a passage titled \"Amber.\" Their Chinese teacher brought a piece of amber to the class.",
+        "label_text": "because"
+    },
+    {
+        "source": "原文 : 乔子衿连连摇头，她妈都这个年纪了，肾肯定没比她好到哪儿去，既然都要了，她肯定要个好的：“妈，你是生我养我的妈，我可舍不得你动刀子，我爸肯定也是不行的。”",
+        "hyp": "文 3 : Qiao Zijin shook her head again and again. Her mother was already old, so her kidney was certainly not in good health. Now that she had decided to have a transplant, she certainly wanted to have a good one. \"Mom, you gave birth to me and brought me up, I can't bear to see you go under the knife, and the same goes for my dad too.\"",
+        "label_text": "the same goes for my dad too"
+    },
+    {
+        "source": "原文 : 想取消订单，对不起，订单信息已传递给供应商，不能取消；想退换货，在亚马逊成功申请了退换货，对不起，没有人理你，需要自行联系供货商退货。",
+        "hyp": "文 5 : If you want to cancel the order, they will tell you that the order information has been transferred to the supplier, so you can't do it. If you want to change or return the product, and your request has been approved, no after-sales personnel will respond to you, and you have to contact the supplier yourself.",
+        "label_text": "your request has been approved, no after-sales personnel will respond to you"
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 1 : In the first week after the 2023 Spring Festival, there was a growing trend in both the number of job positions prioritized for overseas returnees and the number of overseas returnees seeking jobs in China. Specifically, On February 3, the number of job positions prioritized for overseas returnees increased by 11% compared to January 28, and the number of overseas returnees seeking jobs increased by 27%.",
+        "label_text": "compared to January 28"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 1 : Even so, Ning Cheng's grandfather, Ning Hongchang, still accepted Ji Luofei into his mansion. He planned to arrange their marriage after Ning Cheng reached the Qi Gathering Realm.",
+        "label_text": "their"
+    },
+    {
+        "source": "原文 : 硫酸铅在1170°C下融化并部分分解出三氧化硫。",
+        "hyp": "文 1 : Lead sulfate melts at 1170°C to partially decompose into sulfur trioxide.",
+        "label_text": "to"
+    }
+]

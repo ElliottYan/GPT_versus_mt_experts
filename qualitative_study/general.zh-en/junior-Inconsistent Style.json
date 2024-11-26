@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : 其他同学看到这一幕，如看神人一般望着王宝乐。",
+        "hyp": "文 5 : Seeing this scene, other students looked at Wang Baole, just like looking at Deity. ",
+        "label_text": "Deity"
+    },
+    {
+        "source": "原文 : 2014年10月2日，孙延在代表韩国出战在韩国仁川举行的仁川亚运艺术体操女子个人全能项目，她在决赛的圈操、带操和棒操分别取得18.216分、18.083分和18.100分的成绩，尽管在最后一项的球操环节出现失误，仅取得17.300分，她仍然以总分71.699分荣获金牌，成为首位达到此成绩的韩国选手。",
+        "hyp": "文 4 : On October 2, 2014, Son Yeon-Jae represented South Korea in the Asian Games held in Incheon, South Korea. During the women's individual all-around artistic gymnastics finals, Son Yeon-Jae achieved 18.216 points, 18.083 points, and 18.100 points in the hoop exercise, exercise with ribbons, and exercise with clubs, respectively. Although Son Yeon-Jae only scored 17.300 points in the ball exercise due to a mistake, she still won the gold medal with a total score of 71.699 points, becoming the first athlete from South Korea to achieve such a result.",
+        "label_text": "hoop exercise, exercise with ribbons, and exercise with clubs"
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 2 : In the context of Chinese mainland, dubbed films include foreign-language films that have been dubbed into standard Chinese or dialects, and Chinese-language films that have been dubbed into minority languages, or minority-language films that have been dubbed into standard Chinese. In very rare cases, they also include films in southern dialects such as Southern Fujian Dialect and Cantonese that have been dubbed into standard Chinese.",
+        "label_text": "Chinese-language "
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 2 : In the context of Chinese mainland, dubbed films include foreign-language films that have been dubbed into standard Chinese or dialects, and Chinese-language films that have been dubbed into minority languages, or minority-language films that have been dubbed into standard Chinese. In very rare cases, they also include films in southern dialects such as Southern Fujian Dialect and Cantonese that have been dubbed into standard Chinese.",
+        "label_text": "standard Chinese"
+    }
+]

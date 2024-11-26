@@ -1,0 +1,107 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 1 : Умм, может быть, потому что мы разные люди с разными телами???",
+        "label_text": "разные люди"
+    },
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 1 : Умм, может быть, потому что мы разные люди с разными телами???",
+        "label_text": "разными телами"
+    },
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 5 : Попробуй ввести в чат: \"Я не буду обманывать в этой игре!\"",
+        "label_text": "чат"
+    },
+    {
+        "source": "原文 : Pls write \"+\" in the comment if you see this.",
+        "hyp": "文 2 : Пожалуйста, напишите \"+\" в комментарии, если увидите это.",
+        "label_text": "увидите"
+    },
+    {
+        "source": "原文 : Pls write \"+\" in the comment if you see this.",
+        "hyp": "文 2 : Пожалуйста, напишите \"+\" в комментарии, если увидите это.",
+        "label_text": "увидите"
+    },
+    {
+        "source": "原文 : Just knowing I can go home and text them brightens my mood ten-fold.",
+        "hyp": "文 1 : Просто знание того, что я могу пойти домой и написать им сообщение, улучшает мое настроение в десять раз.",
+        "label_text": "пойти"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 4 : Я могу сказать, где был ваш человек и что они делают по вкусу, когда они возвращаются?",
+        "label_text": "делают"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 4 : Я могу сказать, где был ваш человек и что они делают по вкусу, когда они возвращаются?",
+        "label_text": "делают"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 2 : Уверен, вы не прочитали все число или не заметили букву, которую я вставил, а теперь вернетесь, чтобы проверить, только чтобы понять, что не было никакой буквы.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 3 : 1:49 - это просто мой тренер, который говорит: \"Ты должен быть хорошим, но ты не такой, поэтому я собираюсь дать тебе нереалистичные цели\", или я должен быть в 1:49?",
+        "label_text": "1:49 - это просто мой тренер, который говорит"
+    },
+    {
+        "source": "原文 : When Italian diplomats hinted about possible opposition by their government, the French replied that Tripoli would have been a counterpart for Italy.",
+        "hyp": "文 2 : Когда итальянские дипломаты намекали на возможную оппозицию со стороны их правительства, французы ответили, что Триполи был бы аналогом для Италии.",
+        "label_text": "намекали "
+    },
+    {
+        "source": "原文 : Luckily the flare is a bit higher and not right where I make contact when sitting but it still hurts like a muther***",
+        "hyp": "文 3 : К счастью, вспышка немного выше и не там, где я соприкасаюсь, когда сижу, но это все равно болит, как матерь.",
+        "label_text": "вспышка немного выше"
+    },
+    {
+        "source": "原文 : If you translate something and then you change it, then actually I read it already, it's in my brain.",
+        "hyp": "文 5 : Если вы переводите что-то и затем меняете его, то на самом деле я уже читаю это, это в моем мозге.",
+        "label_text": "уже читаю"
+    },
+    {
+        "source": "原文 : As is common with despotic rule the whole period suffered from murders, suicides, corruption-material and moral- a record of which has been prepared by Kalhan Pandit who followed in the 12th century in the reign of Jayasinha.",
+        "hyp": "文 3 : Как это распространено при деспотическом правлении, весь период страдал от убийств, самоубийств, коррупции - материальной и моральной - запись о которой была подготовлена Калханом Пандитом, который последовал в 12-м веке во время правления Джаясинхи.",
+        "label_text": "которой"
+    },
+    {
+        "source": "原文 : It’s been now 4 or 5 hours and I saw him now drink and eat a little bit.",
+        "hyp": "文 4 : Прошло уже четыре или пять часов, и я видел, как он пьет и ест немного.",
+        "label_text": "видел"
+    },
+    {
+        "source": "原文 : The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",
+        "hyp": "文 1 : Конец быстрый, поскольку несколько пар клыков вводят свой смертельный яд, и воздух Дискры загрязняет ваши легкие.",
+        "label_text": "Конец быстрый"
+    },
+    {
+        "source": "原文 : I know that it doesn’t matter if your dog is friendly, aggressive, or otherwise, doesn’t matter if your dog is already barking and growling, or just minding its own business.",
+        "hyp": "文 4 : Я знаю, что не имеет значения, дружелюбен ли ваша собака, агрессивен ли он или нет, не имеет значения, лает ли ваша собака и рычит, или просто занимается своим делом.",
+        "label_text": "он"
+    },
+    {
+        "source": "原文 : I like the product it’s a nice size and color!",
+        "hyp": "文 1 : Мне нравится продукт, он хорошего размера и цвета!",
+        "label_text": " он хорошего размера и цвета"
+    },
+    {
+        "source": "原文 : Several sites reported highest on record daily rainfall amounts including Mandora (281.0 mm on 6th) and Mount Narryer (152.0 mm on 10th).",
+        "hyp": "文 2 : Несколько мест сообщили о рекордно высоких ежедневных количествах осадков, включая Мандору (281.0 мм на 6-м) и гору Нарриер (152.0 мм на 10-м).",
+        "label_text": "Несколько мест"
+    },
+    {
+        "source": "原文 : I don't know if you have responded, I had not seen anyone providing any- any updates to the document.",
+        "hyp": "文 2 : Я не знаю, ответили ли вы, я не видел, чтобы кто-то предоставил какие-либо обновления документа.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : U srsly don't know what to do and whom to trust anymore.",
+        "hyp": "文 4 : Мы больше не знаем, что делать и кому доверять.",
+        "label_text": "не знаем,"
+    }
+]

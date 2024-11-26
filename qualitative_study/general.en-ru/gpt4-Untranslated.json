@@ -1,0 +1,37 @@
+[
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 2 : Итак, я бы хотел, чтобы [PERSON4] связался с [PERSON2].",
+        "label_text": "PERSON4"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 2 : Итак, я бы хотел, чтобы [PERSON4] связался с [PERSON2].",
+        "label_text": "PERSON2"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 2 : Итак, я бы хотел, чтобы [PERSON4] связался с [PERSON2].",
+        "label_text": "PERSON4"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 2 : Итак, я бы хотел, чтобы [PERSON4] связался с [PERSON2].",
+        "label_text": "PERSON2"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 5 : Как сообщала газета The Washington Post в октябре, в этом отказе отмечалось, что, например, бывший помощник Пенса Марк Шорт \"вероятно обладал информацией, важной для уголовного расследования Министерства юстиции в отношении атаки 6 января 2021 года на Капитолий, которая не была доступна из других источников\".",
+        "label_text": "The Washington Post"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 4 : Солдаты якобы украли у других мужчин ещё 1 440 000 CFA (2 845 долларов США).",
+        "label_text": "CFA"
+    },
+    {
+        "source": "原文 : However, the expression level of the NUP153 gene from the alternative LINE-1 promoter was 17 times higher in chorionic villi and 23 times higher in extraembryonic mesoderm than in lymphocytes (p < 0.05).",
+        "hyp": "文 3 : Тем не менее, уровень экспрессии гена NUP153 от альтернативного промотора LINE-1 был в 17 раз выше в хорионических ворсинах и в 23 раза выше в экстраэмбриональном мезодерме, чем в лимфоцитах (p < 0.05).",
+        "label_text": "LINE"
+    }
+]

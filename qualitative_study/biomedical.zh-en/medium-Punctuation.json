@@ -1,0 +1,107 @@
+[
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Aregenerative anemia, hemolytic anemia, granulocytopenia, and thrombocytopenia may occur (frequency is unknown). Therefore, sufficient observation should be performed. Medication should be stopped and corresponding measures should be taken in case of abnormality.",
+        "label_text": "unknown"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Aregenerative anemia, hemolytic anemia, granulocytopenia, and thrombocytopenia may occur (frequency is unknown). Therefore, sufficient observation should be performed. Medication should be stopped and corresponding measures should be taken in case of abnormality.",
+        "label_text": "unknown"
+    },
+    {
+        "source": "原文 : 阿司匹林制剂（作为抗血小板药使用时）",
+        "hyp": "文 1 : Aspirin preparations (when used as an anti-platelet agent)",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : 阿司匹林制剂（作为抗血小板药使用时）",
+        "hyp": "文 1 : Aspirin preparations (when used as an anti-platelet agent)",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : 选择性5-羟色胺再摄取抑制剂（SSRI）氟伏沙明、帕罗西汀等",
+        "hyp": "文 4 : Selective Serotonin Reuptake Inhibitors (SSRIs) fluvoxamine, paroxetine, etc.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 猪粪和牛粪的易分解碳库占总碳库的比例分别为52%和26%,易分解碳库分解速率常数分别为0.00085和0.00074 ℃<sup>-1</sup>,且差异显著。",
+        "hyp": "文 1 : The labile organic carbon of pig manure and cow manure accounts for 52% and 26% of the total carbon respectively, and the decomposition rate constant of labile organic carbon is 0.00085 and 0.00074 ℃-1 respectively, with significant difference.",
+        "label_text": "℃"
+    },
+    {
+        "source": "原文 : 猪粪和牛粪的易分解碳库占总碳库的比例分别为52%和26%,易分解碳库分解速率常数分别为0.00085和0.00074 ℃<sup>-1</sup>,且差异显著。",
+        "hyp": "文 1 : The labile organic carbon of pig manure and cow manure accounts for 52% and 26% of the total carbon respectively, and the decomposition rate constant of labile organic carbon is 0.00085 and 0.00074 ℃-1 respectively, with significant difference.",
+        "label_text": "-1"
+    },
+    {
+        "source": "原文 : \"心衰患者缺氧和肾功能不全的风险更高。稳定性慢性心衰的患者在定期检查心、肾功能的情况下可以服用二甲双胍。\"",
+        "hyp": "文 3 : The risk of anoxia and renal insufficiency is higher in patients with heart failure. Patients with stable chronic heart failure can take metformin under the condition of periodical examination of heart and kidney functions.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 严重的肾功能衰竭（eGFR<45mL/min/1.73m2）；",
+        "hyp": "文 2 : Severe renal failure (eGFR<45 mL/min/1.73 m2);",
+        "label_text": "<"
+    },
+    {
+        "source": "原文 : 严重的肾功能衰竭（eGFR<45mL/min/1.73m2）；",
+        "hyp": "文 2 : Severe renal failure (eGFR<45 mL/min/1.73 m2);",
+        "label_text": "2"
+    },
+    {
+        "source": "原文 : 皮莱说 ： “ 他们能够在家里控制疾病，大多数人在隔离10至14天内康复 。 ”",
+        "hyp": "文 5 : Pillet said, “they can control the disease at home, and most people recover after quarantine for 10-14 days.”",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 3 : The method was further validated for sensitivity, specificity, linearity, range and other analytical performances. The results showed that the response range of katG315 in the same reaction system was 1.0 pmol/L-0.1 nmol/L, and that of rpoB531 and rpsL43 was 1.0 pmol/L-50.0 pmol/L and 1.0 pmol/L-20.0 pmol/L, respectively. The method was specific and sensitive, and could identify single base mutation, with a minimum limit of detection of 1.0 pmol/L. In the recovery test of simulated serum sample, the recovery could reach 95.0%-105.2%.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 1 : Injecting iodized contrast agent into the blood vessel may result in contrast-induced nephropathy, which may result in accumulation of metformin and increased risk of lactic acidosis.",
+        "label_text": " I"
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 4 : The 121 pathogenic strains isolated included 76 (62.8%) Gram-negative (G-) strains, 40 (33.1%) Gram-positive (G+) strains, and 5 (4.1%) fungal strains.",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 4 : The 121 pathogenic strains isolated included 76 (62.8%) Gram-negative (G-) strains, 40 (33.1%) Gram-positive (G+) strains, and 5 (4.1%) fungal strains.",
+        "label_text": "+"
+    },
+    {
+        "source": "原文 : ACE抑制剂如依那普利等",
+        "hyp": "文 4 : ACE inhibitors such as enalapril.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : β受体阻滞剂如普萘洛尔等",
+        "hyp": "文 1 : Β-blockers such as propranolol.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : 浸润性癌12例、原位癌3例；肿瘤分期：T <sub>is</sub>N <sub>0</sub>M <sub>0</sub> 3例，T <sub>1</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>1</sub>N <sub>2</sub>M <sub>0</sub> 2例，T <sub>2</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>2</sub>N <sub>1</sub>M <sub>0</sub> 2例。",
+        "hyp": "文 4 : 12 cases of invasive carcinoma and 3 cases of preinvasive carcinoma; tumor stage: 3 cases of TisN0M0, 4 cases of T1N0M0, 2 cases of T1N2M0, 4 cases of T2N0M0 and 2 cases of T2N1M0.",
+        "label_text": "3 cases of TisN0M0, 4 cases of T1N0M0, 2 cases of T1N2M0, 4 cases of T2N0M0 and 2 cases of T2N1M0"
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 4 : The polymorphism of genotype (NAT2) and protease phenotype (NAT2) of N-acetyltransferase 2 significantly affect the plasma isoniazide concentration.",
+        "label_text": "NAT2"
+    },
+    {
+        "source": "原文 : 有可能增强甲氨蝶呤的作用，因此应注意调整用量等。",
+        "hyp": "文 3 : It may enhance the effect of methotrexate. So attention should be paid to the dose adjustment. etc.",
+        "label_text": ". "
+    },
+    {
+        "source": "原文 : 昨天 #PRS_ORG# 漏送餐品，这次就一个虾饺给我吃！？",
+        "hyp": "文 2 : Oder #PRS_ORG# was delivered with something missing yesterday, and you delivered one shrimp dumpling only for me to eat today?",
+        "label_text": "?"
+    }
+]

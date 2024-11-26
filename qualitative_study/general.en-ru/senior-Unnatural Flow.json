@@ -1,0 +1,197 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 4 : Хмм, не знаю, может это потому, что мы РАЗНЫЕ ЛЮДИ с РАЗНЫМИ ТЕЛАМИ???",
+        "label_text": "может это потому, что"
+    },
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 4 : Хмм, не знаю, может это потому, что мы РАЗНЫЕ ЛЮДИ с РАЗНЫМИ ТЕЛАМИ???",
+        "label_text": "может это потому, что"
+    },
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 3 : Также мы объясняем пути, по которым индивидуальные факторы могут влиять на то, как сообщества взаимодействуют с этой продовольственной средой.",
+        "label_text": "пути"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "Мое предположение"
+    },
+    {
+        "source": "原文 : On August 31, 1933, Alexander Dahl took the first picture of the Earth's curvature in an open hydrogen gas balloon.",
+        "hyp": "文 3 : 31 августа 1933 года Александр Даль получил первое изображение кривизны Земли на открытом воздушном шаре.",
+        "label_text": "получил первое изображение"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 2 : Друзья и товарищи, позвольте мне закончить речь призывом направить энергию всех вас, жители Зимбабве, на ускоренное развитие нашей страны.",
+        "label_text": "Друзья и товарищи"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 2 : Друзья и товарищи, позвольте мне закончить речь призывом направить энергию всех вас, жители Зимбабве, на ускоренное развитие нашей страны.",
+        "label_text": " Друзья и товарищи"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 2 : Мне кажется, я неплохо лавирую, но инструктор говорит, что мне все еще нужно больше практиковаться.",
+        "label_text": "лавирую"
+    },
+    {
+        "source": "原文 : I know it’s a scientific things and all, but some of the posts there are just too much.",
+        "hyp": "文 4 : Я знаю, что это научные вещи и все такое, но некоторые посты оттуда - это просто перебор.",
+        "label_text": "это просто перебор"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 3 : Другие запасные (добровольные) силы были учреждены в 1981 году, а составляли их гражданские лица, готовые выполнять ограниченные полицейские задачи без вознаграждения.",
+        "label_text": "готовые "
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 2 : Быть тебе настоящим другом со всеми вытекающими \"брать-давать\" --- ты можешь опустить ее соответственно (например, с друга до просто \"кое-кого, кого я знаю\").",
+        "label_text": "\"брать-давать"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 2 : Быть тебе настоящим другом со всеми вытекающими \"брать-давать\" --- ты можешь опустить ее соответственно (например, с друга до просто \"кое-кого, кого я знаю\").",
+        "label_text": "\"брать-давать"
+    },
+    {
+        "source": "原文 : The funny thing is that right now these same hard-line conservatives declare that we must not run deficits in times of economic crisis.",
+        "hyp": "文 4 : Забавно то, что прямо сейчас те же самые бескомпромиссные консерваторы заявляют, что мы не должны перекрывать дефициты в периоды экономического кризиса.",
+        "label_text": "бескомпромиссные"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 3 : Так вот, мне бы хотелось, чтобы [ЛИЧНОСТЬ4] была в контакте с [ЛИЧНОСТЬ2].",
+        "label_text": "контакте"
+    },
+    {
+        "source": "原文 : Just knowing I can go home and text them brightens my mood ten-fold.",
+        "hyp": "文 3 : Одно лишь знание, что я могу пойти домой и написать им, улучшает мое настроение в десять раз.",
+        "label_text": "Одно лишь знание"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 3 : Я могу рассказать, где были твои люди и что они делали, по вкусу, когда они вернутся?",
+        "label_text": ", по вкусу,"
+    },
+    {
+        "source": "原文 : This study aims to find out, describe, and analyze techniques for applying group guidance to improve the quality of life of a person's disability at the Integrated Rehabilitation Centre for Persons with Disabilities.",
+        "hyp": "文 4 : Это исследование намерено выяснить, описать и проанализировать техники применения группового руководства для улучшения качества жизни лиц с инвалидностью в Объединенном реабилитационном центре для инвалидов.",
+        "label_text": "Объединенном"
+    },
+    {
+        "source": "原文 : Through seven generations, the model has gone through many revisions and design forks, including the Toyota Celica Supra (later known as the Toyota Supra).",
+        "hyp": "文 3 : Сквозь семь поколений модель прошла через множество пересмотров и конструкторских работ, включая Toyota Celica Supra (позже известную как Toyota Supra).",
+        "label_text": "Сквозь"
+    },
+    {
+        "source": "原文 : Through seven generations, the model has gone through many revisions and design forks, including the Toyota Celica Supra (later known as the Toyota Supra).",
+        "hyp": "文 3 : Сквозь семь поколений модель прошла через множество пересмотров и конструкторских работ, включая Toyota Celica Supra (позже известную как Toyota Supra).",
+        "label_text": "конструкторских работ"
+    },
+    {
+        "source": "原文 : I’m most scared that in the future when I’m working, people will look down on SMU like elitism discrimination all that, I don’t know, man.",
+        "hyp": "文 1 : Больше всего я боюсь, что в будущем, пока я работаю, люди будут смотреть на SMU свысока, как на дискриминацию элитарности и все в этом роде, я не знаю, чувак.",
+        "label_text": "чувак"
+    },
+    {
+        "source": "原文 : The French company Citroën has devised a high-pressure hydraulics system for cars which was used for all manner of systems, even power-adjustable seats.",
+        "hyp": "文 5 : Французская компания Citroën разработала гидравлическую систему высокого давления для автомобилей, которая использовалась для всех типов систем, даже сидений с регулируемой мощностью.",
+        "label_text": "регулируемой мощностью"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 5 : Я понимаю, натуральные продукты не будут пахнуть так же приятно, как синтетические, но, как мне кажется, все больше и больше естественных линий попросту меньше заботит этот вопрос, поскольку они будут хорошо продаваться в любом случае, поэтому теперь все просто пахнет как пластилин.",
+        "label_text": "все больше и больше естественных линий попросту меньше заботит этот вопрос"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 3 : Я все еще учусь, и гейминг - моя мечта… и от этих цен у меня начинается депрессия и безнадежность жизни… честно говоря…",
+        "label_text": "начинается депрессия и безнадежность жизни"
+    },
+    {
+        "source": "原文 : I texted her in the night yesterday asking if she’s mad, and like she said she’s only a bit let down.",
+        "hyp": "文 2 : Я написала ей вчера ночью с вопросом, сердится ли она, и, как она сказала, она лишь немного подавлена.",
+        "label_text": "как она сказала"
+    },
+    {
+        "source": "原文 : I love my boyfriend and desperately want to keep his system happy.",
+        "hyp": "文 3 : Я люблю своего бойфренда и отчаянно пытаюсь угодить его системе.",
+        "label_text": "бойфренда"
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 2 : Экономика Японии выросла на превысившие ожидания 3.5% в годовом исчислении в последнем квартале, давая импульс премьер-министру Синдзо Абэ в плане проводимых его правительством реформ, которые необходимы для обеспечения устойчивого восстановления после двух нелегких десятилетий.",
+        "label_text": "в плане проводимых его правительством реформ"
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 2 : Экономика Японии выросла на превысившие ожидания 3.5% в годовом исчислении в последнем квартале, давая импульс премьер-министру Синдзо Абэ в плане проводимых его правительством реформ, которые необходимы для обеспечения устойчивого восстановления после двух нелегких десятилетий.",
+        "label_text": "после двух нелегких десятилетий"
+    },
+    {
+        "source": "原文 : Their careers range from infectious disease doctors to psychologists to mindfulness teachers - and they all had great advice to give on how to stay motivated and keep the ball rolling.",
+        "hyp": "文 4 : Диапазон их профессий варьируется от врачей-инфекционистов до психологов и педагогов, обучающих практике осознанности, - у них всех были отличные советы о том, как оставаться мотивированным и продолжать свою игру.",
+        "label_text": "продолжать свою игру"
+    },
+    {
+        "source": "原文 : The first thing I started with was concatenating the paraphrase and source and maybe I, I don't remember now,",
+        "hyp": "文 3 : Первая вещь, с которой у меня все началось, это соединение перефразирования и источника, и может быть, сейчас я уже не помню,",
+        "label_text": "Первая вещь, с которой у меня все началось"
+    },
+    {
+        "source": "原文 : David himself had lost his popularity and lost the respect of his nobles when he married the widow of a minor laird after the death of his English wife.",
+        "hyp": "文 4 : Дэвид сам потерял свою популярность и уважение своих аристократов, когда женился на вдове несовершеннолетнего лэрда после смерти своей английской супруги.",
+        "label_text": "несовершеннолетнего"
+    },
+    {
+        "source": "原文 : David himself had lost his popularity and lost the respect of his nobles when he married the widow of a minor laird after the death of his English wife.",
+        "hyp": "文 4 : Дэвид сам потерял свою популярность и уважение своих аристократов, когда женился на вдове несовершеннолетнего лэрда после смерти своей английской супруги.",
+        "label_text": "своей английской супруги"
+    },
+    {
+        "source": "原文 : Kaylee, who just graduated from high school, is an accomplished figure skater.",
+        "hyp": "文 1 : Кейли, которая только что закончила школу, - опытная фигуристка.",
+        "label_text": "только что"
+    },
+    {
+        "source": "原文 : We are probably not getting him the ball as much as we need.",
+        "hyp": "文 4 : Мы, пожалуй, не будем передавать ему мяч столько, сколько нужно.",
+        "label_text": "будем передавать"
+    },
+    {
+        "source": "原文 : These tutorial groups usually don't change so as to foster the ward / guardian relationship.",
+        "hyp": "文 5 : Эти учебные группы обычно не меняются дабы укрепить отношения опекаемый / опекун.",
+        "label_text": "дабы "
+    },
+    {
+        "source": "原文 : Remarkably, these relationships are not static, as they change throughout an organism's lifetime and on an evolutionary scale.",
+        "hyp": "文 5 : Примечательно, что отношения эти не были статичны, поскольку менялись в течение жизни организма и по эволюционной шкале.",
+        "label_text": "шкале"
+    },
+    {
+        "source": "原文 : It seems no matter what i do i literally can't keep the dust at bay for more than 24hrs and i am losing my mind.",
+        "hyp": "文 1 : Кажется, что бы я ни делала, я буквально не могу контролировать рост пыли более чем на 24 часа, и я теряю голову.",
+        "label_text": "я теряю голову"
+    },
+    {
+        "source": "原文 : I walked all the way home and, ah shit, I’m getting shin splints from all this walking up and down the hill.",
+        "hyp": "文 3 : Всю дорогу домой я шел пешком и, вот черт, кажется, я заработал шинсплинт от всех этих подъемов и спусков по холму.",
+        "label_text": "Всю дорогу домой я шел пешком и"
+    },
+    {
+        "source": "原文 : His spirit returns as well and melds with the bodies of his son and mate.",
+        "hyp": "文 4 : Возвращается и его дух, сливаясь с телами его сына и супруги.",
+        "label_text": "Возвращается и его дух"
+    },
+    {
+        "source": "原文 : Can I give my 2-month Boston Terrier puppy raw beef bones?",
+        "hyp": "文 2 : Могу я отдать сырые кости моего двухмесячного щенка бостон-терьера?",
+        "label_text": " кости моего двухмесячного щенка бостон-терьера"
+    }
+]

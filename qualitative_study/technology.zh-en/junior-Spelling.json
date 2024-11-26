@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : 有澎湃动力，探索世界的旅程就没有边界：搭载380T GDi发动机，配合8速自动变速箱与HTRAC智能四驱系统，不但动力强劲充沛，更提供超强抓地力，适合全地形驾驶， 打开世界，再无疆界。",
+        "hyp": "文 5 : With its powerful performance, there are no boundaries to the journey of exploration: equipped with a 380T GDi engine, an 8AT transmission and an HTRAC intelligent 4WD system, the engine not only has strong and abundant power, but also provides exceptional grip, making vehicle suitable for all-terrain driving, and opening up the world without boundaries.",
+        "label_text": "e"
+    },
+    {
+        "source": "原文 : 有澎湃动力，探索世界的旅程就没有边界：搭载380T GDi发动机，配合8速自动变速箱与HTRAC智能四驱系统，不但动力强劲充沛，更提供超强抓地力，适合全地形驾驶， 打开世界，再无疆界。",
+        "hyp": "文 5 : With its powerful performance, there are no boundaries to the journey of exploration: equipped with a 380T GDi engine, an 8AT transmission and an HTRAC intelligent 4WD system, the engine not only has strong and abundant power, but also provides exceptional grip, making vehicle suitable for all-terrain driving, and opening up the world without boundaries.",
+        "label_text": "e"
+    },
+    {
+        "source": "原文 : 绕桩是蒙迪欧的强项，它的转向精度、车身灵活性和悬架支撑性都非常出色。",
+        "hyp": "文 4 : Slalomt is a strong point of the Mondeo, with excellent steering precision, maneuverability, and suspension support.",
+        "label_text": "Slalomt"
+    },
+    {
+        "source": "原文 : 绕桩时迈锐宝的转向比较灵敏且足够准确，回馈十分线性，底盘整体感很强，典型的欧洲车风格。",
+        "hyp": "文 1 : During the slalomt, the Malibu's steering is notably responsive and sufficiently precise. The feedback is highly linear, and the overall chassis feel is strong, showcasing a typical European vehicle style.",
+        "label_text": "slalomt"
+    },
+    {
+        "source": "原文 : 前方安全警告时间指设置或变更驾驶员辅助系统的前方安全警告时间。详细信息请参考第7章的“正面防撞辅助(FCA)”部分。",
+        "hyp": "文 5 : The forward safety warning time refers to the setting or change of the forward safety warning time for the driver assistance system. For more detailed information, please refer to the \"Forward collision-avoidance assist (FCA)\" section in Chapter 7.",
+        "label_text": "collision-avoidance assist "
+    },
+    {
+        "source": "原文 : 君越车门防撞梁的面积和厚度基本上处于目前国产中型车的较高水平，尤其是80mm左右的宽度，在这个级别中是比较少见的，可以见得通用对于君越的被动安全性设计还是下了不少的心思。",
+        "hyp": "文 5 : The area and thickness of the anti-collision beams in the doors of the Lacrosse are generally at a higher level among current domestic mid-size vehicles. Particularly, the width of around 80 mm is relatively uncommon in this level. This demonstrates that General Motors has put considerable effort into the passive safety design of the Lacrosse.",
+        "label_text": "Lacrosse "
+    },
+    {
+        "source": "原文 : 君越车门防撞梁的面积和厚度基本上处于目前国产中型车的较高水平，尤其是80mm左右的宽度，在这个级别中是比较少见的，可以见得通用对于君越的被动安全性设计还是下了不少的心思。",
+        "hyp": "文 5 : The area and thickness of the anti-collision beams in the doors of the Lacrosse are generally at a higher level among current domestic mid-size vehicles. Particularly, the width of around 80 mm is relatively uncommon in this level. This demonstrates that General Motors has put considerable effort into the passive safety design of the Lacrosse.",
+        "label_text": "Lacrosse"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 5 : If you have purchased a used vehicle, you should confirm and delete any registered Bluetooth key. Additionally, please inform the customer service center or dealer about the used vehicle that you purchased.",
+        "label_text": "customer service center "
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 5 : Press the button on the infotainment system display as follows: Settings → Vehicle → Digital keys → List of digital keys → Select user → Delete.",
+        "label_text": "Digital keys"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 5 : Press the button on the infotainment system display as follows: Settings → Vehicle → Digital keys → List of digital keys → Select user → Delete.",
+        "label_text": "digital keys"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 5 : Press the button on the infotainment system display as follows: Settings → Vehicle → Digital keys → List of digital keys → Select user → Delete.",
+        "label_text": "u"
+    },
+    {
+        "source": "原文 : RCD510系统最大的特点就是拥有一块6.5寸的彩色中文显示屏，带有触摸功能。它除了拥有FM、CD、MP3以及外接音源播放功能外。",
+        "hyp": "文 3 : The key feature of the RCD510 system is that it has a 6.5 inch color Chinese display with touch function. In addition to its FM, CD, MP3, and external source playback functions,",
+        "label_text": "6.5 inch"
+    },
+    {
+        "source": "原文 : RCD510系统与原车的倒车雷达组合，可以显示模拟倒车影像。同时还支持原厂倒车摄像头，其6.5寸屏幕可用于显示倒车影像功能。",
+        "hyp": "文 4 : the RCD510 system is combined with the vehicle's reversing radar, allowing it to display analog reversing image. Additionally, it also supports the original factory reversing camera, and its 6.5-inch screen can be used to display the reversing image function.",
+        "label_text": " the "
+    }
+]

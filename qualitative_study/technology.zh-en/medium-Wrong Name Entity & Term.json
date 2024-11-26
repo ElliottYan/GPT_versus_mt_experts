@@ -1,0 +1,427 @@
+[
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 3 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline containing methanol (also known as wood spirits) or ethanol gasoline sold instead of leaded or unleaded gasoline.",
+        "label_text": "Ethanol gasoline (alcohol gasoline)"
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 3 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline containing methanol (also known as wood spirits) or ethanol gasoline sold instead of leaded or unleaded gasoline.",
+        "label_text": "wood spirits"
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 3 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline containing methanol (also known as wood spirits) or ethanol gasoline sold instead of leaded or unleaded gasoline.",
+        "label_text": "ethanol gasoline"
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 3 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline containing methanol (also known as wood spirits) or ethanol gasoline sold instead of leaded or unleaded gasoline.",
+        "label_text": "ethanol gasoline"
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 3 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline containing methanol (also known as wood spirits) or ethanol gasoline sold instead of leaded or unleaded gasoline.",
+        "label_text": "Ethanol gasoline (alcohol gasoline)"
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 3 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline containing methanol (also known as wood spirits) or ethanol gasoline sold instead of leaded or unleaded gasoline.",
+        "label_text": "wood spirits"
+    },
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 3 : Ethanol gasoline (alcohol gasoline) is a mixed fuel of ethanol (also known as grain alcohol) and gasoline. In the market, there are also gasoline containing methanol (also known as wood spirits) or ethanol gasoline sold instead of leaded or unleaded gasoline.",
+        "label_text": "ethanol gasoline"
+    },
+    {
+        "source": "原文 : 在后座椅上没有乘员乘坐时，调整后排座 椅头枕高度至最低位置。如果后座椅头枕 过高，会影响驾驶员的车辆后方视野。",
+        "hyp": "文 4 : In case of no occupant in the rear seats, the rear seat headrests can be adjusted to the lowest position. Too high rear seat headrests will affect the driver's rear view of the vehicle.",
+        "label_text": "occupant"
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累积信息时，按住方向盘上的[OK]按钮持续1秒钟以上。此时，小计里程、平均油耗和累计时间会同时被初始化。",
+        "hyp": "文 2 : When the accumulative information is displayed, press and hold the [OK] button on the steering wheel for more than 1s for manual initialization. In this case, the subtotal mileage, average fuel consumption and accumulative time will be initialized.",
+        "label_text": "subtotal mileage"
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累积信息时，按住方向盘上的[OK]按钮持续1秒钟以上。此时，小计里程、平均油耗和累计时间会同时被初始化。",
+        "hyp": "文 2 : When the accumulative information is displayed, press and hold the [OK] button on the steering wheel for more than 1s for manual initialization. In this case, the subtotal mileage, average fuel consumption and accumulative time will be initialized.",
+        "label_text": "subtotal mileage"
+    },
+    {
+        "source": "原文 : 有澎湃动力，探索世界的旅程就没有边界：搭载380T GDi发动机，配合8速自动变速箱与HTRAC智能四驱系统，不但动力强劲充沛，更提供超强抓地力，适合全地形驾驶， 打开世界，再无疆界。",
+        "hyp": "文 2 : No boundary in the journey of exploring the world with strong power: 380T GDi engine, 8-speed automatic transmission and HTRAC intelligent 4WD system, making the vehicle not only have strong power, but also provide super grip. Therefore, it is suitable for all-terrain driving without boundaries.",
+        "label_text": "intelligent 4WD system"
+    },
+    {
+        "source": "原文 : 有澎湃动力，探索世界的旅程就没有边界：搭载380T GDi发动机，配合8速自动变速箱与HTRAC智能四驱系统，不但动力强劲充沛，更提供超强抓地力，适合全地形驾驶， 打开世界，再无疆界。",
+        "hyp": "文 2 : No boundary in the journey of exploring the world with strong power: 380T GDi engine, 8-speed automatic transmission and HTRAC intelligent 4WD system, making the vehicle not only have strong power, but also provide super grip. Therefore, it is suitable for all-terrain driving without boundaries.",
+        "label_text": "intelligent 4WD system"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心，打造出高科技感与活力感并存的数字化智能座舱，简约高贵的内饰设计，将车内空间感提升到极致",
+        "hyp": "文 1 : With the driver as the center, we will create a digital intelligent cab with a sense of high technology and vitality. The simple and noble interior design enhances the sense of space inside the vehicle to the extreme.",
+        "label_text": "cab "
+    },
+    {
+        "source": "原文 : 车尾方面，车尾看上去比较炫酷，尾灯呈现出质朴的设计风格，排气管布局运用了圆形造型，利落感跃然眼前。",
+        "hyp": "文 1 : The rear part looks cool. The taillights are of a simple design style, and the exhaust pipe is of a circular shape, making the rear part look neat and vivid.",
+        "label_text": "rear part"
+    },
+    {
+        "source": "原文 : 车尾方面，车尾看上去比较炫酷，尾灯呈现出质朴的设计风格，排气管布局运用了圆形造型，利落感跃然眼前。",
+        "hyp": "文 1 : The rear part looks cool. The taillights are of a simple design style, and the exhaust pipe is of a circular shape, making the rear part look neat and vivid.",
+        "label_text": "rear part"
+    },
+    {
+        "source": "原文 : 车尾方面，车尾看上去比较炫酷，尾灯呈现出质朴的设计风格，排气管布局运用了圆形造型，利落感跃然眼前。",
+        "hyp": "文 1 : The rear part looks cool. The taillights are of a simple design style, and the exhaust pipe is of a circular shape, making the rear part look neat and vivid.",
+        "label_text": "rear part"
+    },
+    {
+        "source": "原文 : 车尾方面，车尾看上去比较炫酷，尾灯呈现出质朴的设计风格，排气管布局运用了圆形造型，利落感跃然眼前。",
+        "hyp": "文 1 : The rear part looks cool. The taillights are of a simple design style, and the exhaust pipe is of a circular shape, making the rear part look neat and vivid.",
+        "label_text": "rear part"
+    },
+    {
+        "source": "原文 : 最后再来看下仪表盘和座椅，仪表盘设计可圈可点，设计比较稳重。该车采用了仿皮座椅，座椅包裹性到位，用料讲究，乘坐舒适。",
+        "hyp": "文 5 : Finally, let's look at the instrument panel and seats. The design of the instrument panel is remarkable and relatively stable. This vehicle adopts imitation leather seats, which are well wrapped, with exquisite materials and comfortable riding performance.",
+        "label_text": "imitation leather"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 5 : The brand-new subframe effectively distributes the load to the front/rear assembly bracket, which not only improves the strength, but also further relieves the vibration and unevenness during driving.",
+        "label_text": "assembly bracket"
+    },
+    {
+        "source": "原文 : 在从A区进入B区的过程中，车辆的响应速度与转向的准确性都不错，并且在第一次变线时电子稳定系统便已开始介入，虽然强度不大， 但足以帮助车辆在进入B区后保持更好的轮胎抓地力。",
+        "hyp": "文 2 : In the process of entering from area A to area B, the vehicle has a good response speed and steering accuracy. In addition, the ESP system begins to intervene since the first lane change. Although the strength is not great, it is enough to help the vehicle maintain better tire grip after entering area B.",
+        "label_text": "ESP system"
+    },
+    {
+        "source": "原文 : 流线型车身线条优雅而动感，让人感受到强烈的视觉冲击力。车辆的细节处理也非常到位，无论是车灯、进气口还是车身线条，都展现出精湛的工艺水平。",
+        "hyp": "文 4 : The streamlined body lines are elegant and dynamic, making people feel strong visual impact. The details of the vehicle are also handled very well. Headlights, air inlets and body lines all show exquisite craftsmanship.",
+        "label_text": "air inlets"
+    },
+    {
+        "source": "原文 : 车身的线条比较硬朗，流露出硬派的风范，车头有着犀利的大灯，以及大面积的进气格栅，看起来足够时尚。",
+        "hyp": "文 3 : The body lines are relatively tough, showing a hard-core style. The head has sharp headlights and a large air intake grille, and looks fashionable enough.",
+        "label_text": "air intake grille"
+    },
+    {
+        "source": "原文 : 帕萨特在外形设计上相比老款运动得多，整体不再是一板一眼的传统三厢轿车设计，C柱的线条更加流畅，营造出了微微溜背的感觉。",
+        "hyp": "文 4 : Passat is much sportier than the old model in terms of appearance design. The overall design is no longer a traditional rigid sedan design, and the lines of C-pillar are smoother, creating a feeling of slightly slipping back.",
+        "label_text": " slightly slipping back"
+    },
+    {
+        "source": "原文 : 传统的6挡手自一体变速箱动力衔接更平顺，特别是在低速拥堵路况时，其平顺性要明显好于大众的DQ380。",
+        "hyp": "文 2 : The traditional 6-speed manual-automatic transmission has a smoother power connection, especially in low-speed traffic jams, and its smoothness is obviously better than that of Volkswagen DQ380.",
+        "label_text": "speed"
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 1 : After all, in the medium-sized vehicle class, Regal takes a young sports route, while LaCrosse focuses on being steady and business-oriented. LaCrosse has also joined the ranks of light modeling after model upgrade. The modeling of daytime running lights echoes with that of rear clearance lights, making them easy to be identified at night.",
+        "label_text": "upgrade"
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 1 : After all, in the medium-sized vehicle class, Regal takes a young sports route, while LaCrosse focuses on being steady and business-oriented. LaCrosse has also joined the ranks of light modeling after model upgrade. The modeling of daytime running lights echoes with that of rear clearance lights, making them easy to be identified at night.",
+        "label_text": "rear clearance lights"
+    },
+    {
+        "source": "原文 : 对车辆的不正确、不完全或不适当的保养和维修，会造成车辆系统故障，而引发意外事故，导致严䟽或致命人身伤害或车辆损坏。在本章节中对易保养项目提供说明。",
+        "hyp": "文 3 : Incorrect, incomplete or improper maintenance and repair of vehicles will cause vehicle system fault, resulting in accidents, serious or fatal personal injury or damage to vehicles. Maintenance items are explained in this chapter.",
+        "label_text": "system fault"
+    },
+    {
+        "source": "原文 : 检查制动油/离合器油储油罐中的制动油/离合器油䟿。油䟿应在储油罐侧面的“上限(MAX)”与“下限(MIN)”标记之间。能使用符合[DOT4]㿴格的液压制动油/离合器油。",
+        "hyp": "文 3 : Check the brake fluid/clutch oil level in the brake fluid/clutch oil storage tank. The oil level should be between the \"MAX\" and \"MIN\" marks on the side of the oil storage tank. You can use hydraulic brake fluid/clutch oil meeting [DOT4] specifications.",
+        "label_text": "brake fluid"
+    },
+    {
+        "source": "原文 : 检查制动油/离合器油储油罐中的制动油/离合器油䟿。油䟿应在储油罐侧面的“上限(MAX)”与“下限(MIN)”标记之间。能使用符合[DOT4]㿴格的液压制动油/离合器油。",
+        "hyp": "文 3 : Check the brake fluid/clutch oil level in the brake fluid/clutch oil storage tank. The oil level should be between the \"MAX\" and \"MIN\" marks on the side of the oil storage tank. You can use hydraulic brake fluid/clutch oil meeting [DOT4] specifications.",
+        "label_text": " brake fluid"
+    },
+    {
+        "source": "原文 : 检查制动油/离合器油储油罐中的制动油/离合器油䟿。油䟿应在储油罐侧面的“上限(MAX)”与“下限(MIN)”标记之间。能使用符合[DOT4]㿴格的液压制动油/离合器油。",
+        "hyp": "文 3 : Check the brake fluid/clutch oil level in the brake fluid/clutch oil storage tank. The oil level should be between the \"MAX\" and \"MIN\" marks on the side of the oil storage tank. You can use hydraulic brake fluid/clutch oil meeting [DOT4] specifications.",
+        "label_text": "hydraulic brake fluid"
+    },
+    {
+        "source": "原文 : 作为同一品牌下的车型，锐志在用料方面的表现要比凯美瑞厚道一些，中控台上部全部采用了软质材料，并不是那种在硬塑料上包裹一层类似皮革材料的感觉，而是搪塑工艺。",
+        "hyp": "文 2 : As a model under the same brand, REIZ has a better performance in terms of materials compared with Camry. The upper part of the central console is all made of soft materials, instead of leather-like materials wrapping the hard plastic. It is the plastic molding process.",
+        "label_text": "central console"
+    },
+    {
+        "source": "原文 : 作为同一品牌下的车型，锐志在用料方面的表现要比凯美瑞厚道一些，中控台上部全部采用了软质材料，并不是那种在硬塑料上包裹一层类似皮革材料的感觉，而是搪塑工艺。",
+        "hyp": "文 2 : As a model under the same brand, REIZ has a better performance in terms of materials compared with Camry. The upper part of the central console is all made of soft materials, instead of leather-like materials wrapping the hard plastic. It is the plastic molding process.",
+        "label_text": "plastic molding process"
+    },
+    {
+        "source": "原文 : 蒙迪欧中控台的用料和装配工艺都表现不错，方向盘的手感在众多对手中的表现也相当出色，功能按键的位置使用起来感受也很好。",
+        "hyp": "文 2 : Both the materials and assembly process of Mondeo's central console are good. The feel of steering wheel is also excellent among many competitive products, and function buttons are also easy to use.",
+        "label_text": "central console"
+    },
+    {
+        "source": "原文 : 迈锐宝车内的整体用料表现很厚道，中控台上部全部采用了软质材料，车门上软质材料的使用也超过了一半以上。",
+        "hyp": "文 2 : The overall materials inside Malibu are very good. The upper part of the central console is all made of soft materials, and more than half of the soft materials are used on the doors.",
+        "label_text": "central console"
+    },
+    {
+        "source": "原文 : 仪表板照明灯在发动机运转状态下，在设置菜单中选择“灯光→照明灯亮度设置”，调整仪表板照明灯亮度。",
+        "hyp": "文 5 : With the engine running, select \"Lighting → Lighting Brightness Setting\" in the setting menu to adjust the brightness of the instrument panel lighting.",
+        "label_text": "instrument panel lighting"
+    },
+    {
+        "source": "原文 : 如果估计里程小于1千米，行车电脑会将续航里程显示为“---”符号。",
+        "hyp": "文 1 : If the estimated mileage is less than 1 km, the ECU will display the driving range as \"---\"symbol.",
+        "label_text": "driving range"
+    },
+    {
+        "source": "原文 : 绕桩是蒙迪欧的强项，它的转向精度、车身灵活性和悬架支撑性都非常出色。",
+        "hyp": "文 5 : Pile bypassing is Mondeo's strong point. It features excellent steering accuracy, body flexibility and suspension support.",
+        "label_text": "Pile bypassing"
+    },
+    {
+        "source": "原文 : 天籁的转向系统会过滤掉大部分的路感，但是转向力度比预想得要大，低速时甚至略显沉重，但这并不是欧洲车的那种沉稳，因为它的行驶稳定性相对来说要逊色一些。",
+        "hyp": "文 4 : Teana's steering system will filter out most of road feeling, but the steering force is stronger than expected, even slightly heavy at low speed. However, this is not the kind of stability of European vehicles, because its driving stability is relatively inferior.",
+        "label_text": "road feeling"
+    },
+    {
+        "source": "原文 : 绕桩时迈锐宝的转向比较灵敏且足够准确，回馈十分线性，底盘整体感很强，典型的欧洲车风格。",
+        "hyp": "文 2 : During pile bypassing, Malibu's steering is sensitive and accurate enough, the feedback is very linear, and the chassis has a strong sense of integrity. It is of a typical European vehicle style.",
+        "label_text": "pile bypassing"
+    },
+    {
+        "source": "原文 : C5的悬架调校并不是传统法国车那种偏硬的感觉，这辆车完全追求的是舒适风格。方向盘回馈力度略沉，路感几乎被完全抹去了，驾驶起来很轻松。虽然路面细碎振动的反馈较明显，但对稍大起伏的吸收效果出众，经过减速带时弹跳幅度很小，有效吸收冲击力，这一点给人留下了非常深刻的印象。",
+        "hyp": "文 1 : The calibration of C5 suspension is not hard just like traditional French vehicles. This vehicle is completely pursuing comfortable style. The feedback from the steering wheel is slightly heavy, and the sense of road is almost completely erased, making driving very easy. Although the feedback of pavement fine vibration is obvious, it has an outstanding absorption effect on slight undulations. Its bounce amplitude is very small on speed bumps, because it effectively absorbs the impact force, which leaves a very deep impression on people.",
+        "label_text": "the sense of road "
+    },
+    {
+        "source": "原文 : C5的悬架调校并不是传统法国车那种偏硬的感觉，这辆车完全追求的是舒适风格。方向盘回馈力度略沉，路感几乎被完全抹去了，驾驶起来很轻松。虽然路面细碎振动的反馈较明显，但对稍大起伏的吸收效果出众，经过减速带时弹跳幅度很小，有效吸收冲击力，这一点给人留下了非常深刻的印象。",
+        "hyp": "文 1 : The calibration of C5 suspension is not hard just like traditional French vehicles. This vehicle is completely pursuing comfortable style. The feedback from the steering wheel is slightly heavy, and the sense of road is almost completely erased, making driving very easy. Although the feedback of pavement fine vibration is obvious, it has an outstanding absorption effect on slight undulations. Its bounce amplitude is very small on speed bumps, because it effectively absorbs the impact force, which leaves a very deep impression on people.",
+        "label_text": " pavement fine vibration "
+    },
+    {
+        "source": "原文 : 加速性能测试包括最传统的0-100km/h加速测试、400米直线加速测试和行驶中的中途加速测试共3个部分。",
+        "hyp": "文 5 : The acceleration performance test includes 3 parts: the most traditional 0-100 km/h acceleration test, 400 m linear acceleration test and midway acceleration test during driving.",
+        "label_text": " midway acceleration test during driving"
+    },
+    {
+        "source": "原文 : 迈锐宝的发动机采用SIDI燃油缸内直喷技术，发动机与天籁、雅阁同为186马力。",
+        "hyp": "文 4 : Malibu's engine features SIDI fuel in-cylinder direct injection technology, with the same power of 186 HP as that of Teana and Accord.",
+        "label_text": "fuel in-cylinder direct injection technology,"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 4 : Magotan B7, introduced in 2011, once again consolidates Magotan's benchmark position in medium-sized vehicles. It is equipped with a large number of electronic systems for comfort, luxury and safety, making it the most intelligent medium-sized vehicle, such as active braking function, driver fatigue monitoring, automatic high beam, transverse XDS electronic differential lock, TPMS, lane departure warning, prompt for fast approaching of vehicles behind, parking assist system, prompt function of speed limit sign, noise suppression function, and automatic parking.",
+        "label_text": "automatic high beam"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 4 : Magotan B7, introduced in 2011, once again consolidates Magotan's benchmark position in medium-sized vehicles. It is equipped with a large number of electronic systems for comfort, luxury and safety, making it the most intelligent medium-sized vehicle, such as active braking function, driver fatigue monitoring, automatic high beam, transverse XDS electronic differential lock, TPMS, lane departure warning, prompt for fast approaching of vehicles behind, parking assist system, prompt function of speed limit sign, noise suppression function, and automatic parking.",
+        "label_text": "TPMS"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 4 : Magotan B7, introduced in 2011, once again consolidates Magotan's benchmark position in medium-sized vehicles. It is equipped with a large number of electronic systems for comfort, luxury and safety, making it the most intelligent medium-sized vehicle, such as active braking function, driver fatigue monitoring, automatic high beam, transverse XDS electronic differential lock, TPMS, lane departure warning, prompt for fast approaching of vehicles behind, parking assist system, prompt function of speed limit sign, noise suppression function, and automatic parking.",
+        "label_text": "prompt for fast approaching of vehicles behind"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 4 : Magotan B7, introduced in 2011, once again consolidates Magotan's benchmark position in medium-sized vehicles. It is equipped with a large number of electronic systems for comfort, luxury and safety, making it the most intelligent medium-sized vehicle, such as active braking function, driver fatigue monitoring, automatic high beam, transverse XDS electronic differential lock, TPMS, lane departure warning, prompt for fast approaching of vehicles behind, parking assist system, prompt function of speed limit sign, noise suppression function, and automatic parking.",
+        "label_text": "prompt function of speed limit sign"
+    },
+    {
+        "source": "原文 : 今年，大众汽车集团在中国燃油车市场的份额从18%提升到了20%，未来几年，大众将继续通过新款途观、速腾、迈腾及奥迪Q4和Q8等新车型强化产品阵容，到2030年，大众将推出共计17款全新燃油车型。",
+        "hyp": "文 1 : This year, Volkswagen Group's share in China's fuel vehicle market has increased from 18% to 20%. In the next few years, Volkswagen will continue to strengthen its product lineup through new models such as Tiguan, Sagitar, Magotan and Audi Q4 and Q8. By 2030, Volkswagen will launch a total of 17 new fuel models.",
+        "label_text": "product lineup"
+    },
+    {
+        "source": "原文 : 如果单论发动机的实力，蒙迪欧确实要强于大众两车，不过在变速箱的表现上，蒙迪欧的6挡手自一体变速箱换挡速度要慢于DSG，换挡时动力的流失也要更多。",
+        "hyp": "文 3 : Mondeo is indeed better than the two models of Volkswagen in terms of engine strength. However, in terms of transmission performance, Mondeo's 6-speed manual-automatic transmission has a lower shifting speed than DSG, and a more power loss during shifting.",
+        "label_text": " manual-automatic transmission"
+    },
+    {
+        "source": "原文 : 在加速性能测试中，雅阁就表现出了这个级别自然吸气车型的顶级实力。没想到在油耗环节，雅阁再一次拔得头筹，证明了“地球梦科技”系列技术的先进性。",
+        "hyp": "文 1 : In the acceleration performance test, Accord shows the top strength of this level of naturally-aspirated models. Unexpectedly, Accord won the first prize once again in the fuel consumption link, proving the advanced nature of the series of technologies of \"Earth Dream Technology\".",
+        "label_text": " Dream "
+    },
+    {
+        "source": "原文 : 此模式显示小计里程、油耗等驾驶信息。详细信息请参考本章的“行车电脑”部分。",
+        "hyp": "文 5 : In this mode, driving information, such as subtotal mileage and fuel consumption, is displayed. Please refer to \"ECU\" part in this chapter for details.",
+        "label_text": " subtotal mileage"
+    },
+    {
+        "source": "原文 : 行车电脑模式显示车辆驾驶参数相关信息，包括油耗、小计里程表和车速信息。详细信息请参考本章的“行车电脑”部分。",
+        "hyp": "文 1 : In the ECU mode, the relevant information of vehicle driving parameters, including fuel consumption, subtotal mileage and speed information, is displayed. Please refer to \"ECU\" part in this chapter for details.",
+        "label_text": "subtotal mileage"
+    },
+    {
+        "source": "原文 : 新蒙迪欧在配置方面遥遥领先其它对手，装备了ACC自动巡航、并线辅助、防追尾预警、自动紧急刹车、车道保持、LED大灯等最先进的科技，舒适配置也是同样周到。2.0升涡轮增压发动机充满力量，爆发力十足，让这台车拥有充足的动力储备。",
+        "hyp": "文 2 : The new Mondeo is far ahead of other competitive products in terms of configuration. It is provided with the most advanced technologies such as ACC, lane change assist, anti-rear-end warning, automatic emergency braking, lane keeping and LED headlights, and its comfortable configuration is equally thoughtful. The 2.0L turbocharged engine is full of power and explosive force, making this vehicle have sufficient power reserve.",
+        "label_text": "anti-rear-end warning"
+    },
+    {
+        "source": "原文 : 新蒙迪欧在配置方面遥遥领先其它对手，装备了ACC自动巡航、并线辅助、防追尾预警、自动紧急刹车、车道保持、LED大灯等最先进的科技，舒适配置也是同样周到。2.0升涡轮增压发动机充满力量，爆发力十足，让这台车拥有充足的动力储备。",
+        "hyp": "文 2 : The new Mondeo is far ahead of other competitive products in terms of configuration. It is provided with the most advanced technologies such as ACC, lane change assist, anti-rear-end warning, automatic emergency braking, lane keeping and LED headlights, and its comfortable configuration is equally thoughtful. The 2.0L turbocharged engine is full of power and explosive force, making this vehicle have sufficient power reserve.",
+        "label_text": "lane keeping"
+    },
+    {
+        "source": "原文 : 新一代大众Passat旅行版也提供大嘴进气格栅以及眼尾上提的“小恶魔”大灯，构成了最具特点的两部分。同时，前包围两侧的竖向进气口也得以保留，但在车头线条部分做了适当的简化处理，这也是为了契合目前国内汽车市场的审美偏好。",
+        "hyp": "文 1 : The new generation of Volkswagen Passat Travel Edition is also provided with a large-mouth air intake grille and \"Little Devil\" headlights with eyetail upwards, which constitute the two most distinctive parts. In addition, the vertical air inlets on both sides of the front surrounding are also reserved, but the front lines are appropriately simplified, which aims to meet the aesthetic preference of the current domestic automobile market.",
+        "label_text": " front surrounding"
+    },
+    {
+        "source": "原文 : 在慕尼黑车展中，大众汽车集团不仅首次发布了ID.GTI概念车、全新CUPRA DarkRebel展车，还带来新一代Passat和Tiguan等燃油车型，呈现了全新的品牌理念。",
+        "hyp": "文 4 : At the Munich Motor Show, Volkswagen Group not only released the ID.GTI concept vehicle and the brand-new CUPRA DarkRebel for the first time, but also brought a new generation of fuel vehicles such as Passat and Tiguan, presenting a brand-new brand concept.",
+        "label_text": "Munich Motor Show,"
+    },
+    {
+        "source": "原文 : B7和B8时期彻底告别了一切与“圆”有关的造型语言，转而采用更加方正的线条，圆润的V字型一体式中网也彻底的采用了分体结构，前脸进气格栅与车灯成贯穿式，下包围部分也将进气格栅与雾灯连成整体。这样的“双层”造型也被沿用至今。",
+        "hyp": "文 4 : During B7 and B8 eras, more square lines were used, instead of all modeling languages related to \"circle\". The rounded V-shaped integrated middle net also completely adopts a split structure, the front air intake grille penetrates into the lights, and the lower surrounding part also connects the air intake grille and the fog light into a whole. Such a \"double-layer\" modeling is still used today.",
+        "label_text": "middle net "
+    },
+    {
+        "source": "原文 : B7和B8时期彻底告别了一切与“圆”有关的造型语言，转而采用更加方正的线条，圆润的V字型一体式中网也彻底的采用了分体结构，前脸进气格栅与车灯成贯穿式，下包围部分也将进气格栅与雾灯连成整体。这样的“双层”造型也被沿用至今。",
+        "hyp": "文 4 : During B7 and B8 eras, more square lines were used, instead of all modeling languages related to \"circle\". The rounded V-shaped integrated middle net also completely adopts a split structure, the front air intake grille penetrates into the lights, and the lower surrounding part also connects the air intake grille and the fog light into a whole. Such a \"double-layer\" modeling is still used today.",
+        "label_text": "front air intake grille"
+    },
+    {
+        "source": "原文 : B7和B8时期彻底告别了一切与“圆”有关的造型语言，转而采用更加方正的线条，圆润的V字型一体式中网也彻底的采用了分体结构，前脸进气格栅与车灯成贯穿式，下包围部分也将进气格栅与雾灯连成整体。这样的“双层”造型也被沿用至今。",
+        "hyp": "文 4 : During B7 and B8 eras, more square lines were used, instead of all modeling languages related to \"circle\". The rounded V-shaped integrated middle net also completely adopts a split structure, the front air intake grille penetrates into the lights, and the lower surrounding part also connects the air intake grille and the fog light into a whole. Such a \"double-layer\" modeling is still used today.",
+        "label_text": "surrounding part "
+    },
+    {
+        "source": "原文 : B7和B8时期彻底告别了一切与“圆”有关的造型语言，转而采用更加方正的线条，圆润的V字型一体式中网也彻底的采用了分体结构，前脸进气格栅与车灯成贯穿式，下包围部分也将进气格栅与雾灯连成整体。这样的“双层”造型也被沿用至今。",
+        "hyp": "文 4 : During B7 and B8 eras, more square lines were used, instead of all modeling languages related to \"circle\". The rounded V-shaped integrated middle net also completely adopts a split structure, the front air intake grille penetrates into the lights, and the lower surrounding part also connects the air intake grille and the fog light into a whole. Such a \"double-layer\" modeling is still used today.",
+        "label_text": "air intake grille "
+    },
+    {
+        "source": "原文 : 日前，乘联会发布3月乘用车市场分析，3月狭义乘用车零售销量158.7万台，同比增长0.3%，环比增长14.3%，其中MPV市场销量同比增长明显，达到38.6%。新能源汽车3月零售销量合计54.3万台，同比增长21.9%，环比增长23.6%。",
+        "hyp": "文 4 : A few days ago, CPCA released an analysis report of the passenger car market in March. The retail sales volume of special passenger cars in March was 1.587 million units, up 0.3% year-on-year and 14.3% month-on-month, among which the sales volume of MPVs increased significantly, up 38.6% year-on-year. The retail sales volume of NEVs in March totaled 543,000 units, up 21.9% year-on-year and 23.6% month-on-month.",
+        "label_text": "passenger car"
+    },
+    {
+        "source": "原文 : 日前，乘联会发布3月乘用车市场分析，3月狭义乘用车零售销量158.7万台，同比增长0.3%，环比增长14.3%，其中MPV市场销量同比增长明显，达到38.6%。新能源汽车3月零售销量合计54.3万台，同比增长21.9%，环比增长23.6%。",
+        "hyp": "文 4 : A few days ago, CPCA released an analysis report of the passenger car market in March. The retail sales volume of special passenger cars in March was 1.587 million units, up 0.3% year-on-year and 14.3% month-on-month, among which the sales volume of MPVs increased significantly, up 38.6% year-on-year. The retail sales volume of NEVs in March totaled 543,000 units, up 21.9% year-on-year and 23.6% month-on-month.",
+        "label_text": "special passenger cars"
+    },
+    {
+        "source": "原文 : 3月厂商出口方面，上汽乘用车23,654辆、比亚迪13,312辆、特斯拉中国12,206辆、东风易捷特5,664辆、长城汽车4,693辆、哪吒汽车3,727辆、智马达汽车2,658辆、吉利汽车1,170辆、奇瑞汽车564辆、创维汽车517辆、江淮汽车388辆、上汽通用五菱366辆、一汽红旗240辆、东风乘用车164辆、上汽大通140辆。",
+        "hyp": "文 2 : In terms of manufacturers' exports in March, there were 23,654 units from SAIC, 13,312 units from BYD, 12,206 units from Tesla China, 5,664 units from Dongfeng eGT, 4,693 units from Great Wall Motor, 3,727 units from NETA, 2,658 units from SMART, 1,170 units from Geely, 564 from Chery, 517 units form SKYWORTH, 388 units from JAC, 366 units form SAIC-GM-Wuling, 240 units from FAW Hongqi, 164 units from Dongfeng Motor and 140 units from SAIC MAXUS.",
+        "label_text": "SAIC-GM-Wuling"
+    },
+    {
+        "source": "原文 : 换档联动：如果将档位从“P(驻车)”档挂入“R(倒车)”档、“N(空档)”档或“D(前进)”档，自动闭锁所有车门。(仅在发动机运转时。)",
+        "hyp": "文 5 : Gearshift linkage: If the gear is shifted from \"P\" to \"R\", \"N\" or \"D\" position, all doors will be locked automatically. (Only when the engine is running.)",
+        "label_text": " Gearshift linkage"
+    },
+    {
+        "source": "原文 : 拔出钥匙/关闭车辆联动：将点火开关或发动机起动/停止按钮转至[LOCK/OFF]位置时，自动开锁所有门锁。",
+        "hyp": "文 2 : Linkage in pulling out the key/closing doors: When the ignition switch or the START/STOP button is turned to the [LOCK/OFF] position, all doors will be unlocked automatically.",
+        "label_text": "ignition switch"
+    },
+    {
+        "source": "原文 : 要手动初始化，在显示累计信息时，按住方向盘上的[OK]按钮。此时，小计里程、平均油耗和行车时间会同时被初始化。",
+        "hyp": "文 3 : When the accumulative information is displayed, press and hold the [OK] button on the steering wheel for manual initialization. In this case, the subtotal mileage, average fuel consumption and driving time will be initialized.",
+        "label_text": "subtotal mileage"
+    },
+    {
+        "source": "原文 : 车型选择方面，则更偏向于追求舒适的出行体验。热门车型中，不仅有小鹏G3、大众ID.4等新能源SUV，大众帕萨特、日产天籁等商务车型的占比也较往年有所提升，节前上新的日产轩逸、丰田雷凌、大众宝来等多款全新车辆，也吸引用户下单。",
+        "hyp": "文 2 : In terms of model selection, it is more inclined to pursue a comfortable travel experience. Among the popular models, not only new energy SUVs such as XPeng G3 and Volkswagen ID.4, but also commercial vehicles such as Volkswagen Passat and Nissan Teana have an increased share this year compared with previous years. A number of brand-new vehicles, such as Nissan Sylphy, Toyota Levin and Volkswagen Bora, released before the festival, also attract users to place orders.",
+        "label_text": "Nissan Sylphy"
+    },
+    {
+        "source": "原文 : 1973年推出的第一代帕萨特（B1）与奥迪同平台打造，采用纵置布局，当年被外媒誉为最有乐趣的前驱车型之一。",
+        "hyp": "文 2 : The first-generation Passat (B1) launched in 1973 was built on the same platform as Audi. It features a vertical layout, and was praised by foreign media as one of the most interesting FWD models.",
+        "label_text": "vertical layout"
+    },
+    {
+        "source": "原文 : 动力方面，帕萨特采用了2.0T涡轮增压发动机，最大功率为162kW，搭配7速双离合变速箱，而凯美瑞采用的2.5L发动机最大功率为143kW，搭配8速手自一体变速箱，两车的动力差距并不算大。",
+        "hyp": "文 3 : In terms of power, Passat adopts a 2.0T turbocharged engine with a maximum power of 162 kW and a 7-speed dual-clutch transmission, while Camry features a 2.5L engine with a maximum power of 143 kW and an 8-speed manual-automatic transmission. The power gap between the two models is not too big.",
+        "label_text": "manual-automatic transmission"
+    },
+    {
+        "source": "原文 : 无人照顾的儿童能将钥匙插入到点火开关内，并可能操作电动门窗或其它控制装置，甚至使车辆移动，从而导致严重或致命人身伤害。",
+        "hyp": "文 4 : Unattended children can insert the key into the ignition switch, and may operate power doors and windows or other control devices, or even move the vehicle, thus causing serious or fatal personal injury.",
+        "label_text": "ignition switch"
+    },
+    {
+        "source": "原文 : 2021成都车展前夕，上汽大众旗下新款帕萨特家族正式上市，新车共推出13款车型，其中10款燃油版车型，3款PHEV车型，售价区间为17.99-25.09万元。",
+        "hyp": "文 5 : On the eve of Chengdu Auto Show in 2021, SAIC Volkswagen's new Passat family was officially launched. A total of 13 new models were launched, including 10 fuel models and 3 PHEV models, with the price range of RMB 179,900-250,900.",
+        "label_text": "Chengdu Auto Show in 2021"
+    },
+    {
+        "source": "原文 : 节能减排是当今社会的一大主题，一直倡导先进技术的大众当然不会落后，借助奥运会的绿色之风，大众向大家展示了它的一款高科技零排放车—奥运专用氢燃料电池帕萨特。",
+        "hyp": "文 5 : Energy saving and emission reduction are a major theme in today's society, and Volkswagen who has been advocating advanced technology will certainly not lag behind. With the help of the green theme of the Olympic Games, Volkswagen showed a high-tech zero-emission vehicle - the Olympic-specific hydrogen fuel cell Passat.",
+        "label_text": "Olympic-specific hydrogen fuel cell Passat"
+    },
+    {
+        "source": "原文 : 观察君越车门上部件和线束的安装发现，基本上都采用了胶布包裹，并且设计了很多卡子，避免了在颠簸路面上发出异响。车窗控制单元选用了德国brose的产品，质量方面可以等到保证。",
+        "hyp": "文 3 : During installation of the components and wiring harnesses on the LaCrosse doors, it was found that they are basically wrapped with adhesive tape, and many clips are provided to avoid making abnormal noise on bumpy roads. The window control units are German brose products, and the quality can be guaranteed.",
+        "label_text": "brose "
+    },
+    {
+        "source": "原文 : 睿翼的车门板做工比较令人满意，隔音棉材质选择值得肯定，无论是从外观还是手感上来说，马自达还是较为在意这一点的。尽管车门板上的固定方式没有前几款车型来的花哨，但可以看出还是以实用为主，基本上以螺丝固定，这样可以保证长时间使用的耐久性。",
+        "hyp": "文 1 : The door panel of Ruiyi is satisfactory in workmanship, and the material selection of sound insulation cotton is worthy of recognition. Mazda still pays more attention to this point in terms of appearance and hand feeling. Although the fixing method of its door panel is not as fancy as that of the previous models, it can be seen that the door panel is mainly practical and basically fixed by screws, which can ensure the durability of long-term use.",
+        "label_text": "Ruiyi"
+    },
+    {
+        "source": "原文 : 睿翼的车门密封方式与很多日系车也不太相同，并没有采用传统的密封膜的做法，而是借鉴了不少欧美车型的经验，就是用一整块塑料板覆盖住车门，在上面设计一些穿孔，为了让线束能够穿过，而不会出现密封不严的情况，这点值得肯定。",
+        "hyp": "文 5 : Ruiyi's door sealing method is different from that of many Japanese vehicles. Instead of using the traditional sealing film, Ruiyi draws on the experience of many European and American models, that is, covering the door by using a whole plastic plate with some holes on it, in order to allow the wiring harness to pass it through without lax sealing. This is worthy of recognition.",
+        "label_text": "Ruiyi"
+    },
+    {
+        "source": "原文 : 睿翼的车门密封方式与很多日系车也不太相同，并没有采用传统的密封膜的做法，而是借鉴了不少欧美车型的经验，就是用一整块塑料板覆盖住车门，在上面设计一些穿孔，为了让线束能够穿过，而不会出现密封不严的情况，这点值得肯定。",
+        "hyp": "文 5 : Ruiyi's door sealing method is different from that of many Japanese vehicles. Instead of using the traditional sealing film, Ruiyi draws on the experience of many European and American models, that is, covering the door by using a whole plastic plate with some holes on it, in order to allow the wiring harness to pass it through without lax sealing. This is worthy of recognition.",
+        "label_text": "Ruiyi "
+    },
+    {
+        "source": "原文 : 将一字头螺丝刀插入盖上的孔中，并顺时针转动，拆下智能钥匙的盖。",
+        "hyp": "文 3 : Insert a flat-head screwdriver into the hole in the smart key cover and turn it clockwise to remove the cover.",
+        "label_text": "flat-head screwdriver "
+    },
+    {
+        "source": "原文 : 如果您想使用蓝牙钥匙服务，首先应该安装Bluelink应用程序。苹果和安卓用户可在应用商城搜索“BlueLink”并下载该应用程序。",
+        "hyp": "文 4 : Be sure to install the Bluelink app first if you want to use the Bluetooth key service. Apple and Android users can search for \"BlueLink\" in the App store to download the app.",
+        "label_text": "Apple"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 3 : If you buy a used car, you should confirm and delete the registered Bluetooth key. In addition, please inform the customer service center or dealer about the condition of the used car you purchased.",
+        "label_text": "a used car"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 3 : If you buy a used car, you should confirm and delete the registered Bluetooth key. In addition, please inform the customer service center or dealer about the condition of the used car you purchased.",
+        "label_text": "used car "
+    },
+    {
+        "source": "原文 : 菲翔全系配备了这款T-JET涡轮增压发动机，但有两种不同调校版本。高功率版本最大功率150马力（110kW）/5500rpm，最大扭矩230N·m/3000rpm，低功率版最大功率120马力（88kW）/5000rpm，最大扭矩206N·m/2500rpm。",
+        "hyp": "文 4 : All Viaggio series is equipped with this T-JET turbocharged engine, but there are two different calibration versions. For the high-power version, the maximum power is 150 HP (110 kW)/5500 rpm, and the maximum torque is 230 N m/3000 rpm; for the low-power version, the maximum power is 120 HP (88 kW)/5000 rpm, and the maximum torque is 206 N m/2500 rpm.",
+        "label_text": "calibration"
+    },
+    {
+        "source": "原文 : N13发动机与N55在技术装备上如出一辙，更形象的说，它就像是被“简配”掉两个气缸的N55发动机。它也配有双涡管技术的涡轮增压器、缸内直喷以及Valvetronic电子气门这三项技术。",
+        "hyp": "文 5 : The N13 engine is the same as the N55 engine in terms of technical equipment. More vividly, it is like the N55 engine with two cylinders removed. It is also equipped with double scroll technology of turbocharger, in-cylinder direct injection technology and Valvetronic technology.",
+        "label_text": "double scroll technology of turbocharger"
+    },
+    {
+        "source": "原文 : 这台3缸发动机装配有Valvetronic电子气门技术以及一个双涡管涡轮，压缩比超越了N20和N55达到了11:1，作为一台涡轮增压发动机，如此高的压缩比已经超越很多自然吸气发动机，而如何控制好发动机的爆震也显得尤为重要，此外它还应用了缸内直喷技术。",
+        "hyp": "文 4 : This 3-cylinder engine is equipped with Valvetronic technology and a twin-scroll turbine, and the compression ratio reaches 11:1, exceeding that of N20 and N55. As a turbocharged engine, such a high compression ratio has surpassed that of many naturally aspirated engines, and how to control the knock of the engine is particularly important. In addition, it also adopts in-cylinder direct injection technology.",
+        "label_text": "twin-scroll turbine"
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 2 : Smart fortwo is not equipped with Benz engine, but with Mitsubishi 3B21T, a 1.0L supercharged engine. For the normal version of smart fortwo, the maximum power is 84 HP (62 kW)/5250 rpm, and the maximum torque is 120 N·m; For BRABUS smart, the maximum power is 102 HP (75 kW)/6000 rpm, and the maximum torque is 147 N m.",
+        "label_text": " Benz"
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 2 : Smart fortwo is not equipped with Benz engine, but with Mitsubishi 3B21T, a 1.0L supercharged engine. For the normal version of smart fortwo, the maximum power is 84 HP (62 kW)/5250 rpm, and the maximum torque is 120 N·m; For BRABUS smart, the maximum power is 102 HP (75 kW)/6000 rpm, and the maximum torque is 147 N m.",
+        "label_text": "BRABUS smart"
+    }
+]

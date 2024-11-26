@@ -1,0 +1,577 @@
+[
+    {
+        "source": "原文 : Сельхозтоваропроизводители округа эту роль с честью выполняют, - подчеркнул Анатолий Прокопьев.",
+        "hyp": "文 4 : The agricultural producers in the district triumphantly fulfil this role,\" said Anatoly Prokopiev.",
+        "label_text": ",\" "
+    },
+    {
+        "source": "原文 : Сельхозтоваропроизводители округа эту роль с честью выполняют, - подчеркнул Анатолий Прокопьев.",
+        "hyp": "文 4 : The agricultural producers in the district triumphantly fulfil this role,\" said Anatoly Prokopiev.",
+        "label_text": ",\" "
+    },
+    {
+        "source": "原文 : Жаль, что первое впечатление было перечеркнуто , теперь посещаем другой филиал, и там отношение к клиентам не зависит от смены сотрудников.",
+        "hyp": "文 2 : It's a pity our first impression was brought to nothing. Now we visit another branch, and the customer treatment there is not affected by personnel changes.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Жаль, что первое впечатление было перечеркнуто , теперь посещаем другой филиал, и там отношение к клиентам не зависит от смены сотрудников.",
+        "hyp": "文 2 : It's a pity our first impression was brought to nothing. Now we visit another branch, and the customer treatment there is not affected by personnel changes.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 4 : Hernan Crespo, former football player of Argentine national football team, commented on the transfer of Benfica midfielder Enzo Fernandez to Chelsea, London.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 4 : Hernan Crespo, former football player of Argentine national football team, commented on the transfer of Benfica midfielder Enzo Fernandez to Chelsea, London.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 4 : Hernan Crespo, former football player of Argentine national football team, commented on the transfer of Benfica midfielder Enzo Fernandez to Chelsea, London.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 4 : Hernan Crespo, former football player of Argentine national football team, commented on the transfer of Benfica midfielder Enzo Fernandez to Chelsea, London.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 4 : Hernan Crespo, former football player of Argentine national football team, commented on the transfer of Benfica midfielder Enzo Fernandez to Chelsea, London.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 4 : Hernan Crespo, former football player of Argentine national football team, commented on the transfer of Benfica midfielder Enzo Fernandez to Chelsea, London.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 4 : Hernan Crespo, former football player of Argentine national football team, commented on the transfer of Benfica midfielder Enzo Fernandez to Chelsea, London.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Отличный магазин, покупаю товары у них уже достаточно давно, с самого открытия.",
+        "hyp": "文 2 : Great shop. I have been buying goods from them for quite a while now, since they opened.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Отличный магазин, покупаю товары у них уже достаточно давно, с самого открытия.",
+        "hyp": "文 2 : Great shop. I have been buying goods from them for quite a while now, since they opened.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 3 : On the day of arrival, they called us, clarified our time of arrival, and informed us about the cost of transfer (1,400 from the airport). We requested a ride (at 11.00 pm the price was RUB 850), we got there quickly, there were no traffic jams, and there were no problems for us to pass a barrier.",
+        "label_text": ". "
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 3 : On the day of arrival, they called us, clarified our time of arrival, and informed us about the cost of transfer (1,400 from the airport). We requested a ride (at 11.00 pm the price was RUB 850), we got there quickly, there were no traffic jams, and there were no problems for us to pass a barrier.",
+        "label_text": ". "
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 2 : Take note of George Clooney, who teams up with rock photographer-now-director Anton Corbijn (Control) for a quite interesting existential study of the psychology of an aging assassin who holes up in a small Italian town and is tardy in penetrating into human nature.",
+        "label_text": "("
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 2 : Take note of George Clooney, who teams up with rock photographer-now-director Anton Corbijn (Control) for a quite interesting existential study of the psychology of an aging assassin who holes up in a small Italian town and is tardy in penetrating into human nature.",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 2 : Take note of George Clooney, who teams up with rock photographer-now-director Anton Corbijn (Control) for a quite interesting existential study of the psychology of an aging assassin who holes up in a small Italian town and is tardy in penetrating into human nature.",
+        "label_text": "("
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 2 : Take note of George Clooney, who teams up with rock photographer-now-director Anton Corbijn (Control) for a quite interesting existential study of the psychology of an aging assassin who holes up in a small Italian town and is tardy in penetrating into human nature.",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 1 : Viral proteins were most frequently observed in spermatozoid head and neck, less frequently in the midpiece and tail, and rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 1 : Viral proteins were most frequently observed in spermatozoid head and neck, less frequently in the midpiece and tail, and rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 1 : Viral proteins were most frequently observed in spermatozoid head and neck, less frequently in the midpiece and tail, and rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 1 : Viral proteins were most frequently observed in spermatozoid head and neck, less frequently in the midpiece and tail, and rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 1 : Hereditary optic neuropathies (HON) are a group of neurodegenerative diseases characterised by primary loss of structure and function of retinal ganglion cells with subsequent death of their axons and development of partial optic atrophy.",
+        "label_text": "are"
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 2 : Hereditary optic neuropathies (HON) are a group of neurodegenerative diseases characterised by primary loss of structure and function of retinal ganglion cells with subsequent death of their axons and development of partial optic atrophy.",
+        "label_text": " are "
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 3 : A scene of extermination the Ninth Legion, which required a good deal of budget money, is directly inspired by the opening scolding in Germanic woods from now benchmark Gladiator by Sir Ridley Scott's, however, for some reason, I absolutely do not want to try to catch Marshall in plagiary: he is fair and straightforward in his work.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 3 : A scene of extermination the Ninth Legion, which required a good deal of budget money, is directly inspired by the opening scolding in Germanic woods from now benchmark Gladiator by Sir Ridley Scott's, however, for some reason, I absolutely do not want to try to catch Marshall in plagiary: he is fair and straightforward in his work.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 3 : A scene of extermination the Ninth Legion, which required a good deal of budget money, is directly inspired by the opening scolding in Germanic woods from now benchmark Gladiator by Sir Ridley Scott's, however, for some reason, I absolutely do not want to try to catch Marshall in plagiary: he is fair and straightforward in his work.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 3 : A scene of extermination the Ninth Legion, which required a good deal of budget money, is directly inspired by the opening scolding in Germanic woods from now benchmark Gladiator by Sir Ridley Scott's, however, for some reason, I absolutely do not want to try to catch Marshall in plagiary: he is fair and straightforward in his work.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 3 : Nevertheless, we will tell you about the Moscow International Film Festival next time (at the moment, I'll only complain that this year the organizers had an unexplainable concept finally deep-rooted in their mind that fortunate holders of tickets bought are much more critical for the festival than accredited guests: an absurd and quite insulting principle that none of normal film festival in the world commits to), and this issue will report on what we saw in Cannes and at Kinotavr.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 3 : Nevertheless, we will tell you about the Moscow International Film Festival next time (at the moment, I'll only complain that this year the organizers had an unexplainable concept finally deep-rooted in their mind that fortunate holders of tickets bought are much more critical for the festival than accredited guests: an absurd and quite insulting principle that none of normal film festival in the world commits to), and this issue will report on what we saw in Cannes and at Kinotavr.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 3 : Nevertheless, we will tell you about the Moscow International Film Festival next time (at the moment, I'll only complain that this year the organizers had an unexplainable concept finally deep-rooted in their mind that fortunate holders of tickets bought are much more critical for the festival than accredited guests: an absurd and quite insulting principle that none of normal film festival in the world commits to), and this issue will report on what we saw in Cannes and at Kinotavr.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 2 : This very moment, the Rossoneri have climbed to third place in the standings with 41 points scored.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 2 : This very moment, the Rossoneri have climbed to third place in the standings with 41 points scored.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 2 : This very moment, the Rossoneri have climbed to third place in the standings with 41 points scored.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 2 : This very moment, the Rossoneri have climbed to third place in the standings with 41 points scored.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В сравнении с 2021 годом в 2022 году их количество выросло на три тысячи семей - его получили 11,4 тысячи семей.",
+        "hyp": "文 1 : Compared to 2021, in 2022, their number increased by three thousand families: 11.4 thousand families received it.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : В сравнении с 2021 годом в 2022 году их количество выросло на три тысячи семей - его получили 11,4 тысячи семей.",
+        "hyp": "文 1 : Compared to 2021, in 2022, their number increased by three thousand families: 11.4 thousand families received it.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 2 : The cottages are clean, cosy and warm (even very warm). There is a kitchenette with coffee, tea, sugar, spices, and sunflower oil, and all necessary utensils in the cottage.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 2 : The cottages are clean, cosy and warm (even very warm). There is a kitchenette with coffee, tea, sugar, spices, and sunflower oil, and all necessary utensils in the cottage.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Кроме того, этот проект — еще одно подтверждение самых долгих любовных отношений в жизни Клуни - с Италией: съемки проходили в живописном городке Кастель-дель-Монте в Абруццо.",
+        "hyp": "文 1 : In addition, this project is yet another confirmation of the longest love affair in Clooney's life – with Italy: filming took place in the picturesque town of Castel del Monte in Abruzzo.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 5 : The most challenging film of Kinotavr has already been selected for the competition in Karlovy Vary – a directing star is born.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 5 : The most challenging film of Kinotavr has already been selected for the competition in Karlovy Vary – a directing star is born.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 5 : The most challenging film of Kinotavr has already been selected for the competition in Karlovy Vary – a directing star is born.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 5 : The most challenging film of Kinotavr has already been selected for the competition in Karlovy Vary – a directing star is born.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 1 : During the roundtable discussion devoted to the fate of Russian arthouse, Sergey Tolstikov, Chairman of the Russian Cinema Support Fund, got up to a picture-perfect squabbling with critics, \"Do you ever read articles in the press that I read?\" he angrily asked the audience.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 1 : During the roundtable discussion devoted to the fate of Russian arthouse, Sergey Tolstikov, Chairman of the Russian Cinema Support Fund, got up to a picture-perfect squabbling with critics, \"Do you ever read articles in the press that I read?\" he angrily asked the audience.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 2 : Turkish Anadolu Agency gives other data and writes that the Margara-Alican border checkpoint was last used to deliver humanitarian cargoes to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 2 : Turkish Anadolu Agency gives other data and writes that the Margara-Alican border checkpoint was last used to deliver humanitarian cargoes to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 2 : Turkish Anadolu Agency gives other data and writes that the Margara-Alican border checkpoint was last used to deliver humanitarian cargoes to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 2 : Turkish Anadolu Agency gives other data and writes that the Margara-Alican border checkpoint was last used to deliver humanitarian cargoes to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В соответствии с классификацией PASCAL у 93% пациентов НЦН ООО может рассматриваться в качестве вероятной причины ИИ, тогда как в группе ГКБ №4 вероятная причинно-следственная связь прослеживалась только в 51% случаев, у 18% пациентов роль аномалии в развитии инсульта была маловероятной.",
+        "hyp": "文 4 : According to PASCAL classification, in 93% of patients of the Research Center of Neurology, patent foramen ovale can be considered as a probable cause of ischemic stroke, whereas in the group of City Clinical Hospital No. 4, probable cause-effect relationship was traced only in 51% of cases; in 18% of patients, the contribution of anomaly in the development of stroke was highly unlikely.",
+        "label_text": "; "
+    },
+    {
+        "source": "原文 : Девушка отвечает, дескать, нет у них чашек объемом 300 мл.",
+        "hyp": "文 1 : The girl replies they have no 300 ml cups.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Вопрос проработаем с учетом камер \"Безопасный регион\", - рассказал глава муниципалитета Сергей Никитенко.",
+        "hyp": "文 2 : \"We will look into the issue taking into account Safe Region cameras,\" said the municipality head Sergey Nikitenko.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Вопрос проработаем с учетом камер \"Безопасный регион\", - рассказал глава муниципалитета Сергей Никитенко.",
+        "hyp": "文 2 : \"We will look into the issue taking into account Safe Region cameras,\" said the municipality head Sergey Nikitenko.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Иногда бывает мало места пройти между рядами , а также не очень приятно когда товар стоит прямо на полу , без поддонов, но это скорее замечание к организации, а не к конкретному магазину",
+        "hyp": "文 3 : Sometimes there is very little space to pass between the rows. In addition, it is not very nice when goods are right on the floor, without pallets, yet this is rather an issues with arrangement, not with a particular shop.",
+        "label_text": ". "
+    },
+    {
+        "source": "原文 : Иногда бывает мало места пройти между рядами , а также не очень приятно когда товар стоит прямо на полу , без поддонов, но это скорее замечание к организации, а не к конкретному магазину",
+        "hyp": "文 3 : Sometimes there is very little space to pass between the rows. In addition, it is not very nice when goods are right on the floor, without pallets, yet this is rather an issues with arrangement, not with a particular shop.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Обложку июльского номера украшает очередное приятное лицо - заглавный персонаж спродюсированной Робертом Родригесом картины «Хищники», а внутри журнала уж постарайтесь как-нибудь не пропустить рассказ о «Начале» Кристофера Нолана (человека, между прочим, перезагрузившего «Бэтмена...»), самом - без дураков — ожидаемом фильме лета.",
+        "hyp": "文 3 : The cover of the July publication is beautified with another winsome face – the title character of Predators produced by Robert Rodriguez. Inside the magazine, be sure not to miss the story about Inception by Christopher Nolan (the man who rebooted Batman..., by the way), the most - no kidding - anticipated film of the summer.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Обложку июльского номера украшает очередное приятное лицо - заглавный персонаж спродюсированной Робертом Родригесом картины «Хищники», а внутри журнала уж постарайтесь как-нибудь не пропустить рассказ о «Начале» Кристофера Нолана (человека, между прочим, перезагрузившего «Бэтмена...»), самом - без дураков — ожидаемом фильме лета.",
+        "hyp": "文 3 : The cover of the July publication is beautified with another winsome face – the title character of Predators produced by Robert Rodriguez. Inside the magazine, be sure not to miss the story about Inception by Christopher Nolan (the man who rebooted Batman..., by the way), the most - no kidding - anticipated film of the summer.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Обложку июльского номера украшает очередное приятное лицо - заглавный персонаж спродюсированной Робертом Родригесом картины «Хищники», а внутри журнала уж постарайтесь как-нибудь не пропустить рассказ о «Начале» Кристофера Нолана (человека, между прочим, перезагрузившего «Бэтмена...»), самом - без дураков — ожидаемом фильме лета.",
+        "hyp": "文 3 : The cover of the July publication is beautified with another winsome face – the title character of Predators produced by Robert Rodriguez. Inside the magazine, be sure not to miss the story about Inception by Christopher Nolan (the man who rebooted Batman..., by the way), the most - no kidding - anticipated film of the summer.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 1 : My husband ate smoked ribs – that's the kind! Soft, juicy, full flavoured.",
+        "label_text": "!"
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 1 : My husband ate smoked ribs – that's the kind! Soft, juicy, full flavoured.",
+        "label_text": "!"
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 1 : My husband ate smoked ribs – that's the kind! Soft, juicy, full flavoured.",
+        "label_text": "! "
+    },
+    {
+        "source": "原文 : Я конкретно про \"лягушонок\", Тренер наш Анастасия Витальевна очень нравится ребенку и профессиональна!!",
+        "hyp": "文 4 : I talk specifically about \"lyagushonok\", my child like our coach Anastasia Vitalievna very much, and she is a professional!!!!",
+        "label_text": "!!!!"
+    },
+    {
+        "source": "原文 : \"В 2023 году это число может вырасти до 10 тыс\"., - говорил он.",
+        "hyp": "文 5 : \"In 2023, this number can grow to 10 thousand,\" he said.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Машину расчитывал получить месяца через 3-3,5 (как было оговорено), но факту вышло 4,5 месяца - задержка была вызвана обстановкой на границе Литвы с Белоруссией (Литва исполняла).",
+        "hyp": "文 5 : I expected that I receive the car in 3 to 3.5 months (as it was agreed upon in advance), but it actually took 4.5 months: the delay was caused by the situation on the border between Lithuania and Belarus (Lithuania was behind it).",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : От души рекомендую, единственная клиника где не хотят нагреть на деньги на моей памяти.",
+        "hyp": "文 1 : I recommend it with all my heart; it is the only clinic within my memory where they do not want to make a good thing of me.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Цукерберг запускает сайт по целому ряду причин: отчасти из-за озлобленности на окружающий мир, отчасти из-за спортивного интереса и отчасти просто потому, что ЭТО «круто».",
+        "hyp": "文 4 : Zuckerberg is launching the site for a number of reasons: partly due to exacerbation with the world, partly due to sporting interest, and partly simply because THAT is cool.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Цукерберг запускает сайт по целому ряду причин: отчасти из-за озлобленности на окружающий мир, отчасти из-за спортивного интереса и отчасти просто потому, что ЭТО «круто».",
+        "hyp": "文 4 : Zuckerberg is launching the site for a number of reasons: partly due to exacerbation with the world, partly due to sporting interest, and partly simply because THAT is cool.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Покупала смеситель, уже пять лет прошло, а он работает исправно и в хорошем состоянии.",
+        "hyp": "文 3 : I bought a mixer tap; it's been five years already and it functions properly and is in good condition.",
+        "label_text": "; "
+    },
+    {
+        "source": "原文 : Так было со спагетти-вестернами Серджио Леоне, с гангстерскими боевиками Квентина Тарантино, с упомянутым «Индианой Джонсом» (ему тут и поклон сделали, и высмеяли), наконец, с тем же «Пятым элементом».",
+        "hyp": "文 3 : This was the case with Sergio Leone's spaghetti Westerns, Quentin Tarantino's gangster action movie, the aforementioned Indiana Jones (it was praised and mocked), and finally with The Fifth Element itself.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Так было со спагетти-вестернами Серджио Леоне, с гангстерскими боевиками Квентина Тарантино, с упомянутым «Индианой Джонсом» (ему тут и поклон сделали, и высмеяли), наконец, с тем же «Пятым элементом».",
+        "hyp": "文 3 : This was the case with Sergio Leone's spaghetti Westerns, Quentin Tarantino's gangster action movie, the aforementioned Indiana Jones (it was praised and mocked), and finally with The Fifth Element itself.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Так было со спагетти-вестернами Серджио Леоне, с гангстерскими боевиками Квентина Тарантино, с упомянутым «Индианой Джонсом» (ему тут и поклон сделали, и высмеяли), наконец, с тем же «Пятым элементом».",
+        "hyp": "文 3 : This was the case with Sergio Leone's spaghetti Westerns, Quentin Tarantino's gangster action movie, the aforementioned Indiana Jones (it was praised and mocked), and finally with The Fifth Element itself.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Так было со спагетти-вестернами Серджио Леоне, с гангстерскими боевиками Квентина Тарантино, с упомянутым «Индианой Джонсом» (ему тут и поклон сделали, и высмеяли), наконец, с тем же «Пятым элементом».",
+        "hyp": "文 3 : This was the case with Sergio Leone's spaghetti Westerns, Quentin Tarantino's gangster action movie, the aforementioned Indiana Jones (it was praised and mocked), and finally with The Fifth Element itself.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Тонкому артхаусному артисту пока удалось отвоевать в Голливуде лишь острохарактерные роли второго плана, но очень хочется верить, что после «Центуриона» ситуация изменится.",
+        "hyp": "文 3 : A delicate arthouse artist has managed so far to conquer only drastically character supporting roles in Hollywood, however I want badly to believe that the situation will change after Centurion.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Тонкому артхаусному артисту пока удалось отвоевать в Голливуде лишь острохарактерные роли второго плана, но очень хочется верить, что после «Центуриона» ситуация изменится.",
+        "hyp": "文 3 : A delicate arthouse artist has managed so far to conquer only drastically character supporting roles in Hollywood, however I want badly to believe that the situation will change after Centurion.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Дэниел Рэдклифф сыграет главную роль в экранизации «На западном фронте без перемен» Ремарка",
+        "hyp": "文 4 : Daniel Radcliffe will play the lead in the film adaptation of Remarque's All Quiet on the Western Front.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Дэниел Рэдклифф сыграет главную роль в экранизации «На западном фронте без перемен» Ремарка",
+        "hyp": "文 4 : Daniel Radcliffe will play the lead in the film adaptation of Remarque's All Quiet on the Western Front.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : \"Трансформация в массовом сознании гендерных представлений об исследовательской компетентности женщин способствует привлечению молодых женщин в науку, развитию их творческого потенциала, формированию успешной ролевой модели женщины-ученого, в том числе путем передачи опыта и института наставничества\", - отметила Алеся Соловей.",
+        "hyp": "文 5 : \"Transformation in the collective consciousness of gender perceptions of women's research skills contributes to the involvement of young women in science, development of their creative potential, formation of a successful role model of a female scientist, including through transfer of experience and institution of mentoring,\" noted Alesya Solovey.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В качестве возможных преемников называются Дэвид Иейтс, закончивший съемки саги о Гарри Поттере, и Нил Бломкамп, чей фильм «Район №9», спродюсированный Джексоном, получил номинацию на «Оскар».",
+        "hyp": "文 5 : Possible successors include David Yates, who finished shooting the Harry Potter saga, and Neill Blomkamp, whose District 9 produced by Jackson received an Oscar nomination.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В качестве возможных преемников называются Дэвид Иейтс, закончивший съемки саги о Гарри Поттере, и Нил Бломкамп, чей фильм «Район №9», спродюсированный Джексоном, получил номинацию на «Оскар».",
+        "hyp": "文 5 : Possible successors include David Yates, who finished shooting the Harry Potter saga, and Neill Blomkamp, whose District 9 produced by Jackson received an Oscar nomination.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В историко-краеведческом музее Стерлитамака открылась персональная выставка живописи Натальи Алексеевой",
+        "hyp": "文 1 : A personal exhibition of paintings by Natalia Alekseeva opened in the Sterlitamak Museum of Local History.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Никита Сергеевич на «Кинотавре» посетил фильм бывшего каннского конкурента и заявил, что тот ему понравился.",
+        "hyp": "文 5 : Nikita Sergeevich came to see the film of a former Cannes competitor at Kinotavr and said that he liked it.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Никита Сергеевич на «Кинотавре» посетил фильм бывшего каннского конкурента и заявил, что тот ему понравился.",
+        "hyp": "文 5 : Nikita Sergeevich came to see the film of a former Cannes competitor at Kinotavr and said that he liked it.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Расположена очень удобно, есть и усторожу центра и сторону области, вообщем удобно)!",
+        "hyp": "文 5 : A very convenient location; there is in the direction of the center and in the direction of the region – in general, it's convenient)!",
+        "label_text": "–"
+    },
+    {
+        "source": "原文 : При утяжелении степени РПГИС пропорционально возрастают ишемические изменения во всех капиллярных слоях центральных отделов сетчатки по сравнению с группой контроля в 1,15 раза при легкой степени, в 1,24 раза при средней степени, в 1,5 раза при тяжелой степени.",
+        "hyp": "文 1 : With increase in the degree of RMOIS, ischemic changes in all capillary layers of the central parts of the retina proportionally increase in comparison with the control group by 1.15 times in mild degree, by 1.24 times in moderate degree, and by 1.5 times in severe RMOIS.",
+        "label_text": "by "
+    },
+    {
+        "source": "原文 : Такой же анализ проводился в случае с поврежденным радиатором корабля \"Союз МС-22\".",
+        "hyp": "文 1 : The same analysis was conducted for the damaged radiator of the Soyuz MS-22 ship.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Такой же анализ проводился в случае с поврежденным радиатором корабля \"Союз МС-22\".",
+        "hyp": "文 1 : The same analysis was conducted for the damaged radiator of the Soyuz MS-22 ship.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Да, со своей последней картиной «Судный день», разбодяженным «Безумным Максом» для неимущих, Маршалл дал серьезную осечку",
+        "hyp": "文 4 : Yes, with his latest Doomsday, diluted by Mad Max for the have-nots, Marshall made a serious flash in the pan",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Да, со своей последней картиной «Судный день», разбодяженным «Безумным Максом» для неимущих, Маршалл дал серьезную осечку",
+        "hyp": "文 4 : Yes, with his latest Doomsday, diluted by Mad Max for the have-nots, Marshall made a serious flash in the pan",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Да, со своей последней картиной «Судный день», разбодяженным «Безумным Максом» для неимущих, Маршалл дал серьезную осечку",
+        "hyp": "文 4 : Yes, with his latest Doomsday, diluted by Mad Max for the have-nots, Marshall made a serious flash in the pan",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Да, со своей последней картиной «Судный день», разбодяженным «Безумным Максом» для неимущих, Маршалл дал серьезную осечку",
+        "hyp": "文 4 : Yes, with his latest Doomsday, diluted by Mad Max for the have-nots, Marshall made a serious flash in the pan",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 1 : Severstal scored 64 points and is now seventh in the Western Conference standings; Amur also has 64 points, and the team is in ninth place in the East.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 1 : Severstal scored 64 points and is now seventh in the Western Conference standings; Amur also has 64 points, and the team is in ninth place in the East.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 1 : Severstal scored 64 points and is now seventh in the Western Conference standings; Amur also has 64 points, and the team is in ninth place in the East.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 1 : Severstal scored 64 points and is now seventh in the Western Conference standings; Amur also has 64 points, and the team is in ninth place in the East.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Были в баре дважды, все понравилось, вежливый персонал, вкусные блюда и самое главное - отличная музыка, диджеи знают своё дело.",
+        "hyp": "文 4 : We have been to the bar twice, we liked everything: polite staff, tasty food and most importantly – great music; DJs know how to do it.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Дано определение понятия «биологическая травма» — нарушение структуры и функции организма в результате особого повреждающего воздействия, свойственного представителям живой природы (животным, растениям).",
+        "hyp": "文 2 : The definition of the \"biological damage\" concept is presented: it means an impairment of the body structure and function as a result of a special damaging effect typical for wildlife representatives (animals, plants).",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Все было оформлено, четко организовано, как мы обговаривали при первой встрече.",
+        "hyp": "文 5 : Everything was formalized and flawlessly arranged as we had discussed when we first met.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Об этом он сообщил журналистам на брифинге, трансляция велась на YouTube-канале Белого дома.",
+        "hyp": "文 1 : He told reporters bout this at a briefing; it was broadcasted on the White House YouTube channel.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Гости посетили бортевую пасеку \"Торатау\" - традиционный народный промысел Башкортостана.",
+        "hyp": "文 5 : The guests visited the Toratau wild-hive apiary, a traditional folk craft of Bashkortostan.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Гости посетили бортевую пасеку \"Торатау\" - традиционный народный промысел Башкортостана.",
+        "hyp": "文 5 : The guests visited the Toratau wild-hive apiary, a traditional folk craft of Bashkortostan.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Гости посетили бортевую пасеку \"Торатау\" - традиционный народный промысел Башкортостана.",
+        "hyp": "文 5 : The guests visited the Toratau wild-hive apiary, a traditional folk craft of Bashkortostan.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Важно, чтобы логистические службы компаний постоянно взаимодействовали с нашими \"смежниками\" (портами, операторами, морским транспортом) и находили оптимальные ценовые условия для перевозки своей продукции по новым схемам, - подчеркнул Алексей Шило.",
+        "hyp": "文 4 : \"It is important that the logistics departments of companies were in constant contact with our linked industries (ports, operators, marine transport) and find adequate price conditions for transporting their products under new schemes,\" Alexey Shilo emphasized.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Важно, чтобы логистические службы компаний постоянно взаимодействовали с нашими \"смежниками\" (портами, операторами, морским транспортом) и находили оптимальные ценовые условия для перевозки своей продукции по новым схемам, - подчеркнул Алексей Шило.",
+        "hyp": "文 4 : \"It is important that the logistics departments of companies were in constant contact with our linked industries (ports, operators, marine transport) and find adequate price conditions for transporting their products under new schemes,\" Alexey Shilo emphasized.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Персонал внимательный, подскажут, направят, проконсультируют даже если пришел не в приемные дни.",
+        "hyp": "文 5 : The staff is friendly; they will help, guide and advise you even if you come on non-visiting days.",
+        "label_text": "; "
+    },
+    {
+        "source": "原文 : В Крыму проходят съемки интернационального боевика Максима Коростышевского под рабочим названием «Солдаты удачи».",
+        "hyp": "文 4 : In the Crimea, an international action movie by Maxim Korostyshevsky under the working title of Soldiers of Fortune is being filmed.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В Крыму проходят съемки интернационального боевика Максима Коростышевского под рабочим названием «Солдаты удачи».",
+        "hyp": "文 4 : In the Crimea, an international action movie by Maxim Korostyshevsky under the working title of Soldiers of Fortune is being filmed.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Легкая степень тяжести РПГИС характеризовалась уменьшением показателей плотности поверхностного сосудистого сплетения и плотности глубокого сосудистого сплетения на 13,5 и 10,5% соответственно по сравнению с контролем, средняя степень — на 19,7 и 14,6%, тяжелая степень — на 35,9 и 28% соответственно.",
+        "hyp": "文 2 : Mild RMOIS was characterized by a decrease in the density of superficial vascular plexus and the density of deep capillary plexus by 13.5% and 10.5% compared to the controls, respectively; in moderate RMOIS - by 19.7% and 14.6%; in severe RMOIS - by 35.9% and 28%, respectively.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Легкая степень тяжести РПГИС характеризовалась уменьшением показателей плотности поверхностного сосудистого сплетения и плотности глубокого сосудистого сплетения на 13,5 и 10,5% соответственно по сравнению с контролем, средняя степень — на 19,7 и 14,6%, тяжелая степень — на 35,9 и 28% соответственно.",
+        "hyp": "文 2 : Mild RMOIS was characterized by a decrease in the density of superficial vascular plexus and the density of deep capillary plexus by 13.5% and 10.5% compared to the controls, respectively; in moderate RMOIS - by 19.7% and 14.6%; in severe RMOIS - by 35.9% and 28%, respectively.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Впрочем, и деловые мероприятия на «Кинотавре» носили ощутимый отпечаток шоу — не было скучно ни на одном.",
+        "hyp": "文 4 : However, even business events at Kinotavr bore a perceivable imprint of a show - none of them were boring.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Впрочем, и деловые мероприятия на «Кинотавре» носили ощутимый отпечаток шоу — не было скучно ни на одном.",
+        "hyp": "文 4 : However, even business events at Kinotavr bore a perceivable imprint of a show - none of them were boring.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Она носит название \"Очей очарованье\" и приурочена к юбилею автора, получившего начальное художественное образование у известного в России керамиста, нашей землячки Валентины Кузнецовой.",
+        "hyp": "文 4 : It is called Feast for the Eyes and is timed to the anniversary of the author, who received his primary art education from a famous ceramist in Russia, our countrywoman Valentina Kuznetsova.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Она носит название \"Очей очарованье\" и приурочена к юбилею автора, получившего начальное художественное образование у известного в России керамиста, нашей землячки Валентины Кузнецовой.",
+        "hyp": "文 4 : It is called Feast for the Eyes and is timed to the anniversary of the author, who received his primary art education from a famous ceramist in Russia, our countrywoman Valentina Kuznetsova.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Обувь для бега зимой отличается более плотными материалами, более высокой платформой и протектором подошвы\", - рассказал спортсмен.",
+        "hyp": "文 4 : Footgear for running in winter features denser materials, a higher platform and sole pattern,\" said the athlete.",
+        "label_text": " "
+    }
+]

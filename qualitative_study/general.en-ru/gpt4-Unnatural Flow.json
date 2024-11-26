@@ -1,0 +1,182 @@
+[
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 5 : Заслуживает внимания тот факт, что только два сегмента генома IAV - NS и NP - не подверглись реассортименту и эволюционировали в результате генетического дрейфа, начиная с пандемии 1918 года и до настоящего времени.",
+        "label_text": "Заслуживает внимания тот факт"
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 5 : Заслуживает внимания тот факт, что только два сегмента генома IAV - NS и NP - не подверглись реассортименту и эволюционировали в результате генетического дрейфа, начиная с пандемии 1918 года и до настоящего времени.",
+        "label_text": "в результате"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 4 : Моё предположение - это команда с тотемом роста, в которой два танка, кастер с возможностью оглушения или без, очень крепкий боец и кэрри, который может всё сделать в одиночку, если захочет.",
+        "label_text": "Моё предположение"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 3 : Товарищи и друзья, позвольте мне закончить, призвав всех вас, зимбабвийцев, направить свои усилия на ускоренное развитие нашей страны.",
+        "label_text": "позвольте мне закончить"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 3 : Товарищи и друзья, позвольте мне закончить, призвав всех вас, зимбабвийцев, направить свои усилия на ускоренное развитие нашей страны.",
+        "label_text": "позвольте мне закончить"
+    },
+    {
+        "source": "原文 : I know it’s a scientific things and all, but some of the posts there are just too much.",
+        "hyp": "文 3 : Я понимаю, что это всё научные штуки и всё такое, но некоторые посты там просто чересчур.",
+        "label_text": "просто чересчур"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 2 : В 1981 году была создана ещё одна резервная (добровольческая) сила, состоящая из неполучающих оплату граждан, желающих выполнять ограниченный круг полицейских обязанностей.",
+        "label_text": "В 1981 году была создана ещё одна резервная (добровольческая) сила"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 2 : В 1981 году была создана ещё одна резервная (добровольческая) сила, состоящая из неполучающих оплату граждан, желающих выполнять ограниченный круг полицейских обязанностей.",
+        "label_text": "круг полицейских обязанностей"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 2 : В 1981 году была создана ещё одна резервная (добровольческая) сила, состоящая из неполучающих оплату граждан, желающих выполнять ограниченный круг полицейских обязанностей.",
+        "label_text": "В 1981 году была создана ещё одна резервная (добровольческая) сила"
+    },
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 5 : В любом случае, эти ужасные воспоминания продолжали преследовать меня, так что вчера я наконец-то нашла в себе силы, чтобы написать ему.",
+        "label_text": "нашла в себе силы"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 5 : И вот я это сделал и узнал из второго или третьего поста, что шоу AJ заблокировали на YouTube. Я не поклонник правых взглядов и, собственно, поэтому перестал смотреть его два года назад, хотя и было трудно найти хоть какой-то аромат свободы среди 90% национал-капитализма, который предлагал сайт. Но тем не менее, у меня возникла идея о видео-сайте без цензуры вроде LiveLeak, только гораздо проще и менее \"новостным\", на который каждый мог бы что-то выложить.",
+        "label_text": "каждый мог бы что-то выложить"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 5 : Однако последние несколько месяцев она катается по той же велосипедной тропе, что и я (единственной такой), и мы сталкиваемся друг с другом каждые пару недель и обмениваемся парой слов.",
+        "label_text": "сталкиваемся"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 5 : Однако последние несколько месяцев она катается по той же велосипедной тропе, что и я (единственной такой), и мы сталкиваемся друг с другом каждые пару недель и обмениваемся парой слов.",
+        "label_text": "обмениваемся парой слов"
+    },
+    {
+        "source": "原文 : The funny thing is that right now these same hard-line conservatives declare that we must not run deficits in times of economic crisis.",
+        "hyp": "文 3 : Забавно, что сейчас эти же закоренелые консерваторы заявляют, что во время экономического кризиса мы не должны допускать дефицита бюджета.",
+        "label_text": "что во время экономического кризиса мы не должны допускать дефицита бюджета"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 5 : Я ездил только по местности, поэтому ушла почти неделя, чтобы понять, что я не могу разогнаться до 60 миль в час, или что мне приходится выжимать педаль в пол, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": "ездил только по местности"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 4 : Солдаты якобы украли у других мужчин ещё 1 440 000 CFA (2 845 долларов США).",
+        "label_text": "у других мужчин ещё"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 4 : Солдаты якобы украли у других мужчин ещё 1 440 000 CFA (2 845 долларов США).",
+        "label_text": "у других мужчин ещё"
+    },
+    {
+        "source": "原文 : His positioning is absolutely disgusting, Barnes and Maddison are destroying him down the left hand side.",
+        "hyp": "文 3 : Его позиционирование просто отвратительное, Барнс и Мэддисон просто разрушают его на левом фланге.",
+        "label_text": "фланге"
+    },
+    {
+        "source": "原文 : Well I tried explaining to my buddies that porn is kind of shabby, and yeah just bad, and you know who listened…",
+        "hyp": "文 5 : Ну я пытался объяснить своим друзьям, что порно это как-то пошло, и да, просто плохо, и знаете кто послушался...",
+        "label_text": "порно это как-то пошло"
+    },
+    {
+        "source": "原文 : This study aims to find out, describe, and analyze techniques for applying group guidance to improve the quality of life of a person's disability at the Integrated Rehabilitation Centre for Persons with Disabilities.",
+        "hyp": "文 2 : Это исследование направлено на то, чтобы выяснить, описать и проанализировать методы применения групповой поддержки с целью улучшения качества жизни людей с ограниченными возможностями в Интегрированном реабилитационном центре для лиц с инвалидностью.",
+        "label_text": "лиц с инвалидностью"
+    },
+    {
+        "source": "原文 : I’m most scared that in the future when I’m working, people will look down on SMU like elitism discrimination all that, I don’t know, man.",
+        "hyp": "文 4 : Меня больше всего пугает, что в будущем, когда я буду работать, люди будут пренебрежительно относиться к SMU, как к проявлению элитаризма, дискриминации и всего такого, не знаю, чувак.",
+        "label_text": "чувак"
+    },
+    {
+        "source": "原文 : Still, the residents of Chelyabinsk would have benefited from a warning Feb. 15 to stay away from the window.",
+        "hyp": "文 5 : Тем не менее, жителям Челябинска было бы полезно получить предупреждение 15 февраля оставаться подальше от окон.",
+        "label_text": "оставаться"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 4 : Это 1:49 - это просто мой тренер в своем репертуаре: \"ты должен быть хорош, но пока не очень, так что я поставлю тебе нереальные цели\", или мне действительно стоит стремиться к 1:49?",
+        "label_text": "Это 1:49 - это просто мой тренер"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 5 : Я все еще учусь, и моя мечта - игры... а эти цены вызывают у меня депрессию и отчаяние от жизни... если честно...",
+        "label_text": "если честно"
+    },
+    {
+        "source": "原文 : The boss says I should do that more on the battle, the place we’ve been fighting in!",
+        "hyp": "文 1 : Босс говорит, что мне следует делать это чаще на поле боя, там, где мы воевали!",
+        "label_text": "воевали"
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 5 : Экономика Японии выросла на неожиданно высокие 3,5 процента в годовом исчислении в прошлом квартале, что стало поддержкой для премьер-министра Синдзо Абэ, поскольку его правительство принимает реформы, необходимые для обеспечения устойчивого восстановления после двух десятилетий застоя.",
+        "label_text": "что стало поддержкой для"
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 5 : Экономика Японии выросла на неожиданно высокие 3,5 процента в годовом исчислении в прошлом квартале, что стало поддержкой для премьер-министра Синдзо Абэ, поскольку его правительство принимает реформы, необходимые для обеспечения устойчивого восстановления после двух десятилетий застоя.",
+        "label_text": "поскольку его правительство принимает реформы"
+    },
+    {
+        "source": "原文 : It is with a broken heart that I must tell you of the death of my beloved wife, husband John Furlong confirmed in a statement on Friday morning.",
+        "hyp": "文 5 : С разбитым сердцем я должен сообщить вам о смерти моей любимой жены, подтвердил в заявлении в пятницу утром муж Джон Ферлонг.",
+        "label_text": "подтвердил в заявлении в пятницу утром муж Джон Ферлонг"
+    },
+    {
+        "source": "原文 : I found the built-in maps app seriously subpar, as I'm used to using Google Maps.",
+        "hyp": "文 3 : Я обнаружил, что встроенное приложение карт намного хуже, чем я привык пользоваться Google Картами.",
+        "label_text": "встроенное приложение карт"
+    },
+    {
+        "source": "原文 : David himself had lost his popularity and lost the respect of his nobles when he married the widow of a minor laird after the death of his English wife.",
+        "hyp": "文 1 : Дэвид сам потерял свою популярность и уважение своих знатных вассалов, когда после смерти своей английской жены женился на вдове незначительного лэрда.",
+        "label_text": "незначительного"
+    },
+    {
+        "source": "原文 : Kaylee, who just graduated from high school, is an accomplished figure skater.",
+        "hyp": "文 3 : Кейли, которая только что окончила среднюю школу, является опытной фигуристкой.",
+        "label_text": "только что"
+    },
+    {
+        "source": "原文 : Vacuum won’t stop sucking. Please send help. Is it going to blow?",
+        "hyp": "文 3 : Пылесос не перестаёт всасывать. Пожалуйста, помогите. Не взорвётся ли он?",
+        "label_text": "Не взорвётся ли он"
+    },
+    {
+        "source": "原文 : After the first few minutes, it didn't feel like we were doing a first test flight, said Peter Chandler, chief test pilot for Airbus.",
+        "hyp": "文 5 : Через несколько минут после начала, не было ощущения, что мы выполняем первый испытательный полёт, - сказал Питер Чендлер, главный лётчик-испытатель Airbus.",
+        "label_text": "Через несколько минут после начала"
+    },
+    {
+        "source": "原文 : The WHO materials, regulatory documents, data from scientific literature of foreign countries and Russia about the vaccine interchangeability are summarized.",
+        "hyp": "文 4 : Материалы ВОЗ, нормативные документы, данные из научной литературы зарубежных стран и России о взаимозаменяемости вакцин подведены итогом.",
+        "label_text": "подведены итогом"
+    },
+    {
+        "source": "原文 : Also FWIW I like the archive.org interface a lot more than the desktop #bandcamp \\- I've no idea how people use bc as their primary music platform (besides the political reasons).",
+        "hyp": "文 3 : Кстати, если что, мне интерфейс archive.org нравится гораздо больше, чем десктопная версия #bandcamp - не понимаю, как люди используют bc в качестве основной музыкальной платформы (политические причины отдельный вопрос).",
+        "label_text": "политические причины отдельный вопрос"
+    },
+    {
+        "source": "原文 : In both landings, the covering force went ashore from warships with the exception of V Beach at Helles where the SS River Clyde was used as an improvised landing craft for 2,000 men.",
+        "hyp": "文 3 : В обоих высадках подразделения прикрытия высаживались с военных кораблей, за исключением пляжа V у мыса Хеллес, где в качестве импровизированного десантного судна для 2000 человек использовался SS River Clyde.",
+        "label_text": "где в качестве импровизированного десантного судна для 2000 человек использовался SS River Clyde"
+    }
+]

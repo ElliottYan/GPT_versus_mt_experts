@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : In this way, Humberto provides the possibility of duplicity of narrative voices within the same character, and thus two subjective perspectives of the same reality: on the one hand, the narrative can be interpreted simply and realistically in terms of its context, in which Humberto Peñaloza, a middle-class law student and writer, is trying to make his way through the ranks of the contemporary Chilean society, which was strictly divided according to class; on the other hand, the narrative can be interpreted in terms of its ambiguous and amorphous nature, in which identity itself is not defined, history is the result of myth and the boundaries between the material and psychological world are broken and in flux, therefore opposing the solidity and immutability of the physical world and established society, where individuals are forced to lose part of their identity and freedom in order to acquire a role in society and thus not be otherwise marginalised.",
+        "hyp": "文 4 : 一方面,叙事可以简单地和现实地解释在它的背景下,在中产阶级的法律学生和作家Humberto Peñaloza试图通过当代智利社会的行列, 严格根据阶级分裂; 另一方面,叙事可以解释在它的模<unk>和无形的本质, 在它本身没有定义, 因此历史是身份的神话和物质和心理世界之间的边界被打破和流动,",
+        "label_text": "一方面,叙事可以简单地和现实地解释在它的背景下,在中产阶级的法律学生和作家Humberto Peñaloza试图通过当代智利社会的行列, 严格根据阶级分裂; 另一方面,叙事可以解释在它的模<unk>和无形的本质, 在它本身没有定义, 因此历史是身份的神话和物质和心理世界之间的边界被打破和流动"
+    },
+    {
+        "source": "原文 : Myxoid DFSP, which has areas of myxoid degeneration in the stroma",
+        "hyp": "文 2 : <unk>体 DFSP,在<unk>体中有<unk>体退化的区域",
+        "label_text": "<unk>体 DFSP,在<unk>体中有<unk>体退化的区域"
+    }
+]

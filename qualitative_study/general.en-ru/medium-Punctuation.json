@@ -1,0 +1,77 @@
+[
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 2 : Попробуй набрать в чате: \"Я не буду жульничать в этой игре!\"",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Easy, simple, you do the thing that the player was expected to do.",
+        "hyp": "文 4 : Легко и просто, ты делаешь то, что и ожидалось от игрока.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Ben Kingsley, left, and Liam Neeson star in the Holocaust drama 'Schindler's List.'",
+        "hyp": "文 2 : Бен Кингсли (слева) и Лиам Нисон играют главные роли в драме о Холокосте \"Список Шиндлера\".",
+        "label_text": " ("
+    },
+    {
+        "source": "原文 : Ben Kingsley, left, and Liam Neeson star in the Holocaust drama 'Schindler's List.'",
+        "hyp": "文 2 : Бен Кингсли (слева) и Лиам Нисон играют главные роли в драме о Холокосте \"Список Шиндлера\".",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : It is with a broken heart that I must tell you of the death of my beloved wife, husband John Furlong confirmed in a statement on Friday morning.",
+        "hyp": "文 4 : С болью в душе я должен сообщить вам о смерти моей любимой жены, - подтвердил муж Джон Ферлонг в заявлении в пятницу утром.",
+        "label_text": " -"
+    },
+    {
+        "source": "原文 : But one time, he didn’t hear it and so he was like “what!?” reallyyy loudddly.",
+        "hyp": "文 4 : Но как-то раз он этого не расслышал и такой спросил: “Что!?” очень-очень громко.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : These tutorial groups usually don't change so as to foster the ward / guardian relationship.",
+        "hyp": "文 2 : Эти обучающие группы обычно не меняются, чтобы укрепить отношения между подопечным и опекуном.",
+        "label_text": " и"
+    },
+    {
+        "source": "原文 : Personally, I think VII was (alongside RB1) the best Neps games in the entire franchise, what with having a storyline that doesn’t come off as too edgy nor melodramatic like Mk2/RB2, but neither as over-the-top like V/RB3, having the exact and necessary amount of seriousness and comedy.",
+        "hyp": "文 3 : Лично для меня, VII была наилучшей игрой во всей франшизе Neps, вместе с RB1. Это связано с сюжетной линией, которая не выглядит слишком острой или мелодраматичной, как в Mk2/RB2, но и не настолько чрезмерной, как в V/RB3. В VII есть правильное сочетание серьезности и комедии, что делает ее особенной.",
+        "label_text": "вместе с RB1"
+    },
+    {
+        "source": "原文 : I’m a good listener. A lot of people view me as really cute or innocent.",
+        "hyp": "文 4 : Я умею слущать, и поэтому многие считают меня действительно милой или невинной.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 1 : Вратарю \"Эвертона\" Тиму Ховарду пришлось спасаться от Сандро, Кайла Уокера и Льюиса Холтби, в то время как левому защитнику \"Spurs\" Яну Вертонгену было отказано в апелляции на пенальти после того, как Шеймус Коулман подрезал его.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 1 : Вратарю \"Эвертона\" Тиму Ховарду пришлось спасаться от Сандро, Кайла Уокера и Льюиса Холтби, в то время как левому защитнику \"Spurs\" Яну Вертонгену было отказано в апелляции на пенальти после того, как Шеймус Коулман подрезал его.",
+        "label_text": "\" "
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 1 : Вратарю \"Эвертона\" Тиму Ховарду пришлось спасаться от Сандро, Кайла Уокера и Льюиса Холтби, в то время как левому защитнику \"Spurs\" Яну Вертонгену было отказано в апелляции на пенальти после того, как Шеймус Коулман подрезал его.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 1 : Вратарю \"Эвертона\" Тиму Ховарду пришлось спасаться от Сандро, Кайла Уокера и Льюиса Холтби, в то время как левому защитнику \"Spurs\" Яну Вертонгену было отказано в апелляции на пенальти после того, как Шеймус Коулман подрезал его.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 2 : Главнокомандующий вооруженными силами Украины генерал Валерий Залужный заявил, что российские войска запустили 71 крылатую ракету, 35 ракет С-300 и семь беспилотников \"Шахед\" в период с конца четверга до полудня пятницы, добавив, что украинские средства ПВО сбили 61 крылатую ракету и пять беспилотников.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 2 : Главнокомандующий вооруженными силами Украины генерал Валерий Залужный заявил, что российские войска запустили 71 крылатую ракету, 35 ракет С-300 и семь беспилотников \"Шахед\" в период с конца четверга до полудня пятницы, добавив, что украинские средства ПВО сбили 61 крылатую ракету и пять беспилотников.",
+        "label_text": "\""
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 3 : Blue sky, fluffy clouds, faces of different skin tones and expressions, and a bustling environment. Everything is so familiar yet so unfamiliar, as if they were thousands of miles away.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 3 : Let me do the math. The shoes cost over 4,000 yen, which counts as 200 yuan. Option 1. I don't have shoes, and the loss is at 200 yuan.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 3 : Let me do the math. The shoes cost over 4,000 yen, which counts as 200 yuan. Option 1. I don't have shoes, and the loss is at 200 yuan.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 3 : Let me do the math. The shoes cost over 4,000 yen, which counts as 200 yuan. Option 1. I don't have shoes, and the loss is at 200 yuan.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 3 : Julio Rios, Spain's well-known China expert and an honorary adviser to China Policy Watch Network, said in a recent interview with us that China's pandemic response has entered a new stage and the vitality of its economic and social development will be further released.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 北宋因政治腐败、因循守旧而造成了积贫积弱的局面，中叶即出现了较大的财政危机和国防危机。",
+        "hyp": "文 3 : Due to political corruption and conservative approaches,the Northern Song Dynasty faced a situation of accumulated poverty and weakness, and had encountered significant financial and defense crises ever since its middle period.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 3 自您签收次日起 12 个月内, 本产品出现《Redmi ArDots 2 真无线蓝牙耳机产品性能故障表》所列性能故障的情况, 经由小米售后服务中心检测确定, 可免费享受维修服务。",
+        "hyp": "文 2 : 3 From the day following your receipt, within 12 months, if this product exhibits any performance failure as indicated in the 'Performance Failure Table for Redmi AirDots 2 True Wireless Bluetooth Headset,' and upon verification by Xiaomi's after-sales service center, you may avail of free repair services.",
+        "label_text": "'"
+    },
+    {
+        "source": "原文 : 3 自您签收次日起 12 个月内, 本产品出现《Redmi ArDots 2 真无线蓝牙耳机产品性能故障表》所列性能故障的情况, 经由小米售后服务中心检测确定, 可免费享受维修服务。",
+        "hyp": "文 2 : 3 From the day following your receipt, within 12 months, if this product exhibits any performance failure as indicated in the 'Performance Failure Table for Redmi AirDots 2 True Wireless Bluetooth Headset,' and upon verification by Xiaomi's after-sales service center, you may avail of free repair services.",
+        "label_text": "'"
+    },
+    {
+        "source": "原文 : 本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。",
+        "hyp": "文 3 :  This document has been drafted according to the stipulations in GB/T 1.1-2020 Directives for standardization -- Part 1:Rules for the structure and drafting of standardizing documents.",
+        "label_text": "--"
+    },
+    {
+        "source": "原文 : 本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。",
+        "hyp": "文 3 :  This document has been drafted according to the stipulations in GB/T 1.1-2020 Directives for standardization -- Part 1:Rules for the structure and drafting of standardizing documents.",
+        "label_text": ":"
+    }
+]

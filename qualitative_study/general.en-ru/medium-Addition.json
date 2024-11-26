@@ -1,0 +1,112 @@
+[
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 2 : помоги, помоги! Ой подожди, я же могу просто прогуглить это, все забей",
+        "label_text": "помоги!"
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 2 : помоги, помоги! Ой подожди, я же могу просто прогуглить это, все забей",
+        "label_text": ", помоги!"
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 2 : Я могу проверить до следующей встречи, пока я буду пробовать",
+        "label_text": "пока"
+    },
+    {
+        "source": "原文 : On August 31, 1933, Alexander Dahl took the first picture of the Earth's curvature in an open hydrogen gas balloon.",
+        "hyp": "文 4 : 31 августа 1933 года Александр Даль сделал первый снимок кривизны Земли при помощи открытого баллона с водородным газом.",
+        "label_text": "при помощи"
+    },
+    {
+        "source": "原文 : On August 31, 1933, Alexander Dahl took the first picture of the Earth's curvature in an open hydrogen gas balloon.",
+        "hyp": "文 4 : 31 августа 1933 года Александр Даль сделал первый снимок кривизны Земли при помощи открытого баллона с водородным газом.",
+        "label_text": "при помощи"
+    },
+    {
+        "source": "原文 : I know it’s a scientific things and all, but some of the posts there are just too much.",
+        "hyp": "文 2 : Я в курсе, что это научные вещи и все такое, но с некоторыми постами там явно перебор.",
+        "label_text": "явно"
+    },
+    {
+        "source": "原文 : It's great at making coffee and keeping it hot, but there are too many other issues with it to invest in it at the current price.",
+        "hyp": "文 1 : Он идеально подходит для приготовления кофе и поддержания его горячим, но также присутствует немало других проблем, в результате чего инвестиции в данный продукт по текущей цене не рентабельны.",
+        "label_text": "в результате чего"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 1 : Так я и сделал, и на 2-м или 3-м посте обнаружил, что шоу \"AJ Show\" заблокировано на YouTube, я не фанат праворадикальных материалов, что по правде говоря это было причиной, по которой я перестал смотреть его 2 года назад, хотя слабый аромат свободы было так трудно найти среди 90% государственного капитализма, который может предложить сайт, но, так или иначе, у меня зародилась идея видеосайта без цензуры, подобного LiveLeak, но гораздо более простого и менее “новостного”, на котором любой может размещать свои посты.",
+        "label_text": "шоу"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 1 : Так я и сделал, и на 2-м или 3-м посте обнаружил, что шоу \"AJ Show\" заблокировано на YouTube, я не фанат праворадикальных материалов, что по правде говоря это было причиной, по которой я перестал смотреть его 2 года назад, хотя слабый аромат свободы было так трудно найти среди 90% государственного капитализма, который может предложить сайт, но, так или иначе, у меня зародилась идея видеосайта без цензуры, подобного LiveLeak, но гораздо более простого и менее “новостного”, на котором любой может размещать свои посты.",
+        "label_text": "шоу"
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 2 : Я исключил \"другое\", увидев, как он отлично катится с холма на нейтральной скорости, так что  необходимость в каком-либо механическом воздействии отпала.",
+        "label_text": "как"
+    },
+    {
+        "source": "原文 : Charles was expected to attend a showing of the completed film, but died before it opened.",
+        "hyp": "文 3 : Ожидалось, что Чарльз появится на показе завершенного фильма, но он умер до премьеры.",
+        "label_text": "Ожидалось, что"
+    },
+    {
+        "source": "原文 : The funny thing is that right now these same hard-line conservatives declare that we must not run deficits in times of economic crisis.",
+        "hyp": "文 1 : И прикольнее всего то, что прямо сейчас те же самые закоренелые консерваторы заявляют, что мы не должны испытывать дефицит бюджета во времена экономического кризиса.",
+        "label_text": "прямо"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 3 : Согласно сообщениям издания The Washington Post в октябре, в этом отказе отмечалось, что бывший советник Пенс Марк Шорт, например, \"вероятно, обладал информацией, важной для уголовного расследования Министерством юстиции нападения на конгресс США 6 января 2021 года, которая не была доступна из других источников\".",
+        "label_text": " США "
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 3 : Согласно сообщениям издания The Washington Post в октябре, в этом отказе отмечалось, что бывший советник Пенс Марк Шорт, например, \"вероятно, обладал информацией, важной для уголовного расследования Министерством юстиции нападения на конгресс США 6 января 2021 года, которая не была доступна из других источников\".",
+        "label_text": " США "
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 5 : Это просто белый экран, или время загрузки истекает, или страница перестает отвечать на запросы ??!",
+        "label_text": "на запросы"
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 5 : Это просто белый экран, или время загрузки истекает, или страница перестает отвечать на запросы ??!",
+        "label_text": "просто"
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 5 : Это просто белый экран, или время загрузки истекает, или страница перестает отвечать на запросы ??!",
+        "label_text": "на запросы"
+    },
+    {
+        "source": "原文 : Well I tried explaining to my buddies that porn is kind of shabby, and yeah just bad, and you know who listened…",
+        "hyp": "文 1 : Короче, я пытался объяснить своим приятелям, что порно - это что-то убогое, ну и просто плохо, и ты знаешь, кто бы только слушал…",
+        "label_text": "бы только"
+    },
+    {
+        "source": "原文 : Easy, simple, you do the thing that the player was expected to do.",
+        "hyp": "文 4 : Легко и просто, ты делаешь то, что и ожидалось от игрока.",
+        "label_text": "и"
+    },
+    {
+        "source": "原文 : Tell me about yourself and we can go from there.",
+        "hyp": "文 2 : Сначала расскажите мне о себе и мы продолжим дальше.",
+        "label_text": "Сначала"
+    },
+    {
+        "source": "原文 : Where did you find it and why would you take it?",
+        "hyp": "文 4 : Где вы это нашли и зачем вообще взяли?",
+        "label_text": "вообще"
+    },
+    {
+        "source": "原文 : Yesterday when I was at work, she messaged me saying something like “how’s your work doing?”, and I kind of replied to her with a cold tone saying “I’m at work, talk to you later”, and",
+        "hyp": "文 5 : Вчера, когда я был на работе, она написала мне что-то вроде “как дела работе?”, и я ответил ей  как бы холодным тоном, сказав: “Я на работе, поговорим позже”, и",
+        "label_text": "вроде"
+    }
+]

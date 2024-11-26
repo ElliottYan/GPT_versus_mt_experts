@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 1 : Попробуйте написать в чате: \"Я не буду обманывать в этой игре!\"",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 4 : Стоит отметить, что только два сегмента генома вируса гриппа А (IAV)  - NS и NP - не подверглись рекомбинации и эволюционировали в процессе генетического дрейфа, начавшегося вместе с пандемией 1918 года по настоящее время.",
+        "label_text": " ("
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 4 : Стоит отметить, что только два сегмента генома вируса гриппа А (IAV)  - NS и NP - не подверглись рекомбинации и эволюционировали в процессе генетического дрейфа, начавшегося вместе с пандемией 1918 года по настоящее время.",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 4 : Стоит отметить, что только два сегмента генома вируса гриппа А (IAV)  - NS и NP - не подверглись рекомбинации и эволюционировали в процессе генетического дрейфа, начавшегося вместе с пандемией 1918 года по настоящее время.",
+        "label_text": " ("
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 4 : Стоит отметить, что только два сегмента генома вируса гриппа А (IAV)  - NS и NP - не подверглись рекомбинации и эволюционировали в процессе генетического дрейфа, начавшегося вместе с пандемией 1918 года по настоящее время.",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 3 : Так я и сделал, после чего во 2-ом или 3-ем посте обнаружил, что The AJ Show  было заблокировано на YouTube, я не фанат праворадикальных вещей, что и стало причиной, по которой я перестал смотреть это 2 года назад, впрочем найти хоть чуточку аромата свободы среди 90% национал-капитализма, что мог предложить сайт, было слишком тяжело, но в любом случае ко мне пришла идея о видеосайте без цензуры, как например LiveLeak, но более простом и без такого большого количества новостей, когда каждый может разместить там свой пост.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 3 : Так я и сделал, после чего во 2-ом или 3-ем посте обнаружил, что The AJ Show  было заблокировано на YouTube, я не фанат праворадикальных вещей, что и стало причиной, по которой я перестал смотреть это 2 года назад, впрочем найти хоть чуточку аромата свободы среди 90% национал-капитализма, что мог предложить сайт, было слишком тяжело, но в любом случае ко мне пришла идея о видеосайте без цензуры, как например LiveLeak, но более простом и без такого большого количества новостей, когда каждый может разместить там свой пост.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 3 : Так я и сделал, после чего во 2-ом или 3-ем посте обнаружил, что The AJ Show  было заблокировано на YouTube, я не фанат праворадикальных вещей, что и стало причиной, по которой я перестал смотреть это 2 года назад, впрочем найти хоть чуточку аромата свободы среди 90% национал-капитализма, что мог предложить сайт, было слишком тяжело, но в любом случае ко мне пришла идея о видеосайте без цензуры, как например LiveLeak, но более простом и без такого большого количества новостей, когда каждый может разместить там свой пост.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 3 : Так я и сделал, после чего во 2-ом или 3-ем посте обнаружил, что The AJ Show  было заблокировано на YouTube, я не фанат праворадикальных вещей, что и стало причиной, по которой я перестал смотреть это 2 года назад, впрочем найти хоть чуточку аромата свободы среди 90% национал-капитализма, что мог предложить сайт, было слишком тяжело, но в любом случае ко мне пришла идея о видеосайте без цензуры, как например LiveLeak, но более простом и без такого большого количества новостей, когда каждый может разместить там свой пост.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 2 : Экономика Японии выросла на превысившие ожидания 3.5% в годовом исчислении в последнем квартале, давая импульс премьер-министру Синдзо Абэ в плане проводимых его правительством реформ, которые необходимы для обеспечения устойчивого восстановления после двух нелегких десятилетий.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : I just hope they nail him for thought crime Obviously there has been an epidemic of Molotov cocktail as of late, well WWII wasn't that long ago.",
+        "hyp": "文 3 : Я лишь надеюсь, что его поймают за мыслепреступление. Очевидно, в конце была эпидемия коктейлей Молотова, ну, знаете, Вторая мировая война была не так давно.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 4 : Военный руководитель Украины, Ген. Валерий Залужный, сообщил, что российские войска запустили 71 крылатую ракету, 35 ракет S-300 и семь беспилотников типа \"Шахид\" в период с конца четверга по полдень пятницы, добавив, что ПВО Украины сбила 61 крылатую ракету и пять беспилотников.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 4 : Военный руководитель Украины, Ген. Валерий Залужный, сообщил, что российские войска запустили 71 крылатую ракету, 35 ракет S-300 и семь беспилотников типа \"Шахид\" в период с конца четверга по полдень пятницы, добавив, что ПВО Украины сбила 61 крылатую ракету и пять беспилотников.",
+        "label_text": "\""
+    }
+]

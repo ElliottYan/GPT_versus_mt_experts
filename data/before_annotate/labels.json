@@ -1,0 +1,74 @@
+[
+    {
+        "text": "Mistranslation (Minor)"
+    },
+    {
+        "text": "Mistranslation (Major)"
+    },
+    {
+        "text": "Addition (Minor)"
+    },
+    {
+        "text": "Addition (Major)"
+    },
+    {
+        "text": "MT Hallucination (Minor)"
+    },
+    {
+        "text": "MT Hallucination (Major)"
+    },
+    {
+        "text": "Omission (Minor)"
+    },
+    {
+        "text": "Omission (Major)"
+    },
+    {
+        "text": "Untranslated (Minor)"
+    },
+    {
+        "text": "Untranslated (Major)"
+    },
+    {
+        "text": "Wrong Name Entity & Term (Minor)"
+    },
+    {
+        "text": "Wrong Name Entity & Term (Major)"
+    },
+    {
+        "text": "Grammer (Minor)"
+    },
+    {
+        "text": "Grammer (Major)"
+    },
+    {
+        "text": "Punctuation (Minor)"
+    },
+    {
+        "text": "Punctuation (Major)"
+    },
+    {
+        "text": "Spelling (Minor)"
+    },
+    {
+        "text": "Spelling (Major)"
+    },
+    {
+        "text": "Register (Minor)"
+    },
+    {
+        "text": "Register (Major)"
+    },
+    {
+        "text": "Inconsistent Style (Minor)"
+    },
+    {
+        "text": "Inconsistent Style (Major)"
+    },
+    {
+        "text": "Non-translation"
+    },
+    {
+        "text": "Unnatural Flow"
+    }
+]

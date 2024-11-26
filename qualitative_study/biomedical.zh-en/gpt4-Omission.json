@@ -1,0 +1,127 @@
+[
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 4 : (4) Toxic Epidermal Necrolysis (TEN) and Stevens-Johnson Syndrome (a skin, mucous membrane, and eye condition).",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 4 : (4) Toxic Epidermal Necrolysis (TEN) and Stevens-Johnson Syndrome (a skin, mucous membrane, and eye condition).",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 有可能出现中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）（频率均不明*），因此应充分进行观察，并采取相应措施。",
+        "hyp": "文 1 : There is a possibility of developing Toxic Epidermal Necrolysis (TEN) or Stevens-Johnson Syndrome, both of which have unknown frequencies*. Therefore, careful monitoring should be conducted, and appropriate measures should be taken.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 有可能出现中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）（频率均不明*），因此应充分进行观察，并采取相应措施。",
+        "hyp": "文 1 : There is a possibility of developing Toxic Epidermal Necrolysis (TEN) or Stevens-Johnson Syndrome, both of which have unknown frequencies*. Therefore, careful monitoring should be conducted, and appropriate measures should be taken.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Acute renal failure, interstitial nephritis, and nephrotic syndrome (all with unknown frequency) may occur. Therefore, close monitoring is necessary. If symptoms such as oliguria, hematuria, proteinuria, elevated BUN/creatinine levels, hyperkalemia, or hypoproteinemia occur, discontinue the medication and take appropriate measures.",
+        "label_text": "creatinine"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 5 : Patients with peptic ulcers (refer to the \"Precautions\" section) [Due to the inhibitory effect on prostaglandin synthesis, which can reduce the stomach's mucosal defense capabilities, there is a possibility that peptic ulcers may worsen.]",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 5 : Patients with peptic ulcers (refer to the \"Precautions\" section) [Due to the inhibitory effect on prostaglandin synthesis, which can reduce the stomach's mucosal defense capabilities, there is a possibility that peptic ulcers may worsen.]",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 4 : If the buyer urgently needs the product or there are time constraints, it is recommended to choose SF Express and opt for freight collect. SF Express is relatively more reliable. Please wait for the shipping cost to be adjusted before making the payment.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 4 : Patients with severe blood abnormalities [may experience adverse reactions such as blood disorders, which could potentially worsen the blood abnormalities].",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 4 : Patients with severe blood abnormalities [may experience adverse reactions such as blood disorders, which could potentially worsen the blood abnormalities].",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 2 : Patients with severe hypertension may experience further increases in blood pressure due to the inhibition of prostaglandin synthesis, which can lead to the retention of water and sodium.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 6.严重的高血压症患者［由于前列腺素合成抑制作用致水、钠潴留，因此有可能使血压进一步升高］",
+        "hyp": "文 2 : Patients with severe hypertension may experience further increases in blood pressure due to the inhibition of prostaglandin synthesis, which can lead to the retention of water and sodium.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 8.对其他非甾体抗炎药过敏者；",
+        "hyp": "文 2 : 8. For those allergic to other nonsteroidal anti-inflammatory drugs;",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 3 : 9. Patients with aspirin-induced asthma (asthma attacks triggered by non-steroidal anti-inflammatory drugs and other similar medications) or those with a history of such conditions [may experience induced asthma attacks], as well as asthma patients who are allergic to aspirin;",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 1 : Hanhoo Pomegranate Nourishing Radiance Six-Piece Set (Skincare and Cosmetics Set for Hydration and Moisturizing, Suitable for Female Students - Includes Facial Cleanser, Toner, Lotion, Eye Cream, and Full-Size Gift Box)",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 1 : Hanhoo Pomegranate Nourishing Radiance Six-Piece Set (Skincare and Cosmetics Set for Hydration and Moisturizing, Suitable for Female Students - Includes Facial Cleanser, Toner, Lotion, Eye Cream, and Full-Size Gift Box)",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 打击犯罪、保障儿童和家长权益，从立法的完善，到司法的保障，以及执法的缜密，无不需要贯彻“护幼扶弱”的关怀。",
+        "hyp": "文 3 : Combating crime and safeguarding the rights of children and parents requires a comprehensive approach—from refining legislation and ensuring judicial protection to meticulous law enforcement—all of which must embody the principle of \"caring for the young and supporting the vulnerable.\"",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 1）本品与其他解热、镇痛、抗炎药物同用时可增加胃肠道的副作用，并可能导致溃疡。",
+        "hyp": "文 2 : When this product is used in conjunction with other antipyretic, analgesic, and anti-inflammatory drugs, it can increase gastrointestinal side effects and may lead to ulcers.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 1）本品与其他解热、镇痛、抗炎药物同用时可增加胃肠道的副作用，并可能导致溃疡。",
+        "hyp": "文 2 : When this product is used in conjunction with other antipyretic, analgesic, and anti-inflammatory drugs, it can increase gastrointestinal side effects and may lead to ulcers.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 3 : The main reasons for the continuous decline of the acupuncture department's services are: the trend of categorizing illnesses has diverted many conditions suitable for acupuncture treatment; and the pursuit of economic benefits in the broader context has restricted the development of acupuncture therapy, which is characterized by being simple, effective, and inexpensive.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : 本品的前列腺素合成抑制作用造成的肾损害加剧了他莫克司水合物的肾损害。",
+        "hyp": "文 5 : The prostaglandin synthesis inhibitory effect of this product exacerbates the renal damage caused by tamsulosin hydrochloride.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 有报告指出，合用其他非甾体类抗炎镇痛药引起了痉挛。",
+        "hyp": "文 5 : Reports indicate that the combined use of other non-steroidal anti-inflammatory drugs has caused spasms.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 动物模型是开展各类基础研究的有效工具，目前的动物模型均是根据粒细胞-巨噬细胞集落刺激因子（GM-CSF）信号作用障碍和肺泡内环境稳态失衡这两个主要的发病机制而建立，应用研究集中在PAP的治疗策略上。",
+        "hyp": "文 5 : Animal models are an effective tool for conducting various types of basic research. The current animal models are all established based on two main pathogenic mechanisms: the dysfunction of Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF) signaling and the imbalance of the alveolar environment. Research applications are focused on therapeutic strategies for Pulmonary Alveolar Proteinosis (PAP).",
+        "label_text": "environment"
+    },
+    {
+        "source": "原文 : 其中，77例（96膝）胫骨侧采用传统髓外定位技术（传统定位组）；93例（114膝）采用个性化髓外定位技术（个性化定位组），即结合胫骨解剖形态特点，在胫骨平台关节面选择个性化定位点作为髓外近端定位点。",
+        "hyp": "文 3 : Of these, 77 cases (96 knees) underwent traditional extramedullary alignment techniques (traditional alignment group); 93 cases (114 knees) used personalized extramedullary alignment techniques (personalized alignment group), which involved combining the anatomical characteristics of the tibia to select personalized positioning points on the tibial plateau articular surface as the proximal extramedullary alignment points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 本研究以中国学龄儿童青少年超重与肥胖筛查标准为例，详细介绍了国际和中国共四种评价儿童青少年超重肥胖的方法和步骤，结合具体案例详细介绍其应用方法，同时编制SPSS和SAS程序包和解释具体应用步骤，以便使用者能够正确、快捷地进行儿童青少年超重肥胖筛查，进行不同地区同类研究的横向比较。",
+        "hyp": "文 4 : This study takes the screening standards for overweight and obesity among school-aged children and adolescents in China as an example, and provides a detailed introduction to four international and Chinese methods for assessing overweight and obesity in children and adolescents. It includes a detailed introduction to their application methods using specific cases, and also compiles SPSS and SAS program packages with explanations of the specific application steps. This is to ensure that users can correctly and efficiently carry out screenings for overweight and obesity in children and adolescents, and facilitate cross-regional comparisons in similar studies.",
+        "label_text": " "
+    }
+]

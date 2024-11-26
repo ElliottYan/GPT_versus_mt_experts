@@ -1,0 +1,57 @@
+[
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 4 : (4) Toxic Epidermal Necrolysis (TEN) and Stevens-Johnson Syndrome (a skin, mucous membrane, and eye condition).",
+        "label_text": "(a skin, mucous membrane, and eye condition)"
+    },
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 4 : (4) Toxic Epidermal Necrolysis (TEN) and Stevens-Johnson Syndrome (a skin, mucous membrane, and eye condition).",
+        "label_text": "(a skin, mucous membrane, and eye condition)"
+    },
+    {
+        "source": "原文 : 香豆素类抗凝血药如华法林",
+        "hyp": "文 2 : Anticoagulant medications such as coumarin derivatives, like warfarin.",
+        "label_text": "derivatives"
+    },
+    {
+        "source": "原文 : 香豆素类抗凝血药如华法林",
+        "hyp": "文 2 : Anticoagulant medications such as coumarin derivatives, like warfarin.",
+        "label_text": "derivatives"
+    },
+    {
+        "source": "原文 : 有可能增强香豆素类抗凝血药（华法林）的作用，因此应注意调整用量。",
+        "hyp": "文 5 : It is possible to enhance the effect of coumarin anticoagulants (such as warfarin), therefore, attention should be paid to adjusting the dosage.",
+        "label_text": "such as"
+    },
+    {
+        "source": "原文 : 使用这些药品观察到的超敏反应（下文所述）有一些共同特征，例如发热和／或皮疹，以及提示累及多器官的其他症状。",
+        "hyp": "文 1 : The hypersensitivity reactions observed with these medications (as described below) share some common characteristics, such as fever and/or rash, along with other symptoms suggesting multi-organ involvement.",
+        "label_text": "reactions"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 4 : Further validation of the analytical performance of the method, including its sensitivity, specificity, and linear range, was conducted. The results showed that within the same reaction system, the response range for katG315 was from 1.0 pmol/L to 0.1 nmol/L, while for rpoB531 and rpsL43, the response ranges were from 1.0 pmol/L to 50.0 pmol/L and 1.0 pmol/L to 20.0 pmol/L, respectively. The method demonstrated good specificity and sensitivity, capable of precisely identifying single nucleotide mutations in a mixture of targets, with a detection limit as low as 1.0 pmol/L. In recovery experiments using simulated serum samples, the recovery rate reached 95.0% to 105.2%.",
+        "label_text": "rate"
+    },
+    {
+        "source": "原文 : 几乎所有发生超敏反应的患者会存在发热和／或皮疹（通常是斑丘疹或荨麻疹）作为综合征的一部分，但也发生过没有皮疹或发热的反应。",
+        "hyp": "文 5 : Nearly all patients who experience a hypersensitivity reaction will have fever and/or a rash (usually maculopapular or urticarial) as part of the syndrome, but there have also been reactions without a rash or fever.",
+        "label_text": "reaction"
+    },
+    {
+        "source": "原文 : 继续治疗会使与超敏反应相关的症状加重，可能危及生命，罕见情况下可能致命。",
+        "hyp": "文 5 : Continuing treatment may exacerbate symptoms associated with hypersensitivity reactions, potentially endangering life, and in rare cases, may be fatal.",
+        "label_text": "reactions"
+    },
+    {
+        "source": "原文 : 在10~30mg/kg/日剂量下对佐剂性关节炎的慢性炎症有抑制作用，效果是阿司匹林的5~10倍。",
+        "hyp": "文 2 : At a dosage of 10-30 mg/kg/day, it has an inhibitory effect on chronic inflammation of adjuvant-induced arthritis, with an efficacy 5 to 10 times that of aspirin.",
+        "label_text": "-induced"
+    },
+    {
+        "source": "原文 : 塞浦路斯卫生部10日宣布该国首次确诊3例奥密克戎毒株感染病例。",
+        "hyp": "文 2 : The Cyprus Ministry of Health announced on the 10th that the country has confirmed its first three cases of infection with the Omicron variant.",
+        "label_text": "variant"
+    }
+]

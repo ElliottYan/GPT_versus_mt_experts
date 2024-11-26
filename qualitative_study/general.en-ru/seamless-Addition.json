@@ -1,0 +1,102 @@
+[
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 5 : Помоги мне. О, подожди. Я могу просто погуглить это.",
+        "label_text": " мне"
+    },
+    {
+        "source": "原文 : On August 31, 1933, Alexander Dahl took the first picture of the Earth's curvature in an open hydrogen gas balloon.",
+        "hyp": "文 1 : 31 августа 1933 года Александр Даль сделал первую фотографию кривизны Земли в открытом воздушном шаре с водородным газом.",
+        "label_text": "с водородным газом"
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 4 : Они согласились, что тот, кто первым сумеет заставить путешественника снять плащ, должен считаться сильнее другого.",
+        "label_text": "сумеет"
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 4 : Они согласились, что тот, кто первым сумеет заставить путешественника снять плащ, должен считаться сильнее другого.",
+        "label_text": "сумеет"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 4 : Быть настоящим другом для тебя со всеми дающими и принимающими, что включает в себя <unk> вы можете понизить ее соответственно (как от друга до <unk>кого-то, кого я знаю<unk>).",
+        "label_text": " <unk>"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 4 : Быть настоящим другом для тебя со всеми дающими и принимающими, что включает в себя <unk> вы можете понизить ее соответственно (как от друга до <unk>кого-то, кого я знаю<unk>).",
+        "label_text": " <unk>"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 4 : Быть настоящим другом для тебя со всеми дающими и принимающими, что включает в себя <unk> вы можете понизить ее соответственно (как от друга до <unk>кого-то, кого я знаю<unk>).",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 4 : Быть настоящим другом для тебя со всеми дающими и принимающими, что включает в себя <unk> вы можете понизить ее соответственно (как от друга до <unk>кого-то, кого я знаю<unk>).",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 4 : Быть настоящим другом для тебя со всеми дающими и принимающими, что включает в себя <unk> вы можете понизить ее соответственно (как от друга до <unk>кого-то, кого я знаю<unk>).",
+        "label_text": " <unk>"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 4 : Быть настоящим другом для тебя со всеми дающими и принимающими, что включает в себя <unk> вы можете понизить ее соответственно (как от друга до <unk>кого-то, кого я знаю<unk>).",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 3 : Спасибо, хорошего утра и хорошей ночи и хорошего вечера в шоу Трумэна, хаха.",
+        "label_text": "в"
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 3 : Спасибо, хорошего утра и хорошей ночи и хорошего вечера в шоу Трумэна, хаха.",
+        "label_text": "в"
+    },
+    {
+        "source": "原文 : Charles was expected to attend a showing of the completed film, but died before it opened.",
+        "hyp": "文 4 : Ожидалось, что Чарльз примет участие в показе завершенного фильма, но умер до его открытия.",
+        "label_text": "Ожидалось, что "
+    },
+    {
+        "source": "原文 : Moreover, at the cellular level they change over time, these including changes under the influence of the streams of sensory signals they perceive and the life experience gained, including the consequences of their own actions under certain circumstances.",
+        "hyp": "文 4 : Более того, на клеточном уровне они меняются с течением времени, включая изменения под влиянием потоков сенсорных сигналов, которые они воспринимают, и приобретенного жизненного опыта, включая последствия своих собственных действий при определенных обстоятельствах.",
+        "label_text": "своих "
+    },
+    {
+        "source": "原文 : Suppose the cursor is located in the “aaa” word, and I want to yank four words without selecting the spaces after “ddd”: > xxx **aaa bbb ccc ddd** yyy",
+        "hyp": "文 1 : Предположим, что курсор расположен в слове <unk>aaa<unk>, и я хочу вытащить четыре слова без выбора пробелов после <unk>ddd<unk>: > xxx **aaa bbb ccc ddd** yyy",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Suppose the cursor is located in the “aaa” word, and I want to yank four words without selecting the spaces after “ddd”: > xxx **aaa bbb ccc ddd** yyy",
+        "hyp": "文 1 : Предположим, что курсор расположен в слове <unk>aaa<unk>, и я хочу вытащить четыре слова без выбора пробелов после <unk>ddd<unk>: > xxx **aaa bbb ccc ddd** yyy",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Suppose the cursor is located in the “aaa” word, and I want to yank four words without selecting the spaces after “ddd”: > xxx **aaa bbb ccc ddd** yyy",
+        "hyp": "文 1 : Предположим, что курсор расположен в слове <unk>aaa<unk>, и я хочу вытащить четыре слова без выбора пробелов после <unk>ddd<unk>: > xxx **aaa bbb ccc ddd** yyy",
+        "label_text": " <unk>"
+    },
+    {
+        "source": "原文 : Suppose the cursor is located in the “aaa” word, and I want to yank four words without selecting the spaces after “ddd”: > xxx **aaa bbb ccc ddd** yyy",
+        "hyp": "文 1 : Предположим, что курсор расположен в слове <unk>aaa<unk>, и я хочу вытащить четыре слова без выбора пробелов после <unk>ddd<unk>: > xxx **aaa bbb ccc ddd** yyy",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Then he stood on his tiptoes and crowed like a rooster – cock-a-doodle-doo.",
+        "hyp": "文 5 : Затем он встал на кончиках ног и кричал, как петух <unk> петух-a-doodle-doo.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 2 : n так я не узнал на de 2nd или 3rd пост dät The AJ Show был заблокирован на YT, я не фанат правых вещей n был acctully de причина я перестал смотреть его 2 года назад tho небольшой аромат свободы был dät трудно ты найти amoung 90% национальный капитализм de сайт имеет tu предложение, но в любом случае я получил d идею не цензуры видео сайт как liveleak но гораздо более просто n менее \"newsy\" dät any1 может опубликовать на нет содержимого wud b удален❤️",
+        "label_text": "d"
+    }
+]

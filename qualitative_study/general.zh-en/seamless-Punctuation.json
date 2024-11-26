@@ -1,0 +1,152 @@
+[
+    {
+        "source": "原文 : “想啊，我特别想修仙！”",
+        "hyp": "文 5 : Oh, I especially want to be a nun!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “想啊，我特别想修仙！”",
+        "hyp": "文 5 : Oh, I especially want to be a nun!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “我不是出车祸死了么？ 怎么又活过来了？”",
+        "hyp": "文 4 : Didn't I die in a car accident? How did I come back to life?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “我不是出车祸死了么？ 怎么又活过来了？”",
+        "hyp": "文 4 : Didn't I die in a car accident? How did I come back to life?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 2 : (I counted, the shoes were over 4,000 yen, counted as 200rmb, choose one, I don't have shoes, the loss was 200 yuan.)",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 3 : Correspondingly, if the default option ‘-fno-exteznal-templates ⁇  is used during compilation, all template instances are explicitly set to built-in.",
+        "label_text": "‘"
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 3 : Correspondingly, if the default option ‘-fno-exteznal-templates ⁇  is used during compilation, all template instances are explicitly set to built-in.",
+        "label_text": "‘"
+    },
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 3 : Correspondingly, if the default option ‘-fno-exteznal-templates ⁇  is used during compilation, all template instances are explicitly set to built-in.",
+        "label_text": "⁇"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "<unk> "
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 4 : Julio Ríos, a well-known Spanish expert on China issues and honorary advisor to the China Policy Observatory Network, said in an interview with this newspaper that China's current epidemic prevention and control is entering a new phase, and the dynamism of economic and social development will be further released.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “哈哈，玄藏师兄你吩咐的事情，师弟我哪敢担一句‘劳烦’？ 这等小事，何需如此？” 玄心一口答应了下来。",
+        "hyp": "文 2 : Haha, what you commanded, Master, how dare I take on such a small task? Why is this necessary?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “娘亲放心，我明天肯定能够开启‘神武印记’！”张若尘道。",
+        "hyp": "文 1 : Don't worry, I'm sure I'll be able to open the Shinto printing press tomorrow!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “好小子，你有一套！我们走，赶紧扫货！”",
+        "hyp": "文 1 : Hey, kid, you got a set! Let's go, hurry up and sweep!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 2 : Administratively, Castilla-La Mancha is part of the French region of Nouvelle-Aquitaine, in the department of Lot-et-Garonne; in local elections, Castilla-La Mancha is the seat of the central polling station, and the entire territory of the municipality is divided into: in social administration, Castilla-La Mancha is part of the canton.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 5 : After a long time, Lin Feng gradually adapted to the changes in his body, and his heart was relieved: \"It's a bit of self-preservation, but the ultimate goal of the system is to build the first gate in history, to become the first ancestor in history, and Lin Feng was under a lot of pressure, and he was busy checking the new gift bags and other things\".",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : “叶默，叶默，你没事吧，快点起来啊，马上要上课了，这节课是无情冰的，你赶紧起来。” 一个有些急的声音在叶默的耳边响起，叶默有一种很奇怪的感觉。",
+        "hyp": "文 5 : Hey, hey, hey, hey, it's all right, hurry up, it's time to go to class, this class is ruthless, you hurry up, there's a somewhat urgent sound in Yemer's ear, Yemer has a strange feeling.",
+        "label_text": "Hey"
+    },
+    {
+        "source": "原文 : “叶默，叶默，你没事吧，快点起来啊，马上要上课了，这节课是无情冰的，你赶紧起来。” 一个有些急的声音在叶默的耳边响起，叶默有一种很奇怪的感觉。",
+        "hyp": "文 5 : Hey, hey, hey, hey, it's all right, hurry up, it's time to go to class, this class is ruthless, you hurry up, there's a somewhat urgent sound in Yemer's ear, Yemer has a strange feeling.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “将外星飞船与气象气球混为一谈的讽刺意味很令人惊讶，但这不值得引发一场星际冲突，”梅杰说。",
+        "hyp": "文 5 : \"The irony of confusing an alien spacecraft with a weather balloon is surprising, but it's not worth causing an interstellar conflict\", Meijer said.",
+        "label_text": "\","
+    },
+    {
+        "source": "原文 : “五行杂灵根，这是最最低等的灵根，难怪前身虽然无比努力，却只有炼体二层的修为。” “于我而言，五行杂灵根虽然有点棘手，但辅以丹药，最多四百年我必然还能重临巅峰！”",
+        "hyp": "文 1 : It's not surprising that the first one, although it's a lot of work, is only the second level of the alchemy. As far as I'm concerned, the fifth one, although it's a bit tricky, but with the help of dan medicine, I'll surely reach the peak in four hundred years!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “五行杂灵根，这是最最低等的灵根，难怪前身虽然无比努力，却只有炼体二层的修为。” “于我而言，五行杂灵根虽然有点棘手，但辅以丹药，最多四百年我必然还能重临巅峰！”",
+        "hyp": "文 1 : It's not surprising that the first one, although it's a lot of work, is only the second level of the alchemy. As far as I'm concerned, the fifth one, although it's a bit tricky, but with the help of dan medicine, I'll surely reach the peak in four hundred years!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “小宇，别喊了，赶紧睡觉。”",
+        "hyp": "文 1 : Don't cry, go to sleep.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “烦恼落尽，红尘远离。”",
+        "hyp": "文 4 : The troubles are gone, the red dust is gone.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “楼市在回暖，此时更需要一针‘强心剂’。",
+        "hyp": "文 4 : The real estate market is warming up, and we need a needle of \"heart medicine\".",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 5 : In August 2013, Jonas Christensen participated in the World Badminton Championships in Guangzhou, China, where he competed in the men's doubles event with Marius Mayer, finishing in the first round with a score of 0-2 (15-21-8-21) against Markus Ellis and Paul van Rijtweed.",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : “这回可真是没话说了，我不无敌谁无敌？”",
+        "hyp": "文 1 : This time I didn't say anything, I'm not invincible, who is?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 4 : <unk> You... <unk> Guo Jingze was about to turn around to grab her, but felt the pain of the body for a moment, the bottom had once again risen uncontrollably <unk>",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 4 : <unk> You... <unk> Guo Jingze was about to turn around to grab her, but felt the pain of the body for a moment, the bottom had once again risen uncontrollably <unk>",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 4 : <unk> You... <unk> Guo Jingze was about to turn around to grab her, but felt the pain of the body for a moment, the bottom had once again risen uncontrollably <unk>",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 据巴黎大众运输公司(RATP)的数据， 2011年伊普莱桑斯站的入站乘客总人次数为4647935人次。",
+        "hyp": "文 3 : According to the Paris Public Transport Company (RATP), the total number of passengers at the Ypres station in 2011 was 464,7935 passengers.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : “楚阳，交出九劫剑！ 饶你不死！”",
+        "hyp": "文 2 : Yang Chuyang, hand over the nine swords! Don't die!",
+        "label_text": " "
+    }
+]

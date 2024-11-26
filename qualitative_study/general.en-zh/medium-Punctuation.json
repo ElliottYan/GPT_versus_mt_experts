@@ -1,0 +1,82 @@
+[
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 3 : 我一开始不知道说什么，但是然后我突然想到了什么，只说了句“但是我没有。”",
+        "label_text": "。"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 1 : 据伦敦交通局（TfL）调查显示，乘坐伦敦公共交通的女性，15%遇到过某种令人讨厌的性行为，但是90%没有报案。为了应对这一情况,英国交通安全指挥部（Safer Transport Command）与英国交通警察局（BTP）、伦敦市警察局和伦敦交通局共同发起了守卫者项目（Project Guardian）。该项目的目标是降低性冒犯事件数量，同时提高报案率。",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 1 : 据伦敦交通局（TfL）调查显示，乘坐伦敦公共交通的女性，15%遇到过某种令人讨厌的性行为，但是90%没有报案。为了应对这一情况,英国交通安全指挥部（Safer Transport Command）与英国交通警察局（BTP）、伦敦市警察局和伦敦交通局共同发起了守卫者项目（Project Guardian）。该项目的目标是降低性冒犯事件数量，同时提高报案率。",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 1 : 据伦敦交通局（TfL）调查显示，乘坐伦敦公共交通的女性，15%遇到过某种令人讨厌的性行为，但是90%没有报案。为了应对这一情况,英国交通安全指挥部（Safer Transport Command）与英国交通警察局（BTP）、伦敦市警察局和伦敦交通局共同发起了守卫者项目（Project Guardian）。该项目的目标是降低性冒犯事件数量，同时提高报案率。",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 2 : 总之，我在聊天室里打了这些字（“这一局我不会作弊！”），结果它让我支付服务器费用，然后关掉Adblock。",
+        "label_text": "（"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 2 : 总之，我在聊天室里打了这些字（“这一局我不会作弊！”），结果它让我支付服务器费用，然后关掉Adblock。",
+        "label_text": "）"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 2 : 总之，我在聊天室里打了这些字（“这一局我不会作弊！”），结果它让我支付服务器费用，然后关掉Adblock。",
+        "label_text": "（"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 2 : 总之，我在聊天室里打了这些字（“这一局我不会作弊！”），结果它让我支付服务器费用，然后关掉Adblock。",
+        "label_text": "）"
+    },
+    {
+        "source": "原文 : He read my reply which said \"I'm so worried about you!",
+        "hyp": "文 5 : 他看了我的回复“我很担心你！",
+        "label_text": "“"
+    },
+    {
+        "source": "原文 : He read my reply which said \"I'm so worried about you!",
+        "hyp": "文 5 : 他看了我的回复“我很担心你！",
+        "label_text": "“"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 3 : 怎么判断她是生我气了，还是只是生气了，因为我现在真的分不清？",
+        "label_text": "，"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 3 : 怎么判断她是生我气了，还是只是生气了，因为我现在真的分不清？",
+        "label_text": "？"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 3 : 怎么判断她是生我气了，还是只是生气了，因为我现在真的分不清？",
+        "label_text": "，"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 3 : 怎么判断她是生我气了，还是只是生气了，因为我现在真的分不清？",
+        "label_text": "？"
+    },
+    {
+        "source": "原文 : At first I was startled i started to get nervous and i froze.",
+        "hyp": "文 4 : 一开始我被吓到了，开始紧张、变得僵硬。",
+        "label_text": "、"
+    },
+    {
+        "source": "原文 : Is my dog not allowed to be nervous around other puppies?).",
+        "hyp": "文 3 : 就不许我的狗在遇到别的狗时紧张吗？）。",
+        "label_text": "？）。"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : В уборке примут участие 114 единиц спецтехники и 123 рабочих.",
+        "hyp": "文 4 : 114 pieces of specialized equipment and 123 workers will participate in the cleanup.",
+        "label_text": "pieces"
+    },
+    {
+        "source": "原文 : Риторика потому, что подобный случай, повторю, со мной происходит уже третий раз.",
+        "hyp": "文 3 : Rhetoric, because, I repeat, such an incident is happening to me for the third time.",
+        "label_text": "incident"
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 4 : On the day of arrival, they called to confirm what time to expect us, provided information about the transfer cost (1400 from the airport), and we ordered a taxi (at 23:00 the price was 850 rubles). We got there quickly as there was no traffic, and we were let through the barrier without any issues.",
+        "label_text": "expect"
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 1 : At the moment, the \"Rossoneri\" have climbed to third place in the league table, amassing 41 points.",
+        "label_text": "climbed to"
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 4 : The cabins are clean, cozy, and warm (even very warm), and each cabin has its own little kitchen with coffee, tea, sugar, spices, sunflower oil, and all the necessary dishes.",
+        "label_text": "dishes"
+    }
+]

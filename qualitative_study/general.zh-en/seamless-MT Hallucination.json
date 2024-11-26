@@ -1,0 +1,37 @@
+[
+    {
+        "source": "原文 : 相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.",
+        "hyp": "文 3 : Correspondingly, if the default option ‘-fno-exteznal-templates ⁇  is used during compilation, all template instances are explicitly set to built-in.",
+        "label_text": " ⁇ "
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "confused and confused"
+    },
+    {
+        "source": "原文 : 刀剑加身越来越多，鲜血点点飞出，疼痛一点点从全身各处聚焦，终于将脑海中的歌舞打断！",
+        "hyp": "文 2 : More and more swords, more and more blood, more and more pain, more and more pain, more and more pain, more and more pain, more and more pain, more and more pain.",
+        "label_text": "more and more pain, more and more pain, more and more pain, more and more pain, more and more pain, more and more pain."
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 4 : <unk> You... <unk> Guo Jingze was about to turn around to grab her, but felt the pain of the body for a moment, the bottom had once again risen uncontrollably <unk>",
+        "label_text": " <unk> "
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 4 : <unk> You... <unk> Guo Jingze was about to turn around to grab her, but felt the pain of the body for a moment, the bottom had once again risen uncontrollably <unk>",
+        "label_text": "<unk>"
+    }
+]

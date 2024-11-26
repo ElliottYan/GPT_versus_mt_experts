@@ -1,0 +1,257 @@
+[
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Acute renal failure, interstitial nephritis, and nephrotic syndrome may occur (frequency unknown*). Therefore, close observation is necessary. In case of oliguria, hematuria, urinary protein, BUN/blood creatinine increased, hyperkalemia, and hypoproteinemia, the administration should be discontinued, and appropriate measures should be taken.",
+        "label_text": "urinary protein"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Acute renal failure, interstitial nephritis, and nephrotic syndrome may occur (frequency unknown*). Therefore, close observation is necessary. In case of oliguria, hematuria, urinary protein, BUN/blood creatinine increased, hyperkalemia, and hypoproteinemia, the administration should be discontinued, and appropriate measures should be taken.",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 不能期待一个两岁的孩子具有足够的自我保护技能，但作为年幼孩子的家长，应至少具有相当的保护意识。",
+        "hyp": "文 5 : While we cannot expect a two-year-old child to possess sufficient self-protection skills, parents of young children should have fundamental consciousness to protect their children.",
+        "label_text": "fundamental"
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 4 : 9. Patients with a history of aspirin-induced asthma (caused by non-steroidal anti-inflammatory analgesics or other factors) or other diseases [that may trigger asthma attacks], and asthma patients allergic to aspirin;",
+        "label_text": "Patients with a history of aspirin-induced asthma"
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 4 : 9. Patients with a history of aspirin-induced asthma (caused by non-steroidal anti-inflammatory analgesics or other factors) or other diseases [that may trigger asthma attacks], and asthma patients allergic to aspirin;",
+        "label_text": "other diseases"
+    },
+    {
+        "source": "原文 : 9.有阿司匹林性哮喘（诱发非类固醇性消炎镇痛剂等引起的哮喘发作）或其既往病史的患者［可能诱发哮喘发作］，以及对阿司匹林过敏的哮喘患者；",
+        "hyp": "文 4 : 9. Patients with a history of aspirin-induced asthma (caused by non-steroidal anti-inflammatory analgesics or other factors) or other diseases [that may trigger asthma attacks], and asthma patients allergic to aspirin;",
+        "label_text": "other diseases"
+    },
+    {
+        "source": "原文 : 小编为大家带来洁面乳霜哪款好？",
+        "hyp": "文 3 : The editor recommends excellent cleansing creams for you.",
+        "label_text": "The editor recommends excellent cleansing creams for you."
+    },
+    {
+        "source": "原文 : 本品与华法林的血浆蛋白竞争性结合，游离型华法林增加。",
+        "hyp": "文 4 : This product competitively binds to plasma proteins of warfarin, leading to higher levels of unbound (free) warfarin.",
+        "label_text": "binds to plasma proteins of warfarin"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 3 : 4、 Hanhoo Red Pomegranate Fresh Moisturizing Six-piece Set (Hydrating and Moisturizing Skin care and Cosmetics Set for Female  Students, Complete Gift Box Set with Facial Cleanser, Toning Lotion, Facial Cream and Eye Cream)",
+        "label_text": "Complete"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 3 : 4、 Hanhoo Red Pomegranate Fresh Moisturizing Six-piece Set (Hydrating and Moisturizing Skin care and Cosmetics Set for Female  Students, Complete Gift Box Set with Facial Cleanser, Toning Lotion, Facial Cream and Eye Cream)",
+        "label_text": "Complete"
+    },
+    {
+        "source": "原文 : 狼疮抗凝物是发生静脉血栓栓塞症的危险因素之一，在静脉血栓栓塞症患者中检测狼疮抗凝物，对治疗方案抉择和疗效预后判断等方面具有重要意义。",
+        "hyp": "文 1 : Lupus anticoagulant increases the risk of venous thromboembolism. Detecting this antibody in patients with venous thromboembolism is crucial for making treatment decisions, assessing efficacy, and predicting prognosis.",
+        "label_text": "antibody"
+    },
+    {
+        "source": "原文 : 如果怀疑发生超敏反应，即使不存在HLA-B*5701等位基因，也应当停用本品，不得延迟。",
+        "hyp": "文 2 : Discontinue this product immediately if there are suspected hypersensitivity reactions, regardless of the presence of HLA-B*5701 allele.",
+        "label_text": "presence"
+    },
+    {
+        "source": "原文 : 所谓古着，vintage，设计都会带有年代的复古感，也就是怀旧，之所以喜欢古着也是喜欢它的岁月感，和它的质感！",
+        "hyp": "文 2 : Vintage clothing's designs evoke nostalgia tied to a specific era, making it appealing due to its historical significance and quality.",
+        "label_text": "historical significance and quality"
+    },
+    {
+        "source": "原文 : 发生超敏反应后，如果不立即停用本品治疗，可能马上导致危及生命的反应。",
+        "hyp": "文 3 : Delayed discontinuation of this product in the event of a hypersensitivity reaction may pose life-threatening risks.",
+        "label_text": "may pose life-threatening risks"
+    },
+    {
+        "source": "原文 : 综上,猪粪的分解受到土壤复垦年限的影响,而牛粪的分解不受土壤复垦年限的影响。",
+        "hyp": "文 5 : Based on the above, the decomposition of pig manure is influenced by the duration of land reclamation, but this is not true for the decomposition of cow manure.",
+        "label_text": "land"
+    },
+    {
+        "source": "原文 : 他差两个餐没送，但有个 order 已完结",
+        "hyp": "文 1 : He still has two pending food delivery orders, but one of the orders has already been fulfilled.",
+        "label_text": "fulfilled"
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 3 : The entire process, including makeup and shooting, will take about two hours. The photographer is a young man from the post-95s generation, who may not be so skilled. Hope that you can offer more advice on the shooting poses of customers~ He is quite conversable, and we had an enjoyable time during the shoot.",
+        "label_text": "you"
+    },
+    {
+        "source": "原文 : 打击犯罪、保障儿童和家长权益，从立法的完善，到司法的保障，以及执法的缜密，无不需要贯彻“护幼扶弱”的关怀。",
+        "hyp": "文 1 : In order to tackle crime and ensure the rights and welfare of children and parents, it is essential to uphold the principle of \"protecting the young and supporting the weak\" at every stage. This includes improvements in legislation, judicial protection, and meticulous law enforcement.",
+        "label_text": "welfare"
+    },
+    {
+        "source": "原文 : 本品与这些药物的血浆蛋白竞争性结合，游离型药物增加。",
+        "hyp": "文 3 : This product competitively binds to the plasma proteins of these drugs, leading to higher levels of unbound (free) drugs.",
+        "label_text": "binds to the plasma proteins of these drugs"
+    },
+    {
+        "source": "原文 : 猪粪和牛粪的易分解碳库占总碳库的比例分别为52%和26%,易分解碳库分解速率常数分别为0.00085和0.00074 ℃<sup>-1</sup>,且差异显著。",
+        "hyp": "文 4 : The proportion of labile carbon pool in pig manure and cow dung is 52% and 26% of the total carbon pool, respectively. The decomposition rate constants for the labile carbon pool are 0.00085/℃ and 0.00074/℃, respectively, and the difference is statistically significant.",
+        "label_text": "dung"
+    },
+    {
+        "source": "原文 : 慢性肾脏病变是糖尿病的常见并发症.",
+        "hyp": "文 3 : Chronic kidney disease is a frequent complication of diabetes.",
+        "label_text": "frequent"
+    },
+    {
+        "source": "原文 : \"心衰患者缺氧和肾功能不全的风险更高。稳定性慢性心衰的患者在定期检查心、肾功能的情况下可以服用二甲双胍。\"",
+        "hyp": "文 4 : Heart failure patients have an increased risk of hypoxia and renal insufficiency. Patients with stable chronic heart failure can safely use metformin while undergoing regular monitoring of their cardiac and renal function.",
+        "label_text": "while"
+    },
+    {
+        "source": "原文 : 张忠谋也认定英特尔当时是看不起晶圆制程服务的。",
+        "hyp": "文 3 : Zhang Zhongmou also believed that Intel had underestimated the value of wafer foundry services during that period.",
+        "label_text": "wafer foundry"
+    },
+    {
+        "source": "原文 : 严重的肾功能衰竭（eGFR<45mL/min/1.73m2）；",
+        "hyp": "文 4 : Severe renal insufficiency (eGFR < 45 mL/min/1.73 m2);",
+        "label_text": "insufficiency"
+    },
+    {
+        "source": "原文 : 已知对盐酸二甲双胍和本品中任何成分过敏；",
+        "hyp": "文 5 : Known hypersensitivity to metformin hydrochloride or any ingredients present in this product;",
+        "label_text": " hypersensitivity"
+    },
+    {
+        "source": "原文 : 肝功能不全、急性酒精中毒、酗酒；",
+        "hyp": "文 2 : Liver dysfunction, acute alcoholism, and alcoholism;",
+        "label_text": "Liver dysfunction"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 3 : 2) When used concomitantly, this drug reduces the natriuretic and antihypertensive effects of furosemide and the hypotensive effects of antihypertensive medications.",
+        "label_text": "natriuretic"
+    },
+    {
+        "source": "原文 : 在接受常规、脊髓或硬膜外麻醉的手术时必须停止服用二甲双胍。",
+        "hyp": "文 2 : Metformin must be discontinued for surgeries involving general, spinal, or epidural anesthesia.",
+        "label_text": "general"
+    },
+    {
+        "source": "原文 : 其他关键症状包括胃肠道、呼吸或全身症状，例如嗜睡和不适。",
+        "hyp": "文 5 : Other key symptoms include gastrointestinal, respiratory, or systemic symptoms, such as drowsiness and discomfort.",
+        "label_text": "drowsiness"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，致使水、钠体内潴留。",
+        "hyp": "文 2 : The inhibitory action of this product on prostaglandin synthesis leads to fluid and sodium retention in the body.",
+        "label_text": "fluid "
+    },
+    {
+        "source": "原文 : 在20名就诊工人中，根据GBZ 68-2013《职业性苯中毒的诊断》，共确诊职业性慢性苯中毒12例，诊断为职业性慢性轻度苯中毒2例、中度苯中毒7例、重度苯中毒3例。",
+        "hyp": "文 4 : According to GBZ 68-2013 \"Diagnosis of Occupational Benzene Poisoning\", among the 20 workers tested, a total of 12 cases were diagnosed with occupational chronic benzene poisoning, including 2 cases of mild, 7 cases of moderate, and 3 cases of severe benzene poisoning.",
+        "label_text": "tested"
+    },
+    {
+        "source": "原文 : 大鼠经口给予2~30mg/kg本品时，对足垫的炎症性痛（Randall-Selitto法）有镇痛作用，效果是阿司匹林的30倍。",
+        "hyp": "文 3 : Administration of this product at oral doses ranging from 2 to 30 mg/kg in rats demonstrated analgesic effects on inflammatory footpad pain (Randall-Selitto test), with its effectiveness being 30 times greater than that of aspirin.",
+        "label_text": "test"
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 2 : Let's Talk about Autism: 55 Questions Closely Related to Autism by Bridget Harrison and Kim Thúy (Canadian) [Authentic Book]",
+        "label_text": "Authentic"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，血管扩张作用和水、钠排泄被抑制。",
+        "hyp": "文 3 : This product inhibits prostaglandin synthesis, resulting in vasodilation and a reduction in fluid and sodium excretion.",
+        "label_text": "resulting in vasodilation"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，血管扩张作用和水、钠排泄被抑制。",
+        "hyp": "文 3 : This product inhibits prostaglandin synthesis, resulting in vasodilation and a reduction in fluid and sodium excretion.",
+        "label_text": "fluid"
+    },
+    {
+        "source": "原文 : 本品适用于治疗感染人类免疫缺陷病毒（HIV）的成人和12岁以上青少年（体重至少为40 kg）。",
+        "hyp": "文 1 : This product is indicated for the treatment of HIV infection in adults and adolescents aged 12 and above (weighing at least 40 kg).",
+        "label_text": "aged 12 and above"
+    },
+    {
+        "source": "原文 : 重要的是，这些症状可能导致将超敏反应误诊为呼吸道疾病（肺炎、支气管炎、咽炎）或胃肠炎。",
+        "hyp": "文 2 : It is important to note that these symptoms may be mistaken for respiratory diseases (pneumonia, bronchitis, pharyngitis) or gastroenteritis caused by hypersensitivity reactions.",
+        "label_text": "these symptoms may be mistaken for respiratory diseases (pneumonia, bronchitis, pharyngitis) or gastroenteritis caused by hypersensitivity reactions"
+    },
+    {
+        "source": "原文 : 新型喹诺酮类抗菌剂如依诺沙星水合物等",
+        "hyp": "文 5 : New quinolone antimicrobial agents, such as enoxacin doubled hemihydrate",
+        "label_text": "antimicrobial"
+    },
+    {
+        "source": "原文 : 浸润性癌12例、原位癌3例；肿瘤分期：T <sub>is</sub>N <sub>0</sub>M <sub>0</sub> 3例，T <sub>1</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>1</sub>N <sub>2</sub>M <sub>0</sub> 2例，T <sub>2</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>2</sub>N <sub>1</sub>M <sub>0</sub> 2例。",
+        "hyp": "文 2 : There were 12 cases of invasive cancer and 3 cases of carcinoma in situ. The tumor staging included 3 cases of TisN0M0, 4 cases of T1N0M0, 2 cases of T1N2M0, 1 case of T2N0M0, and 2 cases of T2N1M0.",
+        "label_text": "1 "
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 3 : Polymorphisms of the N-acetyltransferase 2 (NAT2) gene and enzyme (NAT2) phenotype have a significant impact on isoniazid plasma concentration.",
+        "label_text": "enzyme"
+    },
+    {
+        "source": "原文 : 现有的免疫功能定义如免疫过度、免疫抑制、免疫麻痹、免疫耐受均停留在描述性的概念，缺乏定量的诊断标准，结合临床表现及生物学指标将是未来最有效的量化方式。",
+        "hyp": "文 2 : The current definitions of immune function, including immune hyperactivation, immune suppression, immune paralysis, and immune tolerance, are purely descriptive and lack quantitative diagnostic criteria. The most effective future approach is to combine clinical manifestations with biological indicators for quantification.",
+        "label_text": " immune hyperactivation"
+    },
+    {
+        "source": "原文 : 中性粒细胞减少症2、贫血2、血小板减少症1",
+        "hyp": "文 3 : Grade 2 Neutropenia, Grade 2 Anemia, and Grade 1 Thrombocytopenia",
+        "label_text": "Grade 2"
+    },
+    {
+        "source": "原文 : 中性粒细胞减少症2、贫血2、血小板减少症1",
+        "hyp": "文 3 : Grade 2 Neutropenia, Grade 2 Anemia, and Grade 1 Thrombocytopenia",
+        "label_text": "Grade 2"
+    },
+    {
+        "source": "原文 : 中性粒细胞减少症2、贫血2、血小板减少症1",
+        "hyp": "文 3 : Grade 2 Neutropenia, Grade 2 Anemia, and Grade 1 Thrombocytopenia",
+        "label_text": "Grade 1"
+    },
+    {
+        "source": "原文 : 昨天 #PRS_ORG# 漏送餐品，这次就一个虾饺给我吃！？",
+        "hyp": "文 1 : Yesterday, you failed to deliver some items of #PRS_ORG#. How can you dare to make up for that by merely delivering an extra shrimp dumpling today?",
+        "label_text": "you failed to deliver some items of #PRS_ORG#"
+    },
+    {
+        "source": "原文 : 浅析针灸疗法在美国辅助生殖领域的应用现状，并探讨其存在的问题及今后的发展方向。",
+        "hyp": "文 3 : This analysis examines the current use of acupuncture therapy in the field of assisted reproduction in the US, discusses the existing issues, and explores future development directions.",
+        "label_text": "This analysis examines"
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 2 : An analysis was conducted on the summarized data from Phase IIb to IIIb clinical trials, revealing that the adverse reactions observed with the combination therapy of dolutegravir plus abacavir/lamivudine were consistent with the individual adverse reaction profiles of dolutegravir, abacavir, and lamivudine.",
+        "label_text": "individual"
+    },
+    {
+        "source": "原文 : 其中，77例（96膝）胫骨侧采用传统髓外定位技术（传统定位组）；93例（114膝）采用个性化髓外定位技术（个性化定位组），即结合胫骨解剖形态特点，在胫骨平台关节面选择个性化定位点作为髓外近端定位点。",
+        "hyp": "文 5 : Out of the total cases, 77 cases (96 joints) utilized the conventional extramedullary positioning technique (conventional positioning group), while 93 cases (114 joints) employed the personalized extramedullary positioning technique (personalized positioning group). The latter involved selecting a personalized positioning point on the articular surface of tibial plateau, taking into account the anatomical characteristics of the tibia, for the proximal extramedullary positioning.",
+        "label_text": "joints"
+    },
+    {
+        "source": "原文 : 其中，77例（96膝）胫骨侧采用传统髓外定位技术（传统定位组）；93例（114膝）采用个性化髓外定位技术（个性化定位组），即结合胫骨解剖形态特点，在胫骨平台关节面选择个性化定位点作为髓外近端定位点。",
+        "hyp": "文 5 : Out of the total cases, 77 cases (96 joints) utilized the conventional extramedullary positioning technique (conventional positioning group), while 93 cases (114 joints) employed the personalized extramedullary positioning technique (personalized positioning group). The latter involved selecting a personalized positioning point on the articular surface of tibial plateau, taking into account the anatomical characteristics of the tibia, for the proximal extramedullary positioning.",
+        "label_text": "joints"
+    },
+    {
+        "source": "原文 : 本品是固定剂量片剂，不能用于需要剂量调整的患者。",
+        "hyp": "文 1 : This product contains fixed-dose tablets, making it not suitable for patients needing dose adjustments.",
+        "label_text": "contains"
+    },
+    {
+        "source": "原文 : 在这次新冠肺炎抗击战中，她和团队所提出的“四抗二平衡”方案及带去的人工肝、微生态和干细胞三大技术，显著提高了重症救治率。",
+        "hyp": "文 5 : In the battle against COVID-19, the protocol of \"four fights and two balances\" (the \"four fights\" refer to fighting against the virus, shock, hypoxemia and multiple organ dysfunction, and secondary infection while the \"two balances\" involve acid-base balance and microecological balance) proposed by her and her team, along with the introduction of artificial liver, microecology, and stem cell technologies, significantly improved the survival rate of severe cases.",
+        "label_text": "acid-base balance"
+    }
+]

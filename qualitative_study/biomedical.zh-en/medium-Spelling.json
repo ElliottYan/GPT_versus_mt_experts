@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 3 : (4) Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome",
+        "label_text": "epidermal necrolysis"
+    },
+    {
+        "source": "原文 : 有可能出现中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）（频率均不明*），因此应充分进行观察，并采取相应措施。",
+        "hyp": "文 2 : Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome may occur (frequency is unknown*). Therefore, sufficient observation should be performed and corresponding measures should be taken.",
+        "label_text": "epidermal necrolysis"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 2 : 2. Patients with severe hematological abnormality [adverse reactions such as blood disease may occur, which may aggravate the hematological abnormality]",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 选择性5-羟色胺再摄取抑制剂（SSRI）氟伏沙明、帕罗西汀等",
+        "hyp": "文 4 : Selective Serotonin Reuptake Inhibitors (SSRIs) fluvoxamine, paroxetine, etc.",
+        "label_text": "Serotonin Reuptake Inhibitors"
+    },
+    {
+        "source": "原文 : β受体阻滞剂如普萘洛尔等",
+        "hyp": "文 1 : Β-blockers such as propranolol.",
+        "label_text": "Β"
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 4 : The polymorphism of genotype (NAT2) and protease phenotype (NAT2) of N-acetyltransferase 2 significantly affect the plasma isoniazide concentration.",
+        "label_text": "isoniazide"
+    }
+]

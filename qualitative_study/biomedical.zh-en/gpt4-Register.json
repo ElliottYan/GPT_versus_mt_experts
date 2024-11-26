@@ -1,0 +1,262 @@
+[
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 4 : In the other 690 reports, the main issues were related to the digestive system (such as stomach discomfort, loss of appetite, abdominal pain, nausea/vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial swelling (0.15%), and so on.",
+        "label_text": " itching"
+    },
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 4 : In the other 690 reports, the main issues were related to the digestive system (such as stomach discomfort, loss of appetite, abdominal pain, nausea/vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial swelling (0.15%), and so on.",
+        "label_text": "swelling"
+    },
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 4 : In the other 690 reports, the main issues were related to the digestive system (such as stomach discomfort, loss of appetite, abdominal pain, nausea/vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial swelling (0.15%), and so on.",
+        "label_text": " itching"
+    },
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 3 : Taking this product in combination with sulfonylurea drugs can achieve satisfactory blood sugar control by adjusting the doses of both medications.",
+        "label_text": "blood sugar"
+    },
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 3 : Taking this product in combination with sulfonylurea drugs can achieve satisfactory blood sugar control by adjusting the doses of both medications.",
+        "label_text": "blood sugar"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 5 : Patients with peptic ulcers (refer to the \"Precautions\" section) [Due to the inhibitory effect on prostaglandin synthesis, which can reduce the stomach's mucosal defense capabilities, there is a possibility that peptic ulcers may worsen.]",
+        "label_text": "stomach's mucosal"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 5 : Patients with peptic ulcers (refer to the \"Precautions\" section) [Due to the inhibitory effect on prostaglandin synthesis, which can reduce the stomach's mucosal defense capabilities, there is a possibility that peptic ulcers may worsen.]",
+        "label_text": "stomach's mucosal"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 4 : Patients with severe blood abnormalities [may experience adverse reactions such as blood disorders, which could potentially worsen the blood abnormalities].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 4 : Patients with severe blood abnormalities [may experience adverse reactions such as blood disorders, which could potentially worsen the blood abnormalities].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 4 : Patients with severe blood abnormalities [may experience adverse reactions such as blood disorders, which could potentially worsen the blood abnormalities].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 4 : Patients with severe blood abnormalities [may experience adverse reactions such as blood disorders, which could potentially worsen the blood abnormalities].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 4 : Patients with severe blood abnormalities [may experience adverse reactions such as blood disorders, which could potentially worsen the blood abnormalities].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 4 : Patients with severe blood abnormalities [may experience adverse reactions such as blood disorders, which could potentially worsen the blood abnormalities].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 2 : Relapses are generally more severe than the initial onset, and may include life-threatening low blood pressure and death.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 2 : Relapses are generally more severe than the initial onset, and may include life-threatening low blood pressure and death.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 4 : Cholestyramine is a type of anion exchange resin that binds with the substance in the digestive tract, delaying/inhibiting the absorption of the substance.",
+        "label_text": "substance"
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 4 : Cholestyramine is a type of anion exchange resin that binds with the substance in the digestive tract, delaying/inhibiting the absorption of the substance.",
+        "label_text": "substance"
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 4 : Cholestyramine is a type of anion exchange resin that binds with the substance in the digestive tract, delaying/inhibiting the absorption of the substance.",
+        "label_text": "substance"
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 4 : Cholestyramine is a type of anion exchange resin that binds with the substance in the digestive tract, delaying/inhibiting the absorption of the substance.",
+        "label_text": "substance"
+    },
+    {
+        "source": "原文 : 学员通过点播课件、提问答疑、网上讨论等方式进行学习。",
+        "hyp": "文 5 : Students engage in learning through methods such as on-demand courseware, asking questions for clarification, and online discussions.",
+        "label_text": "asking questions for clarification"
+    },
+    {
+        "source": "原文 : 这种超敏反应复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 1 : This type of hypersensitive reaction typically recurs with more severe symptoms than the initial episode, potentially including life-threatening low blood pressure and death.",
+        "label_text": "hypersensitive reaction"
+    },
+    {
+        "source": "原文 : 这种超敏反应复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 1 : This type of hypersensitive reaction typically recurs with more severe symptoms than the initial episode, potentially including life-threatening low blood pressure and death.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 有可能增强降血糖作用（低血糖），因此应注意调整用量。",
+        "hyp": "文 5 : It may enhance the effect of lowering blood sugar (hypoglycemia), therefore dosage adjustments should be made with caution.",
+        "label_text": "the effect of lowering blood sugar"
+    },
+    {
+        "source": "原文 : 常见于肾功能急性恶化、患有心肺疾病或败血症的患者中。",
+        "hyp": "文 3 : Commonly seen in patients with acute deterioration of kidney function, those with cardiopulmonary diseases, or those suffering from sepsis.",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 可能影响肾功能的急性病情，如：脱水、严重感染、休克；",
+        "hyp": "文 3 : Acute medical conditions that may affect kidney function, such as: dehydration, severe infection, shock;",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 可造成组织缺氧的疾病（尤其是急性疾病或慢性疾病的恶化），例如失代偿性心力衰竭、呼吸衰竭、近期发作的心肌梗死和休克；",
+        "hyp": "文 3 : Diseases that can cause tissue hypoxia (especially acute illnesses or exacerbations of chronic diseases), such as decompensated heart failure, respiratory failure, recent myocardial infarction, and shock;",
+        "label_text": "illnesses"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 5 : Severe infections and trauma, major surgical operations, clinically presenting with low blood pressure and hypoxia, among others.",
+        "label_text": "surgical operations"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 5 : Severe infections and trauma, major surgical operations, clinically presenting with low blood pressure and hypoxia, among others.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 维生素B12、叶酸缺乏未纠正者。",
+        "hyp": "文 3 : Individuals with uncorrected deficiencies in vitamin B12 and folic acid.",
+        "label_text": "folic acid"
+    },
+    {
+        "source": "原文 : 皮莱说 ： “ 他们能够在家里控制疾病，大多数人在隔离10至14天内康复 。 ”",
+        "hyp": "文 3 : Pilai said, \"They are able to manage the illness at home, and most people recover within 10 to 14 days of isolation.\"",
+        "label_text": "isolation"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 4 : 2) When this product is used in conjunction with furosemide (frusemide), the latter's sodium excretion and blood pressure-lowering effects are diminished; when used with antihypertensive drugs, it also reduces the blood pressure-lowering effects of the latter.",
+        "label_text": "in conjunction with"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 4 : 2) When this product is used in conjunction with furosemide (frusemide), the latter's sodium excretion and blood pressure-lowering effects are diminished; when used with antihypertensive drugs, it also reduces the blood pressure-lowering effects of the latter.",
+        "label_text": " (frusemide)"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 4 : 2) When this product is used in conjunction with furosemide (frusemide), the latter's sodium excretion and blood pressure-lowering effects are diminished; when used with antihypertensive drugs, it also reduces the blood pressure-lowering effects of the latter.",
+        "label_text": "blood pressure-lowering"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 4 : 2) When this product is used in conjunction with furosemide (frusemide), the latter's sodium excretion and blood pressure-lowering effects are diminished; when used with antihypertensive drugs, it also reduces the blood pressure-lowering effects of the latter.",
+        "label_text": "blood pressure-lowering"
+    },
+    {
+        "source": "原文 : 因此，计划做这类检查的患者，在检查前或检查时必须停止服用二甲双胍，在检查完成至少48小时后且仅在再次检查肾功能稳定的情况下才可以恢复用药。",
+        "hyp": "文 2 : Therefore, patients scheduled for such examinations must discontinue the use of metformin before or at the time of the test, and can only resume medication after at least 48 hours post-examination and only if a subsequent check confirms that their kidney function is stable.",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 2 : Out of the 121 strains of pathogens isolated, 76 strains (62.8%) were Gram-negative (G-), 40 strains (33.1%) were Gram-positive (G+), and 5 strains (4.1%) were fungi.",
+        "label_text": "fungi"
+    },
+    {
+        "source": "原文 : 其他关键症状包括胃肠道、呼吸或全身症状，例如嗜睡和不适。",
+        "hyp": "文 4 : Other key symptoms include gastrointestinal, respiratory, or systemic issues, such as drowsiness and discomfort.",
+        "label_text": "issues"
+    },
+    {
+        "source": "原文 : 其他关键症状包括胃肠道、呼吸或全身症状，例如嗜睡和不适。",
+        "hyp": "文 4 : Other key symptoms include gastrointestinal, respiratory, or systemic issues, such as drowsiness and discomfort.",
+        "label_text": "discomfort"
+    },
+    {
+        "source": "原文 : 红细胞可能是二甲双胍的第二分布腔室，平均分布容积（Vd）约为1.12 L/kg。",
+        "hyp": "文 2 : Red blood cells may serve as the second distribution compartment for metformin, with an average distribution volume (Vd) of approximately 1.12 L/kg.",
+        "label_text": "distribution volume (Vd) "
+    },
+    {
+        "source": "原文 : “最好原则”的最大问题在于门槛太高，它往往超越了普通人的能力极限，让绝大多数人“望门兴叹 ” 。",
+        "hyp": "文 1 : The biggest issue with the \"best principle\" is that the bar is set too high, often surpassing the limits of ordinary people's abilities, leaving the vast majority to sigh in despair.",
+        "label_text": "bar"
+    },
+    {
+        "source": "原文 : 长期使用非甾体类抗炎镇痛药而导致消化性溃疡的患者。",
+        "hyp": "文 3 : Patients who have developed peptic ulcers due to the long-term use of nonsteroidal anti-inflammatory painkillers.",
+        "label_text": "painkillers"
+    },
+    {
+        "source": "原文 : 本研究为含裂纹斑块的破裂风险评估提供了一定的理论依据。",
+        "hyp": "文 1 : This study provides a theoretical basis for the risk assessment of rupture in patches containing cracks.",
+        "label_text": "patches"
+    },
+    {
+        "source": "原文 : 抗反转录病毒治疗期间，可能发生体重增加以及血脂和血糖水平升高。",
+        "hyp": "文 5 : During antiretroviral therapy, there may be an increase in body weight as well as elevated blood lipid and blood sugar levels.",
+        "label_text": "sugar "
+    },
+    {
+        "source": "原文 : 术后至少48小时或恢复进食并且肾功能经评估稳定后才可以重新开始治疗。",
+        "hyp": "文 3 : Treatment can be resumed only after at least 48 hours post-surgery or once eating has been reestablished and kidney function has been assessed as stable.",
+        "label_text": "eating"
+    },
+    {
+        "source": "原文 : 术后至少48小时或恢复进食并且肾功能经评估稳定后才可以重新开始治疗。",
+        "hyp": "文 3 : Treatment can be resumed only after at least 48 hours post-surgery or once eating has been reestablished and kidney function has been assessed as stable.",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 合用增强了新喹诺酮抗菌剂的GABA抑制作用。",
+        "hyp": "文 2 : Combined use enhanced the GABA inhibitory effect of the new quinolone antibacterial agents.",
+        "label_text": "new"
+    },
+    {
+        "source": "原文 : 昨天 #PRS_ORG# 漏送餐品，这次就一个虾饺给我吃！？",
+        "hyp": "文 3 : Yesterday, #PRS_ORG# missed delivering some dishes, and this time you're just giving me a single shrimp dumpling to eat!?",
+        "label_text": "you"
+    },
+    {
+        "source": "原文 : 术后定期随访，评估缩乳情况及并发症发生情况，采用乳腺癌患者报告结局量表（BREAST-Q）评价患者满意度及生活质量，并行乳腺专科彩超、胸腹部CT、全身骨扫描等检查，评估肿瘤局部复发或远处转移情况。",
+        "hyp": "文 3 : Regular follow-up appointments after surgery are conducted to assess breast reduction and the occurrence of complications. The Breast Cancer Patient-Reported Outcomes Questionnaire (BREAST-Q) is used to evaluate patient satisfaction and quality of life. Additionally, specialized breast ultrasound, chest and abdominal CT scans, and whole-body bone scans are performed to evaluate the status of local tumor recurrence or distant metastasis.",
+        "label_text": "Questionnaire"
+    },
+    {
+        "source": "原文 : 白木耳的作用：味甘、性平，归肺、胃、肾经；有强精、补肾、润肠、益胃、补气、和血、强心、滋阴、润肺、生津、壮身、补脑、提神、美容、嫩肤、延年益寿之功效；用于治肺热咳嗽、肺燥干咳、妇女月经不调、胃炎、大便秘结等病症；对阴虚火旺不受参茸等温热滋补的病人是一种良好的补品",
+        "hyp": "文 3 : The benefits of white fungus: It has a sweet taste and neutral properties, and it is associated with the lung, stomach, and kidney meridians. It is believed to enhance vitality, nourish the kidneys, moisten the intestines, benefit the stomach, boost energy, harmonize the blood, strengthen the heart, nourish yin, moisten the lungs, generate body fluids, invigorate the body, nourish the brain, refresh the mind, beautify the skin, soften the skin, and promote longevity. It is used to treat symptoms such as lung heat with cough, dry cough due to lung dryness, irregular menstruation in women, gastritis, and constipation. For patients who cannot tolerate warm and heaty tonics such as ginseng and deer antler due to yin deficiency and excessive internal heat, white fungus is an excellent supplement.",
+        "label_text": "beautify the skin"
+    },
+    {
+        "source": "原文 : 本品是固定剂量片剂，不能用于需要剂量调整的患者。",
+        "hyp": "文 5 : This product is a fixed-dose tablet and cannot be used for patients who require dosage adjustments.",
+        "label_text": " dosage"
+    },
+    {
+        "source": "原文 : 如果成人或青少年的体重低于40 kg，不应当给予本品，因为本品是固定剂量片剂，不能减少剂量。",
+        "hyp": "文 4 : If an adult or adolescent weighs less than 40 kg, they should not be given this medication, as it is a fixed-dose tablet and the dosage cannot be reduced.",
+        "label_text": "dosage"
+    },
+    {
+        "source": "原文 : 迄今为止，少有文献阐述MEG-BCI涉及的关键技术问题，为此本文聚焦MEG-BCI关键技术，详述了实用MEG-BCI系统中涉及的信号采集技术、MEG-BCI实验范式设计、MEG信号分析和解码关键技术、MEG-BCI神经反馈技术及其智能化方法。",
+        "hyp": "文 4 : Up to now, there has been little literature that elaborates on the key technical issues involved in MEG-BCI. Therefore, this paper focuses on the key technologies of MEG-BCI, detailing the signal acquisition technology involved in practical MEG-BCI systems, the design of MEG-BCI experimental paradigms, key technologies for MEG signal analysis and decoding, MEG-BCI neurofeedback techniques, and their intelligent methods.",
+        "label_text": " little literature"
+    }
+]

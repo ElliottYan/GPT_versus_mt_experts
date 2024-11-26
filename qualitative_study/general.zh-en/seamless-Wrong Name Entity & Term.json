@@ -1,0 +1,632 @@
+[
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 5 : In March 2020, there was a sharp increase in the demand for flour during the pneumonia epidemic, and the flour factory, whose business was declining, also tried to launch home-made flour from a wholesale-only operation.",
+        "label_text": " pneumonia epidemic"
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 5 : In March 2020, there was a sharp increase in the demand for flour during the pneumonia epidemic, and the flour factory, whose business was declining, also tried to launch home-made flour from a wholesale-only operation.",
+        "label_text": " pneumonia epidemic"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 4 : China has manufactured a colorless, odorless biochemical weapon and intends to export it to China to carry out a disastrous conspiracy.",
+        "label_text": "China"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 4 : China has manufactured a colorless, odorless biochemical weapon and intends to export it to China to carry out a disastrous conspiracy.",
+        "label_text": "China"
+    },
+    {
+        "source": "原文 : 1654年，海德薇希·艾蕾诺拉与瑞典国王卡尔十世·古斯塔夫结婚，两人的独子是日后的卡尔十一世。",
+        "hyp": "文 1 : In 1654, Hildewig Eleonora married King Carl X Gustaf of Sweden, and their only child was the future Karl XI.",
+        "label_text": "Hildewig"
+    },
+    {
+        "source": "原文 : 1654年，海德薇希·艾蕾诺拉与瑞典国王卡尔十世·古斯塔夫结婚，两人的独子是日后的卡尔十一世。",
+        "hyp": "文 1 : In 1654, Hildewig Eleonora married King Carl X Gustaf of Sweden, and their only child was the future Karl XI.",
+        "label_text": "Carl X Gustaf"
+    },
+    {
+        "source": "原文 : 1654年，海德薇希·艾蕾诺拉与瑞典国王卡尔十世·古斯塔夫结婚，两人的独子是日后的卡尔十一世。",
+        "hyp": "文 1 : In 1654, Hildewig Eleonora married King Carl X Gustaf of Sweden, and their only child was the future Karl XI.",
+        "label_text": "Hildewig "
+    },
+    {
+        "source": "原文 : 1654年，海德薇希·艾蕾诺拉与瑞典国王卡尔十世·古斯塔夫结婚，两人的独子是日后的卡尔十一世。",
+        "hyp": "文 1 : In 1654, Hildewig Eleonora married King Carl X Gustaf of Sweden, and their only child was the future Karl XI.",
+        "label_text": "Carl X Gustaf"
+    },
+    {
+        "source": "原文 : 第二次世界大战期间，英国政府买下该岛，将其作为生化武器试验基地，试验将炭疽热作为生化武器使用。",
+        "hyp": "文 5 : During World War II, the British government bought the island and used it as a biochemical weapons test site, testing the use of anthrax as a biochemical weapon.",
+        "label_text": "biochemical weapons"
+    },
+    {
+        "source": "原文 : 第二次世界大战期间，英国政府买下该岛，将其作为生化武器试验基地，试验将炭疽热作为生化武器使用。",
+        "hyp": "文 5 : During World War II, the British government bought the island and used it as a biochemical weapons test site, testing the use of anthrax as a biochemical weapon.",
+        "label_text": " biochemical weapon"
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 5 : Due to the secrecy of some of the exhibits, the China Coin Museum is open to visitors only and not to outsiders.",
+        "label_text": "China Coin Museum"
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 5 : Due to the secrecy of some of the exhibits, the China Coin Museum is open to visitors only and not to outsiders.",
+        "label_text": "China Coin Museum"
+    },
+    {
+        "source": "原文 : 九巴报站系统站名出错。",
+        "hyp": "文 3 : The station name of the Kobayashi Station System is incorrect.",
+        "label_text": "Kobayashi Station System"
+    },
+    {
+        "source": "原文 : 产品名称 :Redmi AirDots 2 真无线蓝牙耳机",
+        "hyp": "文 4 : Product name: Redmi AirDots 2 truly wireless Bluetooth headphones",
+        "label_text": "truly wireless Bluetooth headphones"
+    },
+    {
+        "source": "原文 : 楚离不理他，冲赵颖笑着抱抱拳。",
+        "hyp": "文 1 : Chu ignored him and laughed and grabbed his fist.",
+        "label_text": "Chu"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 1 : After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, making it the third busiest station after Kumamoto Station and Honshu Station, with annual revenues of 300 million yen.",
+        "label_text": "Deep Valley Garden Station"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 1 : After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, making it the third busiest station after Kumamoto Station and Honshu Station, with annual revenues of 300 million yen.",
+        "label_text": "Kumamoto Station"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 1 : After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, making it the third busiest station after Kumamoto Station and Honshu Station, with annual revenues of 300 million yen.",
+        "label_text": "Honshu Station"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 1 : After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, making it the third busiest station after Kumamoto Station and Honshu Station, with annual revenues of 300 million yen.",
+        "label_text": "Deep Valley Garden Station"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 1 : After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, making it the third busiest station after Kumamoto Station and Honshu Station, with annual revenues of 300 million yen.",
+        "label_text": "Kumamoto Station"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 1 : After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, making it the third busiest station after Kumamoto Station and Honshu Station, with annual revenues of 300 million yen.",
+        "label_text": "Honshu Station"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 1 : A small floor dance (style move), a type of Breaking Street Dance.",
+        "label_text": "small floor dance "
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 1 : A small floor dance (style move), a type of Breaking Street Dance.",
+        "label_text": "Breaking Street Dance"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 5 : During the seminar, all participants were guided by Xi Jinping's ideology of socialism with Chinese characteristics in the new era, seriously studied the spirit of the Party's Twenty Principles and the important speeches of Xi Jinping's General Secretary at the opening of the seminar, deepened their understanding of a series of major theoretical and practical issues of Chinese modernization, strengthened their confidence and determination to fully promote the great revival of the Chinese nation under the strong leadership of Xi Jinping.",
+        "label_text": "Xi Jinping's ideology of socialism with Chinese characteristics in the new era"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 5 : During the seminar, all participants were guided by Xi Jinping's ideology of socialism with Chinese characteristics in the new era, seriously studied the spirit of the Party's Twenty Principles and the important speeches of Xi Jinping's General Secretary at the opening of the seminar, deepened their understanding of a series of major theoretical and practical issues of Chinese modernization, strengthened their confidence and determination to fully promote the great revival of the Chinese nation under the strong leadership of Xi Jinping.",
+        "label_text": "Party's Twenty Principles"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 5 : During the seminar, all participants were guided by Xi Jinping's ideology of socialism with Chinese characteristics in the new era, seriously studied the spirit of the Party's Twenty Principles and the important speeches of Xi Jinping's General Secretary at the opening of the seminar, deepened their understanding of a series of major theoretical and practical issues of Chinese modernization, strengthened their confidence and determination to fully promote the great revival of the Chinese nation under the strong leadership of Xi Jinping.",
+        "label_text": "Xi Jinping's ideology of socialism with Chinese characteristics in the new era"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 5 : During the seminar, all participants were guided by Xi Jinping's ideology of socialism with Chinese characteristics in the new era, seriously studied the spirit of the Party's Twenty Principles and the important speeches of Xi Jinping's General Secretary at the opening of the seminar, deepened their understanding of a series of major theoretical and practical issues of Chinese modernization, strengthened their confidence and determination to fully promote the great revival of the Chinese nation under the strong leadership of Xi Jinping.",
+        "label_text": "Party's Twenty Principles"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 1 : The Model 25A is a centrally-powered air-conditioned passenger car model of China Railways, manufactured jointly by several domestic railway factories through international bidding using loans, due to the total production of 168 units.",
+        "label_text": "China Railways"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 1 : The Model 25A is a centrally-powered air-conditioned passenger car model of China Railways, manufactured jointly by several domestic railway factories through international bidding using loans, due to the total production of 168 units.",
+        "label_text": "China Railways"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 3 : The nine organs were first located in Beijing, then the main engineering and production departments moved to the West Hai Town of Haiyang County, Qinghai Province, i.e. 221 factories; in 1970, the main engineering and production departments moved to Sichuan, distributed in the mountainous areas of northern Sichuan.",
+        "label_text": "The nine organs"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 3 : The nine organs were first located in Beijing, then the main engineering and production departments moved to the West Hai Town of Haiyang County, Qinghai Province, i.e. 221 factories; in 1970, the main engineering and production departments moved to Sichuan, distributed in the mountainous areas of northern Sichuan.",
+        "label_text": "Haiyang"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 3 : The nine organs were first located in Beijing, then the main engineering and production departments moved to the West Hai Town of Haiyang County, Qinghai Province, i.e. 221 factories; in 1970, the main engineering and production departments moved to Sichuan, distributed in the mountainous areas of northern Sichuan.",
+        "label_text": "The nine organs"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 3 : The nine organs were first located in Beijing, then the main engineering and production departments moved to the West Hai Town of Haiyang County, Qinghai Province, i.e. 221 factories; in 1970, the main engineering and production departments moved to Sichuan, distributed in the mountainous areas of northern Sichuan.",
+        "label_text": "West Hai Town of Haiyang County"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 5 : With the rise of concert culture, Rowan has repeatedly held solo concerts at the Lee Theater, and has expanded his acting career overseas, becoming the first Oriental singer to perform at the Royal Albert Hall in London (1978), and the first Chinese singer to perform at the Lincoln Center in New York (1980), as well as performing solo concerts at Madison Square Garden and the National Theatre in Singapore.",
+        "label_text": "Rowan"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 5 : With the rise of concert culture, Rowan has repeatedly held solo concerts at the Lee Theater, and has expanded his acting career overseas, becoming the first Oriental singer to perform at the Royal Albert Hall in London (1978), and the first Chinese singer to perform at the Lincoln Center in New York (1980), as well as performing solo concerts at Madison Square Garden and the National Theatre in Singapore.",
+        "label_text": "Rowan"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "Hong Da-li"
+    },
+    {
+        "source": "原文 : “请问，这里是陆寻老师的课堂吗？”",
+        "hyp": "文 5 : \"Please, is this the classroom of Mr. Lu?\"",
+        "label_text": "Lu"
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 4 : Julio Ríos, a well-known Spanish expert on China issues and honorary advisor to the China Policy Observatory Network, said in an interview with this newspaper that China's current epidemic prevention and control is entering a new phase, and the dynamism of economic and social development will be further released.",
+        "label_text": "Julio Ríos"
+    },
+    {
+        "source": "原文 : ”西班牙知名中国问题专家、中国政策观察网名誉顾问胡里奥·里奥斯日前接受本报记者采访时表示，当前中国疫情防控进入新阶段，经济社会发展活力将进一步得到释放。",
+        "hyp": "文 4 : Julio Ríos, a well-known Spanish expert on China issues and honorary advisor to the China Policy Observatory Network, said in an interview with this newspaper that China's current epidemic prevention and control is entering a new phase, and the dynamism of economic and social development will be further released.",
+        "label_text": "China Policy Observatory Network"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 5 : On February 22, 2017, Eliasova was traded to the Atlanta Falcons after playing 53 games with the 76ers, and the 76ers were given second-round draft rights by center Tiago Split in 2017 and the right to exchange second-round draft picks with the Eagles.",
+        "label_text": "Eliasova"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 5 : On February 22, 2017, Eliasova was traded to the Atlanta Falcons after playing 53 games with the 76ers, and the 76ers were given second-round draft rights by center Tiago Split in 2017 and the right to exchange second-round draft picks with the Eagles.",
+        "label_text": "Atlanta Falcons"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 5 : On February 22, 2017, Eliasova was traded to the Atlanta Falcons after playing 53 games with the 76ers, and the 76ers were given second-round draft rights by center Tiago Split in 2017 and the right to exchange second-round draft picks with the Eagles.",
+        "label_text": "Eagles"
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 4 : It is a species of ray-finned fish in the family ray-finned fishes.",
+        "label_text": " ray-finned fish"
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 4 : It is a species of ray-finned fish in the family ray-finned fishes.",
+        "label_text": "ray-finned fishes"
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 4 : Developed on the basis of the second-generation H-PJ-7 short-range guided missile, the H-PJ-11 short-range guided missile was first found to be mounted on China's Liaoning aircraft carrier, and was later found to be mounted on the 054A guided missile frigate (starting with the third batch of the Daqing missile frigate) and the 052D guided missile destroyer (starting with the second batch of the Nanking missile destroyer).",
+        "label_text": "short-range guided missile"
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 4 : Developed on the basis of the second-generation H-PJ-7 short-range guided missile, the H-PJ-11 short-range guided missile was first found to be mounted on China's Liaoning aircraft carrier, and was later found to be mounted on the 054A guided missile frigate (starting with the third batch of the Daqing missile frigate) and the 052D guided missile destroyer (starting with the second batch of the Nanking missile destroyer).",
+        "label_text": "short-range guided missile"
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 4 : Developed on the basis of the second-generation H-PJ-7 short-range guided missile, the H-PJ-11 short-range guided missile was first found to be mounted on China's Liaoning aircraft carrier, and was later found to be mounted on the 054A guided missile frigate (starting with the third batch of the Daqing missile frigate) and the 052D guided missile destroyer (starting with the second batch of the Nanking missile destroyer).",
+        "label_text": "Nanking missile destroyer"
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 2 : Administratively, Castilla-La Mancha is part of the French region of Nouvelle-Aquitaine, in the department of Lot-et-Garonne; in local elections, Castilla-La Mancha is the seat of the central polling station, and the entire territory of the municipality is divided into: in social administration, Castilla-La Mancha is part of the canton.",
+        "label_text": "Castilla-La Mancha"
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 2 : Administratively, Castilla-La Mancha is part of the French region of Nouvelle-Aquitaine, in the department of Lot-et-Garonne; in local elections, Castilla-La Mancha is the seat of the central polling station, and the entire territory of the municipality is divided into: in social administration, Castilla-La Mancha is part of the canton.",
+        "label_text": "Castilla-La Mancha"
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 2 : Administratively, Castilla-La Mancha is part of the French region of Nouvelle-Aquitaine, in the department of Lot-et-Garonne; in local elections, Castilla-La Mancha is the seat of the central polling station, and the entire territory of the municipality is divided into: in social administration, Castilla-La Mancha is part of the canton.",
+        "label_text": "Castilla-La Mancha"
+    },
+    {
+        "source": "原文 : 根据2014年亚洲铁人三项青年奥运会资格赛的表现，新加坡队有2名选手获得青奥会参赛资格。",
+        "hyp": "文 3 : Based on the performance of the Asian Ironman Youth Olympic Qualifying Tournament in 2014, two players from the Singapore team qualified for the Youth Olympic Games.",
+        "label_text": "Asian Ironman Youth Olympic Qualifying Tournament in 2014"
+    },
+    {
+        "source": "原文 : 之前一开始还担心相机的包装，这次还好，里面有充气包，相机三码一致，也能在官网注册，快门次数0，其余的就只能等时间检验了 。",
+        "hyp": "文 1 : Previously, I was worried about the packaging of the camera, this time it's good, there's an inflatable bag inside, the camera is three-dimensional, it can also be registered on the official website, the number of shutdowns is zero, the rest can only wait for time to check.",
+        "label_text": "number of shutdowns"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 5 : In the forty-ninth year of Confucius (1710), the Confucian emperor recalled the old minister, and the special official was restored to his post.",
+        "label_text": "Confucius"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 5 : In the forty-ninth year of Confucius (1710), the Confucian emperor recalled the old minister, and the special official was restored to his post.",
+        "label_text": "Confucian emperor"
+    },
+    {
+        "source": "原文 : “叶默，叶默，你没事吧，快点起来啊，马上要上课了，这节课是无情冰的，你赶紧起来。” 一个有些急的声音在叶默的耳边响起，叶默有一种很奇怪的感觉。",
+        "hyp": "文 5 : Hey, hey, hey, hey, it's all right, hurry up, it's time to go to class, this class is ruthless, you hurry up, there's a somewhat urgent sound in Yemer's ear, Yemer has a strange feeling.",
+        "label_text": "Yemer's"
+    },
+    {
+        "source": "原文 : “叶默，叶默，你没事吧，快点起来啊，马上要上课了，这节课是无情冰的，你赶紧起来。” 一个有些急的声音在叶默的耳边响起，叶默有一种很奇怪的感觉。",
+        "hyp": "文 5 : Hey, hey, hey, hey, it's all right, hurry up, it's time to go to class, this class is ruthless, you hurry up, there's a somewhat urgent sound in Yemer's ear, Yemer has a strange feeling.",
+        "label_text": "Yemer"
+    },
+    {
+        "source": "原文 : 孟奇仔细把玩了一下这拇指大小的玉佛，只见“它”满脸慈悲，栩栩如生，显然雕工不凡，同时，“它”手感细腻，既温润又给人清凉之感。",
+        "hyp": "文 5 : Menchi carefully played with the jade Buddha, which was the size of his thumb, only to see that it was full of compassion, vivid, obviously carved, and at the same time, it had a delicate touch, both warm and cool.",
+        "label_text": "Menchi"
+    },
+    {
+        "source": "原文 : 江瑶扮相俊美，表演扎实，师承范瑞娟派，兼唱其他流派。",
+        "hyp": "文 1 : Jiang Yang dressed beautifully, performed solidly, mastered the Ryuan school, and sang in other genres.",
+        "label_text": "Jiang Yang"
+    },
+    {
+        "source": "原文 : 北宋因政治腐败、因循守旧而造成了积贫积弱的局面，中叶即出现了较大的财政危机和国防危机。",
+        "hyp": "文 1 : North Korea's political corruption, its adherence to the old system, and the accumulation of poverty have led to a major financial and defense crisis in the middle of the year.",
+        "label_text": "North Korea"
+    },
+    {
+        "source": "原文 : 小护士疑惑地看着赵耀说道：“赵先生，你没事吧？”",
+        "hyp": "文 3 : The little nurse looked at Yang Yao in confusion and said, \"Mr. Yang, are you okay?\"",
+        "label_text": "Mr. Yang"
+    },
+    {
+        "source": "原文 : 2014年10月2日，孙延在代表韩国出战在韩国仁川举行的仁川亚运艺术体操女子个人全能项目，她在决赛的圈操、带操和棒操分别取得18.216分、18.083分和18.100分的成绩，尽管在最后一项的球操环节出现失误，仅取得17.300分，她仍然以总分71.699分荣获金牌，成为首位达到此成绩的韩国选手。",
+        "hyp": "文 3 : In the women's individual all-around event at the 2014 Asian Games in Incheon, South Korea, Sun won the gold medal with a total score of 71.69, becoming the first South Korean athlete to achieve this result, despite making a mistake in the last round.",
+        "label_text": "Sun"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 2 : However, he also has a sister, Ye Jian, and a brother, Ye Peak, who is not a mother to him, but a half-sister to his father. Three years ago, his father seemed to know that he owed something to Ye Mer, and he specifically proposed to Ye's eldest son to join the Ning family. Ye Tian asked, probably knowing that he was sick, so he wanted to help Ye Mer find a mountain.",
+        "label_text": "Ye Jian"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 2 : However, he also has a sister, Ye Jian, and a brother, Ye Peak, who is not a mother to him, but a half-sister to his father. Three years ago, his father seemed to know that he owed something to Ye Mer, and he specifically proposed to Ye's eldest son to join the Ning family. Ye Tian asked, probably knowing that he was sick, so he wanted to help Ye Mer find a mountain.",
+        "label_text": "Ye Peak"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 2 : However, he also has a sister, Ye Jian, and a brother, Ye Peak, who is not a mother to him, but a half-sister to his father. Three years ago, his father seemed to know that he owed something to Ye Mer, and he specifically proposed to Ye's eldest son to join the Ning family. Ye Tian asked, probably knowing that he was sick, so he wanted to help Ye Mer find a mountain.",
+        "label_text": "Ye Mer"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 2 : However, he also has a sister, Ye Jian, and a brother, Ye Peak, who is not a mother to him, but a half-sister to his father. Three years ago, his father seemed to know that he owed something to Ye Mer, and he specifically proposed to Ye's eldest son to join the Ning family. Ye Tian asked, probably knowing that he was sick, so he wanted to help Ye Mer find a mountain.",
+        "label_text": "Ye Mer"
+    },
+    {
+        "source": "原文 : 丁丁把模型船带回家陈列，但它在米鲁和邻居的猫互相追逐的时候摔坏了，一只羊皮纸卷轴从摔断的船桅中空掉了出来，滚进桌下，米鲁试图提醒丁丁但失败了。",
+        "hyp": "文 1 : Tintin took the model boat home for display, but it broke down while Miru and the neighbor's cat were chasing each other, and a sheepskin scroll fell out of the broken boat mast and rolled under the table. Miru tried to remind Tintin but failed.",
+        "label_text": "Miru"
+    },
+    {
+        "source": "原文 : 丁丁把模型船带回家陈列，但它在米鲁和邻居的猫互相追逐的时候摔坏了，一只羊皮纸卷轴从摔断的船桅中空掉了出来，滚进桌下，米鲁试图提醒丁丁但失败了。",
+        "hyp": "文 1 : Tintin took the model boat home for display, but it broke down while Miru and the neighbor's cat were chasing each other, and a sheepskin scroll fell out of the broken boat mast and rolled under the table. Miru tried to remind Tintin but failed.",
+        "label_text": "Miru"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 4 : In an article published in the August 2021 issue of Billboard magazine, the group noted that the group's fans have been drilling through the gaps in the charts by using brilliant tactics, including the use of crowdfunding in the U.S. to help the group stay in the top 100 for weeks in a row, while the group's chart performance is largely driven by sales (most of which come from the band's online store, which allows fans to buy multiple copies of a song, unlike iTunes) and fan-driven crowdfunding campaigns (including the use of crowdfunding to sell songs on services such as Apple Pay).",
+        "label_text": "top 100"
+    },
+    {
+        "source": "原文 : 2、绘画部分的解说很棒，有构图分析、草稿分析和历史背景（比如最后的晚餐），但不知道是印刷还是书尺寸问题，有些阴影部分县的太深了，看不清细节，有点遗憾。",
+        "hyp": "文 2 : There's a great explanation of the painting part, there's a composition analysis, there's a draft analysis and a historical background (like the last dinner), but I don't know if it's the printing or the size of the book, some of the shadows are too deep in the county, I can't see the details, a little bit of regret.",
+        "label_text": " the last dinner"
+    },
+    {
+        "source": "原文 : 机长、副机长决定在无法完全控制飞机的情况下遵循飞机左转的势头绕圈并降落，飞机继续向西北方向飞行。",
+        "hyp": "文 2 : The captain and co-captain decided to follow the left turn of the aircraft without being able to fully control the aircraft, and the aircraft continued to fly in a northwesterly direction.",
+        "label_text": " co-captain"
+    },
+    {
+        "source": "原文 : 不过，随着法军屡见败绩，欧仁逃离法国，与母亲一起到达英国英格兰肯特郡的 Chislehurst（今大伦敦东南部）。",
+        "hyp": "文 2 : However, after the defeat of the French army, Oren fled France and arrived with his mother in Chislehurst, Kent, England, southeast of London.",
+        "label_text": "Oren "
+    },
+    {
+        "source": "原文 : 不过，随着法军屡见败绩，欧仁逃离法国，与母亲一起到达英国英格兰肯特郡的 Chislehurst（今大伦敦东南部）。",
+        "hyp": "文 2 : However, after the defeat of the French army, Oren fled France and arrived with his mother in Chislehurst, Kent, England, southeast of London.",
+        "label_text": "London"
+    },
+    {
+        "source": "原文 : 似乎腰间没有松紧带，想加松点腰围还挺困难。",
+        "hyp": "文 4 : It seems that there is no loose belt around the waist, and it is difficult to loosen the waistline.",
+        "label_text": "loose belt"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 2 : The killer's family came from three families, because the family's silk and practice the killer's tactics, originally the three families served the wealthy original Chinese family of the autumn moon, the father used to cooperate with the family of the silver field to carry out the task of removing the staff of the family, but after the death of his mother, the autumn moon family hired another killer, in order to avoid knowing the secret of the family of the autumn moon, the killer silenced the father, even himself and his sister were affected by this.",
+        "label_text": "three families"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 2 : The killer's family came from three families, because the family's silk and practice the killer's tactics, originally the three families served the wealthy original Chinese family of the autumn moon, the father used to cooperate with the family of the silver field to carry out the task of removing the staff of the family, but after the death of his mother, the autumn moon family hired another killer, in order to avoid knowing the secret of the family of the autumn moon, the killer silenced the father, even himself and his sister were affected by this.",
+        "label_text": "Chinese family of the autumn moon"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 2 : The killer's family came from three families, because the family's silk and practice the killer's tactics, originally the three families served the wealthy original Chinese family of the autumn moon, the father used to cooperate with the family of the silver field to carry out the task of removing the staff of the family, but after the death of his mother, the autumn moon family hired another killer, in order to avoid knowing the secret of the family of the autumn moon, the killer silenced the father, even himself and his sister were affected by this.",
+        "label_text": "silver field"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 2 : The killer's family came from three families, because the family's silk and practice the killer's tactics, originally the three families served the wealthy original Chinese family of the autumn moon, the father used to cooperate with the family of the silver field to carry out the task of removing the staff of the family, but after the death of his mother, the autumn moon family hired another killer, in order to avoid knowing the secret of the family of the autumn moon, the killer silenced the father, even himself and his sister were affected by this.",
+        "label_text": "the autumn moon family"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 2 : The killer's family came from three families, because the family's silk and practice the killer's tactics, originally the three families served the wealthy original Chinese family of the autumn moon, the father used to cooperate with the family of the silver field to carry out the task of removing the staff of the family, but after the death of his mother, the autumn moon family hired another killer, in order to avoid knowing the secret of the family of the autumn moon, the killer silenced the father, even himself and his sister were affected by this.",
+        "label_text": "the family of the autumn moon"
+    },
+    {
+        "source": "原文 : 全球性的新冠肺炎疫情已使全世界陷入前所未有的危机。",
+        "hyp": "文 4 : The global outbreak of novel coronavirus pneumonia has plunged the world into an unprecedented crisis.",
+        "label_text": "novel coronavirus pneumonia"
+    },
+    {
+        "source": "原文 : 短短数息之间，徐缺从手无缚鸡之力的凡人变成修仙者，直接冲刺到炼气期十层，距离筑基期仅仅一步之差。",
+        "hyp": "文 2 : In the short span of a few breaths, Xu Zhen turned from a mortal with no strength to a monk, sprinting directly to the tenth floor of the exaltation period, just one step away from the foundation period.",
+        "label_text": "Xu Zhen"
+    },
+    {
+        "source": "原文 : 短短数息之间，徐缺从手无缚鸡之力的凡人变成修仙者，直接冲刺到炼气期十层，距离筑基期仅仅一步之差。",
+        "hyp": "文 2 : In the short span of a few breaths, Xu Zhen turned from a mortal with no strength to a monk, sprinting directly to the tenth floor of the exaltation period, just one step away from the foundation period.",
+        "label_text": "exaltation period"
+    },
+    {
+        "source": "原文 : 根据2000年美国人口普查，埃尔森特罗共有37,835人，其中白人占46.86%、亚裔美国人占3.5%、非裔美国人占3.16%。",
+        "hyp": "文 4 : According to the 2000 U.S. Census, Elsentro has a total population of 37,835, of which 46.86% are white, 3.5% are Asian-American, and 3.16% are African-American.",
+        "label_text": "Elsentro"
+    },
+    {
+        "source": "原文 : 抹茶猫却是丝毫不对眼前的情况感到怪异一样，突然跳到了赵耀的怀里，眯着眼睛蹭着赵耀的身体，奶声奶气道：“和我玩游戏吧。”",
+        "hyp": "文 2 : The matcha cat, however, was not at all strange to the situation in front of him, suddenly jumped into the arms of Yang Yao, staring at Yang Yao's eyes, staring at Yang Yao's body, and said: \"Play a game with me\".",
+        "label_text": "Yang Yao"
+    },
+    {
+        "source": "原文 : 抹茶猫却是丝毫不对眼前的情况感到怪异一样，突然跳到了赵耀的怀里，眯着眼睛蹭着赵耀的身体，奶声奶气道：“和我玩游戏吧。”",
+        "hyp": "文 2 : The matcha cat, however, was not at all strange to the situation in front of him, suddenly jumped into the arms of Yang Yao, staring at Yang Yao's eyes, staring at Yang Yao's body, and said: \"Play a game with me\".",
+        "label_text": "Yang Yao"
+    },
+    {
+        "source": "原文 : 肥龙脸上横肉乱抖，心底却颇为纠结。",
+        "hyp": "文 4 : The fat dragon's face is wrinkled, but his heart is tangled.",
+        "label_text": "fat dragon"
+    },
+    {
+        "source": "原文 : 9月，向秀吉方提出以自己切腹来换取秀吉放过城中兵民的性命。",
+        "hyp": "文 1 : In September, he offered to cut off his own stomach in exchange for the sexual life of the soldiers he had released from the city.",
+        "label_text": "cut off his own stomach"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 2 : The second season of \"Kyoto Color Diaries\" will begin airing on July 17, 2013 at 1:58 p.m. on the third Wednesday of each month (equivalent to Thursday morning), in addition to the end of each episode will also maintain the first season of \"Kyoto Color Diaries\", but the second season will be a review and summary of the episode with Yokohama's hand-drawn diary.",
+        "label_text": "Kyoto Color Diaries"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 2 : The second season of \"Kyoto Color Diaries\" will begin airing on July 17, 2013 at 1:58 p.m. on the third Wednesday of each month (equivalent to Thursday morning), in addition to the end of each episode will also maintain the first season of \"Kyoto Color Diaries\", but the second season will be a review and summary of the episode with Yokohama's hand-drawn diary.",
+        "label_text": "Kyoto Color Diaries"
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 3 : It is a national key cultural relics protection unit, the type of stone cave temple and stone carvings.",
+        "label_text": "national key cultural relics protection unit"
+    },
+    {
+        "source": "原文 : 2009年11月27日，科学家发现一颗围绕白羊座30B旋转的大质量行星，它距离白羊座30B1个天文单位。",
+        "hyp": "文 1 : On November 27, 2009, scientists discovered a massive planet orbiting Capricorn 30B, which is 1 astronomical unit away from Capricorn 30B.",
+        "label_text": " Capricorn 30B"
+    },
+    {
+        "source": "原文 : 2009年11月27日，科学家发现一颗围绕白羊座30B旋转的大质量行星，它距离白羊座30B1个天文单位。",
+        "hyp": "文 1 : On November 27, 2009, scientists discovered a massive planet orbiting Capricorn 30B, which is 1 astronomical unit away from Capricorn 30B.",
+        "label_text": "Capricorn 30B"
+    },
+    {
+        "source": "原文 : 2022年6月，新加坡旅游局举办了首届健康养生节，为公众提供了130多项各类健康活动和体验。",
+        "hyp": "文 4 : In June 2022, the Singapore Tourism Board held its first Health and Wellness Festival, offering more than 130 health activities and experiences to the public.",
+        "label_text": "Health and Wellness Festival"
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 5 : In August 2013, Jonas Christensen participated in the World Badminton Championships in Guangzhou, China, where he competed in the men's doubles event with Marius Mayer, finishing in the first round with a score of 0-2 (15-21-8-21) against Markus Ellis and Paul van Rijtweed.",
+        "label_text": "World Badminton Championships"
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 5 : In August 2013, Jonas Christensen participated in the World Badminton Championships in Guangzhou, China, where he competed in the men's doubles event with Marius Mayer, finishing in the first round with a score of 0-2 (15-21-8-21) against Markus Ellis and Paul van Rijtweed.",
+        "label_text": "Marius Mayer"
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 5 : In August 2013, Jonas Christensen participated in the World Badminton Championships in Guangzhou, China, where he competed in the men's doubles event with Marius Mayer, finishing in the first round with a score of 0-2 (15-21-8-21) against Markus Ellis and Paul van Rijtweed.",
+        "label_text": "Markus Ellis"
+    },
+    {
+        "source": "原文 : 2013年8月，乔纳斯·克里斯滕森参加中国广州举行的世界羽毛球锦标赛，他与马吕斯·迈尔出战男子双打项目，在首圈就以0比2 （15-21、8-21）不敌马库斯·埃利斯/保罗·范·里特维德出局，完成赛事。",
+        "hyp": "文 5 : In August 2013, Jonas Christensen participated in the World Badminton Championships in Guangzhou, China, where he competed in the men's doubles event with Marius Mayer, finishing in the first round with a score of 0-2 (15-21-8-21) against Markus Ellis and Paul van Rijtweed.",
+        "label_text": "Paul van Rijtweed"
+    },
+    {
+        "source": "原文 : 本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。",
+        "hyp": "文 1 : This document complies with the provisions of the GB/T 1.1 Part 1 of the 202-year standardization work guidelines: Structure and drafting rules of standardized documents.",
+        "label_text": "202-year"
+    },
+    {
+        "source": "原文 : GB/I 11383 一 1989 信息 处理 ”信息交换用八位代码结构和编码规则",
+        "hyp": "文 3 : G.B.I. 1183-189: Information processing and information exchange using eight-bit code structure and encoding rules",
+        "label_text": "G.B.I. 1183-189"
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 4 : <unk> You... <unk> Guo Jingze was about to turn around to grab her, but felt the pain of the body for a moment, the bottom had once again risen uncontrollably <unk>",
+        "label_text": "Guo Jingze "
+    },
+    {
+        "source": "原文 : 据巴黎大众运输公司(RATP)的数据， 2011年伊普莱桑斯站的入站乘客总人次数为4647935人次。",
+        "hyp": "文 3 : According to the Paris Public Transport Company (RATP), the total number of passengers at the Ypres station in 2011 was 464,7935 passengers.",
+        "label_text": "Paris Public Transport Company"
+    },
+    {
+        "source": "原文 : 据巴黎大众运输公司(RATP)的数据， 2011年伊普莱桑斯站的入站乘客总人次数为4647935人次。",
+        "hyp": "文 3 : According to the Paris Public Transport Company (RATP), the total number of passengers at the Ypres station in 2011 was 464,7935 passengers.",
+        "label_text": "Ypres "
+    },
+    {
+        "source": "原文 : “楚阳，交出九劫剑！ 饶你不死！”",
+        "hyp": "文 2 : Yang Chuyang, hand over the nine swords! Don't die!",
+        "label_text": "Yang Chuyang"
+    },
+    {
+        "source": "原文 : “楚阳，交出九劫剑！ 饶你不死！”",
+        "hyp": "文 2 : Yang Chuyang, hand over the nine swords! Don't die!",
+        "label_text": " the nine swords"
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 2 : In the first week after the 2023 Spring Festival, the number of jobs preferred by Haitians and the number of jobs preferred by Haitians seeking jobs in the country all showed an upward trend, with the number of jobs preferred by Haitians on February 3 increased by 11% compared to January 28, and the number of jobs preferred by Haitians increased by 27%.",
+        "label_text": "Haitians"
+    },
+    {
+        "source": "原文 : 在海外的中餐馆，如在西班牙，小笼包在食客中享有盛誉，由于美味可口，有的西班牙餐馆或酒吧也出售类似中国小笼包的食物，叫做西班牙产中式夹肉面包。",
+        "hyp": "文 2 : In overseas Chinese restaurants, such as in Spain, the baguette enjoys a reputation among diners, and due to its delicious taste, some Spanish restaurants or bars also sell food similar to the Chinese baguette, called Spanish-made Chinese meatloaf.",
+        "label_text": "baguette"
+    },
+    {
+        "source": "原文 : 在海外的中餐馆，如在西班牙，小笼包在食客中享有盛誉，由于美味可口，有的西班牙餐馆或酒吧也出售类似中国小笼包的食物，叫做西班牙产中式夹肉面包。",
+        "hyp": "文 2 : In overseas Chinese restaurants, such as in Spain, the baguette enjoys a reputation among diners, and due to its delicious taste, some Spanish restaurants or bars also sell food similar to the Chinese baguette, called Spanish-made Chinese meatloaf.",
+        "label_text": "Chinese baguette"
+    },
+    {
+        "source": "原文 : 梵盾吉普服饰，因为年轻，所以自信！",
+        "hyp": "文 2 : Jeep clothing, because young, so confident!",
+        "label_text": "Jeep"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 5 : Even if this is the case, Ning City's Yang Ning Hongcheng will still take Jilo into the palace and prepare to wait for Ning City to truly unite and then let the two become friends.",
+        "label_text": "Ning City"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 5 : Even if this is the case, Ning City's Yang Ning Hongcheng will still take Jilo into the palace and prepare to wait for Ning City to truly unite and then let the two become friends.",
+        "label_text": "Ning Hongcheng"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 5 : Even if this is the case, Ning City's Yang Ning Hongcheng will still take Jilo into the palace and prepare to wait for Ning City to truly unite and then let the two become friends.",
+        "label_text": "Jilo"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 5 : Even if this is the case, Ning City's Yang Ning Hongcheng will still take Jilo into the palace and prepare to wait for Ning City to truly unite and then let the two become friends.",
+        "label_text": "Ning City"
+    },
+    {
+        "source": "原文 : 随后库格尔下诏要求全国百姓都要模仿宫廷弄臣，用荒诞的言行来庆祝这个荒诞的一天，而这个习俗也成为一年一度的盛事。",
+        "hyp": "文 2 : Subsequently, King Kugel demanded that all the people of the country imitate the court's tricks and celebrate this absurd day with absurd words and deeds, and this custom also became an annual event.",
+        "label_text": "court's tricks"
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 4 : In the context of mainland China, translation production includes not only the translation of foreign-language films into Mandarin Chinese or dialects, but also the translation of films originally in Mandarin Chinese into minority languages or films originally in minority languages into Mandarin Chinese, and in very rare cases may include films translated into Mandarin from southern dialects such as Cantonese.",
+        "label_text": " mainland China"
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 4 : In the context of mainland China, translation production includes not only the translation of foreign-language films into Mandarin Chinese or dialects, but also the translation of films originally in Mandarin Chinese into minority languages or films originally in minority languages into Mandarin Chinese, and in very rare cases may include films translated into Mandarin from southern dialects such as Cantonese.",
+        "label_text": "translation production"
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 5 : In April 1943, Rui and the Yan'an Academy of Natural Sciences merged to form Yan'an University, which became the Lu Xun Academy of Arts and Letters of Yan'an University, a theater music department, abbreviated as theater sound department.",
+        "label_text": "Rui "
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 5 : In April 1943, Rui and the Yan'an Academy of Natural Sciences merged to form Yan'an University, which became the Lu Xun Academy of Arts and Letters of Yan'an University, a theater music department, abbreviated as theater sound department.",
+        "label_text": " Arts and Letters"
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 5 : In April 1943, Rui and the Yan'an Academy of Natural Sciences merged to form Yan'an University, which became the Lu Xun Academy of Arts and Letters of Yan'an University, a theater music department, abbreviated as theater sound department.",
+        "label_text": "theater music department"
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 5 : In April 1943, Rui and the Yan'an Academy of Natural Sciences merged to form Yan'an University, which became the Lu Xun Academy of Arts and Letters of Yan'an University, a theater music department, abbreviated as theater sound department.",
+        "label_text": "theater sound department"
+    },
+    {
+        "source": "原文 : 现在整个山岗都找遍了，都没有那头羊的影子，在这个时候，李七夜想到了一个地方，只有一个地方没有去寻找——仙魔洞！",
+        "hyp": "文 3 : Now that the whole mountain had been searched, there was no shadow of the goat, and at this time, Li Zhiyuan thought of a place, only one place where he hadn't gone to look for the Cave of the Fairies!",
+        "label_text": "Li Zhiyuan"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 2 : Guo was born in Hong Kong and grew up in Quanzhou, where he played as a player until 1983 when he was transferred to the East, and in 1984 he was invited by the club's owner Lin Jianwei to play in the South China Super League. Since then, he has become the most important player in the South China Super League. He was elected as the best player in the Hong Kong Super League in 1987.",
+        "label_text": "Guo"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 2 : Guo was born in Hong Kong and grew up in Quanzhou, where he played as a player until 1983 when he was transferred to the East, and in 1984 he was invited by the club's owner Lin Jianwei to play in the South China Super League. Since then, he has become the most important player in the South China Super League. He was elected as the best player in the Hong Kong Super League in 1987.",
+        "label_text": "Quanzhou"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 2 : Guo was born in Hong Kong and grew up in Quanzhou, where he played as a player until 1983 when he was transferred to the East, and in 1984 he was invited by the club's owner Lin Jianwei to play in the South China Super League. Since then, he has become the most important player in the South China Super League. He was elected as the best player in the Hong Kong Super League in 1987.",
+        "label_text": "East"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 2 : Guo was born in Hong Kong and grew up in Quanzhou, where he played as a player until 1983 when he was transferred to the East, and in 1984 he was invited by the club's owner Lin Jianwei to play in the South China Super League. Since then, he has become the most important player in the South China Super League. He was elected as the best player in the Hong Kong Super League in 1987.",
+        "label_text": "Lin Jianwei"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 2 : Guo was born in Hong Kong and grew up in Quanzhou, where he played as a player until 1983 when he was transferred to the East, and in 1984 he was invited by the club's owner Lin Jianwei to play in the South China Super League. Since then, he has become the most important player in the South China Super League. He was elected as the best player in the Hong Kong Super League in 1987.",
+        "label_text": "South China Super League"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 2 : Guo was born in Hong Kong and grew up in Quanzhou, where he played as a player until 1983 when he was transferred to the East, and in 1984 he was invited by the club's owner Lin Jianwei to play in the South China Super League. Since then, he has become the most important player in the South China Super League. He was elected as the best player in the Hong Kong Super League in 1987.",
+        "label_text": "South China Super League"
+    },
+    {
+        "source": "原文 : 硫酸铅在1170°C下融化并部分分解出三氧化硫。",
+        "hyp": "文 5 : Sulfuric acid melts at 1170°C and partially decomposes to form sulfur trioxide.",
+        "label_text": "Sulfuric acid"
+    }
+]

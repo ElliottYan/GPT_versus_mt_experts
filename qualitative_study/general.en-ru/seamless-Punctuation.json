@@ -1,0 +1,147 @@
+[
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 5 : Помоги мне. О, подожди. Я могу просто погуглить это.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 5 : Помоги мне. О, подожди. Я могу просто погуглить это.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 3 : В конце модельного года \"уличная\" версия большего 421 кубического дюйма V8, которая была в первую очередь гоночной мельницей в 1961 году и большую часть 1962 года, стала доступна, но только в форме с четырьмя стволами, оцененной в лошадиных силах.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I’m not a trans man, but I am interested in knowing someone’s perspectives who lived both as a woman and as a man (not a lot of people get to experience what it is like to be perceived as both genders) so thats kinda neat imo",
+        "hyp": "文 4 : Я не транс-мужчина, но я заинтересован в том, чтобы знать взгляды кого-то, кто жил как женщина, так и мужчина (не многие люди испытывают, каково это - быть воспринятым как оба пола), так что это довольно аккуратно.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Suppose the cursor is located in the “aaa” word, and I want to yank four words without selecting the spaces after “ddd”: > xxx **aaa bbb ccc ddd** yyy",
+        "hyp": "文 1 : Предположим, что курсор расположен в слове <unk>aaa<unk>, и я хочу вытащить четыре слова без выбора пробелов после <unk>ddd<unk>: > xxx **aaa bbb ccc ddd** yyy",
+        "label_text": " <unk>"
+    },
+    {
+        "source": "原文 : Suppose the cursor is located in the “aaa” word, and I want to yank four words without selecting the spaces after “ddd”: > xxx **aaa bbb ccc ddd** yyy",
+        "hyp": "文 1 : Предположим, что курсор расположен в слове <unk>aaa<unk>, и я хочу вытащить четыре слова без выбора пробелов после <unk>ddd<unk>: > xxx **aaa bbb ccc ddd** yyy",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Suppose the cursor is located in the “aaa” word, and I want to yank four words without selecting the spaces after “ddd”: > xxx **aaa bbb ccc ddd** yyy",
+        "hyp": "文 1 : Предположим, что курсор расположен в слове <unk>aaa<unk>, и я хочу вытащить четыре слова без выбора пробелов после <unk>ddd<unk>: > xxx **aaa bbb ccc ddd** yyy",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Suppose the cursor is located in the “aaa” word, and I want to yank four words without selecting the spaces after “ddd”: > xxx **aaa bbb ccc ddd** yyy",
+        "hyp": "文 1 : Предположим, что курсор расположен в слове <unk>aaa<unk>, и я хочу вытащить четыре слова без выбора пробелов после <unk>ddd<unk>: > xxx **aaa bbb ccc ddd** yyy",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : But one time, he didn’t hear it and so he was like “what!?” reallyyy loudddly.",
+        "hyp": "文 1 : Но однажды он не услышал, и он сказал: \"Что!?\", очень громко.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : After the first few minutes, it didn't feel like we were doing a first test flight, said Peter Chandler, chief test pilot for Airbus.",
+        "hyp": "文 2 : \"После первых нескольких минут не было ощущения, что мы совершаем первый испытательный полет\", - сказал Питер Чендлер, главный пилот-испытатель Airbus.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : It’s the same as a whole one (and along that line), like, lol, why?”, and he was like “ok, oof, it’s not” and I’m like “lol, why did you say that?”",
+        "hyp": "文 3 : Это то же самое, что и целый (и вдоль этой линии), как, lol, почему? И он был как <unk>ok, oof, это <unk>не<unk> и я как <unk>lol, почему ты это сказал?<unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : It’s the same as a whole one (and along that line), like, lol, why?”, and he was like “ok, oof, it’s not” and I’m like “lol, why did you say that?”",
+        "hyp": "文 3 : Это то же самое, что и целый (и вдоль этой линии), как, lol, почему? И он был как <unk>ok, oof, это <unk>не<unk> и я как <unk>lol, почему ты это сказал?<unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : It’s the same as a whole one (and along that line), like, lol, why?”, and he was like “ok, oof, it’s not” and I’m like “lol, why did you say that?”",
+        "hyp": "文 3 : Это то же самое, что и целый (и вдоль этой линии), как, lol, почему? И он был как <unk>ok, oof, это <unk>не<unk> и я как <unk>lol, почему ты это сказал?<unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : It’s the same as a whole one (and along that line), like, lol, why?”, and he was like “ok, oof, it’s not” and I’m like “lol, why did you say that?”",
+        "hyp": "文 3 : Это то же самое, что и целый (и вдоль этой линии), как, lol, почему? И он был как <unk>ok, oof, это <unk>не<unk> и я как <unk>lol, почему ты это сказал?<unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : It’s the same as a whole one (and along that line), like, lol, why?”, and he was like “ok, oof, it’s not” and I’m like “lol, why did you say that?”",
+        "hyp": "文 3 : Это то же самое, что и целый (и вдоль этой линии), как, lol, почему? И он был как <unk>ok, oof, это <unk>не<unk> и я как <unk>lol, почему ты это сказал?<unk>",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 2 : Вратарю \"Эвертона\" Тиму Говарду пришлось спасти от Сандро, Кайла Уокера и Льюиса Холтби, в то время как мародер левого защитника \"Спарс\" Яна Вертонгена была отклонена сильная апелляция на пенальти после того, как его отрезал Шеймус Коулман.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 2 : Вратарю \"Эвертона\" Тиму Говарду пришлось спасти от Сандро, Кайла Уокера и Льюиса Холтби, в то время как мародер левого защитника \"Спарс\" Яна Вертонгена была отклонена сильная апелляция на пенальти после того, как его отрезал Шеймус Коулман.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 2 : Вратарю \"Эвертона\" Тиму Говарду пришлось спасти от Сандро, Кайла Уокера и Льюиса Холтби, в то время как мародер левого защитника \"Спарс\" Яна Вертонгена была отклонена сильная апелляция на пенальти после того, как его отрезал Шеймус Коулман.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 2 : Вратарю \"Эвертона\" Тиму Говарду пришлось спасти от Сандро, Кайла Уокера и Льюиса Холтби, в то время как мародер левого защитника \"Спарс\" Яна Вертонгена была отклонена сильная апелляция на пенальти после того, как его отрезал Шеймус Коулман.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : I just hope they nail him for thought crime Obviously there has been an epidemic of Molotov cocktail as of late, well WWII wasn't that long ago.",
+        "hyp": "文 2 : Я просто надеюсь, что они поймают его за мыслительное преступление. Очевидно, в последнее время была эпидемия коктейлей Молотова, ну, Вторая мировая война была не так давно.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Several sites reported highest on record daily rainfall amounts including Mandora (281.0 mm on 6th) and Mount Narryer (152.0 mm on 10th).",
+        "hyp": "文 2 : Несколько мест сообщили о рекордно высоких ежедневных количествах осадков, включая Мандору (281.0 мм на 6-м) и гору Нарриер (152.0 мм на 10-м).",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Several sites reported highest on record daily rainfall amounts including Mandora (281.0 mm on 6th) and Mount Narryer (152.0 mm on 10th).",
+        "hyp": "文 2 : Несколько мест сообщили о рекордно высоких ежедневных количествах осадков, включая Мандору (281.0 мм на 6-м) и гору Нарриер (152.0 мм на 10-м).",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 5 : Военачальник Украины генерал Валерий Залужный заявил, что российские войска запустили 71 крылатую ракету, 35 ракет С-300 и семь беспилотников \"Шахид\" в период с позднего четверга по полдень пятницы, добавив, что украинская противовоздушная оборона сбила 61 крылатую ракету и пять беспилотников.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 5 : Военачальник Украины генерал Валерий Залужный заявил, что российские войска запустили 71 крылатую ракету, 35 ракет С-300 и семь беспилотников \"Шахид\" в период с позднего четверга по полдень пятницы, добавив, что украинская противовоздушная оборона сбила 61 крылатую ракету и пять беспилотников.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 3 : Я могу безопасно открыть это приложение, потому что оно, по-видимому, от моего друга, семьи или доверенного лица.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 3 : Я могу безопасно открыть это приложение, потому что оно, по-видимому, от моего друга, семьи или доверенного лица.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 3 : Я могу безопасно открыть это приложение, потому что оно, по-видимому, от моего друга, семьи или доверенного лица.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 3 : Я могу безопасно открыть это приложение, потому что оно, по-видимому, от моего друга, семьи или доверенного лица.",
+        "label_text": "или"
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 3 : Я могу безопасно открыть это приложение, потому что оно, по-видимому, от моего друга, семьи или доверенного лица.",
+        "label_text": "или"
+    }
+]

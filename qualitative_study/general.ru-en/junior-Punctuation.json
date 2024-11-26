@@ -1,0 +1,257 @@
+[
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 5 : Former Argentina national team player Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 5 : Former Argentina national team player Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 5 : Former Argentina national team player Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 5 : Former Argentina national team player Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 5 : Former Argentina national team player Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Бывший футболист сборной Аргентины Эрнан Креспо прокомментировал переход полузащитника \"Бенфики\" Энцо Фернандеса в лондонский \"Челси\".",
+        "hyp": "文 5 : Former Argentina national team player Hernan Crespo has commented on the transfer of Benfica midfielder Enzo Fernandez to London's Chelsea.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Нам надо провести глубокий анализ, чтобы убедиться, что эта причина не распространяется на подобные конструкции на будущих пусках.",
+        "hyp": "文 5 : \"We need to do an in-depth analysis to make sure that this cause does not extend to similar designs on future launches\".",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Пользуясь случаем, желаю Вам крепкого здоровья и многих лет жизни\".",
+        "hyp": "文 2 : \"Taking this opportunity, I wish you good health and many years of life.\"",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Пользуясь случаем, желаю Вам крепкого здоровья и многих лет жизни\".",
+        "hyp": "文 2 : \"Taking this opportunity, I wish you good health and many years of life.\"",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 1 : On the day of arrival called, clarified at what time to wait for us, gave information about the cost of transfer (1400 from the airport), we ordered a taxi (at 23:00 the price of 850 roubles), we arrived quickly, there were no traffic jams, allowed behind the barrier without any problems.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 4 : Viral proteins were most frequently observed in the head and neck of spermatozoa, less frequently in the midpiece and tail, and rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 4 : Viral proteins were most frequently observed in the head and neck of spermatozoa, less frequently in the midpiece and tail, and rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 4 : Viral proteins were most frequently observed in the head and neck of spermatozoa, less frequently in the midpiece and tail, and rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 4 : Viral proteins were most frequently observed in the head and neck of spermatozoa, less frequently in the midpiece and tail, and rarely in the equatorial region.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 1 : Hereditary optic neuropathies (HON) are a group of neurodegenerative diseases characterised by primary loss of structure and function of retinal ganglion cells with subsequent death of their axons and development of partial optic atrophy.",
+        "label_text": "are"
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 2 : Hereditary optic neuropathies (HON) are a group of neurodegenerative diseases characterised by primary loss of structure and function of retinal ganglion cells with subsequent death of their axons and development of partial optic atrophy.",
+        "label_text": " are "
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 2 : Nevertheless, we'll talk about the MIFF next time (for now, I'll just complain that this year the inexplicable notion that happy ticket holders are many times more important to the festival than accredited guests, a ridiculous and quite offensive principle that no normal film festival in the world sins has finally taken hold in the minds of the organisers), and in this issue we report on what we saw in Cannes and at Kinotavr.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 2 : Nevertheless, we'll talk about the MIFF next time (for now, I'll just complain that this year the inexplicable notion that happy ticket holders are many times more important to the festival than accredited guests, a ridiculous and quite offensive principle that no normal film festival in the world sins has finally taken hold in the minds of the organisers), and in this issue we report on what we saw in Cannes and at Kinotavr.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 2 : Nevertheless, we'll talk about the MIFF next time (for now, I'll just complain that this year the inexplicable notion that happy ticket holders are many times more important to the festival than accredited guests, a ridiculous and quite offensive principle that no normal film festival in the world sins has finally taken hold in the minds of the organisers), and in this issue we report on what we saw in Cannes and at Kinotavr.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 2 : Nevertheless, we'll talk about the MIFF next time (for now, I'll just complain that this year the inexplicable notion that happy ticket holders are many times more important to the festival than accredited guests, a ridiculous and quite offensive principle that no normal film festival in the world sins has finally taken hold in the minds of the organisers), and in this issue we report on what we saw in Cannes and at Kinotavr.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 4 : At the moment, the Rossoneri have climbed to third place in the standings with 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 4 : At the moment, the Rossoneri have climbed to third place in the standings with 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 4 : At the moment, the Rossoneri have climbed to third place in the standings with 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 4 : At the moment, the Rossoneri have climbed to third place in the standings with 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Кроме того, этот проект — еще одно подтверждение самых долгих любовных отношений в жизни Клуни - с Италией: съемки проходили в живописном городке Кастель-дель-Монте в Абруццо.",
+        "hyp": "文 2 : In addition, this project is another confirmation of the longest love relationship in Clooney's life - with Italy: filming took place in the picturesque town of Castel del Monte in Abruzzo.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 5 : The Turkish Anadolu Agency provides other data and writes that the Margara-Alijan border point was last used to deliver humanitarian supplies to Armenia to deal with the aftermath of the devastating 1988 earthquake.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 5 : The Turkish Anadolu Agency provides other data and writes that the Margara-Alijan border point was last used to deliver humanitarian supplies to Armenia to deal with the aftermath of the devastating 1988 earthquake.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 5 : The Turkish Anadolu Agency provides other data and writes that the Margara-Alijan border point was last used to deliver humanitarian supplies to Armenia to deal with the aftermath of the devastating 1988 earthquake.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 5 : The Turkish Anadolu Agency provides other data and writes that the Margara-Alijan border point was last used to deliver humanitarian supplies to Armenia to deal with the aftermath of the devastating 1988 earthquake.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Потенциальное наводнение могло стать 32-м по счету, сообщает петербургское издание Нева.Тудей.",
+        "hyp": "文 4 : The potential flooding could be the 32nd in a row, reports St Petersburg publication Neva Today.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"В 2023 году это число может вырасти до 10 тыс\"., - говорил он.",
+        "hyp": "文 2 : In 2023, that number could rise to 10,000, he said.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"В 2023 году это число может вырасти до 10 тыс\"., - говорил он.",
+        "hyp": "文 2 : In 2023, that number could rise to 10,000, he said.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : \"На грузовом корабле, который уже несколько месяцев пристыкован к станции, произошла утечка теплоносителя из системы терморегулирования.",
+        "hyp": "文 5 : On the cargo ship, which has been docked to the station for several months, there was a coolant leak from the thermal management system.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Трансформация в массовом сознании гендерных представлений об исследовательской компетентности женщин способствует привлечению молодых женщин в науку, развитию их творческого потенциала, формированию успешной ролевой модели женщины-ученого, в том числе путем передачи опыта и института наставничества\", - отметила Алеся Соловей.",
+        "hyp": "文 2 : Transformation in the mass consciousness of gender perceptions of women's research competence promotes the involvement of young women in science, the development of their creative potential, the formation of a successful role model of a woman scientist, including through the transfer of experience and the institution of mentoring, - said Alesya Solovey.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Трансформация в массовом сознании гендерных представлений об исследовательской компетентности женщин способствует привлечению молодых женщин в науку, развитию их творческого потенциала, формированию успешной ролевой модели женщины-ученого, в том числе путем передачи опыта и института наставничества\", - отметила Алеся Соловей.",
+        "hyp": "文 2 : Transformation in the mass consciousness of gender perceptions of women's research competence promotes the involvement of young women in science, the development of their creative potential, the formation of a successful role model of a woman scientist, including through the transfer of experience and the institution of mentoring, - said Alesya Solovey.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Никита Сергеевич на «Кинотавре» посетил фильм бывшего каннского конкурента и заявил, что тот ему понравился.",
+        "hyp": "文 4 : Nikita Sergeeevich visited the film of a former Cannes competitor at Kinotavr and said he liked it.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Никита Сергеевич на «Кинотавре» посетил фильм бывшего каннского конкурента и заявил, что тот ему понравился.",
+        "hyp": "文 4 : Nikita Sergeeevich visited the film of a former Cannes competitor at Kinotavr and said he liked it.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Матчи аравийцев тоже получались достаточно яркими: в 1/4 финала оформили ничью 1:1 и победу в серии пенальти, а в полуфинале - драматичные 3:2.",
+        "hyp": "文 2 : The Saudi Arabian's matches were also quite colourful, with a 1-1 draw and a penalty shootout win in the quarter-finals, and a dramatic 3-2 win in the semi-finals.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Матчи аравийцев тоже получались достаточно яркими: в 1/4 финала оформили ничью 1:1 и победу в серии пенальти, а в полуфинале - драматичные 3:2.",
+        "hyp": "文 2 : The Saudi Arabian's matches were also quite colourful, with a 1-1 draw and a penalty shootout win in the quarter-finals, and a dramatic 3-2 win in the semi-finals.",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : Матчи аравийцев тоже получались достаточно яркими: в 1/4 финала оформили ничью 1:1 и победу в серии пенальти, а в полуфинале - драматичные 3:2.",
+        "hyp": "文 2 : The Saudi Arabian's matches were also quite colourful, with a 1-1 draw and a penalty shootout win in the quarter-finals, and a dramatic 3-2 win in the semi-finals.",
+        "label_text": "-"
+    },
+    {
+        "source": "原文 : Такой же анализ проводился в случае с поврежденным радиатором корабля \"Союз МС-22\".",
+        "hyp": "文 2 : The same analysis was carried out in the case of the damaged radiator of the Soyuz MS-22 spacecraft.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Такой же анализ проводился в случае с поврежденным радиатором корабля \"Союз МС-22\".",
+        "hyp": "文 2 : The same analysis was carried out in the case of the damaged radiator of the Soyuz MS-22 spacecraft.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 4 : Severstal scored 64 points and is in seventh place in the Western Conference standings, \"Amur\" also has 64 points, the team is in ninth place in the East.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 4 : Severstal scored 64 points and is in seventh place in the Western Conference standings, \"Amur\" also has 64 points, the team is in ninth place in the East.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Гости посетили бортевую пасеку \"Торатау\" - традиционный народный промысел Башкортостана.",
+        "hyp": "文 1 : The guests visited the Toratau board apiary, a traditional folk craft of Bashkortostan.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Гости посетили бортевую пасеку \"Торатау\" - традиционный народный промысел Башкортостана.",
+        "hyp": "文 1 : The guests visited the Toratau board apiary, a traditional folk craft of Bashkortostan.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Важно, чтобы логистические службы компаний постоянно взаимодействовали с нашими \"смежниками\" (портами, операторами, морским транспортом) и находили оптимальные ценовые условия для перевозки своей продукции по новым схемам, - подчеркнул Алексей Шило.",
+        "hyp": "文 3 : It is important that logistics services of companies constantly interact with our \"allies\" (ports, operators, sea transport) and find optimal price conditions for transporting their products under new schemes,\" emphasised Alexey Shilo.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Впрочем, и деловые мероприятия на «Кинотавре» носили ощутимый отпечаток шоу — не было скучно ни на одном.",
+        "hyp": "文 5 : However, the business events at Kinotavr bore a tangible imprint of the show - there was no boredom at any of them.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Впрочем, и деловые мероприятия на «Кинотавре» носили ощутимый отпечаток шоу — не было скучно ни на одном.",
+        "hyp": "文 5 : However, the business events at Kinotavr bore a tangible imprint of the show - there was no boredom at any of them.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Обувь для бега зимой отличается более плотными материалами, более высокой платформой и протектором подошвы\", - рассказал спортсмен.",
+        "hyp": "文 3 : \"Running shoes for winter are characterised by denser materials, higher platform and sole tread\", said the athlete.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Обувь для бега зимой отличается более плотными материалами, более высокой платформой и протектором подошвы\", - рассказал спортсмен.",
+        "hyp": "文 3 : \"Running shoes for winter are characterised by denser materials, higher platform and sole tread\", said the athlete.",
+        "label_text": ", "
+    }
+]

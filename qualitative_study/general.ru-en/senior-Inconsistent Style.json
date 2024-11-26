@@ -1,0 +1,37 @@
+[
+    {
+        "source": "原文 : Показаниями к их удалению является миграция, развитие окклюзионной гидроцефалии и инфекционных осложнений.",
+        "hyp": "文 5 : The indications to remove them are migration, development of obstructive hydrocephalus, and infectious complications.",
+        "label_text": "obstructive"
+    },
+    {
+        "source": "原文 : В уборке примут участие 114 единиц спецтехники и 123 рабочих.",
+        "hyp": "文 5 : 114 pieces of special vehicles and 123 workers will be involved in the removal.",
+        "label_text": "pieces"
+    },
+    {
+        "source": "原文 : \"Нам надо провести глубокий анализ, чтобы убедиться, что эта причина не распространяется на подобные конструкции на будущих пусках.",
+        "hyp": "文 3 : \"We need to do a thorough study to make sure that this cause will not affect similar structures at future launches.",
+        "label_text": " study"
+    },
+    {
+        "source": "原文 : И обязательно рекомендую русский корпус нижегородского художественного музея - неожиданно прекрасная крллекция",
+        "hyp": "文 2 : I definitely recommend the Russian corpus of the Nizhny Novgorod Art Museum – a surprisingly fine collection",
+        "label_text": "fine"
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 2 : This very moment, the Rossoneri have climbed to third place in the standings with 41 points scored.",
+        "label_text": " climbed to "
+    },
+    {
+        "source": "原文 : Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.",
+        "hyp": "文 3 : Having achieved nothing and having shot down the misfortuned gangster, the women begin to squabble, fight each other and scumbags who arrived from somewhere from time to time, kiss and cuddle time and again.",
+        "label_text": " kiss and cuddle time and again"
+    },
+    {
+        "source": "原文 : Ваш партнер по фильму Александр Яценко совершенно не похож на своего героя.",
+        "hyp": "文 3 : Your film partner Alexander Yatsenko is completely different from his character.",
+        "label_text": "character."
+    }
+]

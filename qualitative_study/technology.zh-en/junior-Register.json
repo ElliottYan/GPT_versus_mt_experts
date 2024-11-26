@@ -1,0 +1,127 @@
+[
+    {
+        "source": "原文 : 如果轮胎气压低，就会显示此警告信息。车辆上的对应轮胎位置指示灯亮。详细信息请参考第8章的“轮胎气压监测系统(TPMS)”部分。",
+        "hyp": "文 4 : If the tire pressure is low, a warning message will be displayed, and the corresponding tire position indicator on the vehicle will light up. For detailed information, please refer to the \"Tire pressure monitoring system (TPMS)\" section in Chapter 8.",
+        "label_text": "pressure monitoring system"
+    },
+    {
+        "source": "原文 : 车辆驾驶最初1,000公里行驶里程内，请遵守下列几项简单的安全注意事项，这会有利于增强车辆性能和经济性，并能延长使用寿命。",
+        "hyp": "文 1 : During the first 1,000 km of driving mileage, please follow these following simple safety precautions. This will help enhance vehicle performance and economy, as well as extend the service life.",
+        "label_text": "these"
+    },
+    {
+        "source": "原文 : 正面防撞辅助(FCA)功能设计的目的是，帮助检测和监视道路上的前方车辆，并显示警告信息、发出警报声的方式，向驾驶员发出碰撞危险预警，必要时主动采取紧急制动辅助控制措施。",
+        "hyp": "文 5 : The forward collision-avoidance assist (FCA) function is designed to help detect and monitor vehicles ahead on the road, and to warn the driver of collision danger by displaying warning messages and sounding alarms. Moreover, it can actively initiates emergency braking assistance control measures if necessary.",
+        "label_text": "forward collision-avoidance assist"
+    },
+    {
+        "source": "原文 : 先来看下库斯途的外观，库斯途车头采用非常沉稳的设计，看起来十分稳重大气。前车灯非常符合消费者的审美，视觉冲击力十足。该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车身侧面，该车车身尺寸是4950MM*1850MM*1734MM，该车采用了时尚简约的线条，车身给人一种非常霸气的感觉，搭配大尺寸厚壁的轮胎，看上去运动十足。车尾部分，库斯途车尾整体的造型和车头相呼应，尾灯给人一种十分个性张扬的感觉，再加上造型独特的排气管，非常独特。",
+        "hyp": "文 3 : For the appearance of CUSTO, the front of CUSTO adopts a very stable design and looks very stable and majestic. The front headlights are highly appealing to consumers, providing a visually striking impact. The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the body, the body size is 4950MM*1850MM*1734MM. The vehicle adopts fashionable and simple lines, providing strong and confident aura. With large-sized and thick-walled tires, the vehicle exhibits a sporty look. At the rear of the vehicle, the rear overall shape of CUSTO echoes its front part. The taillights have a very individual and flamboyant feeling. Coupled with the uniquely shaped exhaust pipe, it looks very unique.",
+        "label_text": "it"
+    },
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 4 : If the frontview camera installation part of the front windshield or the sensor is blocked by snow, rain or other foreign objects, the detection performance of the sensor will be reduced, which will cause the FCA function to be suspended or turned off.",
+        "label_text": "reduced"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 2 : The tire pressure monitoring system (TPMS) detects whether the tire pressure is low through sensors located in the tires, thereby monitoring changes in tire rolling radius and vibration when the vehicle is driving. For the normal operation of the TPMS, it is necessary to perform system initialization and save the current tire pressure value. After the TPMS is initialized, when the pressure of one or more tires is significantly lower than the saved tire pressure value, the warning indicator on the instrument panel will light up. When there is a fault in the TPMS, the [TPMS] fault indicator will light up.",
+        "label_text": "tire pressure monitoring system"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "MM"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "MM"
+    },
+    {
+        "source": "原文 : 该车配备了LED日间行车灯、大灯高度调节,自动开闭,自适应远近光,延时关闭等。来到车侧，该车车身尺寸是4955MM*1860MM*1445MM，该车采用了柔和的线条，侧围看上去非常锐利，搭配大尺寸厚壁的轮胎，整体视觉效果是很硬派的。",
+        "hyp": "文 4 : The vehicle is equipped with functions such as height adjustment, automatic opening and closing, adaptive high and low beams and delayed shutdown for LED daytime running lights and headlights. Moving to the side profile of the vehicle, the body size is 4955MM*1860MM*1445MM. The vehicle adopts gentle lines, providing a very sharp side profile. With large-sized and thick-walled tires, the vehicle overall looks very rugged.",
+        "label_text": "MM"
+    },
+    {
+        "source": "原文 : 车尾方面，车尾看上去比较炫酷，尾灯呈现出质朴的设计风格，排气管布局运用了圆形造型，利落感跃然眼前。",
+        "hyp": "文 3 : The rear of the vehicle looks quite cool, with the taillights showing a rustic design style. The exhaust pipe layout is a circular shape, giving a sense of neatness that catches the eye.",
+        "label_text": "rustic "
+    },
+    {
+        "source": "原文 : 车尾方面，车尾看上去比较炫酷，尾灯呈现出质朴的设计风格，排气管布局运用了圆形造型，利落感跃然眼前。",
+        "hyp": "文 3 : The rear of the vehicle looks quite cool, with the taillights showing a rustic design style. The exhaust pipe layout is a circular shape, giving a sense of neatness that catches the eye.",
+        "label_text": "rustic "
+    },
+    {
+        "source": "原文 : 凭借过人的实力，索纳塔在上世纪曾创下“33个月60万台的销量记录”；而在其第五代车型引入国内之时，代表性的‘花生灯’也很快渗透至大街小巷，更是造就了万人空巷的盛大场面。",
+        "hyp": "文 3 : With its outstanding performance, Sonata once set a sales record of \"600,000 units in 33 months\" in the last century. When its fifth-generation model was introduced in the domestic market, the iconic 'peanut style lights' quickly became well-known among the public, creating a grand spectacle that attracted massive attention.",
+        "label_text": "in the domestic market"
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 1 : The i-GMP platform technology is applied to an SUV model for the first time, combined with the globally pioneering CVVD technology. The powerful 1.5T CVVD+8AT powertrain delivers a strong 200 horsepower while achieving a fuel consumption as low as 6.9L/100 km, which offers a smooth and exhilarating driving experience, allowing you to effortlessly move forward.",
+        "label_text": "strong"
+    },
+    {
+        "source": "原文 : 第五代途胜L 8AT的1.5T发动机采用全球首创的CVVD连续可变气门持续期技术，可根据巡航行驶、加速行驶等情况，合理控制气门开启持续时间，无需在性能和燃油效率之间妥协，可实现性能提升4%、能耗降低5%、排放减少12%。",
+        "hyp": "文 4 : The 8 AT 1.5T engine of the fifth-generation Tucson L uses the globally pioneering continuously variable valve duration (CVVD) technology, which can reasonably control the valve opening duration according to cruising and acceleration, without compromising between performance and fuel efficiency. It can improve performance by 4%, reduce energy consumption by 5%, and reduce emissions by 12%.",
+        "label_text": "continuously variable valve duration"
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 2 : When the vehicle leaves the highway, the difficulty of driving increases greatly, presenting a more severe test for the vehicle. Not only is the power output required to be powerful and uninterrupted, but it must also be easy to control smoothly and consistently. Once the power output suddenly increases, it is easy for the vehicle to get stuck in sandy terrain. The complex and changeable road conditions also require excellent overall quality in all aspects of the vehicle.",
+        "label_text": "quality"
+    },
+    {
+        "source": "原文 : 雅阁的前后车灯都加入了LED光源，除了2.0L车型之外，2.4L和3.0L不但拥有LED日间行车灯，近光灯也同样采用了LED光源。",
+        "hyp": "文 5 : Accord's headlights and taillights use the LED light source, in addition to 2.0L models, 2.4L and 3.0L models not only have LED daytime running lights, their low beams also use LED light source.",
+        "label_text": "in addition to "
+    },
+    {
+        "source": "原文 : 迈腾的后备厢看上去最为规整，容积也比较大，原因在于它的后备厢支杆位置更加合理，关闭时不至于占用太多的空间。",
+        "hyp": "文 2 : Magotan's trunk looks the most structured and has a larger volume, because its trunk struts are more properly positioned and don't take up too much space when the trunk is closed.",
+        "label_text": "don't "
+    },
+    {
+        "source": "原文 : 作为换代车型，产品的硬件部分，包括动力都会有提升，但相比于过去大众技术为先的理念，这代大众可能并没有突破性的变革，但仍然会让消费者有全方位的新认知。",
+        "hyp": "文 1 : As a replacement model, the hardware part of the product, including power, will be improved, but compared with Volkswagen’s “technology first” concept in the past, this generation of Volkswagen products may not have breakthrough changes, but they will still offer consumers a comprehensive new experience.",
+        "label_text": "replacement"
+    },
+    {
+        "source": "原文 : 天籁全力刹车时车身也有明显前倾，但这款车给人的印象一贯是偏向舒适性，悬架偏软，相对来说这种车身姿态比预想中的要好一些。",
+        "hyp": "文 5 : Teana also exhibits noticeable forward body tilt during maximum braking. However, this vehicle is always known for its emphasis on comfort, featuring a softer suspension. The vehicle body posture is better than expected.",
+        "label_text": " body posture"
+    },
+    {
+        "source": "原文 : 在慕尼黑车展中，大众汽车集团不仅首次发布了ID.GTI概念车、全新CUPRA DarkRebel展车，还带来新一代Passat和Tiguan等燃油车型，呈现了全新的品牌理念。",
+        "hyp": "文 5 : At the IAA Mobility, the Volkswagen Group not only launched the ID.GTI concept vehicle and the brand-new CUPRA DarkRebel show vehicle but also introduced the next generation of gasoline models such as Passat and Tiguan, showcasing a new brand concept.",
+        "label_text": "gasoline "
+    },
+    {
+        "source": "原文 : 但是，2017年之后整个车市向上不力，2018年下半年开始负增长，中国品牌亦不能幸免，市场比重也一跌再跌，2020年跌到了33.34%。",
+        "hyp": "文 5 : However, the entire automobile market has been sluggish since 2017, with negative growth starting in the second half of 2018. Chinese brands have not been immune either, with their market share steadily decreasing. By 2020, their market share had decreased to 33.34%.",
+        "label_text": "steadily decreasing"
+    },
+    {
+        "source": "原文 : 如果您想使用蓝牙钥匙服务，首先应该安装Bluelink应用程序。苹果和安卓用户可在应用商城搜索“BlueLink”并下载该应用程序。",
+        "hyp": "文 1 : If you want to use the Bluetooth key service, you should first install the Bluelink APP. Both Apple and Android users can search for \"BlueLink\" in their respective APP stores and download this APP.",
+        "label_text": ", you should"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 5 : If you have purchased a used vehicle, you should confirm and delete any registered Bluetooth key. Additionally, please inform the customer service center or dealer about the used vehicle that you purchased.",
+        "label_text": "you should "
+    },
+    {
+        "source": "原文 : 车门板上隔音材质的手感也很不错，符合这个价格的水平，其他部件的安装方式虽然不像君越那样复杂，但是也运用了卡扣和螺丝，在耐久性方面应该没有问题。",
+        "hyp": "文 2 : The feel of the soundproofing material on the door panel is also quite good and meets the standards for this price range. Although the installation method of other components is not as complex as that of the Lacrosse, it still uses clips and screws, which should ensure durability without any issues.",
+        "label_text": "should"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 5 : Press the button on the infotainment system display as follows: Settings → Vehicle → Digital keys → List of digital keys → Select user → Delete.",
+        "label_text": "Press"
+    }
+]

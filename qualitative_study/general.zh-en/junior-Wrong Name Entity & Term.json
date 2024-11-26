@@ -1,0 +1,187 @@
+[
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 2 : Japan developed a colorless and tasteless biochemical weapon, and intended to transport it to China to carry out a terrible plot.",
+        "label_text": "Japan"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 2 : Japan developed a colorless and tasteless biochemical weapon, and intended to transport it to China to carry out a terrible plot.",
+        "label_text": "China"
+    },
+    {
+        "source": "原文 : 唐恩觉得有些眩晕，他后退一步，靠在光滑的墙上大口大口喘着粗气。",
+        "hyp": "文 4 : Twain felt a little dizzy. He took a step back and leaned against the smooth wall, panting heavily.",
+        "label_text": "Twain"
+    },
+    {
+        "source": "原文 : 第二次世界大战期间，英国政府买下该岛，将其作为生化武器试验基地，试验将炭疽热作为生化武器使用。",
+        "hyp": "文 4 : During the Second World War, the British government bought the island and constructed it into a biochemical weapons testing base to experiment with the use of anthrax as a biochemical weapon.",
+        "label_text": "biochemical weapons"
+    },
+    {
+        "source": "原文 : 第二次世界大战期间，英国政府买下该岛，将其作为生化武器试验基地，试验将炭疽热作为生化武器使用。",
+        "hyp": "文 4 : During the Second World War, the British government bought the island and constructed it into a biochemical weapons testing base to experiment with the use of anthrax as a biochemical weapon.",
+        "label_text": "biochemical weapon"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 5 : I don't want to be a foreigner! Let me back, please! Can Twain shout like that?",
+        "label_text": "Twain"
+    },
+    {
+        "source": "原文 : 产品名称 :Redmi AirDots 2 真无线蓝牙耳机",
+        "hyp": "文 1 : Product: Redmi AirDots 2 True Bluetooth Wireless Earbuds",
+        "label_text": "True Bluetooth Wireless Earbuds"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 4 : The Ninth Academy (now the China Academy of Engineering Physics) was initially located in Beijing. Later, the major components and production departments were relocated to Jinyintan, Xihai Town, Haiyan County, Qinghai Province, and the 221 Factory was established. In 1970, the major components and production departments were relocated to a mountainous area in the north of Sichuan Province.",
+        "label_text": " Ninth Academy"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 2 : With the rise of concert culture, Roman Tam performed alone multiple times at the Lee Theatre since 1978. At the same time, he also developed his performing career abroad. He was invited to perform at the Royal Albert Hall, London, in 1979, and the Lincoln Center in New York in 1980, becoming the first Chinese singer to be invited to sing at these two venues. He was the first Chinese singer to hold a solo concert at Madison Square Park in New York. Moreover, he also held a solo concert at the National Theatre in Singapore.",
+        "label_text": "Madison Square Park"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": "Sensha-Dō team"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": "Saunders University High School"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": "Sensha-Dō"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": "Ooarai Girls High School"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": "Kay"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 5 : The M4 Sherman (76mm turret) tank commander and radio operator (sub-commander of the Sensha-Dō team) is a second-year student from the Saunders University High School. She made her first appearance in Episode 4 of this chapter. She is good at developing various tactics and serves as the overall commander of the team. However, she tends to be emotionally unstable and nervous in Sensha-Dō matches. In a match against the Ooarai Girls High School, she was thrown into a panic, affecting the morale of her teammates. Leveraging the vulnerabilities in the rules, she used a spy balloon to wiretap intelligence. However, she failed. As a result, her team lost their advantages and was defeated. For this reason, she was punished by Kay. When she is sad or angry, she always mentions her secret crush. For this reason, she is comforted by the Rabbit Team in the Girls und Panzer der Film. Although she is usually sharp-tongued and full of wicked ideas, she is a simple girl known for her rich personality. In Episode 3 of the Final Chapter, she fell into a trap of the Continuation High School. As a result, her flag tank was destroyed.",
+        "label_text": "Ooarai Girls High School"
+    },
+    {
+        "source": "原文 : 聂耳小提琴是云南省博物馆参加综艺节目《国家宝藏》第二季的三件文物之一，由张若昀担任明星守护人。",
+        "hyp": "文 3 : The Nie'er's Violin is one of the three cultural relics that the Yunnan Provincial Museum presents in the National Treasure Season 2, and its guardian in the program is Zhang Ruoyun.",
+        "label_text": "The Nie'er's Violin"
+    },
+    {
+        "source": "原文 : 一辆出租车在他前面下客，他快步走上前，然后钻了进去。 唐恩在车上看了躺在寒风中享受“晚餐”的乞丐最后一眼，让司机将他带回那个陌生的家。",
+        "hyp": "文 2 : A taxi dropped off a passenger in front of him. He stepped forward quickly and got in. Twain took one last look at the beggar enjoying his \"dinner\" in the cold wind, asking the driver to take him home, the unfamiliar home.",
+        "label_text": "Twain"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 3 : On February 22, 2017, Ilyasova was traded to the Atlanta Hawks after playing 53 games for the Philadelphia 76ers. In exchange, the Philadelphia 76ers acquired center Tiago Splitter, a second-round pick in 2017, and the option to swap a second-round pick from the Atlanta Hawks.",
+        "label_text": "Ilyasova"
+    },
+    {
+        "source": "原文 : 马面鲀，又称短角单棘鲀，俗名黑达仔、剥皮鱼、马面单棘鲀，为辐鳍鱼纲鲀形目单棘鲀科的一种。",
+        "hyp": "文 1 : The black scraper, also known as Thamnaconus modestus, is a species of filefish in the family Monacanthidae (subclass Actinopterygii, order Tetraodontiformes).",
+        "label_text": "subclass "
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 1 : H/PJ-11, the third generation close-in weapon system (CIWS) developed based on the independently developed H/PJ-7 (i.e. the second generation CIWS), has originally been deployed on the aircraft carrier Liaoning, Type 054A frigates (from Batch-III frigate Daqing), and Type 052D destroyer (from Batch-II destroyer Nanjing). Currently, it is deployed on Type 055 destroyers, Type 075 landing helicopter docks, and aircraft carrier Shandong.",
+        "label_text": "Type 054A frigates (from Batch-III frigate Daqing), and Type 052D destroyer (from Batch-II destroyer Nanjing)"
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 1 : H/PJ-11, the third generation close-in weapon system (CIWS) developed based on the independently developed H/PJ-7 (i.e. the second generation CIWS), has originally been deployed on the aircraft carrier Liaoning, Type 054A frigates (from Batch-III frigate Daqing), and Type 052D destroyer (from Batch-II destroyer Nanjing). Currently, it is deployed on Type 055 destroyers, Type 075 landing helicopter docks, and aircraft carrier Shandong.",
+        "label_text": "Type 055 destroyers"
+    },
+    {
+        "source": "原文 : 以自主研发的第二代近防炮H/PJ-7为基础改进而成的第三代近防炮H/PJ-11最先被发现安装在中国辽宁号航空母舰上，后又被发现安装在054A型导弹护卫舰（从第三批次的大庆号导弹护卫舰开始）和052D型导弹驱逐舰（从第二批次的南京号导弹驱逐舰开始） ，目前亦已安装在055型导弹驱逐舰、075型两栖攻击舰与山东号航空母舰以上。",
+        "hyp": "文 1 : H/PJ-11, the third generation close-in weapon system (CIWS) developed based on the independently developed H/PJ-7 (i.e. the second generation CIWS), has originally been deployed on the aircraft carrier Liaoning, Type 054A frigates (from Batch-III frigate Daqing), and Type 052D destroyer (from Batch-II destroyer Nanjing). Currently, it is deployed on Type 055 destroyers, Type 075 landing helicopter docks, and aircraft carrier Shandong.",
+        "label_text": "Type 075 landing helicopter docks"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 5 : For the Wenkang A Urban Renewal Program (i.e. the Zhongxing Theater Urban Renewal Program), Jiexin Industrial Co., Ltd. acts as the sponsor, Hwatai Bank acts as the financing truster, Wuyuhui Architecture acts as the architectural designer, and GOLD FULL VAST TECHNOLOGY CO., LTD. acts as the construction contractor. According to the urban renewal program, a reinforced concrete structure building will be constructed, consisting of 2 underground floors and 14 above-ground floors. The third to fourteenth floors are proposed to be apartment floors (129 households), while the first and second floors are planned for a shopping mall (17 stores) and a cinema. The building is designed with 73 parking spaces for passenger cars, as well as motor vehicle parking spaces. Moreover, the building incorporates friendly urban space design elements including accessibility facilities, pedestrian walkways, and street corner squares. The entire building will follow the green building method. It is expected that the project will be completed in 2023.",
+        "label_text": "Jiexin Industrial Co., Ltd"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 5 : For the Wenkang A Urban Renewal Program (i.e. the Zhongxing Theater Urban Renewal Program), Jiexin Industrial Co., Ltd. acts as the sponsor, Hwatai Bank acts as the financing truster, Wuyuhui Architecture acts as the architectural designer, and GOLD FULL VAST TECHNOLOGY CO., LTD. acts as the construction contractor. According to the urban renewal program, a reinforced concrete structure building will be constructed, consisting of 2 underground floors and 14 above-ground floors. The third to fourteenth floors are proposed to be apartment floors (129 households), while the first and second floors are planned for a shopping mall (17 stores) and a cinema. The building is designed with 73 parking spaces for passenger cars, as well as motor vehicle parking spaces. Moreover, the building incorporates friendly urban space design elements including accessibility facilities, pedestrian walkways, and street corner squares. The entire building will follow the green building method. It is expected that the project will be completed in 2023.",
+        "label_text": "Wuyuhui Architecture"
+    },
+    {
+        "source": "原文 : 江瑶扮相俊美，表演扎实，师承范瑞娟派，兼唱其他流派。",
+        "hyp": "文 4 : Jiao Yao looks gorgeous in costumes and makeup, and possesses solid skills. She has learned from the Fan (Ruijuan) School, and also performs operas from other schools.",
+        "label_text": "Jiao Yao"
+    },
+    {
+        "source": "原文 : 2017年1月3日，吴磊领衔主演的古装奇幻剧《奇星记之鲜衣怒马少年时》首播，他在剧中饰演了半人半魔的少年英雄展雄飞，该剧在收官时播放总量超13亿；随后，搭档林允主演改编自天蚕土豆同名小说的古装玄幻剧《斗破苍穹》，并在剧中饰演萧炎； 2月3日，继续加盟真人秀节目《二十四小时第二季》； 3月，加盟剧情片《影》； 5月5日，以固定主持的身份加盟原创文化探秘类节目《七十二层奇楼》； 9月30日，其主演的动作影片《极致追击》上映，他在片中饰演精通各种高端科技的天才少年唐叮当；同年，他还领衔主演探险题材剧《沙海》，并在剧中饰演探险关键人黎簇。",
+        "hyp": "文 4 : On January 3, 2017, the fantasy web series Magic Star premiered, in which Wu Lei (also known as Leo Wu) portrayed the lead role of Zhan Xiongfei, a half-man half-devil young hero. The play ended with over 1.3 billion views in total. Later, Leo Wu played the leading role of Xiao Yan in the costume fantasy drama Battle Through the Heavens adapted from the eponymous novel by Tiancan Tudou, with the female lead portrayed by Lin Yun. On February 3, Leo Wu joined the variety show Twenty-Four Hours Season 2. In March, he joined the drama film Shadow. On May 5, Leo Wu joined the Chinese adventure variety show 72 Floors of Mystery in the capacity of main host. On September 30, the action movie Shanghai Job (S.M.A.R.T. Chase) was released. In the movie, Leo Wu portrayed Tang Dingdang, a genius proficient in various high-end technologies. In the same year, Leo Wu starred the key adventurer Li Cu in the fantasy adventure series Tomb of Sea.",
+        "label_text": "Tomb of Sea"
+    },
+    {
+        "source": "原文 : 2014年10月2日，孙延在代表韩国出战在韩国仁川举行的仁川亚运艺术体操女子个人全能项目，她在决赛的圈操、带操和棒操分别取得18.216分、18.083分和18.100分的成绩，尽管在最后一项的球操环节出现失误，仅取得17.300分，她仍然以总分71.699分荣获金牌，成为首位达到此成绩的韩国选手。",
+        "hyp": "文 4 : On October 2, 2014, Son Yeon-Jae represented South Korea in the Asian Games held in Incheon, South Korea. During the women's individual all-around artistic gymnastics finals, Son Yeon-Jae achieved 18.216 points, 18.083 points, and 18.100 points in the hoop exercise, exercise with ribbons, and exercise with clubs, respectively. Although Son Yeon-Jae only scored 17.300 points in the ball exercise due to a mistake, she still won the gold medal with a total score of 71.699 points, becoming the first athlete from South Korea to achieve such a result.",
+        "label_text": "the women's individual all-around artistic gymnastics finals"
+    },
+    {
+        "source": "原文 : 科湼夫现在知道了德军正在突围、因而被激怒及决心兑现对史达林不给任何“希特勒分子”或“法西斯分子”逃出包围圈，但是苏联的情报机构在这时高估了德军第3装甲军的装甲力量，因此科湼夫全力出击，这时苏军第20坦克军属下的坦克旅将新型的约瑟夫·史达林式重型坦克带到科尔逊战场，科湼夫命令所有可以使用的装甲车辆及火炮向突围部队开火，切断弧立的敌人及将他们打散，两个负责封锁的苏军步兵师，第206狙击师及第5亲卫空降师已被德军解围部队击败；没有步兵支援的苏军坦克只好从远距离向突围的德军开火，由于没有反坦克武器在战场， T-34型坦克冲入没有掩护的德军，司令部单位、落伍的士兵及救护兵均受攻击。",
+        "hyp": "文 2 : General Konev, now aware of the German breakout, resolved to keep his promise to Stalin not to let the German forces escape. The Soviet Intelligence, however, at this stage vastly overestimated the armored strength of the III Panzer Corps, and Konev therefore proceeded in force. At this time, the tank brigade of the 20th Tank Corps brought the new Joseph Stalin to the Korsun battlefield. Konev ordered all available armor and artillery to attack the escaping units, cutting them into isolated groups and then destroying them piecemeal. The two blocking Soviet rifle divisions, the 206th Rifle and 5th Guards Airborne, had been smashed by the German assault forces. Without infantry support, the Soviet tanks then fired into the German formations from a distance. With no anti-tank weapons in the field, T-34s commenced to wade into support troops, headquarters units, stragglers and Red-Cross identified medical columns.",
+        "label_text": "Soviet Intelligence"
+    },
+    {
+        "source": "原文 : “将外星飞船与气象气球混为一谈的讽刺意味很令人惊讶，但这不值得引发一场星际冲突，”梅杰说。",
+        "hyp": "文 2 : \"Although the irony of mistaking a UFO as a weather balloon is surprising, it's not worth triggering a star conflict\", Major said.",
+        "label_text": "Major"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 1 : Following the Kyoto Irodori Nikki Vol. 1 with sound as the main theme, the Kyoto Irodori Nikki Vol. 2 focuses on color. The program aired on the third Wednesday of every month at 01:58 (equivalent to early in the morning of Thursday), starting from July 17, 2013. Similar to Kyoto Irodori Nikki Vol. 1, each episode ends with \"Yui's Diary\". However, the difference is that the diary is replaced with Yokoyama Yui's hand-drawn diary to review and summarize each episode. In the program on June 11, 2014, Yokoyama Yui announced that Kyoto Irodori Nikki Vol. 2 would continue till the next year, and a special episode would be produced for the first time. The special episode would be set to be 90 minutes long, and feature Kitahara Rie, a member of AKB48, as a special guest.",
+        "label_text": "Kitahara Rie"
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 2 : The Inscriptions of Construction of Baishui Road on cliffs are located in Wangjiahe Village, Daheidian Township, Huixian County, Gansu Province, China. They have been included in the list of key cultural heritage sites under state protection, and are categorized as cave temples and stone carvings.",
+        "label_text": " key cultural heritage sites under state protection"
+    },
+    {
+        "source": "原文 : 在中国大陆的语境中，译制片不仅包括译作汉语普通话或者方言的外语影片，同时包括将原为汉语的影片译作少数民族语言或将原为少数民族语言的影片译作汉语的影片，极少情况下也可能包括将闽粤等南方方言影片译作普通话的影片。",
+        "hyp": "文 2 : In the context of Chinese mainland, dubbed films include foreign-language films that have been dubbed into standard Chinese or dialects, and Chinese-language films that have been dubbed into minority languages, or minority-language films that have been dubbed into standard Chinese. In very rare cases, they also include films in southern dialects such as Southern Fujian Dialect and Cantonese that have been dubbed into standard Chinese.",
+        "label_text": "Chinese-language"
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 1 : In April 1943, Lu Xun Arts College merged with Yan'an Academy of Natural Sciences and Shanxi-Gansu-Ningxia Border Region Administrative Institute to establish Yan'an University. Lu Xun Arts College became the Department of Drama and Music at the Lu Xun Institute of Literatures and Arts of Yan'an University.",
+        "label_text": "Lu Xun Arts College"
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 1 : In April 1943, Lu Xun Arts College merged with Yan'an Academy of Natural Sciences and Shanxi-Gansu-Ningxia Border Region Administrative Institute to establish Yan'an University. Lu Xun Arts College became the Department of Drama and Music at the Lu Xun Institute of Literatures and Arts of Yan'an University.",
+        "label_text": "Shanxi"
+    },
+    {
+        "source": "原文 : 1943年4月，鲁艺和延安自然科学院、陕甘宁边区行政学院合并组建延安大学，成为“延安大学鲁迅艺术文学院”戏剧音乐系，简称“戏音系”。",
+        "hyp": "文 1 : In April 1943, Lu Xun Arts College merged with Yan'an Academy of Natural Sciences and Shanxi-Gansu-Ningxia Border Region Administrative Institute to establish Yan'an University. Lu Xun Arts College became the Department of Drama and Music at the Lu Xun Institute of Literatures and Arts of Yan'an University.",
+        "label_text": "Lu Xun Arts College "
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 5 : Ku Kam Fai was born in Hong Kong and grew up in Tsuen Wan. He started his football career at the Tsuen Wan Football Club and transferred to the Eastern Sports Club in 1983. In 1984, he was invited by head coach Lin Jianyue to join the South China AA, where he became a keyman. He was selected as one of the Best Eleven Players 8 times during the selection of Hong Kong Football Stars. In 1987, he received the Hong Kong Top Footballer Award. At the age of 38, Ku Kam Fai retired from the football team and served as the assistant coach. On June 19, 2017, the board of directors of the South China AA held a meeting. At the meeting, all the executive committee members reexamined the team's development in recent years. Finally, it was unanimously agreed that South China AA would withdraw from the Hong Kong Premier League in the upcoming season and compete in the First Division League matches to cultivate young players. To minimize the expenses of the football department, the South China AA decided to retain only Ku Kam Fai who had served the team for more than thirty years.",
+        "label_text": "Lin Jianyue"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 5 : Ku Kam Fai was born in Hong Kong and grew up in Tsuen Wan. He started his football career at the Tsuen Wan Football Club and transferred to the Eastern Sports Club in 1983. In 1984, he was invited by head coach Lin Jianyue to join the South China AA, where he became a keyman. He was selected as one of the Best Eleven Players 8 times during the selection of Hong Kong Football Stars. In 1987, he received the Hong Kong Top Footballer Award. At the age of 38, Ku Kam Fai retired from the football team and served as the assistant coach. On June 19, 2017, the board of directors of the South China AA held a meeting. At the meeting, all the executive committee members reexamined the team's development in recent years. Finally, it was unanimously agreed that South China AA would withdraw from the Hong Kong Premier League in the upcoming season and compete in the First Division League matches to cultivate young players. To minimize the expenses of the football department, the South China AA decided to retain only Ku Kam Fai who had served the team for more than thirty years.",
+        "label_text": "Hong Kong Top Footballer Award"
+    }
+]

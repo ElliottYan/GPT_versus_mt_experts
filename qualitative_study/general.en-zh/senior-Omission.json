@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : Dogs with wrinkles like Pugs, Shar Peis (I don’t know how to spell it), Bulldogs, Boxers, any dog with those ugly ass wrinkles are so dumb.",
+        "hyp": "文 1 : 那些有皱纹的狗，比如哈巴狗、沙皮狗、斗牛犬、拳狮犬，看起来都傻傻的。",
+        "label_text": "沙皮狗、"
+    },
+    {
+        "source": "原文 : He waited for me to leave to fire someone who has been a dedicated employee bc shes a poc with tattoos and”fits the part” of someone he considered would be on drugs.",
+        "hyp": "文 3 : 他等我走后才解雇了一名一直兢兢业业的员工，原因是她有纹身，“符合”他认为会吸毒的人的形象。",
+        "label_text": "，"
+    }
+]

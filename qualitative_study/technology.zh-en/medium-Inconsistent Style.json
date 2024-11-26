@@ -1,0 +1,42 @@
+[
+    {
+        "source": "原文 : 除非牢固踩下制动踏板，否则禁止挂档。如果发动机在高速运转时挂入前进档或倒档，车辆可能会突然移动。此时，您可能还无法及时做出车辆控制反应，从而引发意外事故，而导致严重或致命人身伤害，或者车辆损坏。",
+        "hyp": "文 1 : Never shift gears unless the brake pedal is pressed firmly. When the engine is running at a high speed, the vehicle may move suddenly if it is engaged in forward or reverse gear. At this time, you may fail to make a response for vehicle control in time, which may lead to an accident, resulting in serious or fatal personal injury or damage to the vehicle.",
+        "label_text": "shift"
+    },
+    {
+        "source": "原文 : 除非牢固踩下制动踏板，否则禁止挂档。如果发动机在高速运转时挂入前进档或倒档，车辆可能会突然移动。此时，您可能还无法及时做出车辆控制反应，从而引发意外事故，而导致严重或致命人身伤害，或者车辆损坏。",
+        "hyp": "文 1 : Never shift gears unless the brake pedal is pressed firmly. When the engine is running at a high speed, the vehicle may move suddenly if it is engaged in forward or reverse gear. At this time, you may fail to make a response for vehicle control in time, which may lead to an accident, resulting in serious or fatal personal injury or damage to the vehicle.",
+        "label_text": "Never shift gears unless the brake pedal is pressed firmly. "
+    },
+    {
+        "source": "原文 : 独特的雷神之锤大灯，标志性气息昼夜无减，尾灯则是维京之斧设计，横向展开线条，凸显车体的宽度。",
+        "hyp": "文 2 : The unique Thor's Hammer headlights have an unabated symbolic atmosphere at day and night, the taillights are designed according to Viking Axe, and the horizontally spread lines highlight the width of the vehicle body.",
+        "label_text": "Viking Axe"
+    },
+    {
+        "source": "原文 : 新能源车依然保持在增长的快车道，48.05万辆的销量同比增长了117.24%，新能源化比重超过了25%。燃油车也在持续11个月同比下滑之后，首次取得了正增长，虽然增幅只有1.44%。",
+        "hyp": "文 2 : NEVs are still in the fast lane of growth, with a sales volume of 480,500 units, up 117.24% year-on-year. The proportion of electrification exceeded 25%. After a continuous 11 months of year-on-year decline, fuel vehicles also achieve a positive growth for the first time, although the growth rate is only 1.44%.",
+        "label_text": "exceeded"
+    },
+    {
+        "source": "原文 : 新能源车依然保持在增长的快车道，48.05万辆的销量同比增长了117.24%，新能源化比重超过了25%。燃油车也在持续11个月同比下滑之后，首次取得了正增长，虽然增幅只有1.44%。",
+        "hyp": "文 2 : NEVs are still in the fast lane of growth, with a sales volume of 480,500 units, up 117.24% year-on-year. The proportion of electrification exceeded 25%. After a continuous 11 months of year-on-year decline, fuel vehicles also achieve a positive growth for the first time, although the growth rate is only 1.44%.",
+        "label_text": "achieve"
+    },
+    {
+        "source": "原文 : 加油后：加油超过6升(1.6加仑)时，一旦车速超过1km/h(1mph)，就会自动初始化平均油耗显示值。",
+        "hyp": "文 2 : After refueling: When more than 6 L (1.6 gallons) fuel is added, the average fuel consumption display value will be automatically initialized once the vehicle speed exceeds 1 km/h (1 mph).",
+        "label_text": "gallons"
+    },
+    {
+        "source": "原文 : 节能减排是当今社会的一大主题，一直倡导先进技术的大众当然不会落后，借助奥运会的绿色之风，大众向大家展示了它的一款高科技零排放车—奥运专用氢燃料电池帕萨特。",
+        "hyp": "文 5 : Energy saving and emission reduction are a major theme in today's society, and Volkswagen who has been advocating advanced technology will certainly not lag behind. With the help of the green theme of the Olympic Games, Volkswagen showed a high-tech zero-emission vehicle - the Olympic-specific hydrogen fuel cell Passat.",
+        "label_text": "showed "
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 2 : Smart fortwo is not equipped with Benz engine, but with Mitsubishi 3B21T, a 1.0L supercharged engine. For the normal version of smart fortwo, the maximum power is 84 HP (62 kW)/5250 rpm, and the maximum torque is 120 N·m; For BRABUS smart, the maximum power is 102 HP (75 kW)/6000 rpm, and the maximum torque is 147 N m.",
+        "label_text": "N m"
+    }
+]

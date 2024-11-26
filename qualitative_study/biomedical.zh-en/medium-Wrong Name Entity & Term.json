@@ -1,0 +1,122 @@
+[
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 2 : Of the 17,485 total cases in the report of the originator product, adverse reactions were observed in 532 cases (3.04%).",
+        "label_text": "originator product"
+    },
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 2 : Of the 17,485 total cases in the report of the originator product, adverse reactions were observed in 532 cases (3.04%).",
+        "label_text": "originator product"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 1 : Acute renal failure, interstitial nephritis, and nephrotic syndrome may occur (frequency is unknown*). Therefore, sufficient observation should be performed. Medication should be stopped and corresponding measures should be taken in case of oliguria, hematuria, protein urine, BUN/serum creatinine increased, hyperkalemia, hypoproteinaemia, etc.",
+        "label_text": "protein urine"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 1 : Acute renal failure, interstitial nephritis, and nephrotic syndrome may occur (frequency is unknown*). Therefore, sufficient observation should be performed. Medication should be stopped and corresponding measures should be taken in case of oliguria, hematuria, protein urine, BUN/serum creatinine increased, hyperkalemia, hypoproteinaemia, etc.",
+        "label_text": "BUN/serum creatinine "
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 5 : 4. Hanhoo Red Pomegranate 6 pcs Skin Care Set (Skincare and makeup set for hydrating and moisturizing female students, formal gift box of facial cleanser, toner,  face cream and eye cream)",
+        "label_text": " 6 pcs Skin Care Set "
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 5 : 4. Hanhoo Red Pomegranate 6 pcs Skin Care Set (Skincare and makeup set for hydrating and moisturizing female students, formal gift box of facial cleanser, toner,  face cream and eye cream)",
+        "label_text": " 6 pcs Skin Care Set "
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 1 : Cuemid is a kind of anion exchange resin. It binds with this product in the digestive tract and delays/inhibits the absorption of this product.",
+        "label_text": " Cuemid"
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 1 : Cuemid is a kind of anion exchange resin. It binds with this product in the digestive tract and delays/inhibits the absorption of this product.",
+        "label_text": " Cuemid"
+    },
+    {
+        "source": "原文 : 肝功能不全、急性酒精中毒、酗酒；",
+        "hyp": "文 5 : Renal insufficiency, acute alcoholism, and intemperance;",
+        "label_text": "Renal insufficiency"
+    },
+    {
+        "source": "原文 : 皮莱说 ： “ 他们能够在家里控制疾病，大多数人在隔离10至14天内康复 。 ”",
+        "hyp": "文 5 : Pillet said, “they can control the disease at home, and most people recover after quarantine for 10-14 days.”",
+        "label_text": "Pillet"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 3 : The method was further validated for sensitivity, specificity, linearity, range and other analytical performances. The results showed that the response range of katG315 in the same reaction system was 1.0 pmol/L-0.1 nmol/L, and that of rpoB531 and rpsL43 was 1.0 pmol/L-50.0 pmol/L and 1.0 pmol/L-20.0 pmol/L, respectively. The method was specific and sensitive, and could identify single base mutation, with a minimum limit of detection of 1.0 pmol/L. In the recovery test of simulated serum sample, the recovery could reach 95.0%-105.2%.",
+        "label_text": "linearity, range"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 3 : The method was further validated for sensitivity, specificity, linearity, range and other analytical performances. The results showed that the response range of katG315 in the same reaction system was 1.0 pmol/L-0.1 nmol/L, and that of rpoB531 and rpsL43 was 1.0 pmol/L-50.0 pmol/L and 1.0 pmol/L-20.0 pmol/L, respectively. The method was specific and sensitive, and could identify single base mutation, with a minimum limit of detection of 1.0 pmol/L. In the recovery test of simulated serum sample, the recovery could reach 95.0%-105.2%.",
+        "label_text": "minimum limit of detection"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 1 : Injecting iodized contrast agent into the blood vessel may result in contrast-induced nephropathy, which may result in accumulation of metformin and increased risk of lactic acidosis.",
+        "label_text": "iodized contrast agent"
+    },
+    {
+        "source": "原文 : 本品对紫外线红斑（豚鼠）及角叉菜胶水肿（大鼠）急性炎症的ID50（经口给药）分别为4.4mg/kg、22 mg/kg，比阿司匹林的各值均有效。",
+        "hyp": "文 2 : The ID50 (oral) of this product for acute inflammations of ultraviolet erythema (guinea pigs) and carrageenin edema was 4.4 mg/kg and 22 mg/kg respectively, and this product was more effective than aspirin in terms of various values.",
+        "label_text": "carrageenin edema"
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 3 : Explaining Autism to the Non-Autistic (Catalonia) Kim thuy, Brigitte Harrisson [Legal Copy]",
+        "label_text": "Kim thuy"
+    },
+    {
+        "source": "原文 : 长期使用非甾体类抗炎镇痛药而导致消化性溃疡的患者。",
+        "hyp": "文 2 : Patients with digestive ulcer due to long-term use of nonsteriodal anti-inflammatory and analgesic drugs.",
+        "label_text": "nonsteriodal anti-inflammatory and analgesic drugs"
+    },
+    {
+        "source": "原文 : 辅料为：乳糖、交联羧甲基纤维素钠、羟丙纤维素。",
+        "hyp": "文 2 : Excipients: Lactose, cross-linked carboxymethyl cellulose sodium and hydroxypropyl cellulose.",
+        "label_text": "cross-linked carboxymethyl cellulose sodium"
+    },
+    {
+        "source": "原文 : 新型喹诺酮类抗菌剂如依诺沙星水合物等",
+        "hyp": "文 1 : Novel quinolone antibacterial agents, such as enoxacin sesquihydrate.",
+        "label_text": "enoxacin sesquihydrate"
+    },
+    {
+        "source": "原文 : 有报告指出，合用其他非甾体类抗炎镇痛药引起了痉挛。",
+        "hyp": "文 3 : There are reports that coadministration of other nonsteriodal anti-inflammatory and analgesic drugs resulted in spasm.",
+        "label_text": " nonsteriodal anti-inflammatory and analgesic drugs"
+    },
+    {
+        "source": "原文 : 通过查阅国内外颈椎结核治疗的相关文献，从内植物分类、优缺点、发展前景等方面进行分析、归纳和总结。",
+        "hyp": "文 1 : Analysis, induction and summary were carried out from such aspects as classification of indoor plants, advantages and disadvantages and development prospect with reference to relevant domestic and overseas literature on the treatment of cervical tuberculosis.",
+        "label_text": "indoor plants"
+    },
+    {
+        "source": "原文 : 其中，77例（96膝）胫骨侧采用传统髓外定位技术（传统定位组）；93例（114膝）采用个性化髓外定位技术（个性化定位组），即结合胫骨解剖形态特点，在胫骨平台关节面选择个性化定位点作为髓外近端定位点。",
+        "hyp": "文 1 : Traditional extramedullary positioning technology (traditional positioning group) was used for 77 patients (96 knees) at the tibial side; customized extramedullary positioning technology (customized positioning group) was used for 93 patients (114 knees), i.e., customized positioning points were selected from the articular surface of tibial platform as the extramedullary proximal positioning point in combination with the characteristics of anatomical morphology of tibia.",
+        "label_text": "tibial platform"
+    },
+    {
+        "source": "原文 : 白木耳的作用：味甘、性平，归肺、胃、肾经；有强精、补肾、润肠、益胃、补气、和血、强心、滋阴、润肺、生津、壮身、补脑、提神、美容、嫩肤、延年益寿之功效；用于治肺热咳嗽、肺燥干咳、妇女月经不调、胃炎、大便秘结等病症；对阴虚火旺不受参茸等温热滋补的病人是一种良好的补品",
+        "hyp": "文 4 : Effects of snow fungus: Sweet in taste and neutral in nature, belonging to the lung, stomach and kidney meridians; it has the effects of enhancing vital essence, moistening the intestines, benefiting the stomach, tonifying Qi, regulating the blood, strengthening the heart, nourishing Yin, lubricating the lung, promoting saliva secretion, strengthening the body, nourishing the brain, enhancing spirit, beautifying, rejuvenating the skin, and prolonging the life; it is used to treat cough with lung heat, dry cough with dry lung, irregular menstruation of women, gastritis, constipation and other diseases and symptoms; it is a good supplement for patients with yin deficiency and excessive fire who cannot be nourished by warm heat supplements such as ginseng and antler.",
+        "label_text": "snow fungus"
+    },
+    {
+        "source": "原文 : 应用LogistiC回归分析影响二三线疗效的因素. 三组患者治疗3、6、12个月达完全血液学反应（CHR）、主要细胞遗传学反应（MCyR）、主要分子学反应（MMR）率比较差异均有统计学意义（P<0.05）。",
+        "hyp": "文 4 : Factors affecting the efficacy of second- and third-line treatment was analyzed using logistic regression, and there were statistical differences between the three groups of patients in the rates of patients reaching complete hematologic response (CHR), main cytogenic response (MCyR) and main molecular response (MMR) after treatment for 3, 6, and 12 months (P < 0.05).",
+        "label_text": "main cytogenic response"
+    },
+    {
+        "source": "原文 : 应用LogistiC回归分析影响二三线疗效的因素. 三组患者治疗3、6、12个月达完全血液学反应（CHR）、主要细胞遗传学反应（MCyR）、主要分子学反应（MMR）率比较差异均有统计学意义（P<0.05）。",
+        "hyp": "文 4 : Factors affecting the efficacy of second- and third-line treatment was analyzed using logistic regression, and there were statistical differences between the three groups of patients in the rates of patients reaching complete hematologic response (CHR), main cytogenic response (MCyR) and main molecular response (MMR) after treatment for 3, 6, and 12 months (P < 0.05).",
+        "label_text": "main molecular response"
+    }
+]

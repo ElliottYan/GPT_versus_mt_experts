@@ -1,0 +1,112 @@
+[
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 4 : The driver-centered immersive cockpit has 10.25-inch smart dual screens, which is equipped with intelligent connected system 4.0, and can realize various personalized application and information interactions. The cockpit can provide the convenient experience brought by smart technology, and can be controlled at your fingertips, enabling unlimited smart connectivity for a personalized and unrestricted experience.",
+        "label_text": " smart "
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 4 : The driver-centered immersive cockpit has 10.25-inch smart dual screens, which is equipped with intelligent connected system 4.0, and can realize various personalized application and information interactions. The cockpit can provide the convenient experience brought by smart technology, and can be controlled at your fingertips, enabling unlimited smart connectivity for a personalized and unrestricted experience.",
+        "label_text": " smart"
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 1 : The i-GMP platform technology is applied to an SUV model for the first time, combined with the globally pioneering CVVD technology. The powerful 1.5T CVVD+8AT powertrain delivers a strong 200 horsepower while achieving a fuel consumption as low as 6.9L/100 km, which offers a smooth and exhilarating driving experience, allowing you to effortlessly move forward.",
+        "label_text": "6.9L"
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 1 : The i-GMP platform technology is applied to an SUV model for the first time, combined with the globally pioneering CVVD technology. The powerful 1.5T CVVD+8AT powertrain delivers a strong 200 horsepower while achieving a fuel consumption as low as 6.9L/100 km, which offers a smooth and exhilarating driving experience, allowing you to effortlessly move forward.",
+        "label_text": " km"
+    },
+    {
+        "source": "原文 : i-GMP平台技术首次应用于SUV车型，并搭配全球首创的CVVD技术，1.5TCVVD+8AT黄金动力组合强效输出200马力澎湃动力的同时，油耗低至6.9L/100km，行云流水，纵情向前。",
+        "hyp": "文 1 : The i-GMP platform technology is applied to an SUV model for the first time, combined with the globally pioneering CVVD technology. The powerful 1.5T CVVD+8AT powertrain delivers a strong 200 horsepower while achieving a fuel consumption as low as 6.9L/100 km, which offers a smooth and exhilarating driving experience, allowing you to effortlessly move forward.",
+        "label_text": "100 km"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 3 : The brake pedal is fully depressed, but the braking force is still insufficient, combined with mediocre tire grip, resulting in an obvious tendency of the vehicle to slide forward. The results of ten consecutive tests were all around 43 m, and the performance was unsatisfactory. It only scored 0.9 points out of 5 in the braking section, which is far lower than the average level of vehicles at the same level.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 3 : The brake pedal is fully depressed, but the braking force is still insufficient, combined with mediocre tire grip, resulting in an obvious tendency of the vehicle to slide forward. The results of ten consecutive tests were all around 43 m, and the performance was unsatisfactory. It only scored 0.9 points out of 5 in the braking section, which is far lower than the average level of vehicles at the same level.",
+        "label_text": "was"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 3 : The brake pedal is fully depressed, but the braking force is still insufficient, combined with mediocre tire grip, resulting in an obvious tendency of the vehicle to slide forward. The results of ten consecutive tests were all around 43 m, and the performance was unsatisfactory. It only scored 0.9 points out of 5 in the braking section, which is far lower than the average level of vehicles at the same level.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : 在从A区进入B区的过程中，车辆的响应速度与转向的准确性都不错，并且在第一次变线时电子稳定系统便已开始介入，虽然强度不大， 但足以帮助车辆在进入B区后保持更好的轮胎抓地力。",
+        "hyp": "文 5 : In the process of entering Zone B from Zone A, the vehicle had good response speed and steering accuracy. The electronic stability system began to intervene during the first line change. Although the intervention degree is not great, it is enough to help the vehicle maintain better tire grip after entering Zone B.",
+        "label_text": "had "
+    },
+    {
+        "source": "原文 : 在从A区进入B区的过程中，车辆的响应速度与转向的准确性都不错，并且在第一次变线时电子稳定系统便已开始介入，虽然强度不大， 但足以帮助车辆在进入B区后保持更好的轮胎抓地力。",
+        "hyp": "文 5 : In the process of entering Zone B from Zone A, the vehicle had good response speed and steering accuracy. The electronic stability system began to intervene during the first line change. Although the intervention degree is not great, it is enough to help the vehicle maintain better tire grip after entering Zone B.",
+        "label_text": " is"
+    },
+    {
+        "source": "原文 : 在从A区进入B区的过程中，车辆的响应速度与转向的准确性都不错，并且在第一次变线时电子稳定系统便已开始介入，虽然强度不大， 但足以帮助车辆在进入B区后保持更好的轮胎抓地力。",
+        "hyp": "文 5 : In the process of entering Zone B from Zone A, the vehicle had good response speed and steering accuracy. The electronic stability system began to intervene during the first line change. Although the intervention degree is not great, it is enough to help the vehicle maintain better tire grip after entering Zone B.",
+        "label_text": " is"
+    },
+    {
+        "source": "原文 : 独特的雷神之锤大灯，标志性气息昼夜无减，尾灯则是维京之斧设计，横向展开线条，凸显车体的宽度。",
+        "hyp": "文 4 : The unique headlights in the shape of Thor's Hammer remain iconic both during the day and at night, and the taillights feature a design inspired by the Viking axe, with horizontal lines that emphasize the width of the vehicle.",
+        "label_text": "Viking axe"
+    },
+    {
+        "source": "原文 : 在加速性能测试中，雅阁就表现出了这个级别自然吸气车型的顶级实力。没想到在油耗环节，雅阁再一次拔得头筹，证明了“地球梦科技”系列技术的先进性。",
+        "hyp": "文 4 : In the acceleration performance test, Accord demonstrated the top-level capability among naturally aspirated models in its level. Surprisingly, in terms of fuel efficiency, Accord once again takes the lead, proving the advance of the \"Earth Dreams Technology\" series.",
+        "label_text": " demonstrated"
+    },
+    {
+        "source": "原文 : 在加速性能测试中，雅阁就表现出了这个级别自然吸气车型的顶级实力。没想到在油耗环节，雅阁再一次拔得头筹，证明了“地球梦科技”系列技术的先进性。",
+        "hyp": "文 4 : In the acceleration performance test, Accord demonstrated the top-level capability among naturally aspirated models in its level. Surprisingly, in terms of fuel efficiency, Accord once again takes the lead, proving the advance of the \"Earth Dreams Technology\" series.",
+        "label_text": "takes"
+    },
+    {
+        "source": "原文 : 加油后：加油超过6升(1.6加仑)时，一旦车速超过1km/h(1mph)，就会自动初始化平均油耗显示值。",
+        "hyp": "文 1 : After refueling: If the fuel filled exceeds 6 L (1.6 gallons), the average fuel consumption display value will be automatically initialized once the vehicle speed exceeds 1 km/h (1 mph).",
+        "label_text": "gallons"
+    },
+    {
+        "source": "原文 : 2021成都车展前夕，上汽大众旗下新款帕萨特家族正式上市，新车共推出13款车型，其中10款燃油版车型，3款PHEV车型，售价区间为17.99-25.09万元。",
+        "hyp": "文 1 : On the eve of the 2021 Chengdu Motor Show, SAIC Volkswagen officially launched the new Passat family, offering a total of 13 models, including 10 fuel models and 3 PHEV models. The price range of the vehicles is from RMB 179,900 to RMB 250,900.",
+        "label_text": "launched"
+    },
+    {
+        "source": "原文 : 2021成都车展前夕，上汽大众旗下新款帕萨特家族正式上市，新车共推出13款车型，其中10款燃油版车型，3款PHEV车型，售价区间为17.99-25.09万元。",
+        "hyp": "文 1 : On the eve of the 2021 Chengdu Motor Show, SAIC Volkswagen officially launched the new Passat family, offering a total of 13 models, including 10 fuel models and 3 PHEV models. The price range of the vehicles is from RMB 179,900 to RMB 250,900.",
+        "label_text": " is"
+    },
+    {
+        "source": "原文 : 节能减排是当今社会的一大主题，一直倡导先进技术的大众当然不会落后，借助奥运会的绿色之风，大众向大家展示了它的一款高科技零排放车—奥运专用氢燃料电池帕萨特。",
+        "hyp": "文 1 : Energy conservation and emission reduction are major themes in today's society, and Volkswagen, known for promoting advanced technology, certainly doesn't lag behind. Taking advantage of the green wave of the Olympics, Volkswagen showcased its high-tech zero-emission vehicles, the Olympic-specific hydrogen fuel cell Passat.",
+        "label_text": "doesn't "
+    },
+    {
+        "source": "原文 : 节能减排是当今社会的一大主题，一直倡导先进技术的大众当然不会落后，借助奥运会的绿色之风，大众向大家展示了它的一款高科技零排放车—奥运专用氢燃料电池帕萨特。",
+        "hyp": "文 1 : Energy conservation and emission reduction are major themes in today's society, and Volkswagen, known for promoting advanced technology, certainly doesn't lag behind. Taking advantage of the green wave of the Olympics, Volkswagen showcased its high-tech zero-emission vehicles, the Olympic-specific hydrogen fuel cell Passat.",
+        "label_text": "showcased"
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 2 : Shanghai Volkswagen Lavida will carry out a mid-period facelift from the second half of this year to early next year and had its official generational change in 2013. The generation change model of the Santana had been released in 2012, with a full platform and powertrain replacement, but still retaining the brand name.",
+        "label_text": "will "
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 2 : Shanghai Volkswagen Lavida will carry out a mid-period facelift from the second half of this year to early next year and had its official generational change in 2013. The generation change model of the Santana had been released in 2012, with a full platform and powertrain replacement, but still retaining the brand name.",
+        "label_text": "had"
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 2 : Shanghai Volkswagen Lavida will carry out a mid-period facelift from the second half of this year to early next year and had its official generational change in 2013. The generation change model of the Santana had been released in 2012, with a full platform and powertrain replacement, but still retaining the brand name.",
+        "label_text": " had been released"
+    }
+]

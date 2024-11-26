@@ -1,0 +1,132 @@
+[
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 3 : Один человек на сервере продавал комплект за 100 тысяч, и я такой: \"Да ну нафиг, это не стоит 100 тысяч\", вот это да, братан.",
+        "label_text": "вот это да,"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 3 : Один человек на сервере продавал комплект за 100 тысяч, и я такой: \"Да ну нафиг, это не стоит 100 тысяч\", вот это да, братан.",
+        "label_text": "вот это да,"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 3 : В последние четыре года я носила бюстгальтеры для дома от Lane Bryant, и это был первый раз за очень долгое время, когда я надела бюстгальтер с косточками.",
+        "label_text": "для дома"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 3 : В последние четыре года я носила бюстгальтеры для дома от Lane Bryant, и это был первый раз за очень долгое время, когда я надела бюстгальтер с косточками.",
+        "label_text": "для дома"
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 4 : Он создаёт впечатление, что XVG сейчас тонет, хотя на самом деле всё идёт хорошо.",
+        "label_text": "хотя на самом деле "
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 4 : Он создаёт впечатление, что XVG сейчас тонет, хотя на самом деле всё идёт хорошо.",
+        "label_text": "хотя на самом деле "
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 2 : В 1981 году была создана ещё одна резервная (добровольческая) сила, состоящая из неполучающих оплату граждан, желающих выполнять ограниченный круг полицейских обязанностей.",
+        "label_text": "круг"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 3 : Быть настоящим другом для тебя со всеми взаимными уступками, которые это подразумевает — ты можешь соответственно понизить её статус (например, с друга до \"кого-то, кого я знаю\").",
+        "label_text": "кого-то"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 3 : Быть настоящим другом для тебя со всеми взаимными уступками, которые это подразумевает — ты можешь соответственно понизить её статус (например, с друга до \"кого-то, кого я знаю\").",
+        "label_text": "кого-то"
+    },
+    {
+        "source": "原文 : This page presents an overview of the state of the art based on official sources.",
+        "hyp": "文 1 : На этой странице представлен обзор передового состояния искусства на основе официальных источников.",
+        "label_text": "искусства"
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 4 : Спасибо, желаю тебе доброго утра, спокойной ночи и приятного вечера, как в шоу Трумана, ха-ха.",
+        "label_text": "желаю"
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 4 : Спасибо, желаю тебе доброго утра, спокойной ночи и приятного вечера, как в шоу Трумана, ха-ха.",
+        "label_text": "как в "
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 4 : Спасибо, желаю тебе доброго утра, спокойной ночи и приятного вечера, как в шоу Трумана, ха-ха.",
+        "label_text": "желаю"
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 4 : Спасибо, желаю тебе доброго утра, спокойной ночи и приятного вечера, как в шоу Трумана, ха-ха.",
+        "label_text": "как в "
+    },
+    {
+        "source": "原文 : Moreover, at the cellular level they change over time, these including changes under the influence of the streams of sensory signals they perceive and the life experience gained, including the consequences of their own actions under certain circumstances.",
+        "hyp": "文 2 : Кроме того, на клеточном уровне они со временем меняются, в том числе под воздействием потоков воспринимаемых сенсорных сигналов и накопленного жизненного опыта, а также включая последствия собственных действий в определённых обстоятельствах.",
+        "label_text": "а также"
+    },
+    {
+        "source": "原文 : But it's more difficult to find people to follow and build up your timeline.",
+        "hyp": "文 3 : Но найти людей, за которыми можно следить и составить свою ленту, гораздо сложнее.",
+        "label_text": "гораздо"
+    },
+    {
+        "source": "原文 : The boss says I should do that more on the battle, the place we’ve been fighting in!",
+        "hyp": "文 1 : Босс говорит, что мне следует делать это чаще на поле боя, там, где мы воевали!",
+        "label_text": "там,"
+    },
+    {
+        "source": "原文 : But by the next day, Tom Gross JPost: Tom Gross - The BBC discovers 'terrorism,' briefly and many others noted that the online articles had been edited, replacing \"terrorists\" by \"bombers\".",
+        "hyp": "文 1 : Но на следующий день Том Гросс из JPost (Том Гросс - ВВС ненадолго \"обнаруживает\" терроризм) и многие другие отметили, что онлайн-статьи были отредактированы, и слово \"террористы\" было заменено на \"бомбисты\".",
+        "label_text": "Том Гросс"
+    },
+    {
+        "source": "原文 : An opinion from someone who hasn't played TLOU1 or 2.",
+        "hyp": "文 1 : Мнение человека, который не играл в TLOU1 или TLOU2.",
+        "label_text": "TLOU"
+    },
+    {
+        "source": "原文 : It seems no matter what i do i literally can't keep the dust at bay for more than 24hrs and i am losing my mind.",
+        "hyp": "文 3 : Кажется, что бы я ни делал(а), я буквально не могу(могу) удержать пыль подальше дольше чем на 24 часа, и я схожу с ума.",
+        "label_text": "(могу) "
+    },
+    {
+        "source": "原文 : I walked all the way home and, ah shit, I’m getting shin splints from all this walking up and down the hill.",
+        "hyp": "文 5 : Я шёл всю дорогу домой, и, черт, у меня начинаются боли в голенях от всего этого подъёма и спуска с холма.",
+        "label_text": "начинаются"
+    },
+    {
+        "source": "原文 : Derry midfielder Adam Reilly closes down Lee Grace at the Brandywell",
+        "hyp": "文 5 : Полузащитник \"Дерри\" Адам Райли блокирует Ли Грейса на стадионе \"Брендивелл\".",
+        "label_text": "на стадионе"
+    },
+    {
+        "source": "原文 : As long as an event is not disruptive to the school day or event, administrators do not get involved.",
+        "hyp": "文 5 : Пока мероприятие не нарушает учебный процесс или ход другого события, администрация не вмешивается.",
+        "label_text": "ход другого"
+    },
+    {
+        "source": "原文 : The RWS/Hammerli 850 is a CO 2 designed gun which is often adapted to HPA.",
+        "hyp": "文 3 : Пневматический пистолет RWS/Hammerli 850 разработан под CO2, но часто модифицируется для использования с высоким давлением воздуха (HPA).",
+        "label_text": "с высоким давлением воздуха"
+    },
+    {
+        "source": "原文 : Maybe it is not faster for your end, but at least you should consider it.",
+        "hyp": "文 2 : Возможно, это не ускорит процесс с вашей стороны, но, по крайней мере, стоит это рассмотреть.",
+        "label_text": "процесс "
+    },
+    {
+        "source": "原文 : Finally they seem to want to engage w/ me and basically tell me they’re going to an event and they’d hope to see me there, which they reaffirm the next day and then day of.",
+        "hyp": "文 5 : Наконец они, кажется, захотели вступить со мной в контакт и, по сути, сообщили мне, что собираются на мероприятие и надеются увидеть меня там, что они подтвердили на следующий день и в день мероприятия.",
+        "label_text": " мероприятия"
+    }
+]

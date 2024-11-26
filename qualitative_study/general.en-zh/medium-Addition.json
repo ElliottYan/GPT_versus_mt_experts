@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 3 : 我一开始不知道说什么，但是然后我突然想到了什么，只说了句“但是我没有。”",
+        "label_text": "突然"
+    },
+    {
+        "source": "原文 : Monomeric streptavidin is a recombinant form of streptavidin with mutations to break the tetramer into a monomer and to enhance the solubility of the resultant isolated subunit.",
+        "hyp": "文 5 : 单分子链霉亲和素是流行重组型链霉亲和素，突变体冲破四聚物进入单分子物体，提高了形成的分离亚基的溶解度。",
+        "label_text": "流行"
+    },
+    {
+        "source": "原文 : I’ll keep you updated on what she says bc she only said my name in all caps and then an nvm.",
+        "hyp": "文 3 : 她后面说了什么，我会通知你，因为她目前只是全部大写了我的名字（对我有点情绪），然后说“算了”。",
+        "label_text": "（对我有点情绪）"
+    }
+]

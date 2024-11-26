@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : Среднемесячная арендная плата за квартиру в Петербурге на начало 2023 года составляла 27 000 рублей.",
+        "hyp": "文 3 : The monthly average rent for an apartment in Saint Petersburg as at the beginning of 2023 was 27,000 rubles.",
+        "label_text": "as"
+    },
+    {
+        "source": "原文 : Риторика потому, что подобный случай, повторю, со мной происходит уже третий раз.",
+        "hyp": "文 2 : It's all rhetoric because, I repeat, this is the third time that it has happens to me.",
+        "label_text": "all "
+    },
+    {
+        "source": "原文 : Детское меню как везде: макароны, фри, куриные котлеты. Мои ели пиццу, она тут ОГОНЬ!",
+        "hyp": "文 3 : The children's menu is as elsewhere: pasta, French fries, and chicken croquettes. My folks had pizza, it's STRAIGHT FIRE!",
+        "label_text": "French"
+    },
+    {
+        "source": "原文 : Протесты и апелляции, касающиеся права спортсменов участвовать в соревнованиях или его принадлежность к той или иной команде, подаются в аналогичном порядке в апелляционное жюри.",
+        "hyp": "文 3 : Notice of protest and appeal pertinent to the athletes' right to participate in competitions or his or her affiliation with any team shall be submitted in a similar manner to the jury of appeal.",
+        "label_text": " Notice of"
+    },
+    {
+        "source": "原文 : Протесты и апелляции, касающиеся права спортсменов участвовать в соревнованиях или его принадлежность к той или иной команде, подаются в аналогичном порядке в апелляционное жюри.",
+        "hyp": "文 3 : Notice of protest and appeal pertinent to the athletes' right to participate in competitions or his or her affiliation with any team shall be submitted in a similar manner to the jury of appeal.",
+        "label_text": " Notice of"
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 2 : The cottages are clean, cosy and warm (even very warm). There is a kitchenette with coffee, tea, sugar, spices, and sunflower oil, and all necessary utensils in the cottage.",
+        "label_text": "and"
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 2 : The cottages are clean, cosy and warm (even very warm). There is a kitchenette with coffee, tea, sugar, spices, and sunflower oil, and all necessary utensils in the cottage.",
+        "label_text": "and"
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 2 : The cottages are clean, cosy and warm (even very warm). There is a kitchenette with coffee, tea, sugar, spices, and sunflower oil, and all necessary utensils in the cottage.",
+        "label_text": "in the cottage"
+    },
+    {
+        "source": "原文 : Потому что просрать свой потенциал так, как Кокорин, не смог никто.",
+        "hyp": "文 1 : Just because no one could fuck up their potential as Kokorin did.",
+        "label_text": "Just"
+    },
+    {
+        "source": "原文 : Потому что просрать свой потенциал так, как Кокорин, не смог никто.",
+        "hyp": "文 1 : Just because no one could fuck up their potential as Kokorin did.",
+        "label_text": "Just"
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 1 : My husband ate smoked ribs – that's the kind! Soft, juicy, full flavoured.",
+        "label_text": "My "
+    },
+    {
+        "source": "原文 : Я конкретно про \"лягушонок\", Тренер наш Анастасия Витальевна очень нравится ребенку и профессиональна!!",
+        "hyp": "文 4 : I talk specifically about \"lyagushonok\", my child like our coach Anastasia Vitalievna very much, and she is a professional!!!!",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Ранее доводилось делать узи сердца, но чтобы так - впервые (к сожалению, не знаю имя врача, молодой мужчина).",
+        "hyp": "文 2 : I have previously happened to do a heart ultrasound, but this was the first time I did it like this (unfortunately, I don't know the doctor's name, it was a young man).",
+        "label_text": " like this"
+    }
+]

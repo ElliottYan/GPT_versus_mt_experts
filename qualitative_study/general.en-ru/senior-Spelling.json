@@ -1,0 +1,217 @@
+[
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 3 : Крайний нападающий может оказаться необходимостью в зависимости от FA, и парень из Айовы (я не могу написать его имя) хорош, но до такого нам еще тянуться и тянуться.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 5 : Один человек из сервера продавал этот набор за 100 тысяч, и я такой \"Черта с два, он не стоит 100 тысяч\", понимаешь, бро.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 5 : Один человек из сервера продавал этот набор за 100 тысяч, и я такой \"Черта с два, он не стоит 100 тысяч\", понимаешь, бро.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 5 : К тому же, я могу еще проверить до следующей встречи, пытался ли я,",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 2 : В конце модельного года стала доступна \"уличная\" версия более крупного двигателя V8 объемом 421 кубических дюйма, который использовался прежде всего для гоночной фрезеровки в 1961 и большую часть 1962 года, но лишь в четырехцилиндровом варианте с мощностью ( ) лошадиных сил.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 2 : В конце модельного года стала доступна \"уличная\" версия более крупного двигателя V8 объемом 421 кубических дюйма, который использовался прежде всего для гоночной фрезеровки в 1961 и большую часть 1962 года, но лишь в четырехцилиндровом варианте с мощностью ( ) лошадиных сил.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 2 : Мне кажется, я неплохо лавирую, но инструктор говорит, что мне все еще нужно больше практиковаться.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 2 : Мне кажется, я неплохо лавирую, но инструктор говорит, что мне все еще нужно больше практиковаться.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 2 : Быть тебе настоящим другом со всеми вытекающими \"брать-давать\" --- ты можешь опустить ее соответственно (например, с друга до просто \"кое-кого, кого я знаю\").",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 2 : Быть тебе настоящим другом со всеми вытекающими \"брать-давать\" --- ты можешь опустить ее соответственно (например, с друга до просто \"кое-кого, кого я знаю\").",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Get some bumper stickers that are anti-Trump and plaster them all over.",
+        "hyp": "文 3 : Получите несколько антитрамповских наклеек на бампер и заштукатурьте ими все вокруг.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 3 : Солдаты предположительно украли еще 1,440,000 КФА ($2,845) у других мужчин.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 2 : Я слишком страшный, чтобы разглагольствовать даже в Снэпчате, поэтому я делаю это на reddit",
+        "label_text": "Я"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 2 : Я слишком страшный, чтобы разглагольствовать даже в Снэпчате, поэтому я делаю это на reddit",
+        "label_text": " r"
+    },
+    {
+        "source": "原文 : This study aims to find out, describe, and analyze techniques for applying group guidance to improve the quality of life of a person's disability at the Integrated Rehabilitation Centre for Persons with Disabilities.",
+        "hyp": "文 4 : Это исследование намерено выяснить, описать и проанализировать техники применения группового руководства для улучшения качества жизни лиц с инвалидностью в Объединенном реабилитационном центре для инвалидов.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : One of her friend said that she was sad as fuck all day because of me but didn’t want to say why.",
+        "hyp": "文 5 : Один из ее друзей сказал, что она была ужасно грустная весь день из-за меня, но не захотела сказать почему.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Moreover, at the cellular level they change over time, these including changes under the influence of the streams of sensory signals they perceive and the life experience gained, including the consequences of their own actions under certain circumstances.",
+        "hyp": "文 5 : Более того, на клеточном уровне они меняются с течением времени, включая изменения под влиянием потоков сенсорных сигналов, которые они воспринимают, и полученного жизненного опыта, в том числе и последствия их собственных действий при определенных обстоятельствах.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Also, why restaurants have to be set up like that?",
+        "hyp": "文 1 : И еще, почему рестораны должны быть установлены именно так?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 5 : В 1:49 мой тренер как обычно начинает свое \"твоя задача - быть хорошим игроком, но ты этого не делаешь, поэтому я ставлю тебе нереалистичные цели\", или должен ли я быть в 1:49?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 5 : В 1:49 мой тренер как обычно начинает свое \"твоя задача - быть хорошим игроком, но ты этого не делаешь, поэтому я ставлю тебе нереалистичные цели\", или должен ли я быть в 1:49?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 5 : Я понимаю, натуральные продукты не будут пахнуть так же приятно, как синтетические, но, как мне кажется, все больше и больше естественных линий попросту меньше заботит этот вопрос, поскольку они будут хорошо продаваться в любом случае, поэтому теперь все просто пахнет как пластилин.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 5 : Я понимаю, натуральные продукты не будут пахнуть так же приятно, как синтетические, но, как мне кажется, все больше и больше естественных линий попросту меньше заботит этот вопрос, поскольку они будут хорошо продаваться в любом случае, поэтому теперь все просто пахнет как пластилин.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 3 : Я все еще учусь, и гейминг - моя мечта… и от этих цен у меня начинается депрессия и безнадежность жизни… честно говоря…",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 3 : Я все еще учусь, и гейминг - моя мечта… и от этих цен у меня начинается депрессия и безнадежность жизни… честно говоря…",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : its a bit unnerving to manage expenses on 1 persons salary in this place....",
+        "hyp": "文 1 : Немножко раздражает управлять расходами на зарплату 1 человека в этом месте…",
+        "label_text": "Н"
+    },
+    {
+        "source": "原文 : I’m not a trans man, but I am interested in knowing someone’s perspectives who lived both as a woman and as a man (not a lot of people get to experience what it is like to be perceived as both genders) so thats kinda neat imo",
+        "hyp": "文 3 : Я не транс, но мне интересно узнать взгляды кого-то, кто жил и как женщина, и как мужчина (не многим людям удается испытать, каково это, быть воспринимаемым как оба пола), так что это вроде как классно, по моему мнению",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 3 : Существенных доказательств в преобладании радиологической пневмонии или сердечно-сосудистых нарушений или в 28-дневной смертности среди детей с тяжелой гипоксемией (SpO<sub>2</sub>: < 80%) и с легкой гипоксемией (SpO<sub>2</sub>: 80 до < 92%) выявлено не было.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 3 : Существенных доказательств в преобладании радиологической пневмонии или сердечно-сосудистых нарушений или в 28-дневной смертности среди детей с тяжелой гипоксемией (SpO<sub>2</sub>: < 80%) и с легкой гипоксемией (SpO<sub>2</sub>: 80 до < 92%) выявлено не было.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 2 : Экономика Японии выросла на превысившие ожидания 3.5% в годовом исчислении в последнем квартале, давая импульс премьер-министру Синдзо Абэ в плане проводимых его правительством реформ, которые необходимы для обеспечения устойчивого восстановления после двух нелегких десятилетий.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Let’s drop down my main build, because it’s the best assassin play style I like.",
+        "hyp": "文 1 : Давайте опустимся в мое главное сооружение, потому что это лучший стиль игры в assassin, который мне нравится.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : The first thing I started with was concatenating the paraphrase and source and maybe I, I don't remember now,",
+        "hyp": "文 3 : Первая вещь, с которой у меня все началось, это соединение перефразирования и источника, и может быть, сейчас я уже не помню,",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I dont know how long this is gonna take but probably quite awhile.",
+        "hyp": "文 3 : Я не знаю, сколько времени это займет, но, вероятно, довольно долго.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I dont know how long this is gonna take but probably quite awhile.",
+        "hyp": "文 4 : Я не знаю, сколько времени это займет, но, вероятно, довольно долго.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I don't like when ppl mumble on the phone or if they ramble on and it's all about then.",
+        "hyp": "文 3 : Я не люблю, когда люди бормочут по телефону или мелят вздор, и это все, что они могут.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Tell me about yourself and we can go from there.",
+        "hyp": "文 1 : Расскажите мне о себе, а потом мы пойдем дальше.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I walked all the way home and, ah shit, I’m getting shin splints from all this walking up and down the hill.",
+        "hyp": "文 3 : Всю дорогу домой я шел пешком и, вот черт, кажется, я заработал шинсплинт от всех этих подъемов и спусков по холму.",
+        "label_text": "шинсплинт"
+    },
+    {
+        "source": "原文 : Derry midfielder Adam Reilly closes down Lee Grace at the Brandywell",
+        "hyp": "文 4 : Полузащитник \"Дерри сити\" Адам О'Райли закрывает Ли Грейс на стадионе Brandywell",
+        "label_text": "О'Райли "
+    },
+    {
+        "source": "原文 : Thousands of people braved heavy rain to attend Lakiss's funeral in Baalbek.",
+        "hyp": "文 5 : Тысячи людей, невзирая на проливной дождь, пришли на похороны Лакиса в Баальбэке.",
+        "label_text": "э"
+    },
+    {
+        "source": "原文 : From a previous marriage, she has a daughter named Cheyan and a son named Dakota.",
+        "hyp": "文 3 : От предыдущего брака у нее есть дочь, которую зовут Шейан, и сын Дакота.",
+        "label_text": "Шейан"
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 4 : Военный руководитель Украины, Ген. Валерий Залужный, сообщил, что российские войска запустили 71 крылатую ракету, 35 ракет S-300 и семь беспилотников типа \"Шахид\" в период с конца четверга по полдень пятницы, добавив, что ПВО Украины сбила 61 крылатую ракету и пять беспилотников.",
+        "label_text": "Шахид"
+    },
+    {
+        "source": "原文 : In both landings, the covering force went ashore from warships with the exception of V Beach at Helles where the SS River Clyde was used as an improvised landing craft for 2,000 men.",
+        "hyp": "文 2 : В обеих высадках, силы прикрытия сошли на берег с военных кораблей за исключением берега V Beach в Геллесе, где пароход-угольщик SS River Clyde использовался в качестве самодельного десантного судна для 2000 мужчин.",
+        "label_text": " Геллесе"
+    }
+]

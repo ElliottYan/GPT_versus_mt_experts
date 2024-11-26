@@ -1,0 +1,147 @@
+[
+    {
+        "source": "原文 : Может светскую беседу вести, и огнетушителем по морде съездить, но не в силах пропустить ни одной юбки.",
+        "hyp": "文 3 : He can hold a worldly conversation and smack someone in the face with a fire extinguisher, but he can't resist chasing after every skirt.",
+        "label_text": "skirt"
+    },
+    {
+        "source": "原文 : Может светскую беседу вести, и огнетушителем по морде съездить, но не в силах пропустить ни одной юбки.",
+        "hyp": "文 3 : He can hold a worldly conversation and smack someone in the face with a fire extinguisher, but he can't resist chasing after every skirt.",
+        "label_text": "chasing after"
+    },
+    {
+        "source": "原文 : В Англии, в портовом городе Грейт-Ярмут, в пятницу взорвалась авиабомба времен Второй мировой войны, которую пытались обезвредить саперы.",
+        "hyp": "文 4 : In England, in the port city of Great Yarmouth, a World War II-era aerial bomb exploded on Friday while bomb disposal experts were attempting to defuse it.",
+        "label_text": "bomb disposal experts "
+    },
+    {
+        "source": "原文 : С борта МКС грузовой корабль приветствовали космонавты Сергей Прокопьев, Дмитрий Петелин и Анна Кикина.",
+        "hyp": "文 1 : Aboard the ISS, cosmonauts Sergey Prokopyev, Dmitry Petelin, and Anna Kikina welcomed the cargo spacecraft.",
+        "label_text": "Aboard"
+    },
+    {
+        "source": "原文 : По информации ведомства, инцидент произошел вечером пятницы на 218 километре автодороги Р-22 в Михайловском районе.",
+        "hyp": "文 3 : According to the agency, the incident occurred on Friday evening at the 218th kilometer of the R-22 highway in the Mikhailovsky district.",
+        "label_text": "highway"
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 4 : The cabins are clean, cozy, and warm (even very warm), and each cabin has its own little kitchen with coffee, tea, sugar, spices, sunflower oil, and all the necessary dishes.",
+        "label_text": "dishes"
+    },
+    {
+        "source": "原文 : Кроме того, этот проект — еще одно подтверждение самых долгих любовных отношений в жизни Клуни - с Италией: съемки проходили в живописном городке Кастель-дель-Монте в Абруццо.",
+        "hyp": "文 3 : Additionally, this project is yet another testament to Clooney's longest-standing love affair in life—with Italy: the filming took place in the picturesque town of Castel del Monte in Abruzzo.",
+        "label_text": "testament"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 3 : Honestly, you're incredibly natural on screen, which, frankly, many did not expect.",
+        "label_text": "Honestly,"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 3 : The most challenging film of \"Kinotavr\" has already been selected for the Karlovy Vary competition—a directorial star is born.",
+        "label_text": "film"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 4 : At the roundtable dedicated to the fate of Russian arthouse cinema, Sergey Tolstikov, the chairman of the foundation for the support of domestic film, engaged in a colorful dispute with critics: \"Do you even read the articles in the press that I read?\" he asked the attendees menacingly.",
+        "label_text": "colorful "
+    },
+    {
+        "source": "原文 : Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.",
+        "hyp": "文 2 : Having achieved nothing and having shot the unfortunate bandit, the women start to claw at each other, fight among themselves and with periodically arriving thugs from who knows where, as well as regularly kissing and fondling each other.",
+        "label_text": "fondling"
+    },
+    {
+        "source": "原文 : Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.",
+        "hyp": "文 2 : Having achieved nothing and having shot the unfortunate bandit, the women start to claw at each other, fight among themselves and with periodically arriving thugs from who knows where, as well as regularly kissing and fondling each other.",
+        "label_text": "fondling"
+    },
+    {
+        "source": "原文 : Ваш партнер по фильму Александр Яценко совершенно не похож на своего героя.",
+        "hyp": "文 4 : Your film partner Alexander Yatsenko looks nothing like his character.",
+        "label_text": "looks nothing like"
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 1 : The Turkish agency \"Anadolu\" reports different information, stating that the Margara-Alidzhan border crossing was last used to deliver humanitarian aid to Armenia in response to the aftermath of the devastating earthquake in 1988.",
+        "label_text": "eports different information"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 1 : Please outline the procedures for your employees for this scenario if you're attempting to provide service.",
+        "label_text": "procedures"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 1 : Please outline the procedures for your employees for this scenario if you're attempting to provide service.",
+        "label_text": "provide "
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 1 : Please outline the procedures for your employees for this scenario if you're attempting to provide service.",
+        "label_text": "procedures"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 1 : Please outline the procedures for your employees for this scenario if you're attempting to provide service.",
+        "label_text": "provide service"
+    },
+    {
+        "source": "原文 : Если я пришла и согласилась работать с режиссером, то я, собственно, вверяюсь в его руки и мне хочется быть тестом, из которого будут лепить.",
+        "hyp": "文 5 : If I've come and agreed to work with the director, then I'm essentially putting myself in their hands, and I want to be like dough that they can shape.",
+        "label_text": "that they can shape"
+    },
+    {
+        "source": "原文 : К заброшенному трейлеру где-то посреди условной пустыни подкатывает тачка, из которой выходят три пары добротнейших сисек.",
+        "hyp": "文 4 : A car pulls up to an abandoned trailer somewhere in the middle of a proverbial desert, and out step three pairs of top-notch boobs.",
+        "label_text": "step "
+    },
+    {
+        "source": "原文 : Поддержка в Вотсапе на мои возмущения по поводу цвета и количества цветов ответила \"видимо перепутали цвет\".",
+        "hyp": "文 5 : The support team on WhatsApp responded to my complaints about the color and quantity of the flowers with \"it seems we mixed up the color.\"",
+        "label_text": "we "
+    },
+    {
+        "source": "原文 : На фоне применения Цитофлавина отмечено повышение показателей КЖ, уменьшение выраженности сенсорных нарушений и снижение уровня ФНО-α, что может указывать на возможный противовоспалительный механизм препарата.",
+        "hyp": "文 5 : Against the backdrop of using Cytoflavin, an increase in cerebral blood flow indicators, a reduction in the severity of sensory disturbances, and a decrease in the level of TNF-α have been observed, which may indicate a potential anti-inflammatory mechanism of the drug.",
+        "label_text": "cerebral blood flow indicators"
+    },
+    {
+        "source": "原文 : Странствуя по улочкам Петербурга, мы с подругами решили заглянуть в это многообещающее заведение - и не прогадали!",
+        "hyp": "文 4 : Wandering through the streets of St. Petersburg, my friends and I decided to check out this promising establishment - and we didn't regret it!",
+        "label_text": "didn't regret it"
+    },
+    {
+        "source": "原文 : Пациенты в зависимости от степени атеросклеротического стеноза внутренней сонной артерии и картины глазного дна были разделены на две группы.",
+        "hyp": "文 4 : Patients were divided into two groups based on the degree of atherosclerotic stenosis of the internal carotid artery and the appearance of the fundus of the eye.",
+        "label_text": "appearance"
+    },
+    {
+        "source": "原文 : График работы, с 10.00 до 21.00, без выходных и праздничных дней.",
+        "hyp": "文 1 : Work hours are from 10:00 AM to 9:00 PM, open daily including weekends and holidays.",
+        "label_text": "including"
+    },
+    {
+        "source": "原文 : Я ему рассказывала обо всех своих страхах, о всех переживаниях, о том, что я боюсь, что у меня не получится, и просила у него какого-то совета и помощи, и он с радостью этот совет и эту помощь мне давал.",
+        "hyp": "文 3 : I told him about all my fears, about all my worries, about how I'm afraid that I won't succeed, and I asked him for some advice and help, and he happily gave me that advice and help.",
+        "label_text": "worries"
+    },
+    {
+        "source": "原文 : Не спать, не есть сутками - и все равно, хоть гром, хоть град.",
+        "hyp": "文 1 : To go without sleep, without food for days on end - and still, come hell or high water.",
+        "label_text": "and still"
+    },
+    {
+        "source": "原文 : Процесс выглядит следующим образом: самолеты на расстоянии 50-100 километров от Москвы (в зависимости от длины и мощности дождевого фронта) “разбивают” этими реагентами тучи, идущие на город. Частицы веществ конденсируют вокруг себя влагу.",
+        "hyp": "文 2 : The process looks as follows: planes at a distance of 50-100 kilometers from Moscow (depending on the length and strength of the rain front) \"break up\" the clouds heading towards the city with these reagents. The particles of the substances condense moisture around themselves.",
+        "label_text": "themselves"
+    },
+    {
+        "source": "原文 : При анализе данных мф-ЭРГ в исследуемой группе обнаружено статистически значимое по сравнению с группой контроля снижение плотности биопотенциала Р1 (нВ/град<sup>2</sup>) центральной зоны сетчатки (0—27,7°; <i>p</i><0,05), отличия латентности Р1 (ms) были статистически незначимы (<i>p</i>>0,05).",
+        "hyp": "文 4 : In analyzing the mf-ERG data in the study group, a statistically significant reduction in the bio-potential density of P1 (nV/deg²) in the central zone of the retina (0—27.7°; p<0.05) was observed compared to the control group. The differences in the latency of P1 (ms) were not statistically significant (p>0.05).",
+        "label_text": "p<0.05"
+    }
+]

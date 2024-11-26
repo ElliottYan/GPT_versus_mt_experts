@@ -1,0 +1,62 @@
+[
+    {
+        "source": "原文 : Риторика потому, что подобный случай, повторю, со мной происходит уже третий раз.",
+        "hyp": "文 3 : Rhetoric, because, I repeat, such an incident is happening to me for the third time.",
+        "label_text": "Rhetoric"
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 1 : After a slight decrease in the number of participants in the protest actions last Tuesday compared to the first two \"days of mobilization,\" the unions hope to bring a larger number of protesters to the streets this time, taking into account those citizens who were unable to participate in the weekday demonstrations.",
+        "label_text": "in the weekday "
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 1 : The scene of the annihilation of the Ninth Legion, which consumed a significant portion of the budget, was directly inspired by the opening sequence in the Germanic forests from the now classic \"Gladiator\" by Sir Ridley Scott. However, there's no desire to accuse Marshall of plagiarism for some reason: he works honestly and without pretense.",
+        "label_text": "However"
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 1 : The scene of the annihilation of the Ninth Legion, which consumed a significant portion of the budget, was directly inspired by the opening sequence in the Germanic forests from the now classic \"Gladiator\" by Sir Ridley Scott. However, there's no desire to accuse Marshall of plagiarism for some reason: he works honestly and without pretense.",
+        "label_text": "However"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 5 : All cases in which diseases are indicated as the initial cause of death (ICD) have been selected (all codes for external causes, injuries, and poisonings are excluded).",
+        "label_text": "All"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 5 : All cases in which diseases are indicated as the initial cause of death (ICD) have been selected (all codes for external causes, injuries, and poisonings are excluded).",
+        "label_text": " All"
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 2 : Founded on centuries of history and mutual respect, the unbreakable Armenian-Iranian relations hold special significance for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 2 : Founded on centuries of history and mutual respect, the unbreakable Armenian-Iranian relations hold special significance for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 3 : The most challenging film of \"Kinotavr\" has already been selected for the Karlovy Vary competition—a directorial star is born.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Я конкретно про \"лягушонок\", Тренер наш Анастасия Витальевна очень нравится ребенку и профессиональна!!",
+        "hyp": "文 2 : I'm specifically talking about \"little froggy.\" Our coach, Anastasiya Vitalyevna, is very much liked by the child and is professional!",
+        "label_text": "Our"
+    },
+    {
+        "source": "原文 : Уверен, что закаленные в атмосфере взаимного уважения и доверия армяно-иранские дружеские отношения в дальнейшем будет иметь еще большие достижения на благо народов Армении и Ирана.",
+        "hyp": "文 5 : I am confident that the Armenian-Iranian friendly relations, forged in an atmosphere of mutual respect and trust, will achieve even greater accomplishments for the benefit of the peoples of Armenia and Iran in the future.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Финчер и Соркин никогда не закроют книгу, если в ней будет хоть малейший намек на нечто подобное.",
+        "hyp": "文 2 : Fincher and Sorkin would never close the book if there's even the slightest hint of anything like that.",
+        "label_text": " would"
+    }
+]

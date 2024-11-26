@@ -1,0 +1,127 @@
+[
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 1 : If the mounting part of front view camera of front windshield or the sensor is blocked by snow, rain and other foreign matters, the detection performance of the sensor will be reduced, which will lead to suspension or disabling of FCA function.",
+        "label_text": "reduced"
+    },
+    {
+        "source": "原文 : \"轮胎气压监测系统(TPMS)通过位于轮胎内的传感器检测轮胎气压是否低，以此监测车辆行驶时的轮胎滚动半径和振动方面的变化。为了轮胎气压监测系统(TPMS)的正常运行，需要执行系统初始化并保存当前轮胎气压值。轮胎气压监测系统(TPMS)初始化后，当一个或多个轮胎的气压明显低于保存的轮胎气压值时，仪表盘上的警告灯亮。轮胎气压监测系统(TPMS)存在故障时，[TPMS]故障警告灯亮。\"",
+        "hyp": "文 4 : The tire pressure monitoring system (TPMS) detects whether the tire pressure is low through sensors located in the tire, so as to monitor the changes of tire rolling radius and vibration during driving. It is necessary to initialize TPMS and save the current tire pressure value to run the system normally. After TPMS is initialized, if the tire pressure of one or more tires is obviously lower than the saved value, the warning light on the instrument panel will be on. In case of a fault in TPMS, the [TPMS] fault warning light will be on.",
+        "label_text": "tire pressure monitoring system"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心，打造出高科技感与活力感并存的数字化智能座舱，简约高贵的内饰设计，将车内空间感提升到极致",
+        "hyp": "文 1 : With the driver as the center, we will create a digital intelligent cab with a sense of high technology and vitality. The simple and noble interior design enhances the sense of space inside the vehicle to the extreme.",
+        "label_text": "cab "
+    },
+    {
+        "source": "原文 : 以驾驶者为中心，打造出高科技感与活力感并存的数字化智能座舱，简约高贵的内饰设计，将车内空间感提升到极致",
+        "hyp": "文 1 : With the driver as the center, we will create a digital intelligent cab with a sense of high technology and vitality. The simple and noble interior design enhances the sense of space inside the vehicle to the extreme.",
+        "label_text": "extreme"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心，打造出高科技感与活力感并存的数字化智能座舱，简约高贵的内饰设计，将车内空间感提升到极致",
+        "hyp": "文 1 : With the driver as the center, we will create a digital intelligent cab with a sense of high technology and vitality. The simple and noble interior design enhances the sense of space inside the vehicle to the extreme.",
+        "label_text": "extreme"
+    },
+    {
+        "source": "原文 : 而全新副车架的加入，将负荷有效分散至前/后装配支架上，在提升强度的同时，也进一步改善了行驶的震动和不平顺性。",
+        "hyp": "文 5 : The brand-new subframe effectively distributes the load to the front/rear assembly bracket, which not only improves the strength, but also further relieves the vibration and unevenness during driving.",
+        "label_text": "relieves"
+    },
+    {
+        "source": "原文 : 第五代途胜L 8AT的1.5T发动机采用全球首创的CVVD连续可变气门持续期技术，可根据巡航行驶、加速行驶等情况，合理控制气门开启持续时间，无需在性能和燃油效率之间妥协，可实现性能提升4%、能耗降低5%、排放减少12%。",
+        "hyp": "文 3 : The 1.5T engine of the fifth-generation TUCSON L 8AT features the world's first continuously variable valve duration (CVVD) technology. It can reasonably control the valve opening duration according to cruise and acceleration conditions, without compromising between performance and fuel efficiency, and can achieve performance improvement of 4%, energy consumption reduction of 5% and emission reduction of 12%.",
+        "label_text": "TUCSON"
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 1 : After the vehicle leaves the road, the driving difficulty suddenly increases, and the test for the vehicle becomes more severe. The vehicle must not only have a strong power and output the power without interruption, but also be easy to be controlled smoothly. In case of a sudden increase of the power output, it will easily get stuck in the sand. In addition, due to complicated and changeable road conditions, the overall quality of the vehicle shall be absolutely excellent.",
+        "label_text": "quality"
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 3 : The comprehensive power of the whole hybrid system is 193 HP and 350 N·m. As for the transmission system, the vehicle adopts 6AT, instead of E-CVT like Toyota and Honda. It is still a traditional tachometer on the instrument panel.",
+        "label_text": "It"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 2 : When the brake pedal is fully pressed, the braking force is still not strong enough, and the grip of tires is also very general, so the vehicle has an obvious tendency to slide forward. The results of ten consecutive tests are all around 43 m, which is not satisfactory. The vehicle only gets 0.9 points out of 5 points in the braking link, which is far below the average in the same class.",
+        "label_text": "pressed"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 2 : When the brake pedal is fully pressed, the braking force is still not strong enough, and the grip of tires is also very general, so the vehicle has an obvious tendency to slide forward. The results of ten consecutive tests are all around 43 m, which is not satisfactory. The vehicle only gets 0.9 points out of 5 points in the braking link, which is far below the average in the same class.",
+        "label_text": "braking link"
+    },
+    {
+        "source": "原文 : 在全力踩下刹车踏板时，制动力依旧不够强，再加上轮胎的抓地力也很一般，车辆有着明显的向前滑动的趋势。十次连续测试的成绩都在43米上下，表现不能令人满意，在满分5分的刹车环节只拿到0.9分，远低于同级别平均水平。",
+        "hyp": "文 2 : When the brake pedal is fully pressed, the braking force is still not strong enough, and the grip of tires is also very general, so the vehicle has an obvious tendency to slide forward. The results of ten consecutive tests are all around 43 m, which is not satisfactory. The vehicle only gets 0.9 points out of 5 points in the braking link, which is far below the average in the same class.",
+        "label_text": "pressed"
+    },
+    {
+        "source": "原文 : 流线型车身线条优雅而动感，让人感受到强烈的视觉冲击力。车辆的细节处理也非常到位，无论是车灯、进气口还是车身线条，都展现出精湛的工艺水平。",
+        "hyp": "文 4 : The streamlined body lines are elegant and dynamic, making people feel strong visual impact. The details of the vehicle are also handled very well. Headlights, air inlets and body lines all show exquisite craftsmanship.",
+        "label_text": " air inlets"
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 2 : The design of the new vehicle remains unchanged, the latest family-style face is adopted, and the rim is of a style of the Progressive edition currently on sale. It should be an entry-level model. The length, width and height of the vehicle are 4750, 1820 and 1488 mm respectively, and the wheelbase is 2730 mm, which are consistent with those of the current model.",
+        "label_text": "edition"
+    },
+    {
+        "source": "原文 : 检查制动油/离合器油储油罐中的制动油/离合器油䟿。油䟿应在储油罐侧面的“上限(MAX)”与“下限(MIN)”标记之间。能使用符合[DOT4]㿴格的液压制动油/离合器油。",
+        "hyp": "文 3 : Check the brake fluid/clutch oil level in the brake fluid/clutch oil storage tank. The oil level should be between the \"MAX\" and \"MIN\" marks on the side of the oil storage tank. You can use hydraulic brake fluid/clutch oil meeting [DOT4] specifications.",
+        "label_text": "oil "
+    },
+    {
+        "source": "原文 : 作为换代车型，产品的硬件部分，包括动力都会有提升，但相比于过去大众技术为先的理念，这代大众可能并没有突破性的变革，但仍然会让消费者有全方位的新认知。",
+        "hyp": "文 3 : The product is an upgraded model. Its hardware, including power, is improved. However, due to Volkswagen's past concept of technology first, this generation of Volkswagen vehicles may not have a breakthrough change, but will still give consumers a full range of new cognition.",
+        "label_text": "cognition"
+    },
+    {
+        "source": "原文 : 天籁全力刹车时车身也有明显前倾，但这款车给人的印象一贯是偏向舒适性，悬架偏软，相对来说这种车身姿态比预想中的要好一些。",
+        "hyp": "文 4 : Teana's body also leans forward obviously during braking with full force, but this model always gives an impression of comfort to people. Its suspension is soft. Relatively speaking, this body posture is better than expected.",
+        "label_text": " body posture"
+    },
+    {
+        "source": "原文 : 天籁全力刹车时车身也有明显前倾，但这款车给人的印象一贯是偏向舒适性，悬架偏软，相对来说这种车身姿态比预想中的要好一些。",
+        "hyp": "文 4 : Teana's body also leans forward obviously during braking with full force, but this model always gives an impression of comfort to people. Its suspension is soft. Relatively speaking, this body posture is better than expected.",
+        "label_text": "body posture"
+    },
+    {
+        "source": "原文 : 新一代大众Passat旅行版也提供大嘴进气格栅以及眼尾上提的“小恶魔”大灯，构成了最具特点的两部分。同时，前包围两侧的竖向进气口也得以保留，但在车头线条部分做了适当的简化处理，这也是为了契合目前国内汽车市场的审美偏好。",
+        "hyp": "文 1 : The new generation of Volkswagen Passat Travel Edition is also provided with a large-mouth air intake grille and \"Little Devil\" headlights with eyetail upwards, which constitute the two most distinctive parts. In addition, the vertical air inlets on both sides of the front surrounding are also reserved, but the front lines are appropriately simplified, which aims to meet the aesthetic preference of the current domestic automobile market.",
+        "label_text": "eyetail"
+    },
+    {
+        "source": "原文 : SCC/LKA此组显示智能巡航控制(SCC)功能和车道保持辅助(LKA)功能的运行状态。",
+        "hyp": "文 3 : SCC/LKA: This group displays the running status of smart cruise control (SCC) function and lane keeping assist (LKA) function.",
+        "label_text": "running"
+    },
+    {
+        "source": "原文 : 新能源车依然保持在增长的快车道，48.05万辆的销量同比增长了117.24%，新能源化比重超过了25%。燃油车也在持续11个月同比下滑之后，首次取得了正增长，虽然增幅只有1.44%。",
+        "hyp": "文 2 : NEVs are still in the fast lane of growth, with a sales volume of 480,500 units, up 117.24% year-on-year. The proportion of electrification exceeded 25%. After a continuous 11 months of year-on-year decline, fuel vehicles also achieve a positive growth for the first time, although the growth rate is only 1.44%.",
+        "label_text": "The proportion of electrification"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 3 : If you buy a used car, you should confirm and delete the registered Bluetooth key. In addition, please inform the customer service center or dealer about the condition of the used car you purchased.",
+        "label_text": " you should"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 4 : Press the button on the display screen of the IVI system as follows: Settings → Vehicles → Digital Keys → Digital Keys List → Select Users → Delete.",
+        "label_text": "Press"
+    },
+    {
+        "source": "原文 : 按照如下所示按下信息娱乐系统显示屏上的按钮：设置→车辆→数字钥匙→数字钥匙列表→选择用户→删除。",
+        "hyp": "文 4 : Press the button on the display screen of the IVI system as follows: Settings → Vehicles → Digital Keys → Digital Keys List → Select Users → Delete.",
+        "label_text": "display screen"
+    },
+    {
+        "source": "原文 : smart fortwo没有理所当然地搭载奔驰发动机，而是搭载了三菱3B21T这款1.0L增压发动机。普通版本smart fortwo最大功率84马力（62kW)/5250rpm，最大扭矩120N·m，博速（BRABUS版）smart最大功率102马力（75kW)/6000rpm，最大扭矩147N·m。",
+        "hyp": "文 2 : Smart fortwo is not equipped with Benz engine, but with Mitsubishi 3B21T, a 1.0L supercharged engine. For the normal version of smart fortwo, the maximum power is 84 HP (62 kW)/5250 rpm, and the maximum torque is 120 N·m; For BRABUS smart, the maximum power is 102 HP (75 kW)/6000 rpm, and the maximum torque is 147 N m.",
+        "label_text": "normal"
+    }
+]

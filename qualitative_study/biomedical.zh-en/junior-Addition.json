@@ -1,0 +1,62 @@
+[
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 1 : In the other 690 reports, the main adverse reactions include digestive problems (stomach discomfort, loss of appetite, abdominal pain, nausea/vomiting, etc., accounting for 2.99%), rash (0.20%), pruritus (0.14%), and facial edema (0.15%).",
+        "label_text": "accounting for "
+    },
+    {
+        "source": "原文 : 认为本品抑制血小板环加氧酶-1（COX-1）与阿司匹林的结合。",
+        "hyp": "文 2 : It is believed that this product can inhibit the binding of platelet cyclooxygenase-1 (COX-1) to aspirin.",
+        "label_text": "can "
+    },
+    {
+        "source": "原文 : 认为本品抑制血小板环加氧酶-1（COX-1）与阿司匹林的结合。",
+        "hyp": "文 2 : It is believed that this product can inhibit the binding of platelet cyclooxygenase-1 (COX-1) to aspirin.",
+        "label_text": "can "
+    },
+    {
+        "source": "原文 : 这种超敏反应复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 3 : When relapse happens, the symptoms of this hypersensitivity reaction are generally more severe than those of the initial episode, which may include life-threatening low blood pressure and even death.",
+        "label_text": "reaction"
+    },
+    {
+        "source": "原文 : \"心衰患者缺氧和肾功能不全的风险更高。稳定性慢性心衰的患者在定期检查心、肾功能的情况下可以服用二甲双胍。\"",
+        "hyp": "文 4 : Heart failure patients have an increased risk of hypoxia and renal insufficiency. Patients with stable chronic heart failure can safely use metformin while undergoing regular monitoring of their cardiac and renal function.",
+        "label_text": "safely "
+    },
+    {
+        "source": "原文 : 使用这些药品观察到的超敏反应（下文所述）有一些共同特征，例如发热和／或皮疹，以及提示累及多器官的其他症状。",
+        "hyp": "文 3 : The hypersensitivity reactions observed with the use of these medications (as described below) exhibit some common features, such as fever and/or rash, as well as other symptoms that suggest the involvement of multiple organs.",
+        "label_text": "reactions"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 1 : The method's analytical performances, including sensitivity, specificity, and linear range were further validated. The results showed that in the same reaction system, the response range of katG315 was 1.0 pmol/L to 0.1 nmol/L, while that of rpoB531 and rpsL43 was 1.0 pmol/L to 50.0 pmol/L and 1.0 pmol/L to 20.0 pmol/L, respectively. The method exhibited good specificity and sensitivity, accurately identifying single-base mutations in mixed targets with a low limit of detection of 1.0 pmol/L. In the recovery experiment using simulated serum samples, the recovery rates ranged from 95.0% to 105.2%.",
+        "label_text": "rates"
+    },
+    {
+        "source": "原文 : 几乎所有发生超敏反应的患者会存在发热和／或皮疹（通常是斑丘疹或荨麻疹）作为综合征的一部分，但也发生过没有皮疹或发热的反应。",
+        "hyp": "文 1 : Almost all patients experiencing a hypersensitivity reaction exhibited fever and/or rash (usually maculopapular or urticarial) as part of the syndrome, but reactions without rash or fever were also observed.",
+        "label_text": "reaction"
+    },
+    {
+        "source": "原文 : 本品对紫外线红斑（豚鼠）及角叉菜胶水肿（大鼠）急性炎症的ID50（经口给药）分别为4.4mg/kg、22 mg/kg，比阿司匹林的各值均有效。",
+        "hyp": "文 4 : This product demonstrates an ID50 (oral administration) of 4.4 mg/kg for UV erythema (guinea pigs) and 22 mg/kg for carrageenan-induced paw edema (rats), both values being superior to that of aspirin.",
+        "label_text": "paw"
+    },
+    {
+        "source": "原文 : 继续治疗会使与超敏反应相关的症状加重，可能危及生命，罕见情况下可能致命。",
+        "hyp": "文 3 : Continuing the treatment may exacerbate symptoms associated with hypersensitivity reactions, potentially posing a life-threatening risk. In rare cases, it could even be fatal.",
+        "label_text": "reactions"
+    },
+    {
+        "source": "原文 : 在10~30mg/kg/日剂量下对佐剂性关节炎的慢性炎症有抑制作用，效果是阿司匹林的5~10倍。",
+        "hyp": "文 4 : At daily doses of 10–30 mg/kg, this product significantly inhibits chronic inflammation associated with adjuvant arthritis, demonstrating an effectiveness 5–10 times greater than aspirin.",
+        "label_text": "significantly"
+    },
+    {
+        "source": "原文 : 塞浦路斯卫生部10日宣布该国首次确诊3例奥密克戎毒株感染病例。",
+        "hyp": "文 4 : On the 10th, the Ministry of Health in Cyprus announced the first confirmation of three cases of Omicron variant infection in the country.",
+        "label_text": "variant"
+    }
+]

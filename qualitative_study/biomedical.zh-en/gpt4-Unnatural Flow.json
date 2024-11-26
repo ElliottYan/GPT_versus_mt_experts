@@ -1,0 +1,137 @@
+[
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 4 : In the product report from Yuan Research, out of the 17,485 total cases, there were 532 instances of adverse reactions (3.04%).",
+        "label_text": "17,485 total cases"
+    },
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 4 : In the product report from Yuan Research, out of the 17,485 total cases, there were 532 instances of adverse reactions (3.04%).",
+        "label_text": "In the product report from Yuan Research, out of the 17,485 total cases"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Aplastic anemia, hemolytic anemia, granulocytopenia, and thrombocytopenia (all with unknown frequency) may occur. Therefore, close monitoring is necessary, and if any abnormalities are detected, the medication should be discontinued and appropriate measures taken.",
+        "label_text": "(all with unknown frequency)"
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Digestive ulcers, gastrointestinal bleeding, and ulcerative colitis (all with unknown frequency) may occur. If any abnormalities are detected, discontinue the medication and take appropriate measures.",
+        "label_text": "(all with unknown frequency) "
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Acute renal failure, interstitial nephritis, and nephrotic syndrome (all with unknown frequency) may occur. Therefore, close monitoring is necessary. If symptoms such as oliguria, hematuria, proteinuria, elevated BUN/creatinine levels, hyperkalemia, or hypoproteinemia occur, discontinue the medication and take appropriate measures.",
+        "label_text": "(all with unknown frequency)"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 4 : If the buyer urgently needs the product or there are time constraints, it is recommended to choose SF Express and opt for freight collect. SF Express is relatively more reliable. Please wait for the shipping cost to be adjusted before making the payment.",
+        "label_text": "opt for freight collect. SF Express is relatively more reliable"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 4 : If the buyer urgently needs the product or there are time constraints, it is recommended to choose SF Express and opt for freight collect. SF Express is relatively more reliable. Please wait for the shipping cost to be adjusted before making the payment.",
+        "label_text": "opt for freight collect. SF Express is relatively more reliable"
+    },
+    {
+        "source": "原文 : 不能期待一个两岁的孩子具有足够的自我保护技能，但作为年幼孩子的家长，应至少具有相当的保护意识。",
+        "hyp": "文 1 : You can't expect a two-year-old child to have sufficient self-protection skills, but as the parent of a young child, you should at least have a considerable awareness of protection.",
+        "label_text": "have a considerable awareness of protection"
+    },
+    {
+        "source": "原文 : 8.对其他非甾体抗炎药过敏者；",
+        "hyp": "文 2 : 8. For those allergic to other nonsteroidal anti-inflammatory drugs;",
+        "label_text": "For those "
+    },
+    {
+        "source": "原文 : 所谓古着，vintage，设计都会带有年代的复古感，也就是怀旧，之所以喜欢古着也是喜欢它的岁月感，和它的质感！",
+        "hyp": "文 5 : The so-called vintage clothing, or \"vintage,\" features a retro vibe from a bygone era, which is essentially a sense of nostalgia. The reason I like vintage clothes is precisely because of their sense of age and their texture!",
+        "label_text": "The so-called vintage clothing, or \"vintage,\" features a retro vibe from a bygone era"
+    },
+    {
+        "source": "原文 : 磁共振成像水脂分离技术在多发性骨髓瘤患者中的应用研究. 探讨磁共振成像水脂分离（Dixon）技术在多发性骨髓瘤患者中应用的临床意义. 将2019年4月至2021年4月于青岛大学附属医院行Dixon技术检查的初诊多发性骨髓瘤患者共41例纳入本研究。",
+        "hyp": "文 5 : Research on the Application of Magnetic Resonance Imaging Water-Fat Separation Technique in Patients with Multiple Myeloma. This study investigates the clinical significance of the Dixon water-fat separation technique in magnetic resonance imaging (MRI) for patients with multiple myeloma. A total of 41 newly diagnosed multiple myeloma patients who underwent Dixon technique imaging at the Affiliated Hospital of Qingdao University from April 2019 to April 2021 were included in this study.",
+        "label_text": "Dixon water-fat separation technique in magnetic resonance imaging (MRI)"
+    },
+    {
+        "source": "原文 : 磁共振成像水脂分离技术在多发性骨髓瘤患者中的应用研究. 探讨磁共振成像水脂分离（Dixon）技术在多发性骨髓瘤患者中应用的临床意义. 将2019年4月至2021年4月于青岛大学附属医院行Dixon技术检查的初诊多发性骨髓瘤患者共41例纳入本研究。",
+        "hyp": "文 5 : Research on the Application of Magnetic Resonance Imaging Water-Fat Separation Technique in Patients with Multiple Myeloma. This study investigates the clinical significance of the Dixon water-fat separation technique in magnetic resonance imaging (MRI) for patients with multiple myeloma. A total of 41 newly diagnosed multiple myeloma patients who underwent Dixon technique imaging at the Affiliated Hospital of Qingdao University from April 2019 to April 2021 were included in this study.",
+        "label_text": "Dixon water-fat separation technique in magnetic resonance imaging (MRI)"
+    },
+    {
+        "source": "原文 : 学员通过点播课件、提问答疑、网上讨论等方式进行学习。",
+        "hyp": "文 5 : Students engage in learning through methods such as on-demand courseware, asking questions for clarification, and online discussions.",
+        "label_text": "asking questions for clarification"
+    },
+    {
+        "source": "原文 : 龙眼肉还能润肤美容，养血安神,,补益心脾，壮阳益气，贫血的人也适合服用，失眠者也适合。",
+        "hyp": "文 3 : Longan flesh can also moisturize the skin and beautify the complexion, nourish the blood and calm the mind, strengthen the heart and spleen, invigorate yang and boost energy. It is also suitable for people with anemia and those who suffer from insomnia.",
+        "label_text": "invigorate yang and boost energy"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 5 : Severe infections and trauma, major surgical operations, clinically presenting with low blood pressure and hypoxia, among others.",
+        "label_text": "major surgical operations, clinically presenting with"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 4 : 2) When this product is used in conjunction with furosemide (frusemide), the latter's sodium excretion and blood pressure-lowering effects are diminished; when used with antihypertensive drugs, it also reduces the blood pressure-lowering effects of the latter.",
+        "label_text": "furosemide (frusemide)"
+    },
+    {
+        "source": "原文 : 李先生一开始以为是足浴盆的振动功能引起的，没想到关了振动功能，父亲还是感觉到脚底麻麻的。",
+        "hyp": "文 2 : Initially, Mr. Li thought it was the vibration function of the footbath that was causing it, but to his surprise, even after turning off the vibration, his father still felt a tingling sensation in the soles of his feet.",
+        "label_text": "turning off the vibration"
+    },
+    {
+        "source": "原文 : 针灸科的服务阵地不断萎缩的主要原因为：以病分科的趋势分流了针灸科的许多适宜病种；追求经济效益的大环境导致以“简便验廉”为特点的针灸疗法发展受到制约。",
+        "hyp": "文 3 : The main reasons for the continuous decline of the acupuncture department's services are: the trend of categorizing illnesses has diverted many conditions suitable for acupuncture treatment; and the pursuit of economic benefits in the broader context has restricted the development of acupuncture therapy, which is characterized by being simple, effective, and inexpensive.",
+        "label_text": "the continuous decline of the acupuncture department's services"
+    },
+    {
+        "source": "原文 : 塞浦路斯卫生部10日宣布该国首次确诊3例奥密克戎毒株感染病例。",
+        "hyp": "文 2 : The Cyprus Ministry of Health announced on the 10th that the country has confirmed its first three cases of infection with the Omicron variant.",
+        "label_text": "Cyprus Ministry of Health"
+    },
+    {
+        "source": "原文 : 本品的前列腺素合成抑制作用造成的肾损害加剧了他莫克司水合物的肾损害。",
+        "hyp": "文 5 : The prostaglandin synthesis inhibitory effect of this product exacerbates the renal damage caused by tamsulosin hydrochloride.",
+        "label_text": "The prostaglandin synthesis inhibitory effect of this product"
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 2 : The polymorphism of the N-acetyltransferase 2 (NAT2) gene (<i>NAT2</i>) genotype and the NAT2 enzyme phenotype significantly affects the plasma concentration of isoniazid.",
+        "label_text": " (NAT2) gene (<i>NAT2</i>)"
+    },
+    {
+        "source": "原文 : 月经无法控制，开始到结束为止的几天内24小时流血，能做的只有用卫生巾或卫生棉条吸血防止流到衣服椅子上。",
+        "hyp": "文 3 : My period is uncontrollable, bleeding 24 hours a day from start to finish. All I can do is use sanitary pads or tampons to absorb the blood and prevent it from getting on my clothes and chairs.",
+        "label_text": "My period is uncontrollable, bleeding 24 hours a day from start to finish"
+    },
+    {
+        "source": "原文 : 进入大学本科阶段，专业开始细分，很多专业课程以基础知识为主。",
+        "hyp": "文 4 : Upon entering the undergraduate phase of university, majors begin to specialize, with many major courses focusing primarily on foundational knowledge.",
+        "label_text": "majors begin to specialize"
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 3 : An analysis was conducted on the aggregated data from Phase IIb to IIIb clinical trials, and the results revealed that the observed adverse reactions from the combination therapy of doravirine + abacavir/lamivudine were generally consistent with the adverse reaction profiles of the individual components doravirine, abacavir, and lamivudine.",
+        "label_text": " the individual components doravirine, abacavir, and lamivudine"
+    },
+    {
+        "source": "原文 : 白木耳的作用：味甘、性平，归肺、胃、肾经；有强精、补肾、润肠、益胃、补气、和血、强心、滋阴、润肺、生津、壮身、补脑、提神、美容、嫩肤、延年益寿之功效；用于治肺热咳嗽、肺燥干咳、妇女月经不调、胃炎、大便秘结等病症；对阴虚火旺不受参茸等温热滋补的病人是一种良好的补品",
+        "hyp": "文 3 : The benefits of white fungus: It has a sweet taste and neutral properties, and it is associated with the lung, stomach, and kidney meridians. It is believed to enhance vitality, nourish the kidneys, moisten the intestines, benefit the stomach, boost energy, harmonize the blood, strengthen the heart, nourish yin, moisten the lungs, generate body fluids, invigorate the body, nourish the brain, refresh the mind, beautify the skin, soften the skin, and promote longevity. It is used to treat symptoms such as lung heat with cough, dry cough due to lung dryness, irregular menstruation in women, gastritis, and constipation. For patients who cannot tolerate warm and heaty tonics such as ginseng and deer antler due to yin deficiency and excessive internal heat, white fungus is an excellent supplement.",
+        "label_text": "The benefits of white fungus: It has a sweet taste and neutral properties, and it is associated with the lung, stomach, and kidney meridians."
+    },
+    {
+        "source": "原文 : 对于轻度肝损害（Child-Pugh 5-6分）患者，需要密切监测，如可行，包括监测阿巴卡韦血浆水平（见【注意事项】和【药代动力学】）。",
+        "hyp": "文 4 : For patients with mild liver impairment (Child-Pugh score 5-6), close monitoring is required, including, if feasible, monitoring of abacavir plasma levels (see \"Precautions\" and \"Pharmacokinetics\").",
+        "label_text": " including, if feasible, "
+    },
+    {
+        "source": "原文 : 但是人能出生是因为他的母亲来过月经，月经是为了准备你第一次来到这个世界时要住10个月的房子，大家要感谢自己的母亲规律健康的来过月经。",
+        "hyp": "文 2 : But people are born because their mothers have had menstrual cycles. Menstruation prepares the womb, the 'house' you live in for the first ten months when you come into this world. We should all be grateful to our mothers for having regular and healthy menstrual cycles.",
+        "label_text": "the 'house' you live in for the first ten months when you come into this world"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "source": "原文 : Врач уточняет, что небольшие дозы алкогольных напитков способствуют расслаблению и не влияют на сон.",
+        "hyp": "文 4 : The doctor clarifies that small doses of alcoholic drinks help to relax and don't affect sleeping.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Врач уточняет, что небольшие дозы алкогольных напитков способствуют расслаблению и не влияют на сон.",
+        "hyp": "文 4 : The doctor clarifies that small doses of alcoholic drinks help to relax and don't affect sleeping.",
+        "label_text": "sleeping"
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 4 : After the number of participants in protest actions initiated last Tuesday slightly decreased as compared with the first two “days of mobilization”, the trade unions hope to bring more protesters to the streets this time, taking into account the citizens who were not able to participate in the demonstrations on a weekday.",
+        "label_text": "on a weekday"
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 1 : The author's interest is focused on both a screwdriver exploring the electric meter and a piece of unsalted butter drifting across the cast-iron frying pan. All this transforms the story of an unemployed miner, his gap-toothed love-mate and her criminal brother into a real dock-canvas with oil painting.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 4 : Hereditary optic neuropathies (HON) represent a group of neurodegenerative diseases characterized by the primary loss of structure and function of retinal ganglion cells, with the following death of their axons and the development of partial optic atrophy.",
+        "label_text": "and "
+    },
+    {
+        "source": "原文 : В Англии, в портовом городе Грейт-Ярмут, в пятницу взорвалась авиабомба времен Второй мировой войны, которую пытались обезвредить саперы.",
+        "hyp": "文 2 : On Friday, in the port town of Great Yarmouth, England, a bomb from the Second World War, that sappers tried to defuse, exploded.",
+        "label_text": "that"
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 3 : By now, Rossoneri has  jumped up to third place in the table, gaining 41 points.",
+        "label_text": "has"
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 3 : By now, Rossoneri has  jumped up to third place in the table, gaining 41 points.",
+        "label_text": "has"
+    },
+    {
+        "source": "原文 : С борта МКС грузовой корабль приветствовали космонавты Сергей Прокопьев, Дмитрий Петелин и Анна Кикина.",
+        "hyp": "文 2 : The cargo spacecraft was greeted from on board of ISS by cosmonauts Sergei Prokopyev, Dmitry Petelin and Anna Kikina.",
+        "label_text": "from on board"
+    },
+    {
+        "source": "原文 : Как уверяет кинокомпания Рагатоипе, увольнение «не связано с тем интервью, в котором Фокс сравнила Майкла Бэя с Гитлером».",
+        "hyp": "文 1 : The Paramount film company insists that the dismissal “is not related to the interview when Fox compared Michael Bay to Hitler.”",
+        "label_text": "when"
+    },
+    {
+        "source": "原文 : Как уверяет кинокомпания Рагатоипе, увольнение «не связано с тем интервью, в котором Фокс сравнила Майкла Бэя с Гитлером».",
+        "hyp": "文 1 : The Paramount film company insists that the dismissal “is not related to the interview when Fox compared Michael Bay to Hitler.”",
+        "label_text": "when"
+    },
+    {
+        "source": "原文 : Это касается не только россиян, но и граждан других стран.",
+        "hyp": "文 3 : This applies not only to the Russians, but to the citizens of other countries.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Потому что просрать свой потенциал так, как Кокорин, не смог никто.",
+        "hyp": "文 2 : Because no one could squander its potential like Kokorin.",
+        "label_text": "its "
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 5 : The unshakable Armenian-Iranian relations rooted in centuries-old history and mutual respect, are especially important for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Основанные на многовековой истории и взаимном уважении нерушимые армяно-иранские отношения имеют особое значение для Республики Армения.",
+        "hyp": "文 5 : The unshakable Armenian-Iranian relations rooted in centuries-old history and mutual respect, are especially important for the Republic of Armenia.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 4 : The most problematic film of \"Kinotavr\" has already been selected for the Karlovy Vary competition: a director star is born.",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Уверен, что закаленные в атмосфере взаимного уважения и доверия армяно-иранские дружеские отношения в дальнейшем будет иметь еще большие достижения на благо народов Армении и Ирана.",
+        "hyp": "文 2 : I'm sure that the Armenian-Iranian friendly relations proved in the atmosphere of mutual respect and trust will achieve even higher levels in the future for the good of the people of Armenia and Iran.",
+        "label_text": "Armenian-Iranian"
+    },
+    {
+        "source": "原文 : Переход на армяно-турецкой границе открыли впервые за десятилетия для доставки гуманитарной помощи",
+        "hyp": "文 3 : For the first time in decades, the passage on the Armenian-Turkish border was opened  for delivery of humanitarian aid",
+        "label_text": "Armenian-Turkish"
+    },
+    {
+        "source": "原文 : Показания алкотестера составили 0,51 мг алкоголя на литр выдыхаемого воздуха.",
+        "hyp": "文 4 : The reading of the alcohol-screening device was 0.51 mg of alcohol per liter of exhaled air.",
+        "label_text": "The reading of the alcohol-screening"
+    },
+    {
+        "source": "原文 : Продолжение истории про школьницу Беллу (Кристен Стюарт) и ее сложные отношения с двумя крайне перспективными молодыми людьми — бледнолицым вампиром Эдвардом (Роберт Паттинсон) и оборотнем-культуристом Джейкобом (Тэйлор Лотнер).",
+        "hyp": "文 2 : Continuation of the tale about schoolgirl Bella (Kristen Stewart) and her complicated relationship with two extremely promising young men – a pale-faced vampire Edward (Robert Pattinson) and a werewolf-bodybuilder Jacob (Taylor Lautner).",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Продолжение истории про школьницу Беллу (Кристен Стюарт) и ее сложные отношения с двумя крайне перспективными молодыми людьми — бледнолицым вампиром Эдвардом (Роберт Паттинсон) и оборотнем-культуристом Джейкобом (Тэйлор Лотнер).",
+        "hyp": "文 2 : Continuation of the tale about schoolgirl Bella (Kristen Stewart) and her complicated relationship with two extremely promising young men – a pale-faced vampire Edward (Robert Pattinson) and a werewolf-bodybuilder Jacob (Taylor Lautner).",
+        "label_text": "a "
+    },
+    {
+        "source": "原文 : Разработка данных показателей в перспективе может привести к новому подходу в здравоохранении, направленному на повышение качества оказания медицинской помощи и на создание максимально комфортной среды для работников медицинской организации.",
+        "hyp": "文 2 : In the long run, the development of these indices may lead to a new approach in the healthcare system that is aimed at improvement of the quality of medical care and creation of the most comfortable environment for employees of a medical organization.",
+        "label_text": "that"
+    },
+    {
+        "source": "原文 : В статье изложены эпидемиологические и демографические характеристики патологического ожирения, по данным современной литературы.",
+        "hyp": "文 1 : The epidemiological and demographic characteristics of morbid obesity are described in the article according to modern literature.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : При прохождении регистрации участник обязан продемонстрировать судье закрепленный соответствующим образом нагрудный номер.",
+        "hyp": "文 1 : During registration, a participant shall demonstrate an appropriately attached bib number  to a judge.",
+        "label_text": "  "
+    },
+    {
+        "source": "原文 : Пусть годаровские монтажные ходы в истории о двух школьниках, один из которых мечтает сделать бомбу, а другой — сыграть Баха задом наперед, выглядят странно, но за редкую попытку поэтизации окружающей реальности — спасибо.",
+        "hyp": "文 2 : Though Godard’s montage methods look strange in the story of two schoolchildren, one of whom dreams to make a bomb, and the other — to play Bach backwards, but we thank him for a rare attempt to poeticize the surrounding reality.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : В Крыму проходят съемки интернационального боевика Максима Коростышевского под рабочим названием «Солдаты удачи».",
+        "hyp": "文 5 : The international action film by Maxim Korostyshevsky that is tentatively entitled “Soldiers of Fortune” is being filmed in the Crimea.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : СЮЖЕТ: Оттрубив свои четыре года, 18-летний зэк Сильвиу (Пистереану) скоро должен выйти на свободу, но неожиданно выясняет, что мать хочет забрать его младшего брата с собой в Италию.",
+        "hyp": "文 5 : PLOT: having spent his four years, 18-year-old prisoner Silviu (Pistereanu) is soon to get out of jail, but suddenly he finds out that his mother wants to take his younger brother with her to Italy.",
+        "label_text": "having"
+    }
+]

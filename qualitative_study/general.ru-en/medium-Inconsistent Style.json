@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : Показаниями к их удалению является миграция, развитие окклюзионной гидроцефалии и инфекционных осложнений.",
+        "hyp": "文 3 : The indications for removal thereof are migration, development of obstructive hydrocephalus and infectious complications.",
+        "label_text": "obstructive"
+    },
+    {
+        "source": "原文 : Протесты и апелляции, касающиеся права спортсменов участвовать в соревнованиях или его принадлежность к той или иной команде, подаются в аналогичном порядке в апелляционное жюри.",
+        "hyp": "文 5 : The objections and appeals regarding the athletes' rights to compete or their affiliation with a specific team are to be lodged in a similar way to the jury of appeal.",
+        "label_text": "to be lodged in"
+    },
+    {
+        "source": "原文 : Ваш партнер по фильму Александр Яценко совершенно не похож на своего героя.",
+        "hyp": "文 5 : Your partner in the film, Alexander Yatsenko, looks nothing like his character.",
+        "label_text": "character"
+    },
+    {
+        "source": "原文 : Их употребление перед сном стоит ограничивать, поскольку они не только мешают засыпанию, но и делают сон \"рваным\", а значит не дающим организму полноценно восстановиться.",
+        "hyp": "文 5 : The use thereof before bedtime should be limited, as they not only hinder falling asleep, but also lead to a discontinuous sleep, which means a body cannot fully recover.",
+        "label_text": "use thereof"
+    },
+    {
+        "source": "原文 : Были выявлены статистически значимые корреляционные связи между ИКЭФ и общим баллом по субтестам РАТ на понимание и воспроизведение речи до операции, но не в катамнезе.",
+        "hyp": "文 3 : There were statistically significant correlations between Communicative Effectiveness Index (CETI) and the total scores for subtests of Russian Aphasia Test (RAT) for speech comprehension and production before surgery but not in the follow-up period.",
+        "label_text": "There were"
+    }
+]

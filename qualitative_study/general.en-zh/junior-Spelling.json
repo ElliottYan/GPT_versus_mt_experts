@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : The thematic park includes miniature replicas that represent the monuments and other elements from the cultural heritage and patrimony in Portugal and world, divided into three thematic areas.",
+        "hyp": "文 3 : 主题公园包括代表葡萄牙和世界文化遗产和遗产的历史遗迹和其他元素的微缩复制品品，分为三个主题区。",
+        "label_text": "微缩复制品品"
+    },
+    {
+        "source": "原文 : I guess it was easier to break than they thought.",
+        "hyp": "文 4 : 我猜它比他们想像的更容易打破。",
+        "label_text": "想像"
+    }
+]

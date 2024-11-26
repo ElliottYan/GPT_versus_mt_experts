@@ -1,0 +1,57 @@
+[
+    {
+        "source": "原文 : Пресс-секретарь МИД Армении Ваан Унанян в свою очередь сообщил, что грузовики с гуманитарной помощью пересекли границу через мост Маргара и направляются в пострадавший от землетрясения регион.",
+        "hyp": "文 2 : The Armenian Foreign Ministry spokesperson Vahan Hunanyan, in his turn, said that the trucks with humanitarian aid had crossed the border via the Margara bridge and were heading to the earthquake-battered region.",
+        "label_text": "Hunanyan"
+    },
+    {
+        "source": "原文 : Пресс-секретарь МИД Армении Ваан Унанян в свою очередь сообщил, что грузовики с гуманитарной помощью пересекли границу через мост Маргара и направляются в пострадавший от землетрясения регион.",
+        "hyp": "文 2 : The Armenian Foreign Ministry spokesperson Vahan Hunanyan, in his turn, said that the trucks with humanitarian aid had crossed the border via the Margara bridge and were heading to the earthquake-battered region.",
+        "label_text": "Hunanyan"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 3 : This is somehow illogical (performing in the Ruki VVerkh bar, in the Ruki VVerkh Band).",
+        "label_text": "Ruki VVerkh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 3 : This is somehow illogical (performing in the Ruki VVerkh bar, in the Ruki VVerkh Band).",
+        "label_text": "Ruki VVerkh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 3 : This is somehow illogical (performing in the Ruki VVerkh bar, in the Ruki VVerkh Band).",
+        "label_text": "Ruki VVerkh"
+    },
+    {
+        "source": "原文 : Как-то это нелогично (выступая в баре Руки вверх, в группе Руки вверх Бэнд).",
+        "hyp": "文 3 : This is somehow illogical (performing in the Ruki VVerkh bar, in the Ruki VVerkh Band).",
+        "label_text": "Ruki VVerkh"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 4 : there were collected all the cases, in which diseases were indicated as the underlying cause of death (UCD) (all codes of external causes, injuries and poisonings were excluded).",
+        "label_text": "UCD"
+    },
+    {
+        "source": "原文 : отобраны все случаи, в которых в качестве первоначальной причины смерти (ППС) указаны заболевания (исключены все коды внешних причин, травм и отравлений).",
+        "hyp": "文 4 : there were collected all the cases, in which diseases were indicated as the underlying cause of death (UCD) (all codes of external causes, injuries and poisonings were excluded).",
+        "label_text": "UCD"
+    },
+    {
+        "source": "原文 : При утяжелении степени РПГИС пропорционально возрастают ишемические изменения во всех капиллярных слоях центральных отделов сетчатки по сравнению с группой контроля в 1,15 раза при легкой степени, в 1,24 раза при средней степени, в 1,5 раза при тяжелой степени.",
+        "hyp": "文 4 : With the increase in the degree of retinal manifestations of ocular ischemic syndrome (RMOIS), ischemic changes in all capillary layers of the central parts of the retina proportionally increase as compared with the control group by 1.15 times in case of mild degree, by 1.24 times in case of moderate degree, and by 1.5 times in case of severe degree.",
+        "label_text": "RMOIS"
+    },
+    {
+        "source": "原文 : Были выявлены статистически значимые корреляционные связи между ИКЭФ и общим баллом по субтестам РАТ на понимание и воспроизведение речи до операции, но не в катамнезе.",
+        "hyp": "文 3 : There were statistically significant correlations between Communicative Effectiveness Index (CETI) and the total scores for subtests of Russian Aphasia Test (RAT) for speech comprehension and production before surgery but not in the follow-up period.",
+        "label_text": "CETI"
+    },
+    {
+        "source": "原文 : При анализе данных мф-ЭРГ в исследуемой группе обнаружено статистически значимое по сравнению с группой контроля снижение плотности биопотенциала Р1 (нВ/град<sup>2</sup>) центральной зоны сетчатки (0—27,7°; <i>p</i><0,05), отличия латентности Р1 (ms) были статистически незначимы (<i>p</i>>0,05).",
+        "hyp": "文 1 : When analyzing the data of multifocal electroretinography (mfERG), a statistically significant decrease in the biopotential density P1 (nV/deg<sup>2</sup>) of the central retinal zone (0—27.7°; <i>p</i><0.05) was found in study patients as compared with the control group; the differences in the latency of P1 (ms) were statistically insignificant (<i>p</i>>0.05).",
+        "label_text": "deg"
+    }
+]

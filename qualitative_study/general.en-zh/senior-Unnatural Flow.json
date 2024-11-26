@@ -1,0 +1,72 @@
+[
+    {
+        "source": "原文 : He read my reply which said \"I'm so worried about you!",
+        "hyp": "文 2 : 他看了我的回复：“我很担心你！”。",
+        "label_text": "：“我很担心你！”。"
+    },
+    {
+        "source": "原文 : then i see hes posted a picture of them both that shes took saying 'love of my life'.",
+        "hyp": "文 3 : 后来，我看他发了张两人合照，她拍的，上面写着“一生挚爱”。",
+        "label_text": "我看他发了张两人合照，她拍的，上面写着“一生挚爱”。"
+    },
+    {
+        "source": "原文 : Basically, he was very disappointed in me, and actually took time to convince her that I didn’t feel like telling her, because it’s private to me... until today.",
+        "hyp": "文 2 : 那时，他对我极其失望，还特意向她解释，说我认为这是隐私，所以一直不想告诉她。今天，终于一切真相大白。",
+        "label_text": "还特意向她解释"
+    },
+    {
+        "source": "原文 : Just to clarify, when I say “anything” I mean anything within the FM’s current power.",
+        "hyp": "文 4 : 澄清一下，我所说的“一切”指的是外交部长权力范围内的资源。",
+        "label_text": "资源"
+    },
+    {
+        "source": "原文 : When I try to get it into the port to charge it, however, it launches right back out.",
+        "hyp": "文 5 : 我把它插进充电口时却弹了出来。",
+        "label_text": "却弹了出来"
+    },
+    {
+        "source": "原文 : Towards the end, my husband sends me a Facebook message saying he’s ready for her to leave (she’d been there 2 hours at this point) and then he starts passive-aggressive cleaning in front of us.",
+        "hyp": "文 3 : 快结束时，我丈夫给我发了一条 Facebook 消息，说他准备让她离开了（此时她已经在那里待了两个小时），然后他开始故意在我们面前打扫起卫生。",
+        "label_text": "快结束时"
+    },
+    {
+        "source": "原文 : so basically for A's i got 82 RP and wanted to go nus biz admin but didnt get in though im q sure my RP is good enough and my appeal was rejected 3 days ago welp :<<",
+        "hyp": "文 3 : 我A级拿了82RP点数，想去 nus biz admin，但没有被录取。虽然我很确定我的 RP 点数足够多，但还是失败了，而且我的上诉3 天前也被驳回了。",
+        "label_text": "点数"
+    },
+    {
+        "source": "原文 : Afaik, the concept of mini album is only around in kpop (maybe jpop?) I",
+        "hyp": "文 5 : 据我所知，只有韩国流行乐（也许是日本流行乐）才有迷你专辑的概念。",
+        "label_text": "也许是"
+    },
+    {
+        "source": "原文 : I don’t expect an apology from T, because she never has once ever apologized for anything she’s ever done wrong.",
+        "hyp": "文 5 : 我不指望T能向我道歉，毕竟她从来没有为自己做错的事道过歉。",
+        "label_text": "毕竟"
+    },
+    {
+        "source": "原文 : This molecule was theorized in 2000 and is characterized by an electron density distribution that resembles the shape of a trilobite when plotted in cylindrical coordinates.",
+        "hyp": "文 1 : 2000年提出了这一分子理论。这种分子的特点是在圆柱坐标中绘制的电子密度图类似于三叶虫形状。",
+        "label_text": " 2000年提出了这一分子理论"
+    },
+    {
+        "source": "原文 : As the diocese that was growing and the world was changing, Bishop Ahr took part in all four sessions of the Second Vatican Council, 1962-1965, and subsequently guided implementation of the council's decrees in the diocese.",
+        "hyp": "文 2 : 随着教区的发展和世界的变化，阿尔主教参加了 1962~1965 年梵蒂冈第二届大公会议的所有四次会议，并指导了大公会议法令在教区的实施。",
+        "label_text": "随着教区的发展和世界的变化"
+    },
+    {
+        "source": "原文 : As the diocese that was growing and the world was changing, Bishop Ahr took part in all four sessions of the Second Vatican Council, 1962-1965, and subsequently guided implementation of the council's decrees in the diocese.",
+        "hyp": "文 2 : 随着教区的发展和世界的变化，阿尔主教参加了 1962~1965 年梵蒂冈第二届大公会议的所有四次会议，并指导了大公会议法令在教区的实施。",
+        "label_text": "大公会议法令在教区的实施"
+    },
+    {
+        "source": "原文 : Does this mean I still have to inform the prof that I'm dropping the course, do I also have to get permission?",
+        "hyp": "文 2 : 也就是说我还是必须通知教授我要放弃这门课程？我还是需要获得许可吗？",
+        "label_text": "通知教授"
+    },
+    {
+        "source": "原文 : I told her I was going on another one next month (lie) to make her feel better, but I didn’t.",
+        "hyp": "文 2 : 我告诉她我下个月还要去一次（撒谎），希望让她好受些，但我并没有去。",
+        "label_text": "（撒谎）"
+    }
+]

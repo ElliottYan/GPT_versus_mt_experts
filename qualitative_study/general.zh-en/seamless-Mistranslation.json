@@ -1,0 +1,947 @@
+[
+    {
+        "source": "原文 : 蓝色的天幕，棉花糖一样的白云，肤色各异表情也各异的脸，喧闹的环境，这一切都很熟悉，却又那么陌生，仿佛距离自己万里之遥。",
+        "hyp": "文 5 : The blue ceiling, the white clouds like cotton candy, the different facial expressions, the noisy environment, all this is familiar, but so strange, as if it were thousands of miles away.",
+        "label_text": "The blue ceiling"
+    },
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 1 : The old village chief of Shimura looked at Lin Feng in a strange way, but he was frightened.",
+        "label_text": "Shimura"
+    },
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 1 : The old village chief of Shimura looked at Lin Feng in a strange way, but he was frightened.",
+        "label_text": "but"
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 5 : In March 2020, there was a sharp increase in the demand for flour during the pneumonia epidemic, and the flour factory, whose business was declining, also tried to launch home-made flour from a wholesale-only operation.",
+        "label_text": "home-made flour"
+    },
+    {
+        "source": "原文 : 2020年3月，巿民在肺炎疫情留家期间对面粉的需求急增，生意本锐减的面粉厂亦尝试由只经营批发转营推出家用装面粉，反应热烈。",
+        "hyp": "文 5 : In March 2020, there was a sharp increase in the demand for flour during the pneumonia epidemic, and the flour factory, whose business was declining, also tried to launch home-made flour from a wholesale-only operation.",
+        "label_text": "home-made flour"
+    },
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 5 : Eight hundred years ago, the Nine Emperors of the Song Dynasty became a thing of the past and disappeared into the mists of history.",
+        "label_text": "Eight hundred years ago"
+    },
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 5 : Eight hundred years ago, the Nine Emperors of the Song Dynasty became a thing of the past and disappeared into the mists of history.",
+        "label_text": "Song Dynasty"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 4 : China has manufactured a colorless, odorless biochemical weapon and intends to export it to China to carry out a disastrous conspiracy.",
+        "label_text": "export"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 4 : China has manufactured a colorless, odorless biochemical weapon and intends to export it to China to carry out a disastrous conspiracy.",
+        "label_text": "China"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 4 : China has manufactured a colorless, odorless biochemical weapon and intends to export it to China to carry out a disastrous conspiracy.",
+        "label_text": "to China"
+    },
+    {
+        "source": "原文 : “想啊，我特别想修仙！”",
+        "hyp": "文 5 : Oh, I especially want to be a nun!",
+        "label_text": "nun"
+    },
+    {
+        "source": "原文 : 由于部分展品涉密，中国印钞造币博物馆建成后仅供业内人士参观，不对外开放。",
+        "hyp": "文 5 : Due to the secrecy of some of the exhibits, the China Coin Museum is open to visitors only and not to outsiders.",
+        "label_text": "to visitors"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 4 : I don't want to be a ghost! Let me go back, let me go back! Can Don En shout like that?",
+        "label_text": "ghost"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 4 : I don't want to be a ghost! Let me go back, let me go back! Can Don En shout like that?",
+        "label_text": "ghost"
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 1 : He was wounded, and it was a very troublesome thing, and the common medicine stone was useless.",
+        "label_text": "He was wounded"
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 1 : He was wounded, and it was a very troublesome thing, and the common medicine stone was useless.",
+        "label_text": "He was wounded"
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 3 : The chest and abdomen are covered with a thick layer of white hair, and the tips of the limbs are white, and it is said that this snow-white glove has a second killing effect on girls, controlling their brain waves, causing them to make the sound of \"ah-ah-ah-ah\".",
+        "label_text": "a second killing effect "
+    },
+    {
+        "source": "原文 : 胸口和肚子则是一大片蓬蓬的白毛，四肢尖端为白色，据说这种踏雪白手套对女孩子有秒杀效果，会控制她们的脑电波，让她们发出“啊~~啊~~”的声音。",
+        "hyp": "文 3 : The chest and abdomen are covered with a thick layer of white hair, and the tips of the limbs are white, and it is said that this snow-white glove has a second killing effect on girls, controlling their brain waves, causing them to make the sound of \"ah-ah-ah-ah\".",
+        "label_text": " has a second killing effect "
+    },
+    {
+        "source": "原文 : 楚离不理他，冲赵颖笑着抱抱拳。",
+        "hyp": "文 1 : Chu ignored him and laughed and grabbed his fist.",
+        "label_text": "Chu"
+    },
+    {
+        "source": "原文 : 楚离不理他，冲赵颖笑着抱抱拳。",
+        "hyp": "文 1 : Chu ignored him and laughed and grabbed his fist.",
+        "label_text": "grabbed his fist"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 1 : After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, making it the third busiest station after Kumamoto Station and Honshu Station, with annual revenues of 300 million yen.",
+        "label_text": "After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, "
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 1 : After opening, the mall near Deep Valley Garden Station is expected to receive 649,000 passengers annually, making it the third busiest station after Kumamoto Station and Honshu Station, with annual revenues of 300 million yen.",
+        "label_text": "he mall near Deep Valley Garden Station is expected to receive"
+    },
+    {
+        "source": "原文 : 听到可以成为新生第一，又夸她是天才，女孩脸上情不自禁的露出火热，连忙询问：“不过，什么？”",
+        "hyp": "文 5 : Hearing that she could be the first of the newborns, and praising her as a genius, the girl's face showed uncontrollable enthusiasm, and hurriedly asked: \"But what?\"",
+        "label_text": "newborns"
+    },
+    {
+        "source": "原文 : 听到可以成为新生第一，又夸她是天才，女孩脸上情不自禁的露出火热，连忙询问：“不过，什么？”",
+        "hyp": "文 5 : Hearing that she could be the first of the newborns, and praising her as a genius, the girl's face showed uncontrollable enthusiasm, and hurriedly asked: \"But what?\"",
+        "label_text": "newborns"
+    },
+    {
+        "source": "原文 : 晶莹剔透，闪烁着绚烂深泽。 最为美丽的是，水晶雕像的女子，空灵唯美，仿佛狐仙，那样美若天仙，那样令人痴迷。",
+        "hyp": "文 2 : The most beautiful is the woman with the crystal statue, the empty spirit is beautiful, as if she were a fox, as beautiful as a fairy, as fascinating as a fairy.",
+        "label_text": "the woman with the crystal statue, the empty spirit is beautiful"
+    },
+    {
+        "source": "原文 : 晶莹剔透，闪烁着绚烂深泽。 最为美丽的是，水晶雕像的女子，空灵唯美，仿佛狐仙，那样美若天仙，那样令人痴迷。",
+        "hyp": "文 2 : The most beautiful is the woman with the crystal statue, the empty spirit is beautiful, as if she were a fox, as beautiful as a fairy, as fascinating as a fairy.",
+        "label_text": "is the woman with the crystal statue, the empty spirit is beautiful, as if she were a fox, "
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 1 : A small floor dance (style move), a type of Breaking Street Dance.",
+        "label_text": "type"
+    },
+    {
+        "source": "原文 : 小地板舞(style move)， Breaking街舞的一种。",
+        "hyp": "文 1 : A small floor dance (style move), a type of Breaking Street Dance.",
+        "label_text": "a type of"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 5 : During the seminar, all participants were guided by Xi Jinping's ideology of socialism with Chinese characteristics in the new era, seriously studied the spirit of the Party's Twenty Principles and the important speeches of Xi Jinping's General Secretary at the opening of the seminar, deepened their understanding of a series of major theoretical and practical issues of Chinese modernization, strengthened their confidence and determination to fully promote the great revival of the Chinese nation under the strong leadership of Xi Jinping.",
+        "label_text": "Xi Jinping's General Secretary"
+    },
+    {
+        "source": "原文 : 研讨班期间，全体学员以习近平新时代中国特色社会主义思想为指导，认真学习党的二十大精神和习近平总书记在研讨班开班式上的重要讲话，联系实际深入研讨交流，深化了对中国式现代化一系列重大理论和实践问题的认识，增强了在以习近平同志为核心的党中央坚强领导下以中国式现代化全面推进中华民族伟大复兴的信心和决心，增强了履职尽责、做好工作、确保新时代新征程良好开局的责任感和使命感。",
+        "hyp": "文 5 : During the seminar, all participants were guided by Xi Jinping's ideology of socialism with Chinese characteristics in the new era, seriously studied the spirit of the Party's Twenty Principles and the important speeches of Xi Jinping's General Secretary at the opening of the seminar, deepened their understanding of a series of major theoretical and practical issues of Chinese modernization, strengthened their confidence and determination to fully promote the great revival of the Chinese nation under the strong leadership of Xi Jinping.",
+        "label_text": " Xi Jinping's General Secretary"
+    },
+    {
+        "source": "原文 : 人类修炼武道，登峰造极，达到超凡入圣境界。",
+        "hyp": "文 3 : Humans cultivate martial arts, climb mountains, and reach the sacred realms of the supernatural.",
+        "label_text": "climb mountains"
+    },
+    {
+        "source": "原文 : 人类修炼武道，登峰造极，达到超凡入圣境界。",
+        "hyp": "文 3 : Humans cultivate martial arts, climb mountains, and reach the sacred realms of the supernatural.",
+        "label_text": "climb mountains"
+    },
+    {
+        "source": "原文 : 九院机关最早位于北京，随后主要工程和生产部门迁入青海省海晏县西海镇金银滩，即221厂； 1970年，主要工程和生产部门迁往四川，分布在四川北部的山区中。",
+        "hyp": "文 3 : The nine organs were first located in Beijing, then the main engineering and production departments moved to the West Hai Town of Haiyang County, Qinghai Province, i.e. 221 factories; in 1970, the main engineering and production departments moved to Sichuan, distributed in the mountainous areas of northern Sichuan.",
+        "label_text": "i.e. 221 factories"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 5 : With the rise of concert culture, Rowan has repeatedly held solo concerts at the Lee Theater, and has expanded his acting career overseas, becoming the first Oriental singer to perform at the Royal Albert Hall in London (1978), and the first Chinese singer to perform at the Lincoln Center in New York (1980), as well as performing solo concerts at Madison Square Garden and the National Theatre in Singapore.",
+        "label_text": "acting career"
+    },
+    {
+        "source": "原文 : 随著音乐会文化的兴起，自1978年起，罗文多次在利舞台戏院举行个人演唱会，并把表演事业拓展至海外，成为首位于英国伦敦皇家阿尔伯特音乐厅演出（1979年）的东方歌手，以及首位于美国纽约林肯中心表演（1980年）的华人歌手，及后还在美国纽约麦迪逊广场及新加坡国家剧场举行个人演唱会，并成为首位在前者举行个人演唱会的华人歌手。",
+        "hyp": "文 5 : With the rise of concert culture, Rowan has repeatedly held solo concerts at the Lee Theater, and has expanded his acting career overseas, becoming the first Oriental singer to perform at the Royal Albert Hall in London (1978), and the first Chinese singer to perform at the Lincoln Center in New York (1980), as well as performing solo concerts at Madison Square Garden and the National Theatre in Singapore.",
+        "label_text": "acting career"
+    },
+    {
+        "source": "原文 : 脸上有些痒痒的，周围似乎是一片草丛。",
+        "hyp": "文 4 : His face was a little wrinkled, and he seemed to be surrounded by a patch of grass.",
+        "label_text": "wrinkled"
+    },
+    {
+        "source": "原文 : 脸上有些痒痒的，周围似乎是一片草丛。",
+        "hyp": "文 4 : His face was a little wrinkled, and he seemed to be surrounded by a patch of grass.",
+        "label_text": "wrinkled"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": " on the road to nowhere"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "hating the kung fu of suicide"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": " on the road to nowhere"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "hating the kung fu of suicide"
+    },
+    {
+        "source": "原文 : 东西还可以，但是亚马逊的售后服务真的比其他网站差太多了",
+        "hyp": "文 2 : Things are fine, but Amazon's after-sales service is really much worse than other websites.",
+        "label_text": "Things are fine"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "M4 Sherman, a second-year high school student at Sandusky University"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "his"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "he"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "the other teams"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "but was defeated by the entire squadron"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": " was also mentioned by his son (Kayle) in the second episode"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "his"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "he"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "he played in the women's school"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": " he"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": "the other teams"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 2 : M4 Sherman, a second-year high school student at Sandusky University, made his debut in the fourth episode of the series, where he mastered a variety of tactics, was the commander of the entire squadron, but was very emotional and easily nervous during the battle of the battlefield, and when he played in the women's school, he was confused and confused, affecting the morale of the other teams, using loopholes in the rules, using stealth to steal intelligence, but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode.",
+        "label_text": " but was defeated by the entire squadron, and was also mentioned by his son (Kayle) in the second episode"
+    },
+    {
+        "source": "原文 : 种种情节开始浮现在安林的脑海里，那一切梦幻的开端，不就是眼前这一幕吗！",
+        "hyp": "文 5 : All sorts of plots began to emerge in An Lin's mind, the beginning of all the dreams, wasn't it this scene in front of us!",
+        "label_text": " in front of us"
+    },
+    {
+        "source": "原文 : 聂耳小提琴是云南省博物馆参加综艺节目《国家宝藏》第二季的三件文物之一，由张若昀担任明星守护人。",
+        "hyp": "文 4 : The violin is one of the three artifacts in the second season of the Yunnan Provincial Museum's variety show \"National Treasure\".",
+        "label_text": "artifacts"
+    },
+    {
+        "source": "原文 : 聂耳小提琴是云南省博物馆参加综艺节目《国家宝藏》第二季的三件文物之一，由张若昀担任明星守护人。",
+        "hyp": "文 4 : The violin is one of the three artifacts in the second season of the Yunnan Provincial Museum's variety show \"National Treasure\".",
+        "label_text": "in the second season of the Yunnan Provincial Museum's variety show \"National Treasure\""
+    },
+    {
+        "source": "原文 : 秋去冬来，两人互相寄了贺年卡，希望新的一年能多加关照。",
+        "hyp": "文 2 : From autumn to winter, the two sent each other greeting cards, hoping that the new year would be more caring.",
+        "label_text": " From autumn to winter"
+    },
+    {
+        "source": "原文 : 秋去冬来，两人互相寄了贺年卡，希望新的一年能多加关照。",
+        "hyp": "文 2 : From autumn to winter, the two sent each other greeting cards, hoping that the new year would be more caring.",
+        "label_text": "the new year would be more caring"
+    },
+    {
+        "source": "原文 : “请问，这里是陆寻老师的课堂吗？”",
+        "hyp": "文 5 : \"Please, is this the classroom of Mr. Lu?\"",
+        "label_text": "classroom of Mr. Lu"
+    },
+    {
+        "source": "原文 : 我一个半月前买的琴，缺个零件，通知亚马逊后给了我售后的电话，多次沟通后，零件现在还没收到，请问这是什么效率！",
+        "hyp": "文 4 : My piano, which I bought a month and a half ago, was missing a part, and after notifying Amazon, they called me after the sale, and after many conversations, the part has not been received yet, so please ask what is the efficiency!",
+        "label_text": "they called me after the sale"
+    },
+    {
+        "source": "原文 : 那笑容在时光看来，像嘲讽。",
+        "hyp": "文 1 : That smile looks like a mockery in the light of day.",
+        "label_text": "in the light of day"
+    },
+    {
+        "source": "原文 : 那笑容在时光看来，像嘲讽。",
+        "hyp": "文 1 : That smile looks like a mockery in the light of day.",
+        "label_text": "in the light of day"
+    },
+    {
+        "source": "原文 : 林锋正在心里骂娘，村口突然起了骚动，看样子是狩猎队伍回来了。",
+        "hyp": "文 1 : Lin Feng was cursing his daughter in his heart, and suddenly there was a commotion in the village, and it looked like the hunting party had returned.",
+        "label_text": "his daughter"
+    },
+    {
+        "source": "原文 : 他机智、有小聪明、口才好、富有正义感，对于人生、事业和爱情有着自己的理解和感触，善于讨女孩子的欢心；但他同时又爱面子、懒惰、软弱、遇事犹豫不决。",
+        "hyp": "文 2 : He is clever, has a small, clever mouth, a good sense of justice, has his own understanding and feelings for life, career and love, is good at pleasing girls and children, but at the same time he loves faces, laziness, weakness, hesitation.",
+        "label_text": "has a small, clever mouth"
+    },
+    {
+        "source": "原文 : 他机智、有小聪明、口才好、富有正义感，对于人生、事业和爱情有着自己的理解和感触，善于讨女孩子的欢心；但他同时又爱面子、懒惰、软弱、遇事犹豫不决。",
+        "hyp": "文 2 : He is clever, has a small, clever mouth, a good sense of justice, has his own understanding and feelings for life, career and love, is good at pleasing girls and children, but at the same time he loves faces, laziness, weakness, hesitation.",
+        "label_text": "and children"
+    },
+    {
+        "source": "原文 : 他机智、有小聪明、口才好、富有正义感，对于人生、事业和爱情有着自己的理解和感触，善于讨女孩子的欢心；但他同时又爱面子、懒惰、软弱、遇事犹豫不决。",
+        "hyp": "文 2 : He is clever, has a small, clever mouth, a good sense of justice, has his own understanding and feelings for life, career and love, is good at pleasing girls and children, but at the same time he loves faces, laziness, weakness, hesitation.",
+        "label_text": "loves faces"
+    },
+    {
+        "source": "原文 : 一辆出租车在他前面下客，他快步走上前，然后钻了进去。 唐恩在车上看了躺在寒风中享受“晚餐”的乞丐最后一眼，让司机将他带回那个陌生的家。",
+        "hyp": "文 4 : A taxi pulled up in front of him, and he walked up to it, and then he drilled in, and Don looked at the beggar in the car, who was enjoying his dinner in the cold wind, and asked the driver to take him back to the stranger's house.",
+        "label_text": " the stranger's house"
+    },
+    {
+        "source": "原文 : 整体打个四星，还是值的。",
+        "hyp": "文 1 : It's a four-star overall, or is it worth it?",
+        "label_text": "or is it worth it?"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 5 : On February 22, 2017, Eliasova was traded to the Atlanta Falcons after playing 53 games with the 76ers, and the 76ers were given second-round draft rights by center Tiago Split in 2017 and the right to exchange second-round draft picks with the Eagles.",
+        "label_text": "after playing 53 games with the 76ers"
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 5 : On February 22, 2017, Eliasova was traded to the Atlanta Falcons after playing 53 games with the 76ers, and the 76ers were given second-round draft rights by center Tiago Split in 2017 and the right to exchange second-round draft picks with the Eagles.",
+        "label_text": "given second-round draft rights by center Tiago Split in 2017"
+    },
+    {
+        "source": "原文 : 徐缺一脸贱笑，眉毛一挑，伸手就直接扒向女子的裙摆。",
+        "hyp": "文 4 : Xu laughed with a low face, raised his eyebrows, and stretched out his hand to the woman's neck.",
+        "label_text": "neck"
+    },
+    {
+        "source": "原文 : “哈哈，玄藏师兄你吩咐的事情，师弟我哪敢担一句‘劳烦’？ 这等小事，何需如此？” 玄心一口答应了下来。",
+        "hyp": "文 2 : Haha, what you commanded, Master, how dare I take on such a small task? Why is this necessary?",
+        "label_text": "how dare I take on such a small task? Why is this necessary?"
+    },
+    {
+        "source": "原文 : 那玉石在他手心，就在他右手掌心里，居然融化起来。",
+        "hyp": "文 5 : The jewel in his hand, in his right hand, in his heart, melted.",
+        "label_text": "jewel"
+    },
+    {
+        "source": "原文 : 那玉石在他手心，就在他右手掌心里，居然融化起来。",
+        "hyp": "文 5 : The jewel in his hand, in his right hand, in his heart, melted.",
+        "label_text": "in his heart"
+    },
+    {
+        "source": "原文 : 最近发现接通电源时，不充电，需要用手左右扶几下充电器和线的连接处，才能充上电。",
+        "hyp": "文 1 : Recently, it was discovered that when the power supply is not charged, it is necessary to hold the charger and the connection point of the wire with the left and right hands in order to charge the battery.",
+        "label_text": "when the power supply is not charged"
+    },
+    {
+        "source": "原文 : 最近发现接通电源时，不充电，需要用手左右扶几下充电器和线的连接处，才能充上电。",
+        "hyp": "文 1 : Recently, it was discovered that when the power supply is not charged, it is necessary to hold the charger and the connection point of the wire with the left and right hands in order to charge the battery.",
+        "label_text": " the charger and the connection point of the wire"
+    },
+    {
+        "source": "原文 : 最近发现接通电源时，不充电，需要用手左右扶几下充电器和线的连接处，才能充上电。",
+        "hyp": "文 1 : Recently, it was discovered that when the power supply is not charged, it is necessary to hold the charger and the connection point of the wire with the left and right hands in order to charge the battery.",
+        "label_text": "with the left and right hands"
+    },
+    {
+        "source": "原文 : 他们本来就要处理宁城的尸体，却想不到有人过来处理，而且还给银币，这种好事情，他们当然不会拒绝。",
+        "hyp": "文 1 : They were supposed to take care of the body of Ning City, but they didn't expect anyone to come and take care of it, and they also gave silver coins, such a good thing, they certainly wouldn't refuse.",
+        "label_text": "They were supposed to take care of the body of Ning City, but they didn't expect anyone to come and take care of it"
+    },
+    {
+        "source": "原文 : 他们本来就要处理宁城的尸体，却想不到有人过来处理，而且还给银币，这种好事情，他们当然不会拒绝。",
+        "hyp": "文 1 : They were supposed to take care of the body of Ning City, but they didn't expect anyone to come and take care of it, and they also gave silver coins, such a good thing, they certainly wouldn't refuse.",
+        "label_text": " they"
+    },
+    {
+        "source": "原文 : “娘亲放心，我明天肯定能够开启‘神武印记’！”张若尘道。",
+        "hyp": "文 1 : Don't worry, I'm sure I'll be able to open the Shinto printing press tomorrow!",
+        "label_text": "open the Shinto printing press"
+    },
+    {
+        "source": "原文 : “好小子，你有一套！我们走，赶紧扫货！”",
+        "hyp": "文 1 : Hey, kid, you got a set! Let's go, hurry up and sweep!",
+        "label_text": "you got a set"
+    },
+    {
+        "source": "原文 : 过了片刻，他看见一名穿着道袍的女子走来，连忙上去打招呼。",
+        "hyp": "文 1 : After a moment, he saw a woman in a robe coming and hurried up to greet him.",
+        "label_text": "him"
+    },
+    {
+        "source": "原文 : 他只提了其中两个处罚，分别是最轻和最重的，其余还有罚做苦力、抄经、杖责、面壁等。",
+        "hyp": "文 2 : He only mentions two of them, the lightest and the heaviest, and the rest are punishable by hard work, copying the scriptures, blaming the staff, and so on.",
+        "label_text": "the rest are punishable by"
+    },
+    {
+        "source": "原文 : 他只提了其中两个处罚，分别是最轻和最重的，其余还有罚做苦力、抄经、杖责、面壁等。",
+        "hyp": "文 2 : He only mentions two of them, the lightest and the heaviest, and the rest are punishable by hard work, copying the scriptures, blaming the staff, and so on.",
+        "label_text": " blaming the staff"
+    },
+    {
+        "source": "原文 : 打天九和麻将一样，都是中国国粹，但天九在中原几近失传，即使在香港，懂得玩天九的亦越来越少。",
+        "hyp": "文 5 : It's the same as mahjong, but it's almost lost in China, and even in Hong Kong, there are fewer and fewer people who know how to play it.",
+        "label_text": "China"
+    },
+    {
+        "source": "原文 : 在行政管理方面，卡斯泰尔雅卢隶属于法国新阿基坦大区洛特-加龙省内拉克区；在地方选举方面，卡斯泰尔雅卢是的中央投票站所在地，其市镇范围全境被划入；在社会管理方面，卡斯泰尔雅卢是的组成部分。",
+        "hyp": "文 2 : Administratively, Castilla-La Mancha is part of the French region of Nouvelle-Aquitaine, in the department of Lot-et-Garonne; in local elections, Castilla-La Mancha is the seat of the central polling station, and the entire territory of the municipality is divided into: in social administration, Castilla-La Mancha is part of the canton.",
+        "label_text": "the entire territory of the municipality is divided into"
+    },
+    {
+        "source": "原文 : 之前一开始还担心相机的包装，这次还好，里面有充气包，相机三码一致，也能在官网注册，快门次数0，其余的就只能等时间检验了 。",
+        "hyp": "文 1 : Previously, I was worried about the packaging of the camera, this time it's good, there's an inflatable bag inside, the camera is three-dimensional, it can also be registered on the official website, the number of shutdowns is zero, the rest can only wait for time to check.",
+        "label_text": "the camera is three-dimensional"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 5 : In the forty-ninth year of Confucius (1710), the Confucian emperor recalled the old minister, and the special official was restored to his post.",
+        "label_text": "1710"
+    },
+    {
+        "source": "原文 : 康熙四十九年（1710年） ，康熙帝眷念旧臣，特诏官复原职。",
+        "hyp": "文 5 : In the forty-ninth year of Confucius (1710), the Confucian emperor recalled the old minister, and the special official was restored to his post.",
+        "label_text": "the special official was restored to his post"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 3 : In addition to the construction of a 14-story steel-reinforced concrete structure on the ground floor, apart from the third to the fourteenth floors, which will be converted into apartments for 129 households, the first and second floors will also have open shops and greenhouses, with the aim of providing parking spaces for cars, as well as 73 parking spaces for minibuses, and the use of barrier-free facilities such as pedestrian corners and street squares.",
+        "label_text": " will also "
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 3 : In addition to the construction of a 14-story steel-reinforced concrete structure on the ground floor, apart from the third to the fourteenth floors, which will be converted into apartments for 129 households, the first and second floors will also have open shops and greenhouses, with the aim of providing parking spaces for cars, as well as 73 parking spaces for minibuses, and the use of barrier-free facilities such as pedestrian corners and street squares.",
+        "label_text": "greenhouses"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 3 : In addition to the construction of a 14-story steel-reinforced concrete structure on the ground floor, apart from the third to the fourteenth floors, which will be converted into apartments for 129 households, the first and second floors will also have open shops and greenhouses, with the aim of providing parking spaces for cars, as well as 73 parking spaces for minibuses, and the use of barrier-free facilities such as pedestrian corners and street squares.",
+        "label_text": "cars"
+    },
+    {
+        "source": "原文 : “文康A都更案”由杰新实业股份有限公司协议出资，融资信托单位为华泰银行，建筑设计为吴余辉建筑事务所，承揽施工单位为金富誉营造股份有限公司，都更后将兴建地下2层、地上14层之钢筋混凝土结构建筑物，除了三楼至十四楼挪为公寓住户（129户）之外，一楼、二楼尚有开办商场（17户店铺）和电影院的规画，以期可增设机车停车格，连同73格小客车的车位，并采用无障碍设施、人行步道、街角广场等友善空间都市设计，全栋采绿建筑工法，并预计于2023年完工。",
+        "hyp": "文 3 : In addition to the construction of a 14-story steel-reinforced concrete structure on the ground floor, apart from the third to the fourteenth floors, which will be converted into apartments for 129 households, the first and second floors will also have open shops and greenhouses, with the aim of providing parking spaces for cars, as well as 73 parking spaces for minibuses, and the use of barrier-free facilities such as pedestrian corners and street squares.",
+        "label_text": "pedestrian corners and street squares"
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 5 : After a long time, Lin Feng gradually adapted to the changes in his body, and his heart was relieved: \"It's a bit of self-preservation, but the ultimate goal of the system is to build the first gate in history, to become the first ancestor in history, and Lin Feng was under a lot of pressure, and he was busy checking the new gift bags and other things\".",
+        "label_text": "It's a bit of self-preservation"
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 5 : After a long time, Lin Feng gradually adapted to the changes in his body, and his heart was relieved: \"It's a bit of self-preservation, but the ultimate goal of the system is to build the first gate in history, to become the first ancestor in history, and Lin Feng was under a lot of pressure, and he was busy checking the new gift bags and other things\".",
+        "label_text": "gate"
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 5 : After a long time, Lin Feng gradually adapted to the changes in his body, and his heart was relieved: \"It's a bit of self-preservation, but the ultimate goal of the system is to build the first gate in history, to become the first ancestor in history, and Lin Feng was under a lot of pressure, and he was busy checking the new gift bags and other things\".",
+        "label_text": "busy checking the new gift bags and other things"
+    },
+    {
+        "source": "原文 : “叶默，叶默，你没事吧，快点起来啊，马上要上课了，这节课是无情冰的，你赶紧起来。” 一个有些急的声音在叶默的耳边响起，叶默有一种很奇怪的感觉。",
+        "hyp": "文 5 : Hey, hey, hey, hey, it's all right, hurry up, it's time to go to class, this class is ruthless, you hurry up, there's a somewhat urgent sound in Yemer's ear, Yemer has a strange feeling.",
+        "label_text": "it's all right"
+    },
+    {
+        "source": "原文 : “叶默，叶默，你没事吧，快点起来啊，马上要上课了，这节课是无情冰的，你赶紧起来。” 一个有些急的声音在叶默的耳边响起，叶默有一种很奇怪的感觉。",
+        "hyp": "文 5 : Hey, hey, hey, hey, it's all right, hurry up, it's time to go to class, this class is ruthless, you hurry up, there's a somewhat urgent sound in Yemer's ear, Yemer has a strange feeling.",
+        "label_text": "ruthless"
+    },
+    {
+        "source": "原文 : 赵甫好奇走上前，握住那颗晶石，漂浮在半空中晶石毫无反应的被赵甫一把握住。",
+        "hyp": "文 2 : Curious, he walked up and grabbed the crystal, which floated in mid-air without reacting, and grabbed it.",
+        "label_text": "which floated in mid-air without reacting"
+    },
+    {
+        "source": "原文 : 江瑶扮相俊美，表演扎实，师承范瑞娟派，兼唱其他流派。",
+        "hyp": "文 1 : Jiang Yang dressed beautifully, performed solidly, mastered the Ryuan school, and sang in other genres.",
+        "label_text": "mastered the Ryuan school"
+    },
+    {
+        "source": "原文 : 江瑶扮相俊美，表演扎实，师承范瑞娟派，兼唱其他流派。",
+        "hyp": "文 1 : Jiang Yang dressed beautifully, performed solidly, mastered the Ryuan school, and sang in other genres.",
+        "label_text": " sang"
+    },
+    {
+        "source": "原文 : 北宋因政治腐败、因循守旧而造成了积贫积弱的局面，中叶即出现了较大的财政危机和国防危机。",
+        "hyp": "文 1 : North Korea's political corruption, its adherence to the old system, and the accumulation of poverty have led to a major financial and defense crisis in the middle of the year.",
+        "label_text": "North Korea's political corruption, its adherence to the old system, and the accumulation of poverty"
+    },
+    {
+        "source": "原文 : 北宋因政治腐败、因循守旧而造成了积贫积弱的局面，中叶即出现了较大的财政危机和国防危机。",
+        "hyp": "文 1 : North Korea's political corruption, its adherence to the old system, and the accumulation of poverty have led to a major financial and defense crisis in the middle of the year.",
+        "label_text": "in the middle of the year"
+    },
+    {
+        "source": "原文 : 小护士疑惑地看着赵耀说道：“赵先生，你没事吧？”",
+        "hyp": "文 3 : The little nurse looked at Yang Yao in confusion and said, \"Mr. Yang, are you okay?\"",
+        "label_text": "little"
+    },
+    {
+        "source": "原文 : 小护士疑惑地看着赵耀说道：“赵先生，你没事吧？”",
+        "hyp": "文 3 : The little nurse looked at Yang Yao in confusion and said, \"Mr. Yang, are you okay?\"",
+        "label_text": "Yang Yao"
+    },
+    {
+        "source": "原文 : 2014年10月2日，孙延在代表韩国出战在韩国仁川举行的仁川亚运艺术体操女子个人全能项目，她在决赛的圈操、带操和棒操分别取得18.216分、18.083分和18.100分的成绩，尽管在最后一项的球操环节出现失误，仅取得17.300分，她仍然以总分71.699分荣获金牌，成为首位达到此成绩的韩国选手。",
+        "hyp": "文 3 : In the women's individual all-around event at the 2014 Asian Games in Incheon, South Korea, Sun won the gold medal with a total score of 71.69, becoming the first South Korean athlete to achieve this result, despite making a mistake in the last round.",
+        "label_text": " in the last round"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 2 : However, he also has a sister, Ye Jian, and a brother, Ye Peak, who is not a mother to him, but a half-sister to his father. Three years ago, his father seemed to know that he owed something to Ye Mer, and he specifically proposed to Ye's eldest son to join the Ning family. Ye Tian asked, probably knowing that he was sick, so he wanted to help Ye Mer find a mountain.",
+        "label_text": "who is not a mother to him, but a half-sister to his father"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 2 : However, he also has a sister, Ye Jian, and a brother, Ye Peak, who is not a mother to him, but a half-sister to his father. Three years ago, his father seemed to know that he owed something to Ye Mer, and he specifically proposed to Ye's eldest son to join the Ning family. Ye Tian asked, probably knowing that he was sick, so he wanted to help Ye Mer find a mountain.",
+        "label_text": "he specifically proposed to Ye's eldest son to join the Ning family"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 2 : However, he also has a sister, Ye Jian, and a brother, Ye Peak, who is not a mother to him, but a half-sister to his father. Three years ago, his father seemed to know that he owed something to Ye Mer, and he specifically proposed to Ye's eldest son to join the Ning family. Ye Tian asked, probably knowing that he was sick, so he wanted to help Ye Mer find a mountain.",
+        "label_text": "Ye Tian asked,"
+    },
+    {
+        "source": "原文 : 不过他还有一个妹妹叶菱，一个弟弟叶子峰。只是和他都不是一个母亲，而是同父异母的兄妹。 三年前，父亲似乎知道自己亏欠了叶默似的，特意向叶家老爷子提出和宁家联姻，叶天问很可能知道自己身体不行，所以想要帮叶默找一个靠山，这才找到了京城宁家。",
+        "hyp": "文 2 : However, he also has a sister, Ye Jian, and a brother, Ye Peak, who is not a mother to him, but a half-sister to his father. Three years ago, his father seemed to know that he owed something to Ye Mer, and he specifically proposed to Ye's eldest son to join the Ning family. Ye Tian asked, probably knowing that he was sick, so he wanted to help Ye Mer find a mountain.",
+        "label_text": " find a mountain"
+    },
+    {
+        "source": "原文 : 三颗星是怪自己马虎没看清楚商品规格，你卖M码电商版我没意见，你货不对版是几个意思？",
+        "hyp": "文 4 : I don't have a problem with you selling the M code e-commerce version, how many meanings do you have that your product is not the right version?",
+        "label_text": "M code"
+    },
+    {
+        "source": "原文 : 三颗星是怪自己马虎没看清楚商品规格，你卖M码电商版我没意见，你货不对版是几个意思？",
+        "hyp": "文 4 : I don't have a problem with you selling the M code e-commerce version, how many meanings do you have that your product is not the right version?",
+        "label_text": "how many meanings do you have"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 3 : The second one is Totes, 1. this one doesn't have a handle 2. the handle material is general 3. it's clearly written Large, it's actually a convenient umbrella for one person, two people use an estimate of enough.",
+        "label_text": " The second one is Totes"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 3 : The second one is Totes, 1. this one doesn't have a handle 2. the handle material is general 3. it's clearly written Large, it's actually a convenient umbrella for one person, two people use an estimate of enough.",
+        "label_text": "a handle"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 3 : The second one is Totes, 1. this one doesn't have a handle 2. the handle material is general 3. it's clearly written Large, it's actually a convenient umbrella for one person, two people use an estimate of enough.",
+        "label_text": "it's clearly written Large"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 3 : The second one is Totes, 1. this one doesn't have a handle 2. the handle material is general 3. it's clearly written Large, it's actually a convenient umbrella for one person, two people use an estimate of enough.",
+        "label_text": "two people use an estimate of enough"
+    },
+    {
+        "source": "原文 : 这些著作推动了罗马法向司法实践最底层的进一步渗透，对当时的法盲们也有潜移默化的影响。",
+        "hyp": "文 4 : These works promoted the further penetration of Roman law into the lowest levels of judicial practice, and also had a subtle influence on the lawless of the time.",
+        "label_text": "the lawless of the time"
+    },
+    {
+        "source": "原文 : “哦，这么厉害？” 张汉惊疑一声拒绝道：“那我不比了。”",
+        "hyp": "文 2 : \"Oh, that's so cool?\" Zhang Han was surprised and said, \"I'm not like that\".",
+        "label_text": "I'm not like that"
+    },
+    {
+        "source": "原文 : 而且还是无缝对接，根本没用什么转世投胎？",
+        "hyp": "文 2 : And it's seamless, and there's no need for IVF at all?",
+        "label_text": "IVF"
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 4 : In an article published in the August 2021 issue of Billboard magazine, the group noted that the group's fans have been drilling through the gaps in the charts by using brilliant tactics, including the use of crowdfunding in the U.S. to help the group stay in the top 100 for weeks in a row, while the group's chart performance is largely driven by sales (most of which come from the band's online store, which allows fans to buy multiple copies of a song, unlike iTunes) and fan-driven crowdfunding campaigns (including the use of crowdfunding to sell songs on services such as Apple Pay).",
+        "label_text": "the group noted that "
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 4 : In an article published in the August 2021 issue of Billboard magazine, the group noted that the group's fans have been drilling through the gaps in the charts by using brilliant tactics, including the use of crowdfunding in the U.S. to help the group stay in the top 100 for weeks in a row, while the group's chart performance is largely driven by sales (most of which come from the band's online store, which allows fans to buy multiple copies of a song, unlike iTunes) and fan-driven crowdfunding campaigns (including the use of crowdfunding to sell songs on services such as Apple Pay).",
+        "label_text": "the use of crowdfunding in the U.S. "
+    },
+    {
+        "source": "原文 : 《告示牌》杂志在2021年8月发表的一篇文章中指出：该团体的歌迷“透过光明正大的手段”来钻排行榜的漏洞，在美国提升了< Butter >等单曲的排名，帮助歌曲连续数周在百大单曲榜名列前茅；虽然百大单曲榜的榜单表现通常取决于串流媒体和播放，但< Butter >的榜单表现主要来自销售推动（其中大部分来自防弹少年团的线上商店，它允许粉丝购买一首歌曲的多份副本，与iTunes不同）和粉丝主导的众筹活动（包括使用从全球粉丝群众募资在PayPal等服务上进行仅计入美国销售额的购买） ；然而，《韩国时报》的一篇文章反驳了有关排行榜操纵的说法，它认为小贾斯汀和爱莉安娜·格兰德等其他歌手的粉丝群也采取了类似的促销措施，这些措施既不违法也不不道德，参与这些措施的粉丝仅仅是“引领全球趋势的智能消费者”。",
+        "hyp": "文 4 : In an article published in the August 2021 issue of Billboard magazine, the group noted that the group's fans have been drilling through the gaps in the charts by using brilliant tactics, including the use of crowdfunding in the U.S. to help the group stay in the top 100 for weeks in a row, while the group's chart performance is largely driven by sales (most of which come from the band's online store, which allows fans to buy multiple copies of a song, unlike iTunes) and fan-driven crowdfunding campaigns (including the use of crowdfunding to sell songs on services such as Apple Pay).",
+        "label_text": " to sell songs on services such as Apple Pay"
+    },
+    {
+        "source": "原文 : 7名歌手竞演结束后，由听众评审团投票排出名次，排在第7位的歌手将被淘汰，那个位置由新的歌手替换。",
+        "hyp": "文 4 : At the end of the seven-member contest, the judges are voted on by the audience, and the singer in seventh place will be eliminated, and that position will be replaced by a new singer.",
+        "label_text": "the judges are voted on by the audience"
+    },
+    {
+        "source": "原文 : 而且商品产品包装问题，我看评论2016年就有人评论过，到现在19年，还是老样子。",
+        "hyp": "文 1 : I'm not sure about the product packaging issue, I've seen comments from people in 2016, and it's been 19 years now, it's still the same.",
+        "label_text": " it's been 19 years now"
+    },
+    {
+        "source": "原文 : 2、绘画部分的解说很棒，有构图分析、草稿分析和历史背景（比如最后的晚餐），但不知道是印刷还是书尺寸问题，有些阴影部分县的太深了，看不清细节，有点遗憾。",
+        "hyp": "文 2 : There's a great explanation of the painting part, there's a composition analysis, there's a draft analysis and a historical background (like the last dinner), but I don't know if it's the printing or the size of the book, some of the shadows are too deep in the county, I can't see the details, a little bit of regret.",
+        "label_text": "deep in the county"
+    },
+    {
+        "source": "原文 : “这位兄弟。 能不能把这玩意给我看看。”",
+        "hyp": "文 5 : \"Brother, can you show me this toy?\"",
+        "label_text": "this toy"
+    },
+    {
+        "source": "原文 : 2016年12月28日上午10时开行往贵阳北、南宁、玉溪站方向的动车组列车，三班首发列车分别是开往贵阳北的G4136次、开往南宁的D4208次以及开往玉溪的D9109次。",
+        "hyp": "文 2 : At 10 a.m. on December 28, 2016, the first three trains departed from the G4136 to the north of Guiyang, the D4208 to the south of Guiyang, and the D9109 to the south of Guiyang.",
+        "label_text": "the first three trains departed from the G4136 to the north of Guiyang, the D4208 to the south of Guiyang, and the D9109 to the south of Guiyang"
+    },
+    {
+        "source": "原文 : 所有人都停止了呼吸，目光死死的盯着祭坛之上！",
+        "hyp": "文 2 : Everyone stopped breathing and stared deadly at the altar!",
+        "label_text": "stopped breathing"
+    },
+    {
+        "source": "原文 : 楚阳的身躯缓缓从空中落下，缓缓倒了下去，便如晚秋飘零的枯叶，倒在尘埃，脸上带着淡淡的却温暖的笑，喃喃的道：“轻舞，若是有来生，伴君天下舞！”",
+        "hyp": "文 1 : Chu Yang's body slowly fell from the sky, slowly fell down, like the dried leaves of late autumn, poured into the dust, with a faint but warm smile on his face, and said: \"Light dance, if there is a birth, dance under the sky!\"",
+        "label_text": "sky"
+    },
+    {
+        "source": "原文 : 楚阳的身躯缓缓从空中落下，缓缓倒了下去，便如晚秋飘零的枯叶，倒在尘埃，脸上带着淡淡的却温暖的笑，喃喃的道：“轻舞，若是有来生，伴君天下舞！”",
+        "hyp": "文 1 : Chu Yang's body slowly fell from the sky, slowly fell down, like the dried leaves of late autumn, poured into the dust, with a faint but warm smile on his face, and said: \"Light dance, if there is a birth, dance under the sky!\"",
+        "label_text": "dried"
+    },
+    {
+        "source": "原文 : 楚阳的身躯缓缓从空中落下，缓缓倒了下去，便如晚秋飘零的枯叶，倒在尘埃，脸上带着淡淡的却温暖的笑，喃喃的道：“轻舞，若是有来生，伴君天下舞！”",
+        "hyp": "文 1 : Chu Yang's body slowly fell from the sky, slowly fell down, like the dried leaves of late autumn, poured into the dust, with a faint but warm smile on his face, and said: \"Light dance, if there is a birth, dance under the sky!\"",
+        "label_text": "Light dance, if there is a birth, dance under the sky"
+    },
+    {
+        "source": "原文 : “这是你送给我的定情礼物，现在，还给你，我们，从此两不相欠。” 姜雪晴，无情的将雕像塞在苏羽手中，转身回到秦枫身侧，眺望天外，不再看苏羽，冷酷绝情。",
+        "hyp": "文 3 : This is your gift to me, and now it's yours, and we owe it to each other from now on.",
+        "label_text": "gift"
+    },
+    {
+        "source": "原文 : “这是你送给我的定情礼物，现在，还给你，我们，从此两不相欠。” 姜雪晴，无情的将雕像塞在苏羽手中，转身回到秦枫身侧，眺望天外，不再看苏羽，冷酷绝情。",
+        "hyp": "文 3 : This is your gift to me, and now it's yours, and we owe it to each other from now on.",
+        "label_text": " we owe it to each other from now on"
+    },
+    {
+        "source": "原文 : “五行杂灵根，这是最最低等的灵根，难怪前身虽然无比努力，却只有炼体二层的修为。” “于我而言，五行杂灵根虽然有点棘手，但辅以丹药，最多四百年我必然还能重临巅峰！”",
+        "hyp": "文 1 : It's not surprising that the first one, although it's a lot of work, is only the second level of the alchemy. As far as I'm concerned, the fifth one, although it's a bit tricky, but with the help of dan medicine, I'll surely reach the peak in four hundred years!",
+        "label_text": "the first one, although it's a lot of work, is only the second level of the alchemy"
+    },
+    {
+        "source": "原文 : “五行杂灵根，这是最最低等的灵根，难怪前身虽然无比努力，却只有炼体二层的修为。” “于我而言，五行杂灵根虽然有点棘手，但辅以丹药，最多四百年我必然还能重临巅峰！”",
+        "hyp": "文 1 : It's not surprising that the first one, although it's a lot of work, is only the second level of the alchemy. As far as I'm concerned, the fifth one, although it's a bit tricky, but with the help of dan medicine, I'll surely reach the peak in four hundred years!",
+        "label_text": "the fifth one"
+    },
+    {
+        "source": "原文 : “小宇，别喊了，赶紧睡觉。”",
+        "hyp": "文 1 : Don't cry, go to sleep.",
+        "label_text": "cry"
+    },
+    {
+        "source": "原文 : 然而，个别机构对消费复苏后的健身市场盲目乐观，刚从危机中走出来，又吹响开疆拓土的号角，把融资资金一股脑投入新店建设上。",
+        "hyp": "文 1 : However, individual agencies are blindly optimistic about the post-consumer recovery fitness market, having just emerged from the crisis, and blowing the horn of the Khejiang land reclamation, putting a brain of financing money into the construction of new stores.",
+        "label_text": "Khejiang land reclamation"
+    },
+    {
+        "source": "原文 : 然而，个别机构对消费复苏后的健身市场盲目乐观，刚从危机中走出来，又吹响开疆拓土的号角，把融资资金一股脑投入新店建设上。",
+        "hyp": "文 1 : However, individual agencies are blindly optimistic about the post-consumer recovery fitness market, having just emerged from the crisis, and blowing the horn of the Khejiang land reclamation, putting a brain of financing money into the construction of new stores.",
+        "label_text": "a brain of financing money"
+    },
+    {
+        "source": "原文 : 各种仙侠里的专用词汇。",
+        "hyp": "文 4 : A special vocabulary for various fairy tales.",
+        "label_text": "fairy tales"
+    },
+    {
+        "source": "原文 : “烦恼落尽，红尘远离。”",
+        "hyp": "文 4 : The troubles are gone, the red dust is gone.",
+        "label_text": "the red dust"
+    },
+    {
+        "source": "原文 : 别看只是女人走路，里面可是有很多学问。 而莫问成天守在工地上，对面就是马路与人行道。",
+        "hyp": "文 2 : Don't look at it, it's just women walking, but there's a lot of education in it, and don't ask to be on the job, it's the road and the sidewalk across the street.",
+        "label_text": " Don't look at it, it's just women walking, "
+    },
+    {
+        "source": "原文 : 不过，随着法军屡见败绩，欧仁逃离法国，与母亲一起到达英国英格兰肯特郡的 Chislehurst（今大伦敦东南部）。",
+        "hyp": "文 2 : However, after the defeat of the French army, Oren fled France and arrived with his mother in Chislehurst, Kent, England, southeast of London.",
+        "label_text": "after the defeat "
+    },
+    {
+        "source": "原文 : 两名说话的狱卒这才看见侧边正站着一名身穿粗布麻衣的女子，这女子虽然穿着粗布麻衣，却依然能隐约看出她的不俗风姿。 唯一遗憾的是，她的脸已经毁容，被略微凌乱的头发遮掩，让人不愿再看第二眼。",
+        "hyp": "文 3 : The two prisoners who were talking saw a woman standing on the side, dressed in a thick linen cloth, who, although dressed in a thick linen cloth, could still see her unusual appearance. The only regret was that her face had been disfigured, covered by a slightly messy hair, making it unwilling to look at the second eye.",
+        "label_text": "thick linen cloth"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 2 : The killer's family came from three families, because the family's silk and practice the killer's tactics, originally the three families served the wealthy original Chinese family of the autumn moon, the father used to cooperate with the family of the silver field to carry out the task of removing the staff of the family, but after the death of his mother, the autumn moon family hired another killer, in order to avoid knowing the secret of the family of the autumn moon, the killer silenced the father, even himself and his sister were affected by this.",
+        "label_text": " the family's silk and practice the killer's tactics"
+    },
+    {
+        "source": "原文 : 杀手家族三门家出身，因为家族的薰陶而练就杀手的作战技巧，原本三门家服侍于富有的原华族秋月家，父亲曾经为了执行任务除掉银田家的人员与鵺一族交手过，但随著母亲病逝、秋月家向三门家解除合作契约另雇杀手，秋月家为避免知晓家族秘密的三门家泄密，派遣杀手将父亲灭口，连自己与妹妹也受此影响导致家庭离散，失意时在公园偶遇经营借贷公司的夏目先生伸出援手，从后者手里借得50万日圆应急和投资自己，为了报答夏目先生的恩情找上和受雇于他，被夏目指名为继任公司经营者。",
+        "hyp": "文 2 : The killer's family came from three families, because the family's silk and practice the killer's tactics, originally the three families served the wealthy original Chinese family of the autumn moon, the father used to cooperate with the family of the silver field to carry out the task of removing the staff of the family, but after the death of his mother, the autumn moon family hired another killer, in order to avoid knowing the secret of the family of the autumn moon, the killer silenced the father, even himself and his sister were affected by this.",
+        "label_text": "the killer silenced the father"
+    },
+    {
+        "source": "原文 : 短短数息之间，徐缺从手无缚鸡之力的凡人变成修仙者，直接冲刺到炼气期十层，距离筑基期仅仅一步之差。",
+        "hyp": "文 2 : In the short span of a few breaths, Xu Zhen turned from a mortal with no strength to a monk, sprinting directly to the tenth floor of the exaltation period, just one step away from the foundation period.",
+        "label_text": "monk"
+    },
+    {
+        "source": "原文 : “不，我认真的。” 女子不知悔改的举了举手，肩头却不自觉下垂，显得更弱了，“你们真没必要出去找人报仇。”",
+        "hyp": "文 4 : \"No, I'm serious, the girl raised her hand unrepentantly, but her shoulders didn't fall down, she looked weaker, you really don't have to go out to get revenge\".",
+        "label_text": " her shoulders didn't fall down"
+    },
+    {
+        "source": "原文 : 我了个去，这是要逆天啊！",
+        "hyp": "文 4 : I'm going, this is going against God!",
+        "label_text": "I'm going"
+    },
+    {
+        "source": "原文 : 抹茶猫却是丝毫不对眼前的情况感到怪异一样，突然跳到了赵耀的怀里，眯着眼睛蹭着赵耀的身体，奶声奶气道：“和我玩游戏吧。”",
+        "hyp": "文 2 : The matcha cat, however, was not at all strange to the situation in front of him, suddenly jumped into the arms of Yang Yao, staring at Yang Yao's eyes, staring at Yang Yao's body, and said: \"Play a game with me\".",
+        "label_text": "staring at Yang Yao's eyes, staring at Yang Yao's body"
+    },
+    {
+        "source": "原文 : 肥龙脸上横肉乱抖，心底却颇为纠结。",
+        "hyp": "文 4 : The fat dragon's face is wrinkled, but his heart is tangled.",
+        "label_text": "wrinkled"
+    },
+    {
+        "source": "原文 : 9月，向秀吉方提出以自己切腹来换取秀吉放过城中兵民的性命。",
+        "hyp": "文 1 : In September, he offered to cut off his own stomach in exchange for the sexual life of the soldiers he had released from the city.",
+        "label_text": "the sexual life of the soldiers he had released from the city"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 2 : The second season of \"Kyoto Color Diaries\" will begin airing on July 17, 2013 at 1:58 p.m. on the third Wednesday of each month (equivalent to Thursday morning), in addition to the end of each episode will also maintain the first season of \"Kyoto Color Diaries\", but the second season will be a review and summary of the episode with Yokohama's hand-drawn diary.",
+        "label_text": " 1:58 p.m."
+    },
+    {
+        "source": "原文 : 3 自您签收次日起 12 个月内, 本产品出现《Redmi ArDots 2 真无线蓝牙耳机产品性能故障表》所列性能故障的情况, 经由小米售后服务中心检测确定, 可免费享受维修服务。",
+        "hyp": "文 1 : 3 Within 12 months from the date of receipt of this product, the performance defects listed in the \"Redmi ArDots 2 True Wireless Bluetooth Headphones Product Performance Failure Table\" are detected and determined by the Xiaomi After-Sales Service Center, and can be repaired free of charge.",
+        "label_text": " from the date of receipt"
+    },
+    {
+        "source": "原文 : 唐恩躺在地上，他的浅灰色西服已经湿透，皱巴巴的沾着草屑和泥土，看上去就好像刚被用过的抹布。",
+        "hyp": "文 2 : Don was lying on the ground, his light gray suit was wet, his pants were covered with grass and dirt, and he looked as if he had just been worn out.",
+        "label_text": "he looked as if he had just been worn out"
+    },
+    {
+        "source": "原文 : 1993年捷克斯洛伐克解体之后， 1994年起捷克和斯洛伐克两个国家分别独立派出奥林匹克运动会捷克代表团、奥林匹克运动会斯洛伐克代表团参赛。",
+        "hyp": "文 3 : After the dissolution of Czechoslovakia in 1993, the Czech Republic and Slovakia separately sent the Czech delegation to the Olympic Games and the Slovak delegation to the Olympic Games in 1994.",
+        "label_text": "in 1994"
+    },
+    {
+        "source": "原文 : 2016年10月27日，珠海大剧院举行全面运营启动暨开票仪式，首场演出1550张门票于开票后两小时内全部售出。",
+        "hyp": "文 2 : On October 27, 2016, the Zhuhai Grand Theater held a ticketing ceremony to launch its full operation, and all 1,550 tickets for the premiere were sold out within two hours of opening.",
+        "label_text": "a ticketing ceremony to launch its full operation"
+    },
+    {
+        "source": "原文 : 冰雪肆虐着整片大地，莽莽群山千沟万壑皆是一片银装素裹，鹅毛大雪簌簌落下，遥遥望去天地浑然一色。",
+        "hyp": "文 1 : The whole earth is covered with ice and snow, and the mountains and valleys are covered with silver, and the hairs of the goats are covered with snow, and the heavens and the earth are covered with snow.",
+        "label_text": "covered with silver"
+    },
+    {
+        "source": "原文 : 冰雪肆虐着整片大地，莽莽群山千沟万壑皆是一片银装素裹，鹅毛大雪簌簌落下，遥遥望去天地浑然一色。",
+        "hyp": "文 1 : The whole earth is covered with ice and snow, and the mountains and valleys are covered with silver, and the hairs of the goats are covered with snow, and the heavens and the earth are covered with snow.",
+        "label_text": "and the hairs of the goats are covered with snow"
+    },
+    {
+        "source": "原文 : 之所以猜测这是琥珀，是因为它色泽是淡黄色的，里面包裹着一个小虫，和他小学六年级时候看到过的一枚琥珀很像。 那时候他们的课本有一篇名为《琥珀》的课文，语文老师给他们上课的时候，就带来了一枚琥珀。",
+        "hyp": "文 1 : The reason I'm guessing it's amber is because it's pale yellow, and it's wrapped in a worm, and it's very similar to the amber that he saw in the sixth grade in elementary school, and there's a textbook called \"Amber\", and the grammar teacher brings them a piece of amber.",
+        "label_text": " it's wrapped in a worm"
+    },
+    {
+        "source": "原文 : 之所以猜测这是琥珀，是因为它色泽是淡黄色的，里面包裹着一个小虫，和他小学六年级时候看到过的一枚琥珀很像。 那时候他们的课本有一篇名为《琥珀》的课文，语文老师给他们上课的时候，就带来了一枚琥珀。",
+        "hyp": "文 1 : The reason I'm guessing it's amber is because it's pale yellow, and it's wrapped in a worm, and it's very similar to the amber that he saw in the sixth grade in elementary school, and there's a textbook called \"Amber\", and the grammar teacher brings them a piece of amber.",
+        "label_text": "textbook called \"Amber\""
+    },
+    {
+        "source": "原文 : 械的声音再次响起，貌似就在咫尺。",
+        "hyp": "文 4 : The sound of the machine sounded again, and it seemed to be on the verge of collapse.",
+        "label_text": " it seemed to be on the verge of collapse"
+    },
+    {
+        "source": "原文 : 只有核心学员、学府高层、权贵能在此地休息，除此之外，黄金学员、白银学员都无资格。",
+        "hyp": "文 1 : Only the core students, the upper echelons of the school, and the nobility can rest here, and in addition, the gold students and the silver students are not eligible.",
+        "label_text": "in addition"
+    },
+    {
+        "source": "原文 : 休息室中，有三人，一对少年男女，一位气质高贵，威仪不凡男子。",
+        "hyp": "文 2 : In the restroom, there were three people, a couple of young men and women, a man of high character, a man of extraordinary dignity.",
+        "label_text": "restroom"
+    },
+    {
+        "source": "原文 : 休息室中，有三人，一对少年男女，一位气质高贵，威仪不凡男子。",
+        "hyp": "文 2 : In the restroom, there were three people, a couple of young men and women, a man of high character, a man of extraordinary dignity.",
+        "label_text": "a couple of young men and women, a man of high character, a man of extraordinary dignity"
+    },
+    {
+        "source": "原文 : “这回可真是没话说了，我不无敌谁无敌？”",
+        "hyp": "文 1 : This time I didn't say anything, I'm not invincible, who is?",
+        "label_text": "This time I didn't say anything"
+    },
+    {
+        "source": "原文 : 安林见状有些激动地问道：“这位漂亮的仙女姐姐，请问这里是什么地方，我初来乍到，对这个地方不是很懂呢。”",
+        "hyp": "文 4 : \"What is this place?\" asked the beautiful fairy sister. \"I've never been here before, but I don't know much about it\".",
+        "label_text": "asked the beautiful fairy sister"
+    },
+    {
+        "source": "原文 : “耍流氓啊……”一个绝对是高分贝的女高音，就在叶默面前响起，叶默刚才只顾检查自己的小**，居然忘了查看周围的情况。 没想到这个小胡同还是连通的，只是前面的转弯处这里看不到而已。",
+        "hyp": "文 4 : A woman's high-pitched voice, which was definitely high-pitched, was heard in front of Yemer, who had just checked his little **, and had forgotten to look around. He didn't think that this little street was connected, but he couldn't see it at the turn in front.",
+        "label_text": "little street"
+    },
+    {
+        "source": "原文 : “耍流氓啊……”一个绝对是高分贝的女高音，就在叶默面前响起，叶默刚才只顾检查自己的小**，居然忘了查看周围的情况。 没想到这个小胡同还是连通的，只是前面的转弯处这里看不到而已。",
+        "hyp": "文 4 : A woman's high-pitched voice, which was definitely high-pitched, was heard in front of Yemer, who had just checked his little **, and had forgotten to look around. He didn't think that this little street was connected, but he couldn't see it at the turn in front.",
+        "label_text": "but he couldn't see it at the turn in front"
+    },
+    {
+        "source": "原文 : 别人的课堂，都是人满为患，拥挤的坐不下去，而他的课堂，一个都没有，好不容易被他拉进来几个，最后都连骂好几声“骗子”，转身就逃！",
+        "hyp": "文 4 : Other people's classrooms were full of people, crowded and unable to sit down, and his classroom, which had none, was not easy to be dragged in by him, and in the end he cursed a few times, \"Liar\", and turned and ran away!",
+        "label_text": "was not easy to be dragged in by him"
+    },
+    {
+        "source": "原文 : 别人的课堂，都是人满为患，拥挤的坐不下去，而他的课堂，一个都没有，好不容易被他拉进来几个，最后都连骂好几声“骗子”，转身就逃！",
+        "hyp": "文 4 : Other people's classrooms were full of people, crowded and unable to sit down, and his classroom, which had none, was not easy to be dragged in by him, and in the end he cursed a few times, \"Liar\", and turned and ran away!",
+        "label_text": "he cursed a few times, \"Liar\""
+    },
+    {
+        "source": "原文 : “这谁点的三会传？”他随口问了句小厮。",
+        "hyp": "文 1 : \"Who's going to take care of this?\" he asked casually.",
+        "label_text": "Who's going to take care of this?"
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 4 : <unk> You... <unk> Guo Jingze was about to turn around to grab her, but felt the pain of the body for a moment, the bottom had once again risen uncontrollably <unk>",
+        "label_text": "the pain of the body"
+    },
+    {
+        "source": "原文 : “你……”顾靖泽刚要转身抓她，却感到身体一阵的难耐，下面已经再次不可抑制的昂扬起来。",
+        "hyp": "文 4 : <unk> You... <unk> Guo Jingze was about to turn around to grab her, but felt the pain of the body for a moment, the bottom had once again risen uncontrollably <unk>",
+        "label_text": "the bottom"
+    },
+    {
+        "source": "原文 : 林锋琢磨着，脸上渐渐露出一副温暖阳光的笑容。",
+        "hyp": "文 4 : Lin Feng was grinding, and a warm sunny smile gradually appeared on his face.",
+        "label_text": "grinding"
+    },
+    {
+        "source": "原文 : “楚阳，交出九劫剑！ 饶你不死！”",
+        "hyp": "文 2 : Yang Chuyang, hand over the nine swords! Don't die!",
+        "label_text": "Don't die"
+    },
+    {
+        "source": "原文 : 包装很完整，里面加了充气袋，没有网上评论的只有光秃秃一个产品的样子。",
+        "hyp": "文 1 : The packaging is complete, with an inflatable bag inside, and there are no online reviews, only the appearance of a product.",
+        "label_text": "and there are no online reviews, only the appearance of a product."
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 2 : In the first week after the 2023 Spring Festival, the number of jobs preferred by Haitians and the number of jobs preferred by Haitians seeking jobs in the country all showed an upward trend, with the number of jobs preferred by Haitians on February 3 increased by 11% compared to January 28, and the number of jobs preferred by Haitians increased by 27%.",
+        "label_text": "he number of jobs preferred by Haitians and the number of jobs preferred by Haitians seeking jobs in the country "
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 2 : In the first week after the 2023 Spring Festival, the number of jobs preferred by Haitians and the number of jobs preferred by Haitians seeking jobs in the country all showed an upward trend, with the number of jobs preferred by Haitians on February 3 increased by 11% compared to January 28, and the number of jobs preferred by Haitians increased by 27%.",
+        "label_text": "the number of jobs preferred by Haitians "
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 2 : In the first week after the 2023 Spring Festival, the number of jobs preferred by Haitians and the number of jobs preferred by Haitians seeking jobs in the country all showed an upward trend, with the number of jobs preferred by Haitians on February 3 increased by 11% compared to January 28, and the number of jobs preferred by Haitians increased by 27%.",
+        "label_text": "the number of jobs preferred by Haitians"
+    },
+    {
+        "source": "原文 : 百善孝为先，张汉当初虽说叛逆，但心底对父母的爱也不低于他人。",
+        "hyp": "文 5 : Although Zhang Han initially said that he was a rebel, his love for his parents was no less than that of others.",
+        "label_text": " Zhang Han initially said that he was a rebel"
+    },
+    {
+        "source": "原文 : 百善孝为先，张汉当初虽说叛逆，但心底对父母的爱也不低于他人。",
+        "hyp": "文 5 : Although Zhang Han initially said that he was a rebel, his love for his parents was no less than that of others.",
+        "label_text": "said that he was a rebel"
+    },
+    {
+        "source": "原文 : 梵盾吉普服饰，因为年轻，所以自信！",
+        "hyp": "文 2 : Jeep clothing, because young, so confident!",
+        "label_text": "because young, so confident"
+    },
+    {
+        "source": "原文 : 他知道，这一刻起，他将以段凌天的身份融入这个陌生的世界。",
+        "hyp": "文 4 : He knew that from that moment on, he would be integrated into this strange world as a transcendent being.",
+        "label_text": "as a transcendent being"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 5 : Even if this is the case, Ning City's Yang Ning Hongcheng will still take Jilo into the palace and prepare to wait for Ning City to truly unite and then let the two become friends.",
+        "label_text": "Ning City's Yang Ning Hongcheng"
+    },
+    {
+        "source": "原文 : 就算是这样，宁城的爷爷宁弘昌依然将纪洛妃收进府中。 准备等宁城真正聚气后，再让两人成亲。",
+        "hyp": "文 5 : Even if this is the case, Ning City's Yang Ning Hongcheng will still take Jilo into the palace and prepare to wait for Ning City to truly unite and then let the two become friends.",
+        "label_text": " truly unite and then let the two become friends"
+    },
+    {
+        "source": "原文 : 2009年11月16日，有线电视宣布投得2010年至2013年三季英超香港独家播映权，但由于英超已经安排于当时的高清200-205台、有线301-306台及有线690台作收费播放，意味著英超台不可能于Ch63重开。",
+        "hyp": "文 4 : On November 16, 2009, Cable TV announced that it had acquired the exclusive broadcasting rights for the three seasons of the Premier League in Hong Kong from 2010 to 2013, but due to the fact that the Premier League had already arranged for 200 to 205 cable channels, 301 to 306, and 690 cable channels to be charged for broadcasting, it meant that the Premier League could not be resumed.",
+        "label_text": "200 to 205 cable channels"
+    },
+    {
+        "source": "原文 : 2009年11月16日，有线电视宣布投得2010年至2013年三季英超香港独家播映权，但由于英超已经安排于当时的高清200-205台、有线301-306台及有线690台作收费播放，意味著英超台不可能于Ch63重开。",
+        "hyp": "文 4 : On November 16, 2009, Cable TV announced that it had acquired the exclusive broadcasting rights for the three seasons of the Premier League in Hong Kong from 2010 to 2013, but due to the fact that the Premier League had already arranged for 200 to 205 cable channels, 301 to 306, and 690 cable channels to be charged for broadcasting, it meant that the Premier League could not be resumed.",
+        "label_text": " the Premier League could not be resumed"
+    },
+    {
+        "source": "原文 : 现在整个山岗都找遍了，都没有那头羊的影子，在这个时候，李七夜想到了一个地方，只有一个地方没有去寻找——仙魔洞！",
+        "hyp": "文 3 : Now that the whole mountain had been searched, there was no shadow of the goat, and at this time, Li Zhiyuan thought of a place, only one place where he hadn't gone to look for the Cave of the Fairies!",
+        "label_text": "look for the Cave of the Fairies"
+    }
+]

@@ -1,0 +1,427 @@
+[
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 4 : Край может быть необходим в зависимости от свободных агентов, а парень из Айовы (я не могу написать его имя) хорош, но это все еще немного рискованно.",
+        "label_text": "Край"
+    },
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 4 : Край может быть необходим в зависимости от свободных агентов, а парень из Айовы (я не могу написать его имя) хорош, но это все еще немного рискованно.",
+        "label_text": "свободных агентов"
+    },
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 4 : Край может быть необходим в зависимости от свободных агентов, а парень из Айовы (я не могу написать его имя) хорош, но это все еще немного рискованно.",
+        "label_text": "Край"
+    },
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 4 : Край может быть необходим в зависимости от свободных агентов, а парень из Айовы (я не могу написать его имя) хорош, но это все еще немного рискованно.",
+        "label_text": "свободных агентов"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 3 : Один человек на сервере продавал комплект за 100 тысяч, и я такой: \"Да ну нафиг, это не стоит 100 тысяч\", вот это да, братан.",
+        "label_text": "комплект "
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 3 : В последние четыре года я носила бюстгальтеры для дома от Lane Bryant, и это был первый раз за очень долгое время, когда я надела бюстгальтер с косточками.",
+        "label_text": "косточками"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 3 : В последние четыре года я носила бюстгальтеры для дома от Lane Bryant, и это был первый раз за очень долгое время, когда я надела бюстгальтер с косточками.",
+        "label_text": "косточками"
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 3 : помогите лол ой, подождите, я просто гуглю это нвм лол",
+        "label_text": "нвм"
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 3 : помогите лол ой, подождите, я просто гуглю это нвм лол",
+        "label_text": "нвм"
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 4 : Я могу проверить это до следующей встречи, попробовал ли я также.",
+        "label_text": "также"
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 4 : Я могу проверить это до следующей встречи, попробовал ли я также.",
+        "label_text": "также"
+    },
+    {
+        "source": "原文 : Other times, the works simply remain unperformed because the composer doesn't have a big name like Beethoven or Vivaldi that draws big crowds.",
+        "hyp": "文 4 : Иногда произведения просто остаются неисполненными, потому что у композитора нет такого известного имени, как Бетховен или Вивальди, которое привлекало бы большие толпы.",
+        "label_text": "Иногда произведения просто остаются неисполненными"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 2 : Определённый Лэмбет опустил флаг, и Эйску пришлось сдаться Тромпу на борту \"Гауды\", это был первый и последний случай в истории, когда британский адмирал такого высокого ранга был захвачен в море.",
+        "label_text": "Определённый"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 2 : Определённый Лэмбет опустил флаг, и Эйску пришлось сдаться Тромпу на борту \"Гауды\", это был первый и последний случай в истории, когда британский адмирал такого высокого ранга был захвачен в море.",
+        "label_text": "Определённый"
+    },
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 5 : В любом случае, эти ужасные воспоминания продолжали преследовать меня, так что вчера я наконец-то нашла в себе силы, чтобы написать ему.",
+        "label_text": "нашла в себе силы, чтобы "
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 5 : И вот я это сделал и узнал из второго или третьего поста, что шоу AJ заблокировали на YouTube. Я не поклонник правых взглядов и, собственно, поэтому перестал смотреть его два года назад, хотя и было трудно найти хоть какой-то аромат свободы среди 90% национал-капитализма, который предлагал сайт. Но тем не менее, у меня возникла идея о видео-сайте без цензуры вроде LiveLeak, только гораздо проще и менее \"новостным\", на который каждый мог бы что-то выложить.",
+        "label_text": "правых взглядов"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 5 : И вот я это сделал и узнал из второго или третьего поста, что шоу AJ заблокировали на YouTube. Я не поклонник правых взглядов и, собственно, поэтому перестал смотреть его два года назад, хотя и было трудно найти хоть какой-то аромат свободы среди 90% национал-капитализма, который предлагал сайт. Но тем не менее, у меня возникла идея о видео-сайте без цензуры вроде LiveLeak, только гораздо проще и менее \"новостным\", на который каждый мог бы что-то выложить.",
+        "label_text": "Но тем не менее"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 3 : Быть настоящим другом для тебя со всеми взаимными уступками, которые это подразумевает — ты можешь соответственно понизить её статус (например, с друга до \"кого-то, кого я знаю\").",
+        "label_text": "взаимными уступками, которые это подразумевает"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 3 : Быть настоящим другом для тебя со всеми взаимными уступками, которые это подразумевает — ты можешь соответственно понизить её статус (например, с друга до \"кого-то, кого я знаю\").",
+        "label_text": "взаимными уступками, которые это подразумевает"
+    },
+    {
+        "source": "原文 : This page presents an overview of the state of the art based on official sources.",
+        "hyp": "文 1 : На этой странице представлен обзор передового состояния искусства на основе официальных источников.",
+        "label_text": "передового состояния искусства"
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology).",
+        "hyp": "文 1 : Арес (греческая мифология) против Марса (римская мифология) против Световида (славянская мифология) против Одина (скандинавская мифология) против Большого взрыва (атеистическая мифология).",
+        "label_text": "скандинавская"
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology).",
+        "hyp": "文 1 : Арес (греческая мифология) против Марса (римская мифология) против Световида (славянская мифология) против Одина (скандинавская мифология) против Большого взрыва (атеистическая мифология).",
+        "label_text": "скандинавская"
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology).",
+        "hyp": "文 2 : Арес (греческая мифология) против Марса (римская мифология) против Световида (славянская мифология) против Одина (скандинавская мифология) против Большого взрыва (атеистическая мифология).",
+        "label_text": "скандинавская"
+    },
+    {
+        "source": "原文 : Ares (Greek mythology) vs. Mars (Roman mythology) vs. Svetovid (Slavic mythology) vs. Odin (Norse mythology) vs. The Big Bang (Atheistic mythology).",
+        "hyp": "文 2 : Арес (греческая мифология) против Марса (римская мифология) против Световида (славянская мифология) против Одина (скандинавская мифология) против Большого взрыва (атеистическая мифология).",
+        "label_text": "скандинавская"
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 5 : Я исключил возможность механических препятствий, так как убедился, что на нейтральной передаче машина прекрасно катится под уклон.",
+        "label_text": "передаче машина прекрасно"
+    },
+    {
+        "source": "原文 : Charles was expected to attend a showing of the completed film, but died before it opened.",
+        "hyp": "文 5 : От Чарльза ожидали, что он посетит показ завершённого фильма, но он умер до его премьеры.",
+        "label_text": "премьеры"
+    },
+    {
+        "source": "原文 : I sometimes feel sad for them when they r asked to do all this.",
+        "hyp": "文 4 : Иногда мне их жаль, когда их просят делать все это.",
+        "label_text": "жаль"
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 1 : После долгих исследований я начал использовать этот продукт много лет назад.",
+        "label_text": "долгих "
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 3 : После долгих исследований я начал использовать этот продукт много лет назад.",
+        "label_text": "долгих "
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 4 : После долгих исследований я начал использовать этот продукт много лет назад.",
+        "label_text": "долгих "
+    },
+    {
+        "source": "原文 : It’s getting old, and you look like an idiot when you spell like this.",
+        "hyp": "文 3 : Это уже надоедает, и ты выглядишь идиотом, когда пишешь вот так.",
+        "label_text": " надоедает"
+    },
+    {
+        "source": "原文 : It’s getting old, and you look like an idiot when you spell like this.",
+        "hyp": "文 3 : Это уже надоедает, и ты выглядишь идиотом, когда пишешь вот так.",
+        "label_text": " надоедает"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 5 : Я ездил только по местности, поэтому ушла почти неделя, чтобы понять, что я не могу разогнаться до 60 миль в час, или что мне приходится выжимать педаль в пол, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": "ушла"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 5 : Я ездил только по местности, поэтому ушла почти неделя, чтобы понять, что я не могу разогнаться до 60 миль в час, или что мне приходится выжимать педаль в пол, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": "выжимать педаль в пол"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 5 : Я ездил только по местности, поэтому ушла почти неделя, чтобы понять, что я не могу разогнаться до 60 миль в час, или что мне приходится выжимать педаль в пол, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": "ушла"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 5 : Я ездил только по местности, поэтому ушла почти неделя, чтобы понять, что я не могу разогнаться до 60 миль в час, или что мне приходится выжимать педаль в пол, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": "выжимать педаль в пол"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 3 : Недавно я попытался использовать их, и, к сожалению, каждый раз, когда я пробую одну, моя кофемашина Keurig выдает мне сообщение об ошибке, что капсула не совместима с моей машиной.",
+        "label_text": "кофемашина"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 3 : Недавно я попытался использовать их, и, к сожалению, каждый раз, когда я пробую одну, моя кофемашина Keurig выдает мне сообщение об ошибке, что капсула не совместима с моей машиной.",
+        "label_text": "капсула"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 3 : Недавно я попытался использовать их, и, к сожалению, каждый раз, когда я пробую одну, моя кофемашина Keurig выдает мне сообщение об ошибке, что капсула не совместима с моей машиной.",
+        "label_text": "кофемашина"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 3 : Недавно я попытался использовать их, и, к сожалению, каждый раз, когда я пробую одну, моя кофемашина Keurig выдает мне сообщение об ошибке, что капсула не совместима с моей машиной.",
+        "label_text": "капсула"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 5 : Я могу определить, где был ваш человек и чем он занимался, по вкусу, когда он возвращается.",
+        "label_text": "он"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 4 : Держу пари, ты даже не стал читать всё число и не заметил букву, которую я туда добавил. Ииии теперь ты вернёшься, чтобы проверить, и поймёшь, что там не было никакой буквы.",
+        "label_text": "я туда добавил"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 4 : Держу пари, ты даже не стал читать всё число и не заметил букву, которую я туда добавил. Ииии теперь ты вернёшься, чтобы проверить, и поймёшь, что там не было никакой буквы.",
+        "label_text": "Ииии "
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 4 : Держу пари, ты даже не стал читать всё число и не заметил букву, которую я туда добавил. Ииии теперь ты вернёшься, чтобы проверить, и поймёшь, что там не было никакой буквы.",
+        "label_text": "я туда добавил"
+    },
+    {
+        "source": "原文 : Well I tried explaining to my buddies that porn is kind of shabby, and yeah just bad, and you know who listened…",
+        "hyp": "文 5 : Ну я пытался объяснить своим друзьям, что порно это как-то пошло, и да, просто плохо, и знаете кто послушался...",
+        "label_text": "послушался"
+    },
+    {
+        "source": "原文 : One of her friend said that she was sad as fuck all day because of me but didn’t want to say why.",
+        "hyp": "文 2 : Один из её друзей сказал, что она была весь день в ужасном настроении из-за меня, но не хотела говорить почему.",
+        "label_text": "ужасном настроении"
+    },
+    {
+        "source": "原文 : Depending on patient subgroups, this response varied from 89% to 100%.",
+        "hyp": "文 3 : В зависимости от подгрупп пациентов, этот показатель варьировался от 89% до 100%.",
+        "label_text": "этот показатель"
+    },
+    {
+        "source": "原文 : Also, why restaurants have to be set up like that?",
+        "hyp": "文 3 : А ещё, почему рестораны должны быть организованы именно так?",
+        "label_text": "организованы"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 4 : Это 1:49 - это просто мой тренер в своем репертуаре: \"ты должен быть хорош, но пока не очень, так что я поставлю тебе нереальные цели\", или мне действительно стоит стремиться к 1:49?",
+        "label_text": "репертуаре"
+    },
+    {
+        "source": "原文 : But it's more difficult to find people to follow and build up your timeline.",
+        "hyp": "文 3 : Но найти людей, за которыми можно следить и составить свою ленту, гораздо сложнее.",
+        "label_text": "ленту"
+    },
+    {
+        "source": "原文 : Mine’s ending and all my grades are passable except for biology in which I have an F.",
+        "hyp": "文 1 : У меня семестр заканчивается, и все оценки удовлетворительные, кроме биологии, там у меня \"неуд\".",
+        "label_text": "\"неуд\""
+    },
+    {
+        "source": "原文 : Dramatic death scenes and bringing the characters back with a gag do not go hand in hand.",
+        "hyp": "文 5 : Драматические сцены смерти и возвращение персонажей в шутливом ключе не сочетаются.",
+        "label_text": "шутливом ключе не сочетаются"
+    },
+    {
+        "source": "原文 : The boss says I should do that more on the battle, the place we’ve been fighting in!",
+        "hyp": "文 1 : Босс говорит, что мне следует делать это чаще на поле боя, там, где мы воевали!",
+        "label_text": "чаще"
+    },
+    {
+        "source": "原文 : I love all your videos, and I have a suggestion for a video for the channel:",
+        "hyp": "文 2 : Мне нравятся все ваши видео, и у меня есть предложение на тему видео для канала:",
+        "label_text": "на тему"
+    },
+    {
+        "source": "原文 : Let’s drop down my main build, because it’s the best assassin play style I like.",
+        "hyp": "文 5 : Давайте использовать мою основную сборку, потому что это лучший стиль игры за убийцу, который мне нравится.",
+        "label_text": "мою основную сборку"
+    },
+    {
+        "source": "原文 : Let’s drop down my main build, because it’s the best assassin play style I like.",
+        "hyp": "文 5 : Давайте использовать мою основную сборку, потому что это лучший стиль игры за убийцу, который мне нравится.",
+        "label_text": "убийцу"
+    },
+    {
+        "source": "原文 : Their careers range from infectious disease doctors to psychologists to mindfulness teachers - and they all had great advice to give on how to stay motivated and keep the ball rolling.",
+        "hyp": "文 3 : Их карьеры варьируются от врачей-инфекционистов до психологов и преподавателей осознанности - и у всех они были отличные советы о том, как оставаться мотивированными и поддерживать рабочий ритм.",
+        "label_text": "преподавателей осознанности"
+    },
+    {
+        "source": "原文 : And I'm not sure if we have anything like shortening of the sentence.",
+        "hyp": "文 3 : И я не уверен, есть ли у нас что-то вроде сокращения предложения.",
+        "label_text": "сокращения предложения"
+    },
+    {
+        "source": "原文 : Suppose the cursor is located in the “aaa” word, and I want to yank four words without selecting the spaces after “ddd”: > xxx **aaa bbb ccc ddd** yyy",
+        "hyp": "文 3 : Предположим, курсор находится на слове \"aaa\", и я хочу скопировать четыре слова без выбора пробелов после \"ddd\": > xxx **aaa bbb ccc ddd** yyy",
+        "label_text": "скопировать"
+    },
+    {
+        "source": "原文 : David himself had lost his popularity and lost the respect of his nobles when he married the widow of a minor laird after the death of his English wife.",
+        "hyp": "文 1 : Дэвид сам потерял свою популярность и уважение своих знатных вассалов, когда после смерти своей английской жены женился на вдове незначительного лэрда.",
+        "label_text": "лэрда"
+    },
+    {
+        "source": "原文 : Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveller fold his cloak around him; and at last the North Wind gave up the attempt.",
+        "hyp": "文 3 : Тогда Северный ветер задул изо всех сил, но чем сильнее он дул, тем крепче путник обвивал вокруг себя плащ; и в конце концов Северный ветер отказался от попыток.",
+        "label_text": "отказался от попыток"
+    },
+    {
+        "source": "原文 : I don't like when ppl mumble on the phone or if they ramble on and it's all about then.",
+        "hyp": "文 1 : Мне не нравится, когда люди бормочут по телефону или когда они многословны и говорят только о себе.",
+        "label_text": "только о себе"
+    },
+    {
+        "source": "原文 : South Korean companies have kept their workers there, in some cases extending their stays, to keep the plants running despite shortages of food and gas and the risk of their employees becoming caught in the middle of the stand-off.",
+        "hyp": "文 3 : Южнокорейские компании оставили своих работников там, в некоторых случаях продлевая их пребывание, чтобы поддерживать работу заводов несмотря на дефицит продовольствия и топлива, а также риск того, что их сотрудники могут оказаться втянутыми в противостояние.",
+        "label_text": "дефицит"
+    },
+    {
+        "source": "原文 : South Korean companies have kept their workers there, in some cases extending their stays, to keep the plants running despite shortages of food and gas and the risk of their employees becoming caught in the middle of the stand-off.",
+        "hyp": "文 3 : Южнокорейские компании оставили своих работников там, в некоторых случаях продлевая их пребывание, чтобы поддерживать работу заводов несмотря на дефицит продовольствия и топлива, а также риск того, что их сотрудники могут оказаться втянутыми в противостояние.",
+        "label_text": "топлива"
+    },
+    {
+        "source": "原文 : Derry midfielder Adam Reilly closes down Lee Grace at the Brandywell",
+        "hyp": "文 5 : Полузащитник \"Дерри\" Адам Райли блокирует Ли Грейса на стадионе \"Брендивелл\".",
+        "label_text": "блокирует"
+    },
+    {
+        "source": "原文 : I don’t know how to write these properly, so I tried to copy this one post I saw that was in a bullet format, oh my.",
+        "hyp": "文 1 : Я не знаю, как правильно это написать, поэтому я попытался скопировать один пост, который я видел, он был в формате списка, ох уж эти.",
+        "label_text": "списка"
+    },
+    {
+        "source": "原文 : I’m a good listener. A lot of people view me as really cute or innocent.",
+        "hyp": "文 3 : Я хорошо умею слушать. Многие считают меня очень милым или наивным.",
+        "label_text": "хорошо умею слушать"
+    },
+    {
+        "source": "原文 : Thousands of people braved heavy rain to attend Lakiss's funeral in Baalbek.",
+        "hyp": "文 1 : Тысячи людей, несмотря на проливной дождь, пришли на похороны Лакисса в Баальбек.",
+        "label_text": "несмотря на"
+    },
+    {
+        "source": "原文 : The RWS/Hammerli 850 is a CO 2 designed gun which is often adapted to HPA.",
+        "hyp": "文 3 : Пневматический пистолет RWS/Hammerli 850 разработан под CO2, но часто модифицируется для использования с высоким давлением воздуха (HPA).",
+        "label_text": "модифицируется"
+    },
+    {
+        "source": "原文 : I care about how I affect people a lot but try not to show it.",
+        "hyp": "文 3 : Мне очень важно, как я влияю на людей, но я стараюсь это не показывать.",
+        "label_text": "очень важно"
+    },
+    {
+        "source": "原文 : I care about how I affect people a lot but try not to show it.",
+        "hyp": "文 3 : Мне очень важно, как я влияю на людей, но я стараюсь это не показывать.",
+        "label_text": "очень важно"
+    },
+    {
+        "source": "原文 : Everton goalkeeper Tim Howard had to save from Sandro, Kyle Walker and Lewis Holtby, while marauding Spurs left-back Jan Vertonghen had a strong penalty appeal turned down after being clipped by Seamus Coleman.",
+        "hyp": "文 4 : Вратарь \"Эвертона\" Тим Ховард должен был отразить удары Сандро, Кайла Уокера и Льюиса Хольтби, в то время как атакующий левый защитник \"Тоттенхэма\" Ян Вертонген имел все основания претендовать на пенальти после того, как его подрезал Шеймус Коулман.",
+        "label_text": "Тоттенхэма"
+    },
+    {
+        "source": "原文 : I just hope they nail him for thought crime Obviously there has been an epidemic of Molotov cocktail as of late, well WWII wasn't that long ago.",
+        "hyp": "文 4 : Я просто надеюсь, что они прижмут его за мыслепреступление. Очевидно, что в последнее время произошла эпидемия с использованием \"коктейлей Молотова\", ну и Вторая мировая война была не так уж и давно.",
+        "label_text": "прижмут"
+    },
+    {
+        "source": "原文 : As is common with despotic rule the whole period suffered from murders, suicides, corruption-material and moral- a record of which has been prepared by Kalhan Pandit who followed in the 12th century in the reign of Jayasinha.",
+        "hyp": "文 2 : Как это часто бывает при деспотическом правлении, весь период был омрачён убийствами, самоубийствами, материальной и моральной коррупцией, о чём был составлен отчёт Калханой Пандитом, который жил в XII веке во времена правления Джаясинхи.",
+        "label_text": "омрачён"
+    },
+    {
+        "source": "原文 : What is it with those that follow Obama, if Romney would of done it too, therefore it is OK for Obama to do it?",
+        "hyp": "文 2 : В чем дело с теми, кто поддерживает Обаму? Если бы Ромни поступил так же, значит, и для Обамы это нормально?",
+        "label_text": "поддерживает"
+    },
+    {
+        "source": "原文 : I know they're utter pish and paper wise we should be wiping the floor with them but just not feelin the 2/3 nil vibe atm!",
+        "hyp": "文 5 : Я знаю, что они полный отстой, и на бумаге мы должны их просто размазать, но сейчас я просто не чувствую, что мы выиграем со счётом 2:0 или 3:0!",
+        "label_text": "счётом 2:0 или 3:0"
+    },
+    {
+        "source": "原文 : I was avoiding eye contact and trying to face as far away from them as possible.",
+        "hyp": "文 1 : Я избегал взгляда в глаза и старался повернуться как можно дальше от них.",
+        "label_text": "повернуться"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical \"u shud be good but ur not so im gunna giveu unrealistIC GOals\", or should i be at 1:49?",
+        "hyp": "文 1 : Это 1:49 - это просто мой тренер, который как обычно говорит \"ты должен быть хорош, но ты не такой, поэтому я поставлю тебе нереальные цели\", или мне действительно стоит стремиться к 1:49?",
+        "label_text": "это просто мой тренер"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical \"u shud be good but ur not so im gunna giveu unrealistIC GOals\", or should i be at 1:49?",
+        "hyp": "文 1 : Это 1:49 - это просто мой тренер, который как обычно говорит \"ты должен быть хорош, но ты не такой, поэтому я поставлю тебе нереальные цели\", или мне действительно стоит стремиться к 1:49?",
+        "label_text": "нереальные"
+    },
+    {
+        "source": "原文 : In both landings, the covering force went ashore from warships with the exception of V Beach at Helles where the SS River Clyde was used as an improvised landing craft for 2,000 men.",
+        "hyp": "文 3 : В обоих высадках подразделения прикрытия высаживались с военных кораблей, за исключением пляжа V у мыса Хеллес, где в качестве импровизированного десантного судна для 2000 человек использовался SS River Clyde.",
+        "label_text": "V у мыса"
+    },
+    {
+        "source": "原文 : U srsly don't know what to do and whom to trust anymore.",
+        "hyp": "文 2 : Я серьёзно не знаю, что делать и кому теперь доверять.",
+        "label_text": "Я"
+    },
+    {
+        "source": "原文 : U srsly don't know what to do and whom to trust anymore.",
+        "hyp": "文 2 : Я серьёзно не знаю, что делать и кому теперь доверять.",
+        "label_text": "Я серьёзно не знаю"
+    },
+    {
+        "source": "原文 : OT could be there like Thomas, but I’m just not convinced any guy we take will be better than Little entering his 2nd year.",
+        "hyp": "文 3 : Так, возможно, мы могли бы взять там нападающего, как Томаса, но я просто не убежден, что любой парень, которого мы выберем, будет лучше, чем Литтл на втором году его карьеры.",
+        "label_text": " Так, возможно, мы могли бы взять там нападающего,"
+    },
+    {
+        "source": "原文 : OT could be there like Thomas, but I’m just not convinced any guy we take will be better than Little entering his 2nd year.",
+        "hyp": "文 3 : Так, возможно, мы могли бы взять там нападающего, как Томаса, но я просто не убежден, что любой парень, которого мы выберем, будет лучше, чем Литтл на втором году его карьеры.",
+        "label_text": " карьеры"
+    },
+    {
+        "source": "原文 : However, banks still maintain telephone banking systems that allow customers to perform routine transactions.",
+        "hyp": "文 3 : Тем не менее, банки по-прежнему поддерживают системы телефонного банкинга, которые позволяют клиентам выполнять стандартные операции.",
+        "label_text": "стандартные"
+    }
+]

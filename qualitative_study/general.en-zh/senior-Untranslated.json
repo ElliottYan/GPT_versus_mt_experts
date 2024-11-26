@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : The first reference to the estuary stingray in scientific literature was probably a record by 19th-century English naturalist William Saville-Kent of a \"Trygon pastinaca\" feeding on oysters in a Queensland estuary.",
+        "hyp": "文 2 : 据19世纪英国博物学家威廉•萨维尔-肯特（William Saville-Kent）记录，曾在昆士兰的一个河口看到一条学名为“Trygon pastinaca”的鱼以牡蛎为食。这可能是科学文献中首次提到河口黄貂鱼。",
+        "label_text": "“Trygon pastinaca”"
+    },
+    {
+        "source": "原文 : Hey, F/19 , bored af , I enjoy talking to new ppl,hmu?!",
+        "hyp": "文 5 : 嗨，F/19，无聊死了。我喜欢和新朋友聊天，找我聊天吧？!",
+        "label_text": "F/19"
+    },
+    {
+        "source": "原文 : like we’re out here doing stuff that im pretty sure is supposed to get sent out to affinity based on what i see on here.",
+        "hyp": "文 3 : 基于我在这里看到的一切，可以肯定的是这些应该送去Affinity。",
+        "label_text": "Affinity"
+    },
+    {
+        "source": "原文 : so basically for A's i got 82 RP and wanted to go nus biz admin but didnt get in though im q sure my RP is good enough and my appeal was rejected 3 days ago welp :<<",
+        "hyp": "文 3 : 我A级拿了82RP点数，想去 nus biz admin，但没有被录取。虽然我很确定我的 RP 点数足够多，但还是失败了，而且我的上诉3 天前也被驳回了。",
+        "label_text": "RP"
+    },
+    {
+        "source": "原文 : so basically for A's i got 82 RP and wanted to go nus biz admin but didnt get in though im q sure my RP is good enough and my appeal was rejected 3 days ago welp :<<",
+        "hyp": "文 3 : 我A级拿了82RP点数，想去 nus biz admin，但没有被录取。虽然我很确定我的 RP 点数足够多，但还是失败了，而且我的上诉3 天前也被驳回了。",
+        "label_text": "nus biz admin"
+    },
+    {
+        "source": "原文 : The original three skulls (all assigned to different species) were poorly known, and the genus had been considered a junior synonym of \"Metriorhynchus,\" \"Geosaurus\" or \"Dakosaurus\" by different palaeontologists in the past.",
+        "hyp": "文 5 : 最早的三个头骨（归属不同物种）鲜为人知。过去，古生物学家曾将该属视为 Metriorhynchus、Geosaurus 或 Dakosaurus 的次异名。",
+        "label_text": "Metriorhynchus、Geosaurus 或 Dakosaurus"
+    }
+]

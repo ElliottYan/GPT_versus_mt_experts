@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : 如果轮胎气压低，就会显示此警告信息。车辆上的对应轮胎位置指示灯亮。详细信息请参考第8章的“轮胎气压监测系统(TPMS)”部分。",
+        "hyp": "文 3 : In case of low tire pressure, this warning message will pop up and the indicator corresponding to the tire will be on. See \"Tire Pressure Monitoring System (TPMS)\" Section in Chapter 8 for details.",
+        "label_text": "Section"
+    },
+    {
+        "source": "原文 : PM1.0级空调过滤器增加含有熔喷布的高性能集尘层，0.3~0.5?尘埃过滤效率≥97%，过滤效果超过N95口罩，即便车外尘土飞扬，车内空气依然如清晨一般洁净。智能车机系统预装大量APP令旅途不枯燥，而高度便捷的自然语音识别系统，即便在你双手紧握方向盘时，依然可以操作车辆的各种功能。",
+        "hyp": "文 1 : The high-performance duct collector containing meltblown cloth is added to the PM1.0 air-conditioning filter, improving the 0.3-0.5 µm dust filtration efficiency to not less than 97%, which is superior to N95 facial mask. Even if the dust swirls in the air outside the vehicle, the air inside is still as clean as the fresh air in the morning. A lot of Apps are pre-installed in the intelligent IVI system, making the journey full of fun. The highly convenient natural language recognition system enables you to invoke various functions of the vehicle even when you hold the steering wheel.",
+        "label_text": "duct"
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 3 : Compared with the existing model, there is no change to the design of the new model and the latest family front face and the rim of the selling progress model are used. It is believed that this model is at entry level. It is of a size of 4,750 mm*1,820 mm*1,488 mm (L*W*H), with a wheel base of 2,730 mm, which are identical to the existing model.",
+        "label_text": "wheel base"
+    },
+    {
+        "source": "原文 : 两款车型长度都不到5米，轴距基本都在2800mm左右，在这一级别中都属于标准身材，相比之下帕萨特长度和轴距略占优，而凯美瑞在车身宽度略微领先。",
+        "hyp": "文 3 : Both models are less than 5 m long and have a wheel base of about 2,800 mm, which is the standard size in its category. In contrast, Passat has a little advantage in the length and wheel base, while Camry has a wider body.",
+        "label_text": "wheel base"
+    },
+    {
+        "source": "原文 : 两款车型长度都不到5米，轴距基本都在2800mm左右，在这一级别中都属于标准身材，相比之下帕萨特长度和轴距略占优，而凯美瑞在车身宽度略微领先。",
+        "hyp": "文 3 : Both models are less than 5 m long and have a wheel base of about 2,800 mm, which is the standard size in its category. In contrast, Passat has a little advantage in the length and wheel base, while Camry has a wider body.",
+        "label_text": "wheel base"
+    },
+    {
+        "source": "原文 : 如果您购买了二手车，您应该确认并删除已注册的蓝牙钥匙。此外，请告知客户服务中心或经销商您购买二手车的情况。",
+        "hyp": "文 1 : If the vehicle is second-handed, please make sure that all the registered Bluetooth keys have been deleted. In addition, you should also inform the customer service center or the dealer of your purchasing.",
+        "label_text": "customer service center"
+    }
+]

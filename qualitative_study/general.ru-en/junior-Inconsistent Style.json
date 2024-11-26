@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : \"Нам надо провести глубокий анализ, чтобы убедиться, что эта причина не распространяется на подобные конструкции на будущих пусках.",
+        "hyp": "文 5 : \"We need to do an in-depth analysis to make sure that this cause does not extend to similar designs on future launches\".",
+        "label_text": "designs"
+    },
+    {
+        "source": "原文 : Риторика потому, что подобный случай, повторю, со мной происходит уже третий раз.",
+        "hyp": "文 5 : Rhetorical because, I repeat, this is the third time an incident like this, has happened to me.",
+        "label_text": "incident"
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 4 : At the moment, the Rossoneri have climbed to third place in the standings with 41 points.",
+        "label_text": "climbed to"
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 2 : She will have one traffic accident after another, run through walls like \"The Matrix\" and throw strong men in formal suits like children.",
+        "label_text": "have"
+    },
+    {
+        "source": "原文 : Их употребление перед сном стоит ограничивать, поскольку они не только мешают засыпанию, но и делают сон \"рваным\", а значит не дающим организму полноценно восстановиться.",
+        "hyp": "文 2 : Their use before bedtime should be limited, as they not only interfere with falling asleep, but also make sleep \"ragged\", and therefore do not allow the body to fully recover.",
+        "label_text": "use"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 2 : The author is also interested in the screwdriver that explores the electric meter, and the piece of unsalted cream that floats on the cast-iron pan, all of which turns the story of the unemployed miner, his rare-toothed lover and her head-brother into a real dock-canvas of oil.",
+        "label_text": "head-brother"
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 5 : On the day of arrival, they called, told us what time to wait for us, gave us information about the cost of the transfer (1400 from the airport), we ordered a taxi (at 23:00 the price was 850 r), we arrived quickly, there was no traffic jam, they let us in without any problems.",
+        "label_text": " in"
+    },
+    {
+        "source": "原文 : Может светскую беседу вести, и огнетушителем по морде съездить, но не в силах пропустить ни одной юбки.",
+        "hyp": "文 5 : He may have a worldly conversation, and a fire extinguisher in his face, but he can't miss a single skirt.",
+        "label_text": " a fire extinguisher in his face"
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 4 : Watch George Clooney team up with rock photographer-now-director Anton Corbijn (Control) for a very curious existential study of the psychology of an aging assassin hiding from the people of a small Italian town and belatedly grasping human nature.",
+        "label_text": "Watch George Clooney team up"
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 4 : The scene of the destruction of the Ninth Legion, which cost a lot of budget money, is directly inspired by the opening ceremony in the German forests of the now iconic \"Gladiator\" Sir Ridley Scott, but for some reason you absolutely do not want to accuse Marshall of plagiarism: he works honestly and without pretensions.",
+        "label_text": "you "
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 4 : The scene of the destruction of the Ninth Legion, which cost a lot of budget money, is directly inspired by the opening ceremony in the German forests of the now iconic \"Gladiator\" Sir Ridley Scott, but for some reason you absolutely do not want to accuse Marshall of plagiarism: he works honestly and without pretensions.",
+        "label_text": " you absolutely do not want to accuse"
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 4 : Nevertheless, we will talk about the International Film Festival next time (until I complain that this year in the minds of the organizers finally strengthened the inexplicable idea that the lucky owners of purchased tickets are much more important for the festival than accredited guests, a ridiculous and quite offensive principle, which does not sin any normal film festival in the world), and in this issue we report on what we saw in Cannes and at \"Kinotavr\".",
+        "label_text": "until "
+    },
+    {
+        "source": "原文 : С борта МКС грузовой корабль приветствовали космонавты Сергей Прокопьев, Дмитрий Петелин и Анна Кикина.",
+        "hyp": "文 5 : On board the ISS, the cargo ship was greeted by cosmonauts Sergei Prokopyev, Dmitry Petelin and Anna Kikin.",
+        "label_text": "On board the ISS"
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 1 : She'll set up one accident after another, run through the walls of the Matrix and, like children, scatter strong men in the same strict suits.",
+        "label_text": "of "
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 1 : She'll set up one accident after another, run through the walls of the Matrix and, like children, scatter strong men in the same strict suits.",
+        "label_text": "like children"
+    },
+    {
+        "source": "原文 : Протесты и апелляции, касающиеся права спортсменов участвовать в соревнованиях или его принадлежность к той или иной команде, подаются в аналогичном порядке в апелляционное жюри.",
+        "hyp": "文 2 : Protests and appeals concerning the right of an athlete to participate in competitions or his membership in a team shall be submitted in the same manner to the jury of appeal.",
+        "label_text": "the same"
+    },
+    {
+        "source": "原文 : Протесты и апелляции, касающиеся права спортсменов участвовать в соревнованиях или его принадлежность к той или иной команде, подаются в аналогичном порядке в апелляционное жюри.",
+        "hyp": "文 2 : Protests and appeals concerning the right of an athlete to participate in competitions or his membership in a team shall be submitted in the same manner to the jury of appeal.",
+        "label_text": "the same"
+    },
+    {
+        "source": "原文 : По информации ведомства, инцидент произошел вечером пятницы на 218 километре автодороги Р-22 в Михайловском районе.",
+        "hyp": "文 4 : According to the agency, the incident occurred on Friday evening at 218 km of the R-22 highway in Mikhailovsky district.",
+        "label_text": "highway"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 2 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "In general"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 2 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "organic"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 2 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "organic"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 5 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "organic"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 5 : In general, you are extremely organic on the screen, which many, frankly speaking, did not expect.",
+        "label_text": "organic"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 2 : The most complex film \"The Cinematographer\" has already been selected for the Karlovy Vary competition. The director's star is born.",
+        "label_text": "film"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 2 : The most complex film \"The Cinematographer\" has already been selected for the Karlovy Vary competition. The director's star is born.",
+        "label_text": "The Cinematographer"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 5 : At a round table devoted to the fate of the Russian art house, the chairman of the Foundation for the Support of Russian Cinema, Sergei Tolstykov, had a picturesque quarrel with the critics: \"Do you even read the articles in the press that I read?\" he asked the audience.",
+        "label_text": "picturesque "
+    },
+    {
+        "source": "原文 : Ваш партнер по фильму Александр Яценко совершенно не похож на своего героя.",
+        "hyp": "文 1 : Your partner in the film, Alexander Yatsenko, is nothing like his hero.",
+        "label_text": "hero"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 3 : Please write down the actions for your employees in this case, if you are trying to service.",
+        "label_text": "trying to service"
+    },
+    {
+        "source": "原文 : Распишите, пожалуйста, действия для ваших сотрудников на этот случай, уж если пытаетесь в сервис.",
+        "hyp": "文 3 : Please write down the actions for your employees in this case, if you are trying to service.",
+        "label_text": "trying to service"
+    },
+    {
+        "source": "原文 : Если я пришла и согласилась работать с режиссером, то я, собственно, вверяюсь в его руки и мне хочется быть тестом, из которого будут лепить.",
+        "hyp": "文 2 : If I come and agree to work with the director, then I, in fact, trust his hands and I want to be a test that will be molded.",
+        "label_text": "test "
+    },
+    {
+        "source": "原文 : В постановки, в которых он принимал участие, пригласи артистов из второго состава.",
+        "hyp": "文 4 : In the productions in which he took part, he invited artists from the second cast.",
+        "label_text": "he invited "
+    },
+    {
+        "source": "原文 : От души рекомендую, единственная клиника где не хотят нагреть на деньги на моей памяти.",
+        "hyp": "文 4 : From the bottom of my heart, I recommend the only clinic where they don't want to put money on my memory.",
+        "label_text": "put money on my memory"
+    },
+    {
+        "source": "原文 : Президент Франции Эммануэль Макрон заявлял в ходе избирательной кампании в 2022 году о решимости провести пенсионную реформу до конца своего второго президентского мандата.",
+        "hyp": "文 5 : French President Emmanuel Macron said during his election campaign in 2022 that he was determined to carry out a pension reform until the end of his second presidential term.",
+        "label_text": "until "
+    },
+    {
+        "source": "原文 : Так было со спагетти-вестернами Серджио Леоне, с гангстерскими боевиками Квентина Тарантино, с упомянутым «Индианой Джонсом» (ему тут и поклон сделали, и высмеяли), наконец, с тем же «Пятым элементом».",
+        "hyp": "文 4 : So it was with Sergio Leone's spaghetti westerns, with Quentin Tarantino's gangster action movies, with the aforementioned Indiana Jones (who was bowed down and ridiculed), and finally with the same Fifth Element.",
+        "label_text": "the same"
+    },
+    {
+        "source": "原文 : При односторонней гипоплазии объем пазухи по сравнению с контралатеральной стороной снижается на 31—58%.",
+        "hyp": "文 4 : With unilateral hypoplasia, the volume of the groin compared to the contralateral side decreases by 31<unk>58%.",
+        "label_text": "With "
+    },
+    {
+        "source": "原文 : При односторонней гипоплазии объем пазухи по сравнению с контралатеральной стороной снижается на 31—58%.",
+        "hyp": "文 4 : With unilateral hypoplasia, the volume of the groin compared to the contralateral side decreases by 31<unk>58%.",
+        "label_text": "<unk>"
+    },
+    {
+        "source": "原文 : При этом Бессон обращается с жанровым кино, про которое знает решительно все, бесцеремонно и весело, как мальчишка, насмотревшийся старых фильмов и начитавшийся Жюля Верна.",
+        "hyp": "文 4 : At the same time, Besson deals with genre cinema, about which he knows everything decisively, unceremoniously and cheerfully, like a boy who has watched old films and read Jules Verne.",
+        "label_text": " At the same time"
+    },
+    {
+        "source": "原文 : Рыбак судился с музыкальным исполнителем Филиппом Киркоровым из-за якобы незаконно установленного пирса на его подмосковной даче.",
+        "hyp": "文 3 : Rybak sued the musician Philip Kirkorov for allegedly illegally installing a pier at his suburban cottage.",
+        "label_text": "Rybak"
+    },
+    {
+        "source": "原文 : Рыбак судился с музыкальным исполнителем Филиппом Киркоровым из-за якобы незаконно установленного пирса на его подмосковной даче.",
+        "hyp": "文 3 : Rybak sued the musician Philip Kirkorov for allegedly illegally installing a pier at his suburban cottage.",
+        "label_text": "suburban "
+    },
+    {
+        "source": "原文 : Пациенты в зависимости от степени атеросклеротического стеноза внутренней сонной артерии и картины глазного дна были разделены на две группы.",
+        "hyp": "文 1 : Patients, depending on the degree of atherosclerotic stenosis of the internal carotid artery and the picture of the eye floor, were divided into two groups.",
+        "label_text": "eye floor"
+    },
+    {
+        "source": "原文 : К отмене крепостного права в Центральной России 55% крепостных были отпущены на оброк.",
+        "hyp": "文 4 : By the abolition of serfdom in Central Russia, 55% of the serfs had been released on probation.",
+        "label_text": "probation"
+    },
+    {
+        "source": "原文 : Их употребление перед сном стоит ограничивать, поскольку они не только мешают засыпанию, но и делают сон \"рваным\", а значит не дающим организму полноценно восстановиться.",
+        "hyp": "文 1 : Their use before bedtime should be limited, as they not only interfere with falling asleep, but also make sleep \"ruined\", which means that they do not allow the body to fully recover.",
+        "label_text": "ruined"
+    },
+    {
+        "source": "原文 : Да, со своей последней картиной «Судный день», разбодяженным «Безумным Максом» для неимущих, Маршалл дал серьезную осечку",
+        "hyp": "文 5 : Yes, with his last painting, \"Judgment Day\", a naked \"Mad Max\" for the poor, Marshall gave a serious nod.",
+        "label_text": "naked"
+    },
+    {
+        "source": "原文 : Я ему рассказывала обо всех своих страхах, о всех переживаниях, о том, что я боюсь, что у меня не получится, и просила у него какого-то совета и помощи, и он с радостью этот совет и эту помощь мне давал.",
+        "hyp": "文 2 : I told him about all my fears, all my experiences, that I was afraid that I would not succeed, and asked him for some advice and help, and he gladly gave me this advice and this help.",
+        "label_text": "experiences"
+    },
+    {
+        "source": "原文 : При анализе данных мф-ЭРГ в исследуемой группе обнаружено статистически значимое по сравнению с группой контроля снижение плотности биопотенциала Р1 (нВ/град<sup>2</sup>) центральной зоны сетчатки (0—27,7°; <i>p</i><0,05), отличия латентности Р1 (ms) были статистически незначимы (<i>p</i>>0,05).",
+        "hyp": "文 3 : In the analysis of mRNA-EEG data in the study group, a statistically significant decrease in the bio-potential density of the central area of the retina (0.27.7°) was detected in comparison with the control group, and the differences in the latency of mRNA were statistically insignificant (0.05°).",
+        "label_text": "0.05°"
+    },
+    {
+        "source": "原文 : Действующий президент Джо Байден, не смотря на заверения его команды о намерении принять участие в 60-х по счету президентских выборах, заявил об отсутствии твердого решения по данному вопросу.",
+        "hyp": "文 2 : Incumbent President Joe Biden, despite assurances from his team that he intends to run in the 2016 presidential election, said there was no firm decision on the issue.",
+        "label_text": "2016"
+    },
+    {
+        "source": "原文 : На территории не большой парк где можно прогуляться с семьёй.",
+        "hyp": "文 3 : There is not a big park on the territory where you can walk with your family.",
+        "label_text": "There is not a big park"
+    }
+]

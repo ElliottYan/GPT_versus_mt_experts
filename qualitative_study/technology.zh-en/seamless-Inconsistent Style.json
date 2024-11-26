@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : 乙醇汽油(酒精汽油)是乙醇(也称粮谷酒精)和汽油的混合燃油。在市场上，也有含甲醇( 也称木精)的汽油或乙醇汽油代替有铅或无铅汽油进行销售。",
+        "hyp": "文 1 : Ethanol gasoline (alcoholic gasoline) is a mixture of ethanol (also called grain alcohol) and gasoline. In the market, there is also methanol-containing gasoline or ethanol gasoline instead of lead or unleaded gasoline for sale.",
+        "label_text": "lead"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 3 : With a driver-centered immersive cockpit, 10.25-inch smart dual-screen, equipped with an intelligent networking system 4.0, it is possible to achieve multiple personalized application information connectivity, enjoy the convenient experience brought by smart technology, everyone is in control, and there is no limit to smart connectivity.",
+        "label_text": "smart"
+    },
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 3 : With a driver-centered immersive cockpit, 10.25-inch smart dual-screen, equipped with an intelligent networking system 4.0, it is possible to achieve multiple personalized application information connectivity, enjoy the convenient experience brought by smart technology, everyone is in control, and there is no limit to smart connectivity.",
+        "label_text": " smart "
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 2 : After all, in the mid-size car class, Junwei walks the young sports route, while Jun Wei mainly focuses on the business side. After the modification, Jun Wei also joined the ranks of children's lights, daytime traffic lights and tail lights, which are easy to recognize at night.",
+        "label_text": "Junwei "
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 2 : After all, in the mid-size car class, Junwei walks the young sports route, while Jun Wei mainly focuses on the business side. After the modification, Jun Wei also joined the ranks of children's lights, daytime traffic lights and tail lights, which are easy to recognize at night.",
+        "label_text": "Jun Wei "
+    },
+    {
+        "source": "原文 : 毕竟在中型车级别当中，君威走的是年轻运动路线，而君越则主打稳重、商务派。君越在改款之后，也加入了玩儿灯的行列，日间行车灯和车尾示宽灯的造型相呼应，在夜晚很容易识别。",
+        "hyp": "文 2 : After all, in the mid-size car class, Junwei walks the young sports route, while Jun Wei mainly focuses on the business side. After the modification, Jun Wei also joined the ranks of children's lights, daytime traffic lights and tail lights, which are easy to recognize at night.",
+        "label_text": " joined"
+    },
+    {
+        "source": "原文 : 检查制动油/离合器油储油罐中的制动油/离合器油䟿。油䟿应在储油罐侧面的“上限(MAX)”与“下限(MIN)”标记之间。能使用符合[DOT4]㿴格的液压制动油/离合器油。",
+        "hyp": "文 4 : Check that the brake oil or clutch oil in the brake oil or clutch oil tank is between the upper (MAX) and lower (MIN) markings on the side of the tank and that the hydraulic brake oil or clutch oil complies with the [DOT4] grid.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 检查制动油/离合器油储油罐中的制动油/离合器油䟿。油䟿应在储油罐侧面的“上限(MAX)”与“下限(MIN)”标记之间。能使用符合[DOT4]㿴格的液压制动油/离合器油。",
+        "hyp": "文 4 : Check that the brake oil or clutch oil in the brake oil or clutch oil tank is between the upper (MAX) and lower (MIN) markings on the side of the tank and that the hydraulic brake oil or clutch oil complies with the [DOT4] grid.",
+        "label_text": "brake oil"
+    },
+    {
+        "source": "原文 : 2011年引入的迈腾B7，再次巩固了迈腾在中型车的标杆地位，其搭载了大量的舒适豪华与安全方面的电子系统，堪称最智能的中型车。比如主动刹车功能、驾驶员疲劳监测、自动远光灯、横向XDS电子差速器锁、胎压监测、车道偏离警告、后方车辆快速接近提示、泊车辅助系统、限速标志提示功能、噪音抑制功能、自动泊车等。",
+        "hyp": "文 3 : Introduced in 2011, the Maiden B7 once again consolidated Maiden's position as a benchmark for mid-size cars, with a large number of comfort, luxury and safety electronic systems, which are considered the most intelligent mid-size cars, such as active brake function, driver fatigue monitoring, automatic far-light lights, horizontal XDS electronic differential locking, tire pressure monitoring, lane departure warning, rear vehicle rapid approach alert, parking assistance system, speed limit alert function, noise suppression, etc.",
+        "label_text": "warning"
+    },
+    {
+        "source": "原文 : 从各大城市的行情来看，相比过去几个月，凯美瑞的让利幅度进一步加大。一方面是它的车型已经许久没有改款，另外，凯美瑞也需要加大优惠，为今年销量目标冲刺一把。",
+        "hyp": "文 3 : From the point of view of the situation in major cities, compared to the past few months, Camry's profit margin has further increased. On the one hand, its model has not been modified for a long time, in addition, Camry also needs to increase discounts, to accelerate the sales target for this year.",
+        "label_text": "On the one hand,"
+    },
+    {
+        "source": "原文 : 从各大城市的行情来看，相比过去几个月，凯美瑞的让利幅度进一步加大。一方面是它的车型已经许久没有改款，另外，凯美瑞也需要加大优惠，为今年销量目标冲刺一把。",
+        "hyp": "文 3 : From the point of view of the situation in major cities, compared to the past few months, Camry's profit margin has further increased. On the one hand, its model has not been modified for a long time, in addition, Camry also needs to increase discounts, to accelerate the sales target for this year.",
+        "label_text": " in addition"
+    },
+    {
+        "source": "原文 : 加油后：加油超过6升(1.6加仑)时，一旦车速超过1km/h(1mph)，就会自动初始化平均油耗显示值。",
+        "hyp": "文 3 : After refueling: When refueling more than 6 liters (1.6 gallons), once the speed exceeds 1 km/h (1 mph), the average fuel consumption display value is automatically initialized.",
+        "label_text": "6 liters (1.6 gallons)"
+    },
+    {
+        "source": "原文 : 动力方面，帕萨特采用了2.0T涡轮增压发动机，最大功率为162kW，搭配7速双离合变速箱，而凯美瑞采用的2.5L发动机最大功率为143kW，搭配8速手自一体变速箱，两车的动力差距并不算大。",
+        "hyp": "文 1 : In terms of power, the Passat uses a 2.0T turbocharged engine, with a maximum power of 162kW, matched with a seven-speed dual-clutch gearbox, while the 2.5L engine used by Camry has a maximum power of 143kW, matched with an eight-speed manual transmission, the power gap between the two cars is not large.",
+        "label_text": "gearbox"
+    }
+]

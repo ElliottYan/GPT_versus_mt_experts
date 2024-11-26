@@ -1,0 +1,247 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 1 : Умм, может быть, потому что мы разные люди с разными телами???",
+        "label_text": "разные люди"
+    },
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 1 : Умм, может быть, потому что мы разные люди с разными телами???",
+        "label_text": "разными телами"
+    },
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 1 : Край может быть необходим в зависимости от FA, и парень из Айовы (я не могу написать его имя) хорош, но это все еще немного достижимо.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 1 : Край может быть необходим в зависимости от FA, и парень из Айовы (я не могу написать его имя) хорош, но это все еще немного достижимо.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 5 : Он делает так, что кажется, что XVG - это тонущий корабль, а банкомат работает хорошо.",
+        "label_text": "XVG"
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 5 : Он делает так, что кажется, что XVG - это тонущий корабль, а банкомат работает хорошо.",
+        "label_text": "XVG"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 3 : Я полагаю, что это команда с тотемом роста с двумя танками, астероидом, танковым истребителем, и самолет, который может нести все, если захочет.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 3 : Я думаю, что делаю свои маневры хорошо, но интрактор говорит, что мне все еще нужно больше практики.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 3 : Я думаю, что делаю свои маневры хорошо, но интрактор говорит, что мне все еще нужно больше практики.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 3 : Некоторый Ламбет ударил флаг, и Айску пришлось сдаться Трампу на \"Гуде\", в первый и последний раз в истории британский адмирал такого высокого ранга был захвачен в море.",
+        "label_text": "Айску "
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 3 : Некоторый Ламбет ударил флаг, и Айску пришлось сдаться Трампу на \"Гуде\", в первый и последний раз в истории британский адмирал такого высокого ранга был захвачен в море.",
+        "label_text": "Гуде"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 3 : Некоторый Ламбет ударил флаг, и Айску пришлось сдаться Трампу на \"Гуде\", в первый и последний раз в истории британский адмирал такого высокого ранга был захвачен в море.",
+        "label_text": "Айску "
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 3 : Некоторый Ламбет ударил флаг, и Айску пришлось сдаться Трампу на \"Гуде\", в первый и последний раз в истории британский адмирал такого высокого ранга был захвачен в море.",
+        "label_text": "Гуде"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 4 : Еще одна резервная (добровольческая) сила была создана в 1981 году, состоящая из неоплачиваемых гражданских лиц, готовых выполнять ограниченные полицейские обязанности.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : The funny thing is that right now these same hard-line conservatives declare that we must not run deficits in times of economic crisis.",
+        "hyp": "文 5 : Забавно то, что прямо сейчас эти же жесткие консерваторы заявляют, что мы не должны иметь дефицит во времена экономического кризиса.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 2 : Это просто белый экран или проходит время загрузки, или страница перестает реагировать??!",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : She wud speak in Thai to me YET I DONT KNOW ANY THAI.",
+        "hyp": "文 3 : Она говорила со мной на тайском, но я не знаю никакого тайского.",
+        "label_text": "но я не знаю никакого тайского."
+    },
+    {
+        "source": "原文 : She wud speak in Thai to me YET I DONT KNOW ANY THAI.",
+        "hyp": "文 3 : Она говорила со мной на тайском, но я не знаю никакого тайского.",
+        "label_text": "но я не знаю никакого тайского."
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 2 : Солдаты, как утверждается, украли еще 1 440 000 CFA ($ 2 845) у других мужчин.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 2 : Уверен, вы не прочитали все число или не заметили букву, которую я вставил, а теперь вернетесь, чтобы проверить, только чтобы понять, что не было никакой буквы.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 5 : Я слишком уродлива, чтобы даже кричать на Snapchat, так что я делаю это на Reddit вместо этого",
+        "label_text": "Я"
+    },
+    {
+        "source": "原文 : One of her friend said that she was sad as fuck all day because of me but didn’t want to say why.",
+        "hyp": "文 3 : Одна из ее подруг сказала, что она была грустна целый день из-за меня, но не хотела говорить почему.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : We are going to try to get the AK-477, because someone said it would help, but where do we find it?!",
+        "hyp": "文 1 : Мы собираемся попытаться достать АК-477, потому что кто-то сказал, что это поможет, но где мы его найдем?!",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Moreover, at the cellular level they change over time, these including changes under the influence of the streams of sensory signals they perceive and the life experience gained, including the consequences of their own actions under certain circumstances.",
+        "hyp": "文 4 : Более того, на клеточном уровне они меняются с течением времени, включая изменения под влиянием потоков сенсорных сигналов, которые они воспринимают, и приобретенного жизненного опыта, включая последствия своих собственных действий при определенных обстоятельствах.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : When day 2 had begun, Mafia and Serial Killer had made their kills.",
+        "hyp": "文 1 : Когда начался второй день, мафия и серийный убийца совершили свои убийства.",
+        "label_text": "м"
+    },
+    {
+        "source": "原文 : When day 2 had begun, Mafia and Serial Killer had made their kills.",
+        "hyp": "文 1 : Когда начался второй день, мафия и серийный убийца совершили свои убийства.",
+        "label_text": "с"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 1 : Я знаю, что натуральные продукты не будут пахнуть так красиво, как некоторые синтетические, но я чувствую, что все больше и больше натуральных линий просто меньше заботятся, так как они будут продаваться в любом случае, и поэтому теперь все просто пахнет как тесто.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 1 : Я знаю, что натуральные продукты не будут пахнуть так красиво, как некоторые синтетические, но я чувствую, что все больше и больше натуральных линий просто меньше заботятся, так как они будут продаваться в любом случае, и поэтому теперь все просто пахнет как тесто.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 2 : Я все еще учусь, и игры - это моя мечта... и эти цены приводят меня к депрессии и безнадежности в жизни... честно говоря...",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 2 : Я все еще учусь, и игры - это моя мечта... и эти цены приводят меня к депрессии и безнадежности в жизни... честно говоря...",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : its a bit unnerving to manage expenses on 1 persons salary in this place....",
+        "hyp": "文 4 : Немного нервничает управлять расходами на зарплату одного человека в этом месте...",
+        "label_text": "Н"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 1 : Не было значительных различий в распространенности рентгенологической пневмонии или сердечно-сосудистых аномалий или в 28-дневной смертности между детьми с тяжелой гипоксемией (SpO<unk>2sub>: < 80%) и детьми с легкой гипоксемией (SpO<unk>2sub>: 80 до < 92%).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 1 : Не было значительных различий в распространенности рентгенологической пневмонии или сердечно-сосудистых аномалий или в 28-дневной смертности между детьми с тяжелой гипоксемией (SpO<unk>2sub>: < 80%) и детьми с легкой гипоксемией (SpO<unk>2sub>: 80 до < 92%).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Japan's economy grew by a stronger-than-expected 3.5 percent in annual terms last quarter, giving Prime Minister Shinzo Abe a boost as his government tackles reforms needed to ensure a sustained recovery from two decades of malaise.",
+        "hyp": "文 3 : Экономика Японии выросла на более сильные, чем ожидалось, 3,5 процента в годовом выражении в прошлом квартале, что дало премьер-министру Шинзо Абэ импульс, поскольку его правительство занимается реформами, необходимыми для обеспечения устойчивого восстановления после двух десятилетий неблагополучия.",
+        "label_text": "Шинзо"
+    },
+    {
+        "source": "原文 : It is with a broken heart that I must tell you of the death of my beloved wife, husband John Furlong confirmed in a statement on Friday morning.",
+        "hyp": "文 3 : С разбитым сердцем я должен сообщить вам о смерти моей любимой жены, муж Джон Фурлонг подтвердил в заявлении в пятницу утром.",
+        "label_text": "у"
+    },
+    {
+        "source": "原文 : I found the built-in maps app seriously subpar, as I'm used to using Google Maps.",
+        "hyp": "文 4 : Я обнаружил, что встроенное приложение карт серьезно не соответствует требованиям, так как я привык использовать Google Maps.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I dont know how long this is gonna take but probably quite awhile.",
+        "hyp": "文 5 : Я не знаю, сколько это займет времени, но, вероятно, довольно долго.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Okay, so I’ve got less than a chapter left in Gardens of the Moon and I still can’t understand what the fuck Oponn is trying to achieve through all their/its meddling.",
+        "hyp": "文 2 : Ладно, у меня осталось меньше главы в \"Садах Луны\", и я до сих пор не могу понять, чего, черт возьми, Опонн пытается достичь всеми своими вмешательствами.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I don't like when ppl mumble on the phone or if they ramble on and it's all about then.",
+        "hyp": "文 4 : Мне не нравится, когда люди бормочут по телефону или если они блуждают и все об этом.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Vacuum won’t stop sucking. Please send help. Is it going to blow?",
+        "hyp": "文 5 : Вакуум не перестает сосать, пожалуйста, пошлите помощь, он взорвется?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Vacuum won’t stop sucking. Please send help. Is it going to blow?",
+        "hyp": "文 5 : Вакуум не перестает сосать, пожалуйста, пошлите помощь, он взорвется?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Cleaning pipes maintenance is the most important but wearing work to operate the Type 93 torpedo.",
+        "hyp": "文 5 : Уборка труб является наиболее важной, но утомительной работой при эксплуатации торпеды типа 93.",
+        "label_text": "т"
+    },
+    {
+        "source": "原文 : Derry midfielder Adam Reilly closes down Lee Grace at the Brandywell",
+        "hyp": "文 1 : Полузащитник Дерри Адам Райли закрывает Ли Грейс в Брэндивелл",
+        "label_text": "Райли"
+    },
+    {
+        "source": "原文 : From a previous marriage, she has a daughter named Cheyan and a son named Dakota.",
+        "hyp": "文 4 : Из предыдущего брака у нее есть дочь по имени Чейан и сын по имени Дакота.",
+        "label_text": "Чейан"
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 5 : Военачальник Украины генерал Валерий Залужный заявил, что российские войска запустили 71 крылатую ракету, 35 ракет С-300 и семь беспилотников \"Шахид\" в период с позднего четверга по полдень пятницы, добавив, что украинская противовоздушная оборона сбила 61 крылатую ракету и пять беспилотников.",
+        "label_text": "Шахид"
+    },
+    {
+        "source": "原文 : I got covid by kissing another guy for the first time, so i had to tell my mum.",
+        "hyp": "文 1 : Я заразилась Ковидом, когда впервые поцеловала другого парня, так что мне пришлось сказать маме.",
+        "label_text": " К"
+    },
+    {
+        "source": "原文 : I got covid by kissing another guy for the first time, so i had to tell my mum.",
+        "hyp": "文 1 : Я заразилась Ковидом, когда впервые поцеловала другого парня, так что мне пришлось сказать маме.",
+        "label_text": "К"
+    },
+    {
+        "source": "原文 : But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.",
+        "hyp": "文 1 : Но это земля, которая делает ее хорошим хранилищем богатства до тех пор, пока вы думаете, что правительство не собирается менять систему, в которой мы живем.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.",
+        "hyp": "文 1 : Но это земля, которая делает ее хорошим хранилищем богатства до тех пор, пока вы думаете, что правительство не собирается менять систему, в которой мы живем.",
+        "label_text": "е"
+    }
+]

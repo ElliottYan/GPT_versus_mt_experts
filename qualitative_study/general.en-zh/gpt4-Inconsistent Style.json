@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : If there's a ghost in the house, why the HELL would you go in the darkest and creepiest place in the house?!",
+        "hyp": "文 4 : 如果屋子里真有鬼，你为什么要去房子里最黑暗、最恐怖的地方？！",
+        "label_text": "房子"
+    },
+    {
+        "source": "原文 : If there's a ghost in the house, why the HELL would you go in the darkest and creepiest place in the house?!",
+        "hyp": "文 4 : 如果屋子里真有鬼，你为什么要去房子里最黑暗、最恐怖的地方？！",
+        "label_text": "屋子"
+    },
+    {
+        "source": "原文 : If there's a ghost in the house, why the HELL would you go in the darkest and creepiest place in the house?!",
+        "hyp": "文 4 : 如果屋子里真有鬼，你为什么要去房子里最黑暗、最恐怖的地方？！",
+        "label_text": "房子"
+    }
+]

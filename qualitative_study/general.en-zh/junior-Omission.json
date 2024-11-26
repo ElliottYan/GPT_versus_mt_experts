@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 3 : 然而，当我在聊天中输入：“我不会在这个游戏中作弊！”，但却它告诉我支付服务器费用并关闭广告拦截。",
+        "label_text": "广告拦截"
+    },
+    {
+        "source": "原文 : The conglomeratic sandstones and silty mudstones of the formation were deposited in an alluvial environment.",
+        "hyp": "文 2 : 该组的砾岩砂岩和粉砂质泥岩在冲积环境中沉积。",
+        "label_text": "。"
+    },
+    {
+        "source": "原文 : The conglomeratic sandstones and silty mudstones of the formation were deposited in an alluvial environment.",
+        "hyp": "文 2 : 该组的砾岩砂岩和粉砂质泥岩在冲积环境中沉积。",
+        "label_text": "。"
+    }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 5 : Of the 17,485 total cases reported by raw research products, 532 cases (3.04%) of adverse reactions occurred.",
+        "label_text": "raw research products"
+    },
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 5 : Of the 17,485 total cases reported by raw research products, 532 cases (3.04%) of adverse reactions occurred.",
+        "label_text": "raw research products"
+    },
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 3 : Of the other 690 reports, the main ones were digestive system (stomach discomfort, lack of appetite, abdominal pain, nausea or vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial watering (0.15%), etc.",
+        "label_text": "facial watering"
+    },
+    {
+        "source": "原文 : 另690件报告中，主要是消化系统（胃部不适、食欲不振、腹痛、恶心/呕吐等：2.99%）、皮疹（0.20%）、瘙痒（0.14%）、面部水肿（0.15%）等。",
+        "hyp": "文 3 : Of the other 690 reports, the main ones were digestive system (stomach discomfort, lack of appetite, abdominal pain, nausea or vomiting, etc.: 2.99%), rashes (0.20%), itching (0.14%), facial watering (0.15%), etc.",
+        "label_text": "facial watering"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "chest pain"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "nausea"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "vasculitis"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 2 : There is a possibility of allergy symptoms (frequency unknown*), so full observation should be carried out, discontinuation of medication in case of chest pain, nausea, cold sweat, difficulty breathing, numbness of the limbs, low blood pressure, vasculitis, measles, etc., and appropriate measures should be taken.",
+        "label_text": "measles"
+    },
+    {
+        "source": "原文 : （2）再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症",
+        "hyp": "文 5 : (2) Regenerative anemia, hemolysis, anemia, decreased platelet count, decreased platelet count",
+        "label_text": "Regenerative anemia"
+    },
+    {
+        "source": "原文 : （2）再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症",
+        "hyp": "文 5 : (2) Regenerative anemia, hemolysis, anemia, decreased platelet count, decreased platelet count",
+        "label_text": "hemolysis, anemia"
+    },
+    {
+        "source": "原文 : （2）再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症",
+        "hyp": "文 5 : (2) Regenerative anemia, hemolysis, anemia, decreased platelet count, decreased platelet count",
+        "label_text": "decreased platelet count"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "granulocyte depletion"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "Regenerative anemia"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "hemolysis, anemia"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "granulocyte depletion"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "platelet depletion"
+    },
+    {
+        "source": "原文 : （3）消化性溃疡、胃肠出血、溃疡性结肠炎",
+        "hyp": "文 3 : (3) Digestive ulcers, stomach and intestinal bleeding, and ulcerative colitis",
+        "label_text": "Digestive ulcers"
+    },
+    {
+        "source": "原文 : （3）消化性溃疡、胃肠出血、溃疡性结肠炎",
+        "hyp": "文 3 : (3) Digestive ulcers, stomach and intestinal bleeding, and ulcerative colitis",
+        "label_text": "Digestive ulcers"
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Digestive ulcers, gastrointestinal bleeding, and ulcerative colitis (frequency unknown*) are possible, and medication should be discontinued if abnormalities are detected and appropriate measures taken.",
+        "label_text": "Digestive ulcers"
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Digestive ulcers, gastrointestinal bleeding, and ulcerative colitis (frequency unknown*) are possible, and medication should be discontinued if abnormalities are detected and appropriate measures taken.",
+        "label_text": "Digestive ulcers"
+    },
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 1 : Toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (SIDS) are the most common causes of blindness.",
+        "label_text": "Toxic epidermal necrosis"
+    },
+    {
+        "source": "原文 : （4）中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）",
+        "hyp": "文 1 : Toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (SIDS) are the most common causes of blindness.",
+        "label_text": "Toxic epidermal necrosis"
+    },
+    {
+        "source": "原文 : 有可能出现中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）（频率均不明*），因此应充分进行观察，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (frequency unknown), so full observation and appropriate measures should be taken.",
+        "label_text": "toxic epidermal necrosis"
+    },
+    {
+        "source": "原文 : 有可能出现中毒性表皮坏死松解症（Toxic Epidermal Necrolysis：TEN）、皮肤黏膜眼综合征（Stevens-Johnson综合征）（频率均不明*），因此应充分进行观察，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of toxic epidermal necrosis (TEN) and Stevens-Johnson syndrome (frequency unknown), so full observation and appropriate measures should be taken.",
+        "label_text": "toxic epidermal necrosis"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "interstitial kidney inflammation"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "interstitial kidney inflammation"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "kidney disease syndrome"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "BUN or elevated blood plasma"
+    },
+    {
+        "source": "原文 : 有可能出现急性肾功能衰竭、间质性肾炎、肾病综合征（频率均不明*），因此应充分进行观察，出现少尿、血尿、尿蛋白、BUN/血肌酐升高、高钾血症、低蛋白血症等时中止用药，并采取相应措施。",
+        "hyp": "文 5 : There is a possibility of acute kidney failure, interstitial kidney inflammation, kidney disease syndrome (frequency unknown*), so full observation should be carried out, withdrawal of medication and corresponding measures should be taken in case of low urine, urine, urine protein, BUN or elevated blood plasma, hypertension, and so on.",
+        "label_text": "hypertension"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 1 : 2. Buyers in urgent need of products or time constraints, it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again.",
+        "label_text": "smooth courier"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 1 : 2. Buyers in urgent need of products or time constraints, it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again.",
+        "label_text": "smooth courier"
+    },
+    {
+        "source": "原文 : 根据观察，使用阿巴卡韦发生的超敏反应更常见，其中有一些可危及生命，罕见情况下，如果处理不当，可致命。",
+        "hyp": "文 3 : According to observations, hypersensitivity reactions occurring with abacave are more common, some of which are life-threatening, and in rare cases, fatal if not handled properly.",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 根据观察，使用阿巴卡韦发生的超敏反应更常见，其中有一些可危及生命，罕见情况下，如果处理不当，可致命。",
+        "hyp": "文 3 : According to observations, hypersensitivity reactions occurring with abacave are more common, some of which are life-threatening, and in rare cases, fatal if not handled properly.",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 香豆素类抗凝血药如华法林",
+        "hyp": "文 1 : Banana-type anticoagulants such as warfarin",
+        "label_text": "Banana-type"
+    },
+    {
+        "source": "原文 : 香豆素类抗凝血药如华法林",
+        "hyp": "文 1 : Banana-type anticoagulants such as warfarin",
+        "label_text": "Banana-type"
+    },
+    {
+        "source": "原文 : 临床上不太可能断定使用本品时发生的超敏反应是由阿巴卡韦还是多替拉韦导致。",
+        "hyp": "文 2 : It is clinically unlikely that the hypersensitivity reaction that occurred during the use of this product was caused by abacave or doctylave.",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 临床上不太可能断定使用本品时发生的超敏反应是由阿巴卡韦还是多替拉韦导致。",
+        "hyp": "文 2 : It is clinically unlikely that the hypersensitivity reaction that occurred during the use of this product was caused by abacave or doctylave.",
+        "label_text": "doctylave"
+    },
+    {
+        "source": "原文 : 临床上不太可能断定使用本品时发生的超敏反应是由阿巴卡韦还是多替拉韦导致。",
+        "hyp": "文 2 : It is clinically unlikely that the hypersensitivity reaction that occurred during the use of this product was caused by abacave or doctylave.",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 临床上不太可能断定使用本品时发生的超敏反应是由阿巴卡韦还是多替拉韦导致。",
+        "hyp": "文 2 : It is clinically unlikely that the hypersensitivity reaction that occurred during the use of this product was caused by abacave or doctylave.",
+        "label_text": "doctylave"
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 2 : Patients using Zydov prescribed [refer to <unk> drug interaction<unk>];",
+        "label_text": "Zydov"
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 2 : Patients using Zydov prescribed [refer to <unk> drug interaction<unk>];",
+        "label_text": "Zydov"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 4 : 4 Hanhoo red pomegranate freshly chopped six sets (skin care cosmetics set waterproofing student girl washing face milk refreshing skin lotion tears gift box properly packed)",
+        "label_text": "red pomegranate freshly chopped six sets"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 4 : 4 Hanhoo red pomegranate freshly chopped six sets (skin care cosmetics set waterproofing student girl washing face milk refreshing skin lotion tears gift box properly packed)",
+        "label_text": "red pomegranate freshly chopped six sets"
+    },
+    {
+        "source": "原文 : 应当监测临床状态，包括肝脏氨基转移酶和胆红素。",
+        "hyp": "文 1 : Clinical status should be monitored, including liver aminotransferase and cholinesterase.",
+        "label_text": "cholinesterase"
+    },
+    {
+        "source": "原文 : 应当监测临床状态，包括肝脏氨基转移酶和胆红素。",
+        "hyp": "文 1 : Clinical status should be monitored, including liver aminotransferase and cholinesterase.",
+        "label_text": "cholinesterase"
+    },
+    {
+        "source": "原文 : 磁共振成像水脂分离技术在多发性骨髓瘤患者中的应用研究. 探讨磁共振成像水脂分离（Dixon）技术在多发性骨髓瘤患者中应用的临床意义. 将2019年4月至2021年4月于青岛大学附属医院行Dixon技术检查的初诊多发性骨髓瘤患者共41例纳入本研究。",
+        "hyp": "文 2 : Application of magnetic resonance imaging lipid separation technology in patients with multiple myeloma to explore the clinical significance of the application of magnetic resonance imaging lipid separation (Dixon) technology in patients with multiple myeloma.",
+        "label_text": "lipid separation"
+    },
+    {
+        "source": "原文 : 磁共振成像水脂分离技术在多发性骨髓瘤患者中的应用研究. 探讨磁共振成像水脂分离（Dixon）技术在多发性骨髓瘤患者中应用的临床意义. 将2019年4月至2021年4月于青岛大学附属医院行Dixon技术检查的初诊多发性骨髓瘤患者共41例纳入本研究。",
+        "hyp": "文 2 : Application of magnetic resonance imaging lipid separation technology in patients with multiple myeloma to explore the clinical significance of the application of magnetic resonance imaging lipid separation (Dixon) technology in patients with multiple myeloma.",
+        "label_text": "lipid separation"
+    },
+    {
+        "source": "原文 : 磁共振成像水脂分离技术在多发性骨髓瘤患者中的应用研究. 探讨磁共振成像水脂分离（Dixon）技术在多发性骨髓瘤患者中应用的临床意义. 将2019年4月至2021年4月于青岛大学附属医院行Dixon技术检查的初诊多发性骨髓瘤患者共41例纳入本研究。",
+        "hyp": "文 2 : Application of magnetic resonance imaging lipid separation technology in patients with multiple myeloma to explore the clinical significance of the application of magnetic resonance imaging lipid separation (Dixon) technology in patients with multiple myeloma.",
+        "label_text": "lipid separation"
+    },
+    {
+        "source": "原文 : 磁共振成像水脂分离技术在多发性骨髓瘤患者中的应用研究. 探讨磁共振成像水脂分离（Dixon）技术在多发性骨髓瘤患者中应用的临床意义. 将2019年4月至2021年4月于青岛大学附属医院行Dixon技术检查的初诊多发性骨髓瘤患者共41例纳入本研究。",
+        "hyp": "文 2 : Application of magnetic resonance imaging lipid separation technology in patients with multiple myeloma to explore the clinical significance of the application of magnetic resonance imaging lipid separation (Dixon) technology in patients with multiple myeloma.",
+        "label_text": "lipid separation"
+    },
+    {
+        "source": "原文 : 消胆胺是一种阴离子交换树脂，在消化道内与本品结合，延缓/抑制本品的吸收。",
+        "hyp": "文 5 : Cholamine is an anion-exchanging resin that binds to the product in the digestive tract, delaying or inhibiting the absorption of the product.",
+        "label_text": "anion-exchanging resin"
+    },
+    {
+        "source": "原文 : 学员通过点播课件、提问答疑、网上讨论等方式进行学习。",
+        "hyp": "文 3 : Students learn by broadcasting lessons, asking questions, answering questions, and discussing online.",
+        "label_text": "broadcasting lessons"
+    },
+    {
+        "source": "原文 : 病例1持续使用免疫检查点抑制剂至今，病例2未再接受免疫治疗。",
+        "hyp": "文 1 : Case 1: Continued use of immuno-checkpoint inhibitors to date, case 2: No further immunotherapy.",
+        "label_text": "immuno-checkpoint inhibitors"
+    },
+    {
+        "source": "原文 : 病例1持续使用免疫检查点抑制剂至今，病例2未再接受免疫治疗。",
+        "hyp": "文 1 : Case 1: Continued use of immuno-checkpoint inhibitors to date, case 2: No further immunotherapy.",
+        "label_text": "immuno-checkpoint inhibitors"
+    },
+    {
+        "source": "原文 : 细胞迁移是指细胞朝着特定的化学浓度梯度发生定向迁移运动，其在胚胎发育、伤口愈合、肿瘤转移中发挥着至关重要的作用。",
+        "hyp": "文 2 : Cell migration is the directional movement of cells towards a specific chemical concentration gradient, which plays a crucial role in embryo development, wound healing, and tumor transfer.",
+        "label_text": "tumor transfer"
+    },
+    {
+        "source": "原文 : 选择性5-羟色胺再摄取抑制剂（SSRI）氟伏沙明、帕罗西汀等",
+        "hyp": "文 1 : Selective serotonin reuptake inhibitors (SSRI) such as fluoxetine and paroxetine",
+        "label_text": "fluoxetine"
+    },
+    {
+        "source": "原文 : 禁止与多非利特和吡西卡尼联合用药。",
+        "hyp": "文 5 : It is forbidden to use the drug in combination with Dofilite and Zicani.",
+        "label_text": "Dofilite"
+    },
+    {
+        "source": "原文 : 禁止与多非利特和吡西卡尼联合用药。",
+        "hyp": "文 5 : It is forbidden to use the drug in combination with Dofilite and Zicani.",
+        "label_text": "Zicani"
+    },
+    {
+        "source": "原文 : 橄榄油富含丰富的单不饱和脂肪酸，即油酸及亚油酸、亚麻酸，还有维生素A、维生素B、维生素D、维生素E、维生素K及抗氧化物等。",
+        "hyp": "文 3 : Olive oil is rich in monounsaturated fatty acids, namely oleic acid and oleic acid, as well as vitamin A, vitamin B, vitamin D, vitamin E, vitamin K, and antioxidants.",
+        "label_text": "oleic acid"
+    },
+    {
+        "source": "原文 : 在使用多替拉韦治疗的第一周内发生血清肌酐升高，在此后的96周期间保持稳定。",
+        "hyp": "文 5 : Serum myocardial infarction occurs within the first week of treatment with doxycycline and remains stable for the next 96 weeks.",
+        "label_text": "myocardial infarction"
+    },
+    {
+        "source": "原文 : 在使用多替拉韦治疗的第一周内发生血清肌酐升高，在此后的96周期间保持稳定。",
+        "hyp": "文 5 : Serum myocardial infarction occurs within the first week of treatment with doxycycline and remains stable for the next 96 weeks.",
+        "label_text": "doxycycline"
+    },
+    {
+        "source": "原文 : 对CYP2C9有抑制作用的药物如伏立康唑、氟康唑",
+        "hyp": "文 2 : Drugs that inhibit CYP2C9 such as folic acetate, folic acetate",
+        "label_text": "folic acetate"
+    },
+    {
+        "source": "原文 : 对CYP2C9有抑制作用的药物如伏立康唑、氟康唑",
+        "hyp": "文 2 : Drugs that inhibit CYP2C9 such as folic acetate, folic acetate",
+        "label_text": "folic acetate"
+    },
+    {
+        "source": "原文 : 常见于肾功能急性恶化、患有心肺疾病或败血症的患者中。",
+        "hyp": "文 5 : Common in patients with acute deterioration of renal function in patients with cardiovascular disease or sepsis.",
+        "label_text": "cardiovascular disease "
+    },
+    {
+        "source": "原文 : \"心衰患者缺氧和肾功能不全的风险更高。稳定性慢性心衰的患者在定期检查心、肾功能的情况下可以服用二甲双胍。\"",
+        "hyp": "文 2 : \"Patients with heart failure, hypoxia, and kidney failure are at higher risk of stable chronic heart failure, and can take diphenhydramine if their kidney function is regularly checked\".",
+        "label_text": " diphenhydramine"
+    },
+    {
+        "source": "原文 : 张忠谋也认定英特尔当时是看不起晶圆制程服务的。",
+        "hyp": "文 4 : Zhang Zhongming also determined that Intel was contemptuous of crystal processing services at the time.",
+        "label_text": "Zhang Zhongming"
+    },
+    {
+        "source": "原文 : 乳酸酸中毒是一种非常罕见但严重的代谢并发症，可由于二甲双胍在体内蓄积而诱发.",
+        "hyp": "文 2 : Lactic acid poisoning is a very rare but serious metabolic complication that can be induced by the accumulation of methamphetamine in the body.",
+        "label_text": "acid poisoning"
+    },
+    {
+        "source": "原文 : 乳酸酸中毒是一种非常罕见但严重的代谢并发症，可由于二甲双胍在体内蓄积而诱发.",
+        "hyp": "文 2 : Lactic acid poisoning is a very rare but serious metabolic complication that can be induced by the accumulation of methamphetamine in the body.",
+        "label_text": "methamphetamine"
+    },
+    {
+        "source": "原文 : 已知对盐酸二甲双胍和本品中任何成分过敏；",
+        "hyp": "文 2 : Known allergies to hydrochloric acid dimethyl biphenyl and any of the ingredients in this product;",
+        "label_text": "hydrochloric acid dimethyl biphenyl"
+    },
+    {
+        "source": "原文 : 任何急性代谢性酸中毒，包括乳酸酸中毒、糖尿病酮症酸中毒；",
+        "hyp": "文 5 : Any acute metabolic acid poisoning, including lactic acid poisoning, diabetes mellitus acid poisoning;",
+        "label_text": "diabetes mellitus acid poisoning"
+    },
+    {
+        "source": "原文 : 使用这些药品观察到的超敏反应（下文所述）有一些共同特征，例如发热和／或皮疹，以及提示累及多器官的其他症状。",
+        "hyp": "文 2 : The hypersensitivity reactions observed with these drugs (described below) have some common characteristics, such as fever and or rash, as well as other symptoms that suggest multi-organ overload.",
+        "label_text": "multi-organ overload"
+    },
+    {
+        "source": "原文 : 2）本品与呋塞米（呋喃苯胺酸）同用时，后者的排钠和降压作用减弱；与抗高血压药同用时，也降低后者的降压效果。",
+        "hyp": "文 5 : 2) When used in combination with acetaminophen, the latter's sodium excretion and blood pressure-lowering effect is weakened; when used in combination with antihypertensive drugs, the latter's blood pressure-lowering effect is also reduced.",
+        "label_text": "acetaminophen"
+    },
+    {
+        "source": "原文 : CN1连接器 CN1信号I/O连接线 CN1口用端子台 刹车电阻",
+        "hyp": "文 1 : CN1 connector CN1 signal I/O connection line CN1 port with terminal platform brake resistor",
+        "label_text": "CN1 port with terminal platform"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 4 : \"Injection of iodine shadowing agents into the bloodstream may lead to shadowing agent cystitis, which may cause methamphetamine accumulation and increase the risk of lactic acid poisoning\".",
+        "label_text": "methamphetamine"
+    },
+    {
+        "source": "原文 : 以209例青春期前初次治疗的尿道下裂患儿作为研究对象，年龄10～97个月，平均31.7个月。",
+        "hyp": "文 5 : There were 209 cases of pre-pubertal primary treatment of children with lower urinary tract rupture as the subject of the study, aged 10 to 97 months, with an average of 31.7 months.",
+        "label_text": "lower urinary tract rupture"
+    },
+    {
+        "source": "原文 : ACE抑制剂如依那普利等",
+        "hyp": "文 3 : ACE inhibitors such as INAPLI",
+        "label_text": "INAPLI"
+    },
+    {
+        "source": "原文 : β受体阻滞剂如普萘洛尔等",
+        "hyp": "文 3 : β-receptor inhibitors such as Prololol",
+        "label_text": "β-receptor inhibitors"
+    },
+    {
+        "source": "原文 : β受体阻滞剂如普萘洛尔等",
+        "hyp": "文 3 : β-receptor inhibitors such as Prololol",
+        "label_text": "Prololol"
+    },
+    {
+        "source": "原文 : 脑肠菌群轴在功能性胃肠疾病中的作用逐渐受到关注，根据罗马便秘Ⅳ诊断标准，将功能性胃肠疾病归类于脑肠功能互动异常，该概念的提出对功能性胃肠疾病诊疗模式的改变具有重要意义。",
+        "hyp": "文 4 : The role of the mycobacterial axis in functional gastrointestinal disorders is gradually gaining attention, and according to the Roman constipation IV diagnostic criteria, functional gastrointestinal disorders are classified as functional gastrointestinal interaction abnormalities.",
+        "label_text": "mycobacterial axis "
+    },
+    {
+        "source": "原文 : 脑肠菌群轴在功能性胃肠疾病中的作用逐渐受到关注，根据罗马便秘Ⅳ诊断标准，将功能性胃肠疾病归类于脑肠功能互动异常，该概念的提出对功能性胃肠疾病诊疗模式的改变具有重要意义。",
+        "hyp": "文 4 : The role of the mycobacterial axis in functional gastrointestinal disorders is gradually gaining attention, and according to the Roman constipation IV diagnostic criteria, functional gastrointestinal disorders are classified as functional gastrointestinal interaction abnormalities.",
+        "label_text": "Roman constipation IV diagnostic criteria"
+    },
+    {
+        "source": "原文 : 本品能抑制前列腺素的合成，具有镇痛、解热和抗炎的作用。",
+        "hyp": "文 3 : This product inhibits the synthesis of prostate gland, has analgesic, antipyretic and anti-inflammatory properties.",
+        "label_text": "prostate gland"
+    },
+    {
+        "source": "原文 : 本品对紫外线红斑（豚鼠）及角叉菜胶水肿（大鼠）急性炎症的ID50（经口给药）分别为4.4mg/kg、22 mg/kg，比阿司匹林的各值均有效。",
+        "hyp": "文 5 : The ID50 (oral administration) of this product for acute inflammation of ultraviolet red spots (porcupine) and horned forks (rat) is 4.4 mg/kg <22 mg/kg, respectively, which is more effective than aspirin.",
+        "label_text": "ultraviolet red spots"
+    },
+    {
+        "source": "原文 : 本品对紫外线红斑（豚鼠）及角叉菜胶水肿（大鼠）急性炎症的ID50（经口给药）分别为4.4mg/kg、22 mg/kg，比阿司匹林的各值均有效。",
+        "hyp": "文 5 : The ID50 (oral administration) of this product for acute inflammation of ultraviolet red spots (porcupine) and horned forks (rat) is 4.4 mg/kg <22 mg/kg, respectively, which is more effective than aspirin.",
+        "label_text": "horned forks"
+    },
+    {
+        "source": "原文 : 在发生阿巴卡韦超敏反应后，重新使用阿巴卡韦，可能在数小时内重新出现症状。",
+        "hyp": "文 3 : After the occurrence of a hypersensitivity reaction to abacave, the reuse of abacave may lead to the reappearance of symptoms within a few hours.",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 在发生阿巴卡韦超敏反应后，重新使用阿巴卡韦，可能在数小时内重新出现症状。",
+        "hyp": "文 3 : After the occurrence of a hypersensitivity reaction to abacave, the reuse of abacave may lead to the reappearance of symptoms within a few hours.",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 大鼠经口给予2~30mg/kg本品时，对足垫的炎症性痛（Randall-Selitto法）有镇痛作用，效果是阿司匹林的30倍。",
+        "hyp": "文 5 : When administered orally to mice at 2 to 30 mg per kg, it has an analgesic effect on inflammatory pain in the soles of the feet (Randall-Selitto method) and is 30 times more effective than aspirin.",
+        "label_text": "mice"
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 1 : Let's talk about autism together 55 questions closely related to autism (plus) Brigitte Kin-Chue Brigitte Hatch original book",
+        "label_text": "Brigitte Kin-Chue Brigitte Hatch"
+    },
+    {
+        "source": "原文 : 据国外文献报道，即使二甲双胍服药量达到85g都没有发生低血糖，但在这种情况下会发生乳酸酸中毒。",
+        "hyp": "文 2 : According to foreign literature, even if the dosage of methamphetamine reaches 85 g, there is no low blood sugar, but in this case lactic acid poisoning occurs.",
+        "label_text": " methamphetamine"
+    },
+    {
+        "source": "原文 : 在良好的血液动力学的状况下二甲双胍可以以170mL/min的速度透析清除。",
+        "hyp": "文 4 : Under conditions of good blood dynamics, methamphetamine can be removed by dialysis at a rate of 170 mL per minute.",
+        "label_text": " methamphetamine"
+    },
+    {
+        "source": "原文 : 在10~30mg/kg/日剂量下对佐剂性关节炎的慢性炎症有抑制作用，效果是阿司匹林的5~10倍。",
+        "hyp": "文 3 : At 10 to 30 mg per day, it inhibits chronic inflammation of osteoarthritis, which is 5 to 10 times more effective than aspirin.",
+        "label_text": "osteoarthritis"
+    },
+    {
+        "source": "原文 : 因此怀疑二甲双胍过量的患者，血透可以清除蓄积的药物。",
+        "hyp": "文 3 : Therefore, in patients with suspected methadone overdose, blood transfusion can clear the accumulated drug.",
+        "label_text": "methadone"
+    },
+    {
+        "source": "原文 : 二甲双胍几乎不与血浆蛋白结合。",
+        "hyp": "文 1 : Dimethyl biphenyl is almost not bound to plasma proteins.",
+        "label_text": "Dimethyl biphenyl"
+    },
+    {
+        "source": "原文 : 二甲双胍部分进入红细胞。",
+        "hyp": "文 2 : Part of the diphosphate enters the red blood cells.",
+        "label_text": "diphosphate"
+    },
+    {
+        "source": "原文 : 二甲双胍全血浓度峰值低于血浆浓度峰值，但出现时间大致相同。",
+        "hyp": "文 5 : The peak blood concentration of diphenhydramine is lower than the peak blood plasma concentration, but the time of occurrence is roughly the same.",
+        "label_text": "blood concentration"
+    },
+    {
+        "source": "原文 : 二甲双胍全血浓度峰值低于血浆浓度峰值，但出现时间大致相同。",
+        "hyp": "文 5 : The peak blood concentration of diphenhydramine is lower than the peak blood plasma concentration, but the time of occurrence is roughly the same.",
+        "label_text": "diphenhydramine"
+    },
+    {
+        "source": "原文 : 红细胞可能是二甲双胍的第二分布腔室，平均分布容积（Vd）约为1.12 L/kg。",
+        "hyp": "文 3 : Red blood cells may be the second distribution chamber of the diphtheria, with an average distribution volume (Vd) of about 1.12 L/kg.",
+        "label_text": "diphtheria"
+    },
+    {
+        "source": "原文 : 大鼠经口给予5~10mg/kg本品时，可明显抑制注射酵母混悬液诱导的发热，作用是阿司匹林的20倍。",
+        "hyp": "文 3 : When administered orally to mice at 5 to 10 mg per kg, it significantly inhibits fever induced by injection of yeast mixture suspension, which is 20 times greater than that of aspirin.",
+        "label_text": " mice"
+    },
+    {
+        "source": "原文 : 长期使用非甾体类抗炎镇痛药而导致消化性溃疡的患者。",
+        "hyp": "文 5 : Patients with gastrointestinal ulcers caused by long-term use of non-steroidal anti-inflammatory analgesics.",
+        "label_text": "gastrointestinal ulcers"
+    },
+    {
+        "source": "原文 : 辅料为：乳糖、交联羧甲基纤维素钠、羟丙纤维素。",
+        "hyp": "文 5 : Auxiliary ingredients are: lactose-containing methyl cellulose, sodium-containing cyan-containing cellulose",
+        "label_text": "Auxiliary ingredients "
+    },
+    {
+        "source": "原文 : 为了避免重新服用阿巴卡韦和多替拉韦，应当告知出现可疑超敏反应的患者丢弃剩余的本品药片。",
+        "hyp": "文 4 : In order to avoid re-administration of abacave and doctilab, patients with suspected hypersensitivity should be advised to discard any remaining original tablets.",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 为了避免重新服用阿巴卡韦和多替拉韦，应当告知出现可疑超敏反应的患者丢弃剩余的本品药片。",
+        "hyp": "文 4 : In order to avoid re-administration of abacave and doctilab, patients with suspected hypersensitivity should be advised to discard any remaining original tablets.",
+        "label_text": "doctilab"
+    },
+    {
+        "source": "原文 : 使用免疫检查点抑制剂的患者需要进行血糖监测，如果出现血糖异常应及时请内分泌专科医生协助诊治。",
+        "hyp": "文 5 : Patients using immuno-checkpoint inhibitors need blood sugar monitoring, and if blood sugar abnormalities occur, an endocrinologist should be consulted in a timely manner to assist in the diagnosis and treatment.",
+        "label_text": "immuno-checkpoint inhibitors"
+    },
+    {
+        "source": "原文 : 根据中怡康的预测，2020年，激光电视市场销量增长将超过140%，继续保持高速增长。",
+        "hyp": "文 3 : According to Zhong Yi Kang's forecast, the laser TV market will grow by more than 140% in 2020 and will continue to grow at a high rate.",
+        "label_text": "Zhong Yi Kang's"
+    },
+    {
+        "source": "原文 : 新型喹诺酮类抗菌剂如依诺沙星水合物等",
+        "hyp": "文 4 : New antibacterial agents such as inositol star hydrate",
+        "label_text": "inositol star hydrate"
+    },
+    {
+        "source": "原文 : N-乙酰转移酶2（N-acetyltransferase 2）基因（<i>NAT2</i>）型及蛋白酶（NAT2）表型的多态性显著影响血浆异烟肼浓度。",
+        "hyp": "文 1 : The polymorphism of the N-acetyltransferase 2 (NAT2) gene type and the NAT2 protein type significantly affects the concentration of hemoglobin in the blood.",
+        "label_text": "hemoglobin"
+    },
+    {
+        "source": "原文 : 合用增强了新喹诺酮抗菌剂的GABA抑制作用。",
+        "hyp": "文 4 : The combination enhances the GABA inhibitory effect of the newly synthesized antibacterial agent.",
+        "label_text": " newly synthesized antibacterial agent"
+    },
+    {
+        "source": "原文 : 有可能增强甲氨蝶呤的作用，因此应注意调整用量等。",
+        "hyp": "文 4 : There is a possibility of enhancing the effect of methamphetamine, so care should be taken to adjust the dosage of methamphetamine.",
+        "label_text": "methamphetamine"
+    },
+    {
+        "source": "原文 : 有可能增强甲氨蝶呤的作用，因此应注意调整用量等。",
+        "hyp": "文 4 : There is a possibility of enhancing the effect of methamphetamine, so care should be taken to adjust the dosage of methamphetamine.",
+        "label_text": "methamphetamine"
+    },
+    {
+        "source": "原文 : 通过查阅国内外颈椎结核治疗的相关文献，从内植物分类、优缺点、发展前景等方面进行分析、归纳和总结。",
+        "hyp": "文 4 : Analyze, summarize and summarize the advantages, disadvantages and developmental prospects of internal plant classification by consulting relevant literature on gynecological tuberculosis treatment at home and abroad.",
+        "label_text": "internal plant"
+    },
+    {
+        "source": "原文 : 通过查阅国内外颈椎结核治疗的相关文献，从内植物分类、优缺点、发展前景等方面进行分析、归纳和总结。",
+        "hyp": "文 4 : Analyze, summarize and summarize the advantages, disadvantages and developmental prospects of internal plant classification by consulting relevant literature on gynecological tuberculosis treatment at home and abroad.",
+        "label_text": "gynecological tuberculosis"
+    },
+    {
+        "source": "原文 : 中性粒细胞减少症2、贫血2、血小板减少症1",
+        "hyp": "文 1 : Neutral granulocyte deficiency 2 and anemia 2 and platelet deficiency 1",
+        "label_text": "Neutral granulocyte deficiency"
+    },
+    {
+        "source": "原文 : 中性粒细胞减少症2、贫血2、血小板减少症1",
+        "hyp": "文 1 : Neutral granulocyte deficiency 2 and anemia 2 and platelet deficiency 1",
+        "label_text": "platelet deficiency"
+    },
+    {
+        "source": "原文 : 每片含多替拉韦钠（以多替拉韦计）50mg、硫酸阿巴卡韦（以阿巴卡韦计）600mg和拉米夫定300mg。",
+        "hyp": "文 1 : Each tablet contains 50 mg of hydrochloric acid (in hydrochloric acid) Abacave (in hydrochloric acid) 600 mg and 300 mg of Ramifine.",
+        "label_text": "hydrochloric acid "
+    },
+    {
+        "source": "原文 : 每片含多替拉韦钠（以多替拉韦计）50mg、硫酸阿巴卡韦（以阿巴卡韦计）600mg和拉米夫定300mg。",
+        "hyp": "文 1 : Each tablet contains 50 mg of hydrochloric acid (in hydrochloric acid) Abacave (in hydrochloric acid) 600 mg and 300 mg of Ramifine.",
+        "label_text": "hydrochloric acid"
+    },
+    {
+        "source": "原文 : 每片含多替拉韦钠（以多替拉韦计）50mg、硫酸阿巴卡韦（以阿巴卡韦计）600mg和拉米夫定300mg。",
+        "hyp": "文 1 : Each tablet contains 50 mg of hydrochloric acid (in hydrochloric acid) Abacave (in hydrochloric acid) 600 mg and 300 mg of Ramifine.",
+        "label_text": "Abacave"
+    },
+    {
+        "source": "原文 : 每片含多替拉韦钠（以多替拉韦计）50mg、硫酸阿巴卡韦（以阿巴卡韦计）600mg和拉米夫定300mg。",
+        "hyp": "文 1 : Each tablet contains 50 mg of hydrochloric acid (in hydrochloric acid) Abacave (in hydrochloric acid) 600 mg and 300 mg of Ramifine.",
+        "label_text": "hydrochloric acid"
+    },
+    {
+        "source": "原文 : 每片含多替拉韦钠（以多替拉韦计）50mg、硫酸阿巴卡韦（以阿巴卡韦计）600mg和拉米夫定300mg。",
+        "hyp": "文 1 : Each tablet contains 50 mg of hydrochloric acid (in hydrochloric acid) Abacave (in hydrochloric acid) 600 mg and 300 mg of Ramifine.",
+        "label_text": "Ramifine"
+    },
+    {
+        "source": "原文 : 高甘油三酯血症、高血糖症",
+        "hyp": "文 1 : Hypoglycemia or hyperglycemia",
+        "label_text": "Hypoglycemia"
+    },
+    {
+        "source": "原文 : 动物模型是开展各类基础研究的有效工具，目前的动物模型均是根据粒细胞-巨噬细胞集落刺激因子（GM-CSF）信号作用障碍和肺泡内环境稳态失衡这两个主要的发病机制而建立，应用研究集中在PAP的治疗策略上。",
+        "hyp": "文 1 : The animal model is an effective tool for conducting all kinds of basic research, and the current animal model is based on the two main mechanisms of the disease: the interference of the signaling action of the granulocyte-macrophage cluster stimulating factor (GM-CSF) and the imbalance of the stability of the environment in the pulmonary bladder.",
+        "label_text": "granulocyte-macrophage cluster stimulating factor"
+    },
+    {
+        "source": "原文 : 动物模型是开展各类基础研究的有效工具，目前的动物模型均是根据粒细胞-巨噬细胞集落刺激因子（GM-CSF）信号作用障碍和肺泡内环境稳态失衡这两个主要的发病机制而建立，应用研究集中在PAP的治疗策略上。",
+        "hyp": "文 1 : The animal model is an effective tool for conducting all kinds of basic research, and the current animal model is based on the two main mechanisms of the disease: the interference of the signaling action of the granulocyte-macrophage cluster stimulating factor (GM-CSF) and the imbalance of the stability of the environment in the pulmonary bladder.",
+        "label_text": "pulmonary bladder"
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 1 : An analysis of the aggregated data from phase IIb to phase IIIb clinical trials revealed that the adverse reactions observed with the combination of doxycycline + abacave and ramifine were generally consistent with the adverse reactions observed with the single ingredient doxycycline <unk> abacave and ramifine.",
+        "label_text": "doxycycline"
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 1 : An analysis of the aggregated data from phase IIb to phase IIIb clinical trials revealed that the adverse reactions observed with the combination of doxycycline + abacave and ramifine were generally consistent with the adverse reactions observed with the single ingredient doxycycline <unk> abacave and ramifine.",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 1 : An analysis of the aggregated data from phase IIb to phase IIIb clinical trials revealed that the adverse reactions observed with the combination of doxycycline + abacave and ramifine were generally consistent with the adverse reactions observed with the single ingredient doxycycline <unk> abacave and ramifine.",
+        "label_text": "ramifine"
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 1 : An analysis of the aggregated data from phase IIb to phase IIIb clinical trials revealed that the adverse reactions observed with the combination of doxycycline + abacave and ramifine were generally consistent with the adverse reactions observed with the single ingredient doxycycline <unk> abacave and ramifine.",
+        "label_text": "doxycycline"
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 1 : An analysis of the aggregated data from phase IIb to phase IIIb clinical trials revealed that the adverse reactions observed with the combination of doxycycline + abacave and ramifine were generally consistent with the adverse reactions observed with the single ingredient doxycycline <unk> abacave and ramifine.",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 1 : An analysis of the aggregated data from phase IIb to phase IIIb clinical trials revealed that the adverse reactions observed with the combination of doxycycline + abacave and ramifine were generally consistent with the adverse reactions observed with the single ingredient doxycycline <unk> abacave and ramifine.",
+        "label_text": "ramifine"
+    },
+    {
+        "source": "原文 : 肺泡蛋白沉积症（PAP）是一种呼吸系统罕见病，研究进展缓慢。",
+        "hyp": "文 5 : Pneumoblastoma deposition syndrome (PAP) is a rare respiratory disease that has been studied slowly.",
+        "label_text": "Pneumoblastoma deposition syndrome (PAP) "
+    },
+    {
+        "source": "原文 : 阿巴卡韦主要经肝脏代谢。",
+        "hyp": "文 1 : Abacave is mainly metabolized by the liver.",
+        "label_text": "Abacave"
+    },
+    {
+        "source": "原文 : 大肠埃希菌、肺炎克雷伯菌和铜绿假单胞菌对碳青霉烯类药物耐药率分别为14.3%、7.7%和66.7%。",
+        "hyp": "文 1 : The rate of resistance of E. coli, pneumonia, Krebs, and copper-green algae to carbon penicillin-like drugs is 14.3%, 7.7%, and 66.7% respectively.",
+        "label_text": "pneumonia, Krebs"
+    },
+    {
+        "source": "原文 : 大肠埃希菌、肺炎克雷伯菌和铜绿假单胞菌对碳青霉烯类药物耐药率分别为14.3%、7.7%和66.7%。",
+        "hyp": "文 1 : The rate of resistance of E. coli, pneumonia, Krebs, and copper-green algae to carbon penicillin-like drugs is 14.3%, 7.7%, and 66.7% respectively.",
+        "label_text": "copper-green algae"
+    },
+    {
+        "source": "原文 : 大肠埃希菌、肺炎克雷伯菌和铜绿假单胞菌对碳青霉烯类药物耐药率分别为14.3%、7.7%和66.7%。",
+        "hyp": "文 1 : The rate of resistance of E. coli, pneumonia, Krebs, and copper-green algae to carbon penicillin-like drugs is 14.3%, 7.7%, and 66.7% respectively.",
+        "label_text": "carbon penicillin-like"
+    },
+    {
+        "source": "原文 : 如果需要停用活性成分之一或对其实施剂量调整，可以使用单独的多替拉韦、阿巴卡韦或拉米夫定制剂。",
+        "hyp": "文 5 : If the active ingredient needs to be discontinued or the dose adjusted, a separate Dotyravet, Abacave or Ramiff formulation may be used.",
+        "label_text": "Dotyravet"
+    },
+    {
+        "source": "原文 : 如果需要停用活性成分之一或对其实施剂量调整，可以使用单独的多替拉韦、阿巴卡韦或拉米夫定制剂。",
+        "hyp": "文 5 : If the active ingredient needs to be discontinued or the dose adjusted, a separate Dotyravet, Abacave or Ramiff formulation may be used.",
+        "label_text": "Abacave"
+    },
+    {
+        "source": "原文 : 如果需要停用活性成分之一或对其实施剂量调整，可以使用单独的多替拉韦、阿巴卡韦或拉米夫定制剂。",
+        "hyp": "文 5 : If the active ingredient needs to be discontinued or the dose adjusted, a separate Dotyravet, Abacave or Ramiff formulation may be used.",
+        "label_text": "Ramiff formulation"
+    },
+    {
+        "source": "原文 : 对于轻度肝损害（Child-Pugh 5-6分）患者，需要密切监测，如可行，包括监测阿巴卡韦血浆水平（见【注意事项】和【药代动力学】）。",
+        "hyp": "文 5 : For patients with mild liver damage (Child-Pugh score of 5-6), close monitoring is required, if possible, including monitoring of abacave plasma levels (see <unk> Precautions <unk> and <unk> Pharmacokinetics <unk>).",
+        "label_text": "abacave"
+    },
+    {
+        "source": "原文 : 在这次新冠肺炎抗击战中，她和团队所提出的“四抗二平衡”方案及带去的人工肝、微生态和干细胞三大技术，显著提高了重症救治率。",
+        "hyp": "文 1 : In this fight against novel coronavirus pneumonia, she and her team proposed the \"four-to-two balance\" scheme and the three technologies of artificial liver, micro-ecology and stem cells, which significantly improved the cure rate of serious illnesses.",
+        "label_text": "four-to-two balance"
+    },
+    {
+        "source": "原文 : 本品对前列腺素合成的抑制作用致使肾血流量减少，甲氨蝶呤的肾排泄被抑制，甲氨蝶呤的血中浓度升高。",
+        "hyp": "文 5 : The inhibitory effect of this product on prostaglandin synthesis leads to a decrease in adrenal blood flow, the excretion of methamphetamine is inhibited, and the blood concentration of methamphetamine is elevated.",
+        "label_text": "methamphetamine"
+    },
+    {
+        "source": "原文 : 本品对前列腺素合成的抑制作用致使肾血流量减少，甲氨蝶呤的肾排泄被抑制，甲氨蝶呤的血中浓度升高。",
+        "hyp": "文 5 : The inhibitory effect of this product on prostaglandin synthesis leads to a decrease in adrenal blood flow, the excretion of methamphetamine is inhibited, and the blood concentration of methamphetamine is elevated.",
+        "label_text": "methamphetamine"
+    },
+    {
+        "source": "原文 : 应用LogistiC回归分析影响二三线疗效的因素. 三组患者治疗3、6、12个月达完全血液学反应（CHR）、主要细胞遗传学反应（MCyR）、主要分子学反应（MMR）率比较差异均有统计学意义（P<0.05）。",
+        "hyp": "文 2 : Application of LogistiC regression analysis to factors affecting secondary and tertiary efficacy. Three groups of patients treated for 3-6-12 months achieved complete hematological response (CHR) <unk> major cell genetic response (MCyR) <unk> major molecular response (MMR) rate comparison differences were statistically significant (P<0.05) <unk>",
+        "label_text": "major cell genetic response (MCyR)"
+    }
+]

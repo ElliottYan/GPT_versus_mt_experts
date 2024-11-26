@@ -1,0 +1,197 @@
+[
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 1 : Он делает так, чтобы казалось, будто сейчас xvg - тонущий корабль, и у него это неплохо получается.",
+        "label_text": "у него это неплохо получается"
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 5 : К тому же, я могу еще проверить до следующей встречи, пытался ли я,",
+        "label_text": "пытался"
+    },
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 3 : Также мы объясняем пути, по которым индивидуальные факторы могут влиять на то, как сообщества взаимодействуют с этой продовольственной средой.",
+        "label_text": "пути"
+    },
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 3 : Также мы объясняем пути, по которым индивидуальные факторы могут влиять на то, как сообщества взаимодействуют с этой продовольственной средой.",
+        "label_text": "продовольственной"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "Мое предположение"
+    },
+    {
+        "source": "原文 : On August 31, 1933, Alexander Dahl took the first picture of the Earth's curvature in an open hydrogen gas balloon.",
+        "hyp": "文 3 : 31 августа 1933 года Александр Даль получил первое изображение кривизны Земли на открытом воздушном шаре.",
+        "label_text": "получил первое изображение"
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 5 : Они условились, что тот, кто первым сумеет заставить путника снять плащ, будет считаться сильнее остальных.",
+        "label_text": "остальных"
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 5 : Они условились, что тот, кто первым сумеет заставить путника снять плащ, будет считаться сильнее остальных.",
+        "label_text": "остальных"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 2 : Друзья и товарищи, позвольте мне закончить речь призывом направить энергию всех вас, жители Зимбабве, на ускоренное развитие нашей страны.",
+        "label_text": "жители Зимбабве"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 2 : Друзья и товарищи, позвольте мне закончить речь призывом направить энергию всех вас, жители Зимбабве, на ускоренное развитие нашей страны.",
+        "label_text": "жители Зимбабве"
+    },
+    {
+        "source": "原文 : I know it’s a scientific things and all, but some of the posts there are just too much.",
+        "hyp": "文 4 : Я знаю, что это научные вещи и все такое, но некоторые посты оттуда - это просто перебор.",
+        "label_text": "это просто перебор"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 5 : Некий Ламбет опустил флаг и Эйску пришлось сдаться Тромпу на Гауде - первый и последний раз в истории, когда британский адмирал столь высокого ранга был захвачен в море.",
+        "label_text": "опустил"
+    },
+    {
+        "source": "原文 : It's great at making coffee and keeping it hot, but there are too many other issues with it to invest in it at the current price.",
+        "hyp": "文 5 : Он был превосходен в приготовлении кофе и поддержании его горячим, но также с ним было слишком много проблем, чтобы вкладываться в него по текущей цене.",
+        "label_text": "превосходен"
+    },
+    {
+        "source": "原文 : This page presents an overview of the state of the art based on official sources.",
+        "hyp": "文 3 : Эта страница представляет собой обзор положения дел, основанный на официальных ресурсах.",
+        "label_text": "положения"
+    },
+    {
+        "source": "原文 : The funny thing is that right now these same hard-line conservatives declare that we must not run deficits in times of economic crisis.",
+        "hyp": "文 4 : Забавно то, что прямо сейчас те же самые бескомпромиссные консерваторы заявляют, что мы не должны перекрывать дефициты в периоды экономического кризиса.",
+        "label_text": "бескомпромиссные"
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 5 : После многочисленных исследований, я начал использовать этот продукт много лет назад.",
+        "label_text": "многочисленных исследований"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 3 : Так вот, мне бы хотелось, чтобы [ЛИЧНОСТЬ4] была в контакте с [ЛИЧНОСТЬ2].",
+        "label_text": "ЛИЧНОСТЬ"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 3 : Так вот, мне бы хотелось, чтобы [ЛИЧНОСТЬ4] была в контакте с [ЛИЧНОСТЬ2].",
+        "label_text": "контакте"
+    },
+    {
+        "source": "原文 : So, I would like, [PERSON4] to be in touch with [PERSON2].",
+        "hyp": "文 3 : Так вот, мне бы хотелось, чтобы [ЛИЧНОСТЬ4] была в контакте с [ЛИЧНОСТЬ2].",
+        "label_text": "ЛИЧНОСТЬ"
+    },
+    {
+        "source": "原文 : The researchers were able to report, for example, that about a quarter of cards went to relatives, nearly two-thirds to friends, and 8 percent to colleagues.",
+        "hyp": "文 2 : Исследователи смогли сообщить, например, что около четверти карточек досталось родственникам, почти две трети - друзьям и 8% - коллегам.",
+        "label_text": "карточек досталось "
+    },
+    {
+        "source": "原文 : Just knowing I can go home and text them brightens my mood ten-fold.",
+        "hyp": "文 3 : Одно лишь знание, что я могу пойти домой и написать им, улучшает мое настроение в десять раз.",
+        "label_text": "Одно лишь знание"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 2 : Я ездил только поблизости, так что это заняло у меня большую часть недели, чтобы понять, что я не мог выйти на 60 миль в час или что я должен поднажать, чтобы выйти на 3500 оборотов в минуту.",
+        "label_text": "поблизости"
+    },
+    {
+        "source": "原文 : Get some bumper stickers that are anti-Trump and plaster them all over.",
+        "hyp": "文 3 : Получите несколько антитрамповских наклеек на бампер и заштукатурьте ими все вокруг.",
+        "label_text": "все вокруг"
+    },
+    {
+        "source": "原文 : Mine’s ending and all my grades are passable except for biology in which I have an F.",
+        "hyp": "文 4 : Мой уже заканчивается, и у меня все оценки проходные, за исключением биологии, по которой я получил F.",
+        "label_text": "F"
+    },
+    {
+        "source": "原文 : Have To Break Up Format \"xxx.yyy\" Into two seperate colums \"xxx\" and \"yyy\"",
+        "hyp": "文 3 : Нужно разделить формат \"xxx.yyy\" на два отдельных столбца \"xxx\" и \"yyy\"",
+        "label_text": "Нужно"
+    },
+    {
+        "source": "原文 : As long as an event is not disruptive to the school day or event, administrators do not get involved.",
+        "hyp": "文 3 : До тех пор пока событие не нарушает школьный день или мероприятие, администраторы вмешиваться не будут.",
+        "label_text": "До тех пор"
+    },
+    {
+        "source": "原文 : However, his shield’s gun is overpowered and his rewind ability is somewhat annoying.",
+        "hyp": "文 4 : Однако, его щитовое оружие было преодолено, и его способность перемотки несколько раздражает.",
+        "label_text": "щитовое оружие"
+    },
+    {
+        "source": "原文 : I'm bored and my friends are busy or out rn sooo...",
+        "hyp": "文 5 : Мне скучно, и мои друзья заняты или где-то сейчас гуляют, так чтоооо…",
+        "label_text": "сейчас гуляют"
+    },
+    {
+        "source": "原文 : It’s been now 4 or 5 hours and I saw him now drink and eat a little bit.",
+        "hyp": "文 2 : Уже прошло 4 или 5 часов, и я увидел, как теперь он пил и немного ел.",
+        "label_text": "как теперь"
+    },
+    {
+        "source": "原文 : I think there is less stigma attached to being a fat bloke than being a fat woman.",
+        "hyp": "文 1 : Я думаю, меньше стигматизируют толстых парней, чем полных женщин.",
+        "label_text": "полных"
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 4 : Военный руководитель Украины, Ген. Валерий Залужный, сообщил, что российские войска запустили 71 крылатую ракету, 35 ракет S-300 и семь беспилотников типа \"Шахид\" в период с конца четверга по полдень пятницы, добавив, что ПВО Украины сбила 61 крылатую ракету и пять беспилотников.",
+        "label_text": "S"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 3 : Итак, это может стать пустой частью второго момента редкого слова -",
+        "label_text": "момента"
+    },
+    {
+        "source": "原文 : And then Mom-O decides to go to the gym to do a quick workout, whatever that is.",
+        "hyp": "文 3 : И потом Mom-O решает пойти в зал, чтобы сделать быструю тренировку,  что бы это ни значило.",
+        "label_text": " зал"
+    },
+    {
+        "source": "原文 : I look on it again i see jane but this time i can look at there conversation history throughout this whole year and last.",
+        "hyp": "文 4 : Я смотрю на это снова и вижу Джейн, но на этот раз могу видеть историю их разговора за весь этот год и последний.",
+        "label_text": "последний"
+    },
+    {
+        "source": "原文 : I got covid by kissing another guy for the first time, so i had to tell my mum.",
+        "hyp": "文 4 : Я подхватила ковид, целуясь с другим парнем в первый раз, так что мне придется сказать моей маме.",
+        "label_text": "подхватила"
+    },
+    {
+        "source": "原文 : Maybe it is not faster for your end, but at least you should consider it.",
+        "hyp": "文 4 : Может, это не ускорит процесс, чтобы тебе все закончить, но, как минимум, ты должен рассмотреть это.",
+        "label_text": "как минимум,"
+    },
+    {
+        "source": "原文 : So i get tipped on the app, gave me cash at the door, then took away the tip on the app after?",
+        "hyp": "文 1 : Выходит, я получаю чаевые в приложении, мне дают наличные на входе, а потом забирают чаевые в приложении?",
+        "label_text": " Выходит"
+    },
+    {
+        "source": "原文 : However, banks still maintain telephone banking systems that allow customers to perform routine transactions.",
+        "hyp": "文 5 : Тем не менее, банки все еще поддерживают телефонные банковские системы, которые позволяют клиентам совершать рутинные транзакции.",
+        "label_text": "совершать рутинные"
+    },
+    {
+        "source": "原文 : However, banks still maintain telephone banking systems that allow customers to perform routine transactions.",
+        "hyp": "文 5 : Тем не менее, банки все еще поддерживают телефонные банковские системы, которые позволяют клиентам совершать рутинные транзакции.",
+        "label_text": "рутинные транзакции"
+    }
+]

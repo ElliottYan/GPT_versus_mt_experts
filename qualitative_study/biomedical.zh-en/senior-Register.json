@@ -1,0 +1,52 @@
+[
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 3 : 2. Buyers who are in urgent need of products or have time constraints are recommended to opt for SF Express which offers relatively assured services, then choose freight payable on delivery and make the payment after necessary modifications.",
+        "label_text": "freight payable on delivery"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 3 : 2. Buyers who are in urgent need of products or have time constraints are recommended to opt for SF Express which offers relatively assured services, then choose freight payable on delivery and make the payment after necessary modifications.",
+        "label_text": "freight payable on delivery"
+    },
+    {
+        "source": "原文 : 7.有对本品的成分过敏的既往病史的患者；",
+        "hyp": "文 2 : 7. Patients with a past history of allergy to any component of this product;",
+        "label_text": "component"
+    },
+    {
+        "source": "原文 : 打击犯罪、保障儿童和家长权益，从立法的完善，到司法的保障，以及执法的缜密，无不需要贯彻“护幼扶弱”的关怀。",
+        "hyp": "文 2 : To fight against crime and safeguard the rights and interests of children and their parents, it is imperative to uphold the principle of \"protecting the young and assisting the weak\", encompassing legislative enhancements, judicial guarantees and meticulous law enforcement.",
+        "label_text": "weak"
+    },
+    {
+        "source": "原文 : 维生素B12、叶酸缺乏未纠正者。",
+        "hyp": "文 2 : Patients with uncorrected vitamin B12 and folic acid deficiency.",
+        "label_text": "folic acid"
+    },
+    {
+        "source": "原文 : 在接受常规、脊髓或硬膜外麻醉的手术时必须停止服用二甲双胍。",
+        "hyp": "文 1 : Metformin must be discontinued before surgeries under conventional, medullary or epidural anesthesia.",
+        "label_text": "medullary"
+    },
+    {
+        "source": "原文 : 本品对紫外线红斑（豚鼠）及角叉菜胶水肿（大鼠）急性炎症的ID50（经口给药）分别为4.4mg/kg、22 mg/kg，比阿司匹林的各值均有效。",
+        "hyp": "文 1 : The ID50 values (oral) of this product for the treatment of acute inflammation in guinea pigs with ultraviolet erythema and rats with carrageenan-induced edema were 4.4 mg/kg and 22 mg/kg, respectively, indicating its superior efficacy compared to aspirin.",
+        "label_text": "superior efficacy"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，血管扩张作用和水、钠排泄被抑制。",
+        "hyp": "文 2 : The inhibitory effects of this product on prostaglandin synthesis can lead to vasodilatation and reduced water and sodium excretion.",
+        "label_text": "vasodilatation"
+    },
+    {
+        "source": "原文 : 现有的PAP动物模型均不能完全反映人PAP疾病发展，需进一步开发和改进，为临床实践提供依据。",
+        "hyp": "文 2 : Existing animal models of PAP need further development and refinement in order to establish a robust foundation for clinical practice, as none of them can fully reflect the development of PAP in humans.",
+        "label_text": "development"
+    },
+    {
+        "source": "原文 : 综上，基于CHB临床检验诊断路径的实验诊断学教学模式，实现了实验诊断学与临床医学的融合，提升了学生对CHB诊疗中各种实验室检查检测的整体认识，教学质量得到了提高。",
+        "hyp": "文 5 : To sum up, the teaching approach for laboratory diagnostics based on CHB clinical laboratory diagnostic paths not only integrates laboratory diagnostics with clinical medicine, but also enhances students' overall understanding of various laboratory tests essential for CHB diagnosis and treatment, thereby upgrading the quality of teaching.",
+        "label_text": "paths"
+    }
+]

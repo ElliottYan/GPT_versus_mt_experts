@@ -1,0 +1,77 @@
+[
+    {
+        "source": "原文 : Сельхозтоваропроизводители округа эту роль с честью выполняют, - подчеркнул Анатолий Прокопьев.",
+        "hyp": "文 5 : Anatoly Prokopyev emphasized that the district agricultural producers are honored to fulfil this role.",
+        "label_text": "the district"
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 4 : After the number of participants in protest actions initiated last Tuesday slightly decreased as compared with the first two “days of mobilization”, the trade unions hope to bring more protesters to the streets this time, taking into account the citizens who were not able to participate in the demonstrations on a weekday.",
+        "label_text": "days of mobilization"
+    },
+    {
+        "source": "原文 : Из электронной базы данных Главного управления ЗАГС Московской области (система ЕГР ЗАГС) за 2021 г.",
+        "hyp": "文 3 : From the electronic database of the Main Department of Civil Registration for the Moscow Region (Uniform State Register for Acts of Civil Status) for 2021.",
+        "label_text": "Uniform State Register for Acts of Civil Status"
+    },
+    {
+        "source": "原文 : Может светскую беседу вести, и огнетушителем по морде съездить, но не в силах пропустить ни одной юбки.",
+        "hyp": "文 2 : He is skillful in making small talks and can also hit somebody in the face with a fire extinguisher, but he can’t miss a single skirt.",
+        "label_text": "miss a single skirt"
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 1 : Still, we'll talk about MIFF next time (now, I’ll just complain that this year, the minds of organizers definitively established in the inexplicable idea that the happy owners of purchased tickets are many times more important for the festival than the accredited guests — a ridiculous and quite offensive principle which no normal world film festival lapses into); and in this issue, we report the events seen by us in Cannes and at \"Kinotavr\".",
+        "label_text": "we report the events seen by us"
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 2 : The use of the Brainmax drug resulted in a significant improvement of the cognitive performance indices (concentration and maintenance of attention, working memory, visual and constructive skills, attention breadth and speed of switching, speed of information processing and executive functions), a reduction in severity of asthenic manifestations and an improvement of quality of life measures.",
+        "label_text": "resulted in"
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 2 : The use of the Brainmax drug resulted in a significant improvement of the cognitive performance indices (concentration and maintenance of attention, working memory, visual and constructive skills, attention breadth and speed of switching, speed of information processing and executive functions), a reduction in severity of asthenic manifestations and an improvement of quality of life measures.",
+        "label_text": "measures"
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 4 : The Turkish agency Anadolu provides other data and reports that the Margara-Alijan border check point was last used to supply humanitarian cargos to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": "eliminate the consequences "
+    },
+    {
+        "source": "原文 : Если я пришла и согласилась работать с режиссером, то я, собственно, вверяюсь в его руки и мне хочется быть тестом, из которого будут лепить.",
+        "hyp": "文 1 : If I come and agree to work with a director, then I, as a matter of fact, put myself into his hands and I want to be like dough which will be used for molding.",
+        "label_text": "like dough which will be used for molding"
+    },
+    {
+        "source": "原文 : Я ему рассказывала обо всех своих страхах, о всех переживаниях, о том, что я боюсь, что у меня не получится, и просила у него какого-то совета и помощи, и он с радостью этот совет и эту помощь мне давал.",
+        "hyp": "文 1 : I shared with him all my fears, all my emotional experiences, the feelings about what I was afraid of, fears of not succeeding, and asked him for some advice and help, and he gladly gave me this advice and this help.",
+        "label_text": "not succeeding"
+    },
+    {
+        "source": "原文 : Впрочем, хорошо хотя бы то, что героиня российской картины хоть и чужая, но совсем не лысая.",
+        "hyp": "文 1 : However, at least the good thing is that the female lead of the Russian film, is albeit an alien, but not at all bald.",
+        "label_text": "not at all bald"
+    },
+    {
+        "source": "原文 : Дано определение понятия «биологическая травма» — нарушение структуры и функции организма в результате особого повреждающего воздействия, свойственного представителям живой природы (животным, растениям).",
+        "hyp": "文 4 : A definition of the «biological trauma» concept is given: it means a damage to body structure and functions as a result of a special injury effects typical for wildlife representatives (animals, plants).",
+        "label_text": "body"
+    },
+    {
+        "source": "原文 : Июльский номер традиционно сдается во время Московского кинофестиваля, и это, конечно, очень грустно: вычитывать полосы, когда душа рвется на Шаброля.",
+        "hyp": "文 4 : The July issue is traditionally released during the Moscow Film Festival, and this, of course, is very sad: to proofread pages when the soul aspires after Chabrol.",
+        "label_text": "this, of course, is very sad"
+    },
+    {
+        "source": "原文 : Примечательно, что это третий такой случай в Зелёной Околице на моей памяти.",
+        "hyp": "文 3 : It is worth noting that this is the third such case in Zelenaya Okolitsa as far as I remember.",
+        "label_text": "It is worth noting"
+    },
+    {
+        "source": "原文 : Завершить прогулку нужно пятиминутной ходьбой в спокойном темпе и несколькими упражнениями на растяжку.",
+        "hyp": "文 1 : You should finish your walking with a five-minute walk at a leisurely pace and a few stretching exercises.",
+        "label_text": "walking with a five-minute walk"
+    }
+]

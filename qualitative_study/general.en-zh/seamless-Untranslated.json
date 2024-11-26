@@ -1,0 +1,117 @@
+[
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "metathesis "
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "glottalization"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "deletion"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 4 : 瓦齐里补充说,Djehuty 是国家财政部的监督员,并在哈切普苏特女王统治期间监督了工匠和艺术家的作品.",
+        "label_text": "Djehuty "
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 4 : 所以我和我的朋友又开始玩VAL了,希望我们学会像天堂这样的通信和所有这些,",
+        "label_text": "VAL"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 1 : [PERSON9] 已经开始收集数据,但我希望在 [PROJECT5] 设置中看到该域的适应的好处.",
+        "label_text": "PERSON9"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 1 : [PERSON9] 已经开始收集数据,但我希望在 [PROJECT5] 设置中看到该域的适应的好处.",
+        "label_text": "PROJECT5"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 1 : 在之前与RED Distribution合作之后,2016年3月,Deathwish与Warner Music Group的独立发行唱片公司 Alternative Distribution Alliance (ADA) 签署了全球协议,该公司还与其他朋克唱片公司合作,包括Epitaph Records,Rise Records和Run for Cover Records.",
+        "label_text": "Warner Music Group"
+    },
+    {
+        "source": "原文 : In \"The Ladykillers\" (1955) a gang of criminals rent a room from the elderly Mrs Wilberforce while they're pretending to be a string quintet looking for a space to practice.",
+        "hyp": "文 3 : 在\"The Ladykillers\" (1955) 中,一帮罪犯从老年人威尔伯福斯夫人那里租了一间房间,",
+        "label_text": "The Ladykillers\" "
+    },
+    {
+        "source": "原文 : Just to clarify, when I say “anything” I mean anything within the FM’s current power.",
+        "hyp": "文 2 : 只是为了澄清,当我说\"任何东西\"时,我的意思是FM当前功率内的任何东西.",
+        "label_text": "FM"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 4 : 科特在近年来最著名的案件包括联邦证券和ERISA集体诉讼,由WorldCom的前员工或投资者对WorldCom的前董事和官员提出;其审计员阿瑟·安德森;和10多个出售WorldCom证券的投资银行.",
+        "label_text": "ERISA"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 4 : 科特在近年来最著名的案件包括联邦证券和ERISA集体诉讼,由WorldCom的前员工或投资者对WorldCom的前董事和官员提出;其审计员阿瑟·安德森;和10多个出售WorldCom证券的投资银行.",
+        "label_text": "WorldCom"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 4 : 科特在近年来最著名的案件包括联邦证券和ERISA集体诉讼,由WorldCom的前员工或投资者对WorldCom的前董事和官员提出;其审计员阿瑟·安德森;和10多个出售WorldCom证券的投资银行.",
+        "label_text": "WorldCom"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 4 : 科特在近年来最著名的案件包括联邦证券和ERISA集体诉讼,由WorldCom的前员工或投资者对WorldCom的前董事和官员提出;其审计员阿瑟·安德森;和10多个出售WorldCom证券的投资银行.",
+        "label_text": "WorldCom"
+    },
+    {
+        "source": "原文 : Hey, F/19 , bored af , I enjoy talking to new ppl,hmu?!",
+        "hyp": "文 3 : <unk>,F-19,无聊了,我喜欢与新人交谈,hmu?!",
+        "label_text": ",F-19"
+    },
+    {
+        "source": "原文 : Hey, F/19 , bored af , I enjoy talking to new ppl,hmu?!",
+        "hyp": "文 3 : <unk>,F-19,无聊了,我喜欢与新人交谈,hmu?!",
+        "label_text": "hmu"
+    },
+    {
+        "source": "原文 : If you three could meet and double check what is [PROJECT5] doing with the -",
+        "hyp": "文 3 : 如果你们三个人可以见面并检查[PROJECT5]在做什么 -",
+        "label_text": "PROJECT5"
+    },
+    {
+        "source": "原文 : TLDR: tips/support to get a 2-month baby sleeping beyond one sleep cycle in bassinet (currently replacing pacifier every hour).",
+        "hyp": "文 4 : TLDR:让2个月大的婴儿在婴儿床上睡超过一个睡眠周期的技巧/支持 (目前每小时更换一个<unk>子).",
+        "label_text": "TLDR"
+    },
+    {
+        "source": "原文 : like we’re out here doing stuff that im pretty sure is supposed to get sent out to affinity based on what i see on here.",
+        "hyp": "文 2 : 基于我在这里看到的, 我很确定应该被发送到Affinity.",
+        "label_text": "Affinity"
+    },
+    {
+        "source": "原文 : contact me there than ill give you my ubisoft account info.",
+        "hyp": "文 2 : 在那里联系我,然后我会给你我的Ubisoft账户信息.",
+        "label_text": "Ubisoft"
+    },
+    {
+        "source": "原文 : So, we are now [PERSON14] putting that together to just one technical solution.",
+        "hyp": "文 4 : 所以,我们现在 [PERSON14] 将它们组合成一个技术解决方案.",
+        "label_text": " [PERSON14] "
+    },
+    {
+        "source": "原文 : The original three skulls (all assigned to different species) were poorly known, and the genus had been considered a junior synonym of \"Metriorhynchus,\" \"Geosaurus\" or \"Dakosaurus\" by different palaeontologists in the past.",
+        "hyp": "文 3 : 原来的三个头骨(所有都被分配给不同的物种)是鲜为人知的,该属在过去被不同的古生物学家认为是\"Metriorhynchus\"\",Geosaurus\"或\"Dakosaurus\"的初级同义词.",
+        "label_text": "Metriorhynchus\"\",Geosaurus\"或\"Dakosaurus\""
+    },
+    {
+        "source": "原文 : Afaik, the concept of mini album is only around in kpop (maybe jpop?) I",
+        "hyp": "文 3 : Afaik,迷你专辑的概念只存在于kpop(也许是jpop?)中",
+        "label_text": "Afaik,"
+    }
+]

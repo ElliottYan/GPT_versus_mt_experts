@@ -1,0 +1,82 @@
+[
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 2 : 我把能想到的所有问题都列了出来（有点多，哈哈）。希望大家能抽出点时间一一作答，感谢各位！",
+        "label_text": "希望大家能抽出点时间一一作答，"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 3 : 瓦奇里还提到：杰夫特（Djehuty）在哈特谢普苏特女王（Queen Hatshepsut）时期任国库主管，对工匠和艺术家作品进行了系统性了解。",
+        "label_text": "进行了系统性了解"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 3 : 瓦奇里还提到：杰夫特（Djehuty）在哈特谢普苏特女王（Queen Hatshepsut）时期任国库主管，对工匠和艺术家作品进行了系统性了解。",
+        "label_text": "进行了系统性了解"
+    },
+    {
+        "source": "原文 : But I can imagine that you want to rewrite a sentence that it is not written by male, but it is written by a female instead or, I do not know, like you can have a scientific and unscientific explanation of certain phenomena.",
+        "hyp": "文 3 : 不过我可以想象这种情况。比如，你想改写一个由女性而非男性写出的句子，又或者，你能对某些现象作出既科学又不科学的解释。",
+        "label_text": "你想改写一个由女性而非男性写出的句子"
+    },
+    {
+        "source": "原文 : In \"The Ladykillers\" (1955) a gang of criminals rent a room from the elderly Mrs Wilberforce while they're pretending to be a string quintet looking for a space to practice.",
+        "hyp": "文 1 : 在1955年上映的电影《贼博士》（The Ladykillers）中，一伙罪犯假扮成在寻找排练场地的乐队，从威尔伯福斯太太那里租了间房。",
+        "label_text": "乐队"
+    },
+    {
+        "source": "原文 : This is because I made the mistake of turning things into her desk and not the bin, meaning I have like 4 or 5 assignments that I’ve done but are nowhere in the books,",
+        "hyp": "文 1 : 因为我犯了一个错误：我把东西放到了她的桌子上，而不是丢进垃圾桶里。也就是说，我完成了四、五份作业，但都不在作业本上。",
+        "label_text": "垃圾桶里"
+    },
+    {
+        "source": "原文 : It’s chill, edgy, and if you want to join, comment and I’ll direct message you the link.",
+        "hyp": "文 1 : 很酷、很前卫。你想加入评论的话，我可以直接发你链接。",
+        "label_text": "你想加入评论的话，"
+    },
+    {
+        "source": "原文 : Looking for single bedroom flats or flatshares is a legit issue as 3 letting agents in the city own them all, and are only letting to students.",
+        "hyp": "文 5 : 比较合理的做法是找一间单卧室公寓或是合租房。市内有三家中介都可以租到，而且他们只租给学生。",
+        "label_text": "比较合理的做法"
+    },
+    {
+        "source": "原文 : Ex: I needed some1 to babysit our then 2mo for 3-4 hrs.",
+        "hyp": "文 3 : 不含：我需要找人帮我照看两个月大的孩子 3~4 个小时。",
+        "label_text": " 不含"
+    },
+    {
+        "source": "原文 : He has health concerns atm but we also have Daley entering his 2nd year and is a decent safety net.",
+        "hyp": "文 2 : 他目前有健康问题。不过，戴利两岁了，是个不错的备选人。",
+        "label_text": "戴利两岁了"
+    },
+    {
+        "source": "原文 : The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",
+        "hyp": "文 1 : 通过实验并不能创造出支撑这一解读的事实，但选择做什么实验决定最终发现什么事实。",
+        "label_text": "支撑这一解读的事实"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 1 : 四年来，我一直都在穿Lane Bryants家的运动内衣，这还是这么久第一次穿带钢圈的文胸。",
+        "label_text": "运动内衣"
+    },
+    {
+        "source": "原文 : I love my boyfriend and desperately want to keep his system happy.",
+        "hyp": "文 3 : 我爱我的男朋友，迫切地想让他的身体满足。",
+        "label_text": "让他的身体满足"
+    },
+    {
+        "source": "原文 : So I already have an orange golden chinchilla (Toto, 2 months old) and we have had Toto for 3 weeks now and felt she needed company, so we got Terri (2-month Himalayan Ragdoll) to keep each other company.",
+        "hyp": "文 3 : 我起初买了一只金橘色毛丝鼠（Toto，2 个月大），养了三周后，我们觉得她需要个伴儿，于是我们又买了 Terri（2 个月大的喜马拉雅猫）。",
+        "label_text": "毛丝鼠"
+    },
+    {
+        "source": "原文 : The suspect is expected to appear in Bond Court Saturday, Brown said, where more details about the evidence they have collected will be presented.",
+        "hyp": "文 5 : 据布朗透露，嫌疑人预计将于周六在邦德法院出庭，届时将公布现有证据的更多细节。",
+        "label_text": "邦德法院"
+    },
+    {
+        "source": "原文 : Digital cameras are either super expensive, or the type of camera you would use for vlogging or things like that,",
+        "hyp": "文 3 : 数码相机要么超级贵，要么就是用来拍视频之类的。",
+        "label_text": "拍视频"
+    }
+]

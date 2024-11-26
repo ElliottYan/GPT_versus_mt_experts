@@ -1,0 +1,122 @@
+[
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 4 : The old village chief of Shicun looked at Lin Feng strangely, trembling like a leaf.",
+        "label_text": "trembling like a leaf"
+    },
+    {
+        "source": "原文 : 八百年前，称雄昆仑界的九帝，彻底的成为过去，消失在历史的长河之中。",
+        "hyp": "文 3 : The nine great emperors once ruled the Kunlun Kingdom. Eight hundred years ago, all these became a thing of the past and disappeared in the course of history.",
+        "label_text": "all these"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 5 : I don't want to be a foreigner! Let me back, please! Can Twain shout like that?",
+        "label_text": "that"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 5 : I don't want to be a foreigner! Let me back, please! Can Twain shout like that?",
+        "label_text": "foreigner"
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 5 : En, the Spirit Base is damaged! Ling Han frowned. Ling Chongkuan's attack had caused damage to Ling Han's Spirit Base. This was troublesome for Ling Han, as normal medicines would be ineffective.",
+        "label_text": "Ling Han"
+    },
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 5 : En, the Spirit Base is damaged! Ling Han frowned. Ling Chongkuan's attack had caused damage to Ling Han's Spirit Base. This was troublesome for Ling Han, as normal medicines would be ineffective.",
+        "label_text": "Ling Han"
+    },
+    {
+        "source": "原文 : “我不是出车祸死了么？ 怎么又活过来了？”",
+        "hyp": "文 5 : Didn't I die in a car accident? How could I still be alive?",
+        "label_text": "How could I "
+    },
+    {
+        "source": "原文 : 听到可以成为新生第一，又夸她是天才，女孩脸上情不自禁的露出火热，连忙询问：“不过，什么？”",
+        "hyp": "文 1 : Hearing that she could take the first place among the newcomers and being praised as a genius, she couldn't help showing great passion and asked, \"Eh, what?\"",
+        "label_text": "Eh"
+    },
+    {
+        "source": "原文 : （我算一下账，鞋子4000多日元，算作200rmb，选择1，我没有鞋子，损失在200元。",
+        "hyp": "文 4 : (Let me see. The shoes cost over JPY 4,000, equivalent to RMB 200. If I choose \"1\", I don't have shoes, and I'll lose RMB 200.",
+        "label_text": "equivalent to"
+    },
+    {
+        "source": "原文 : 种种情节开始浮现在安林的脑海里，那一切梦幻的开端，不就是眼前这一幕吗！",
+        "hyp": "文 3 : All kinds of plots began to appear in An Lin's mind. Isn't this scene right before him the beginning of dreams?",
+        "label_text": " plots"
+    },
+    {
+        "source": "原文 : 他只提了其中两个处罚，分别是最轻和最重的，其余还有罚做苦力、抄经、杖责、面壁等。",
+        "hyp": "文 1 : He only mentioned two of the punishments, the lightest one and the heaviest one. The rest include coolie punishment, scripture copying, staff punishment, and facing the wall in meditation.",
+        "label_text": "coolie punishment"
+    },
+    {
+        "source": "原文 : 宗族冲突可能导致械斗和造成流血事件，参与者人口可能数十人到几万人。",
+        "hyp": "文 4 : Clan warfare could lead to fights with weapons between groups of people and bloody incidents, involving dozens of people to tens of thousands of people.",
+        "label_text": "warfare"
+    },
+    {
+        "source": "原文 : 听到招呼声，李杜起身道：“喔，是的，汉娜，有什么事吗？”",
+        "hyp": "文 3 : Hearing the greeting, Li Du stood up and said, \"Oh, yes, Hannah, is there anything wrong?\"",
+        "label_text": "is there anything wrong?"
+    },
+    {
+        "source": "原文 : 李杜打断她的话，叫道：“我明白你的意思，你以为我疯了！ 但我没疯，汉娜！”",
+        "hyp": "文 3 : Li Du interrupted her and said, \"I understand what you mean, you think I'm crazy! But I'm not, Hannah!\"",
+        "label_text": "understand"
+    },
+    {
+        "source": "原文 : 楚阳的身躯缓缓从空中落下，缓缓倒了下去，便如晚秋飘零的枯叶，倒在尘埃，脸上带着淡淡的却温暖的笑，喃喃的道：“轻舞，若是有来生，伴君天下舞！”",
+        "hyp": "文 3 : Chu Yang slowly fell from the sky, and slowly fell down, just like a fallen leaf in late autumn dropping into dust. He had a weak but warm smile, and murmured, \"Qing Wu, if there is eternity, I will stay with you!\"",
+        "label_text": "sky"
+    },
+    {
+        "source": "原文 : “这是你送给我的定情礼物，现在，还给你，我们，从此两不相欠。” 姜雪晴，无情的将雕像塞在苏羽手中，转身回到秦枫身侧，眺望天外，不再看苏羽，冷酷绝情。",
+        "hyp": "文 4 : \"This is the present that you gave me when you pledged your love. Now, I'll return it to you. From now on, we'll not owe each other anything.\" Jiang Xueqing heartlessly placed the statue in the hands of Su Yu, and turned back to Qin Feng's side. She looked at the sky, without any regard for Su Yu's feelings.",
+        "label_text": "when you pledged your love"
+    },
+    {
+        "source": "原文 : 似乎腰间没有松紧带，想加松点腰围还挺困难。",
+        "hyp": "文 1 : As no elastic band is designed for the waist part, it is difficult to increase the waistline.",
+        "label_text": " increase"
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 1 : The toothpaste contains particles, helping freshen the mouth and leaving teeth smooth. It is much better than those on Jingdong Mall. The products sold on Jingdong Mall are claimed to be imported, but many of them have no Chinese labels, making it unclear where they are sourced from.",
+        "label_text": "Jingdong Mall"
+    },
+    {
+        "source": "原文 : 膏体里带颗粒的，清爽感恰到好处，用后牙齿爽滑，上比某二手东强太多啦，那里说是进口的东西，可好多东西没有中文标签，不知从哪里批发的。",
+        "hyp": "文 1 : The toothpaste contains particles, helping freshen the mouth and leaving teeth smooth. It is much better than those on Jingdong Mall. The products sold on Jingdong Mall are claimed to be imported, but many of them have no Chinese labels, making it unclear where they are sourced from.",
+        "label_text": "Jingdong Mall "
+    },
+    {
+        "source": "原文 : 两名说话的狱卒这才看见侧边正站着一名身穿粗布麻衣的女子，这女子虽然穿着粗布麻衣，却依然能隐约看出她的不俗风姿。 唯一遗憾的是，她的脸已经毁容，被略微凌乱的头发遮掩，让人不愿再看第二眼。",
+        "hyp": "文 1 : Only then did the two jailers who were talking see a woman in sackcloth standing on the side. Despite her coarse sackcloth, she looked so charming and graceful. The only regret is that her face has been disfigured and is covered by messy hair, making people reluctant to take a second look.",
+        "label_text": "she looked so charming and graceful"
+    },
+    {
+        "source": "原文 : 肥龙脸上横肉乱抖，心底却颇为纠结。",
+        "hyp": "文 1 : Fei Long's face trembled, but he was quite tangled.",
+        "label_text": " tangled"
+    },
+    {
+        "source": "原文 : 1993年捷克斯洛伐克解体之后， 1994年起捷克和斯洛伐克两个国家分别独立派出奥林匹克运动会捷克代表团、奥林匹克运动会斯洛伐克代表团参赛。",
+        "hyp": "文 2 : After the disintegration of Czechoslovakia in 1993, the Czech Republic and Slovakia have independently set up their Olympic delegations (i.e. Czech Olympic delegation and Slovak Olympic delegation) since 1994.",
+        "label_text": "disintegration"
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 2 : The Inscriptions of Construction of Baishui Road on cliffs are located in Wangjiahe Village, Daheidian Township, Huixian County, Gansu Province, China. They have been included in the list of key cultural heritage sites under state protection, and are categorized as cave temples and stone carvings.",
+        "label_text": "cave"
+    },
+    {
+        "source": "原文 : 别人的课堂，都是人满为患，拥挤的坐不下去，而他的课堂，一个都没有，好不容易被他拉进来几个，最后都连骂好几声“骗子”，转身就逃！",
+        "hyp": "文 5 : Other people's classrooms are so overcrowded that there are no additional seats for more students. However, his classroom is empty. He managed to invite students to his classroom, but they always ran away, leaving behind the word \"liar\" for him.",
+        "label_text": " invite"
+    }
+]

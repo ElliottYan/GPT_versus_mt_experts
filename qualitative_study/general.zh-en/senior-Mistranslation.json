@@ -1,0 +1,157 @@
+[
+    {
+        "source": "原文 : 平常人一月吃一次已经算是奢侈了，哪里能像他这样顿顿都有。",
+        "hyp": "文 4 : It is already a luxury to have it once a month for average people. He is not average at all.",
+        "label_text": ". He is not average at all."
+    },
+    {
+        "source": "原文 : 石村老村长奇怪的看着林锋，却吓了个哆嗦。",
+        "hyp": "文 5 : The elderly head of the Shicun Village looked at Linfeng and shivered in fear.",
+        "label_text": "in fear"
+    },
+    {
+        "source": "原文 : R国制造出一种无色无味的生化武器，打算运进华国，进行一场惨绝人寰的大阴谋。",
+        "hyp": "文 1 : Country R has developed a colorless and tasteless bioweapon, intending to transport it into China for a brutal conspiracy.",
+        "label_text": "China"
+    },
+    {
+        "source": "原文 : 新的买好了，就想着马上把亚马逊的订单给取消。",
+        "hyp": "文 4 : A new one has been bought, so I need to cancel the Amazon order right away.",
+        "label_text": "need"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 3 : I don't want to be a foreigner! Let go of me. I want to go back! Is it really OK to call Tang En like this?",
+        "label_text": "Is it really OK to call Tang En like this?"
+    },
+    {
+        "source": "原文 : 我不要当鬼佬！ 让我回去，让我回去！ 唐恩能这么喊吗？",
+        "hyp": "文 3 : I don't want to be a foreigner! Let go of me. I want to go back! Is it really OK to call Tang En like this?",
+        "label_text": "Is it really OK to call Tang En like this?"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 5 : The mall near the Deep Valley Gardens Station is expected to receive 649,000 passengers a year, making it the third-busiest station after Kumagaya and Hanyū stations, and generating 300 million yen a year in revenue.",
+        "label_text": "The mall near the Deep Valley Gardens Station is expected to receive 649,000 passengers a year"
+    },
+    {
+        "source": "原文 : 深谷花园站附近的商场开放后预计每年将接待64万9000名乘客，使其成为继熊谷站和羽生站后第三大繁忙的车站，每年的收入将达三亿日元。",
+        "hyp": "文 5 : The mall near the Deep Valley Gardens Station is expected to receive 649,000 passengers a year, making it the third-busiest station after Kumagaya and Hanyū stations, and generating 300 million yen a year in revenue.",
+        "label_text": "The mall near the Deep Valley Gardens Station is expected to receive 649,000 passengers a year"
+    },
+    {
+        "source": "原文 : 为了避免引起外界不必要的忧虑，误以为香港政府的财政实力及宏观经济的基础转弱，而影响香港的信贷评级，因此建议中的未来基金将仍然被列为香港政府财政储备的一部分。",
+        "hyp": "文 3 : To avoid the rise of unnecessary concern that the financial strength and macroeconomic fundamentals of the Hong Kong Government have been weakened, which would affect Hong Kong's credit rating, the proposed Mirae Fund will continue to be included as part of the Hong Kong Government's fiscal reserves.",
+        "label_text": "Mirae Fund"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 2 : The Type 25A bus, one of the air-conditioned buses of the Chinese Railways featuring centralized power supply, was manufactured by several domestic railroad factories after an international bidding process and with the use of loans. It is commonly referred to as the \"168\" bus, as 168 units were produced in total.",
+        "label_text": "bus"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 2 : The Type 25A bus, one of the air-conditioned buses of the Chinese Railways featuring centralized power supply, was manufactured by several domestic railroad factories after an international bidding process and with the use of loans. It is commonly referred to as the \"168\" bus, as 168 units were produced in total.",
+        "label_text": "buses"
+    },
+    {
+        "source": "原文 : 25A型客车，是中国铁路的集中供电空调客车车型之一，经过国际招标利用贷款由几家国内铁路工厂联合制造，由于共生产了168辆因此通常称“168”客车。",
+        "hyp": "文 2 : The Type 25A bus, one of the air-conditioned buses of the Chinese Railways featuring centralized power supply, was manufactured by several domestic railroad factories after an international bidding process and with the use of loans. It is commonly referred to as the \"168\" bus, as 168 units were produced in total.",
+        "label_text": "bus"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 4 : Fortunately, every cloud has a silver lining. Hong Dali was hating to kill himself when the system's metal voice came once again: \"Note: For every 100,000 yuan that is lost, you get one attribute point.\"",
+        "label_text": "hating to kill himself "
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 4 : Fortunately, every cloud has a silver lining. Hong Dali was hating to kill himself when the system's metal voice came once again: \"Note: For every 100,000 yuan that is lost, you get one attribute point.\"",
+        "label_text": "hating to kill himself "
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 1 : Captain and Communicator (Vice-Captain of the Chariot Department) of M4 Sherman (76mm turret type) Chariot, a sophomore at Sandals University High School, who first appeared in the 4th episode of this story, is good at devising tactics and serves as the team's military advisor, but would get very emotional and easily tense during chariot road races. In a race with the Oarai Women's Academy, she panicked and messed up, affecting the morale of her teammates. Taking advantage of a loophole in the rules, she secretly used a spy balloon to eavesdrop on information, but was backfired on, causing the whole team to lose the advantage and lose the battle. She was punished by Kaye for that. When she is sad or angry, she would inexplicably mention the boy she has a crush on (Takashi), and is consoled by the Bunny Team for this reason in the theatrical version. She is a tough talker and is always full of ideas. She is just a girl with a rich character and a silly personality. In the 3rd episode of the final chapter, she falls for the Continuation High School's trap, which leads to the destruction of the flag car she is in.",
+        "label_text": "ice-Captain of the Chariot Department"
+    },
+    {
+        "source": "原文 : 聂耳小提琴是云南省博物馆参加综艺节目《国家宝藏》第二季的三件文物之一，由张若昀担任明星守护人。",
+        "hyp": "文 2 : The Nie Er Violin is one of the three artifacts from the Yunnan Provincial Museum that appeared in the second season of the variety show National Treasure, with Zhang Ruoyun as the star guardian.",
+        "label_text": "artifacts"
+    },
+    {
+        "source": "原文 : 一辆出租车在他前面下客，他快步走上前，然后钻了进去。 唐恩在车上看了躺在寒风中享受“晚餐”的乞丐最后一眼，让司机将他带回那个陌生的家。",
+        "hyp": "文 1 : A cab stopped in front of him and the passenger disembarked. He walked up quickly and got in. Tang En took one last look at the beggar lying in the cold, enjoying his \"dinner\". Then he asked the driver to take him back to his unfamiliar home.",
+        "label_text": "Tang En took one last look at the beggar lying in the cold, enjoying his \"dinner\""
+    },
+    {
+        "source": "原文 : 2017年2月22日，伊利亚索瓦在76人打了53场比赛后，被交易至亚特兰大老鹰， 76人则得到中锋蒂亚戈·斯普利特、2017年的第二轮选秀权、并有权与老鹰交换二轮选秀顺位。",
+        "hyp": "文 2 : On February 22, 2017, Ilyasova was traded to the Atlanta Hawks after 53 games with the 76ers, who in turn got center Tiago Splitter, a 2017 second-round pick, and the right to swap second-round picks with the Hawks.",
+        "label_text": "after 53 games with the 76ers"
+    },
+    {
+        "source": "原文 : 最近发现接通电源时，不充电，需要用手左右扶几下充电器和线的连接处，才能充上电。",
+        "hyp": "文 3 : Recently, I found that when I turn on the power, it doesn't charge, and I need to move my hand left and right a few times at the connection between the charger and the cable.",
+        "label_text": "move my hand left and right"
+    },
+    {
+        "source": "原文 : 他只提了其中两个处罚，分别是最轻和最重的，其余还有罚做苦力、抄经、杖责、面壁等。",
+        "hyp": "文 5 : Among the various punishments, he only mentioned two, the lightest and the heaviest. The remaining penalties included hard labor, script writing, flogging, and facing the wall.",
+        "label_text": "facing the wall"
+    },
+    {
+        "source": "原文 : 良久之后，林锋才渐渐适应身体变化，心中宽慰：“总算有点自保之力了。” 但想到系统终极目标是要建立史上第一宗门，自己要成为史上第一祖师，林锋顿时又压力山大，连忙检查新手礼包的其他东西。",
+        "hyp": "文 1 : After a considerable period of time, Lin Feng began to adapt to his physical transformations and a sense of relief washed over him. \"Finally, I am capable of protecting myself,\" he muttered. However, he was overwhelmed by the idea that the ultimate goal was to establish the most prestigious sect in history, with himself as one of its illustrious founders. Eagerly, he proceeded to inspect the items in the gift bag for beginners.",
+        "label_text": " one of its illustrious founders"
+    },
+    {
+        "source": "原文 : 宗族冲突可能导致械斗和造成流血事件，参与者人口可能数十人到几万人。",
+        "hyp": "文 1 : Intra-Clan conflicts can potentially lead to clashes and bloodshed, involving tens to tens of thousands of individuals.",
+        "label_text": "Intra-Clan"
+    },
+    {
+        "source": "原文 : 听到招呼声，李杜起身道：“喔，是的，汉娜，有什么事吗？”",
+        "hyp": "文 1 : Hearing the call, Li Du got up and answered, \"Oh yes, Hannah. What's up?\"",
+        "label_text": "the call"
+    },
+    {
+        "source": "原文 : 三颗星是怪自己马虎没看清楚商品规格，你卖M码电商版我没意见，你货不对版是几个意思？",
+        "hyp": "文 2 : The reason I marked three stars is I should be blamed for not seeing the product specifications. I'm OK with your selling the M-size e-commerce version, but not OK with a product different from the what I see.",
+        "label_text": "a product different from the what I see"
+    },
+    {
+        "source": "原文 : 第二把Totes，1.这把没有伞套 2.伞柄材质一般 3.明明写Large,实际上就是一人用的便捷雨伞,两个人用估计够呛。",
+        "hyp": "文 1 : For the second Totes, there are three deficiencies. First, this umbrella is not provided with a chute boot. Second, its handle is made of poor materials. Third, although marked with \"Large\", it is in fact an umbrella for one person. It may be hard to shield two person.",
+        "label_text": "poor materials"
+    },
+    {
+        "source": "原文 : 2016年12月28日上午10时开行往贵阳北、南宁、玉溪站方向的动车组列车，三班首发列车分别是开往贵阳北的G4136次、开往南宁的D4208次以及开往玉溪的D9109次。",
+        "hyp": "文 3 : The first CRH trains heading to Guiyangbei (G4136), Nanning (D4208) and Yuxi (D9109) were started at 10 o'clock on December 28, 2016.",
+        "label_text": "CRH trains"
+    },
+    {
+        "source": "原文 : “五行杂灵根，这是最最低等的灵根，难怪前身虽然无比努力，却只有炼体二层的修为。” “于我而言，五行杂灵根虽然有点棘手，但辅以丹药，最多四百年我必然还能重临巅峰！”",
+        "hyp": "文 2 : “A five-element-mixture spirit root, the worst one. That explains why your predecessor worked so hard but only had an ability at the second level of physical training.\" \"To me, although this spirit root is a little troublesome, with the help of proper medicine, I can top again in 400 years at most.\"",
+        "label_text": "your predecessor"
+    },
+    {
+        "source": "原文 : 各种仙侠里的专用词汇。",
+        "hyp": "文 1 : Terminologies used in immortal heroes and sage cultivation stories.",
+        "label_text": "sage"
+    },
+    {
+        "source": "原文 : “烦恼落尽，红尘远离。”",
+        "hyp": "文 3 : \"All worries are gone and the world is far away.\"",
+        "label_text": "the world "
+    },
+    {
+        "source": "原文 : 两名说话的狱卒这才看见侧边正站着一名身穿粗布麻衣的女子，这女子虽然穿着粗布麻衣，却依然能隐约看出她的不俗风姿。 唯一遗憾的是，她的脸已经毁容，被略微凌乱的头发遮掩，让人不愿再看第二眼。",
+        "hyp": "文 4 : Then the two chatting jailers see a woman standing on the side. Although she is dressed in clothes made of burlap, they can still see her beauty vaguely. Unfortunately, she was disfigured. The face was covered by her slightly messy hair and still made others reluctant to see it again.",
+        "label_text": "clothes made of burlap"
+    },
+    {
+        "source": "原文 : 顾锦辉生于香港在荃湾长大，并于地区球会荃湾展开球员生涯到1983年转投东方，至1984年获班主林建岳邀请由东方转投班霸南华从此成为南华重心球员，期间合共8度在香港足球明星选举获选最佳十一人更曾于1987年当选香港足球先生至38岁挂靴转担任球队助教，直到2017年6月19日经过南华董事会开会后，所有执委经重新检视球队近年发展后，一致赞成南华来届退出港超联，转战甲组联赛培育青年球员，而球队为减省足球部开资只留下效力南华超过三十年的顾锦辉。",
+        "hyp": "文 1 : Gu Jinhui was born and bred in Tsuen Wan, Hong Kong. He began his football career in the Tsuen Wan Football Association and later transferred to the Eastern Salon Football Team in 1983. Gu became a core player of the SCAA Football Team ever since he transferred to the Team upon the invitation of Lin Jianyue in 1984. During his service on this team, he had won the award of \"Eleven Best Footballers\" for eight consecutive times. In 1987, he won the Hong Kong Top Footballers Awards. Gu retired from the Team and became an assistant instead when he was 38. On June 19, 2017, the board of directors of the SCAA Football Team convened a meeting and reached a consensus on a transfer to C League to cultivate young football players. To cut expenditure, all players of the Team except Gu Jinhui were dismissed. Only Gu who had served on the Team for over 30 years stayed.",
+        "label_text": "born and bred in Tsuen Wan, Hong Kong"
+    }
+]

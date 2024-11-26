@@ -1,0 +1,72 @@
+[
+    {
+        "source": "原文 : 东西还可以，但是亚马逊的售后服务真的比其他网站差太多了",
+        "hyp": "文 1 : The products are okay, but Amazon's after-sales service sucks compared with other websites.",
+        "label_text": "compared with other websites"
+    },
+    {
+        "source": "原文 : 2020年5月2日， JDG在2020LPL春季赛常规赛排名第二位，并在总决赛上3:2险胜TES获得总冠军，这也是他们队史第一个LPL冠军。",
+        "hyp": "文 1 : On May 2, 2020, JDG finished the 2020 LPL Spring Season in second place and had a close 3:2 win over TES in the finals, which was also their first LPL title in team history.",
+        "label_text": "in team history"
+    },
+    {
+        "source": "原文 : 2020年5月2日， JDG在2020LPL春季赛常规赛排名第二位，并在总决赛上3:2险胜TES获得总冠军，这也是他们队史第一个LPL冠军。",
+        "hyp": "文 1 : On May 2, 2020, JDG finished the 2020 LPL Spring Season in second place and had a close 3:2 win over TES in the finals, which was also their first LPL title in team history.",
+        "label_text": ", which"
+    },
+    {
+        "source": "原文 : M4雪曼（76mm砲塔型）战车车长兼通讯员（战车部副队长） ，桑达斯大学附属高中二年级生，首次出场于本篇第4话，擅长拟订各种战术，是整个队伍军师，但在战车道比赛时会表现得十分情绪化和容易紧张，和大洗女子学园比赛时，因表现慌张和狼狈的样子而乱了手脚，影响了其他队友的士气，利用规则漏洞，使用偷偷使用间谍气球来窃听情报，但被反将一军，导致整个队伍失去优势导致战败，还被（凯伊）处罚一番，在自己难过或生气时，会莫名提到自己暗恋男生（阿孝） ，在剧场版还因此被兔子队安慰一番，虽然平时嘴上不饶人，又满脑鬼点子，但本性单纯，就只是个性格丰富+傻傻的女孩子，在最终章第3话里，中了继续高中圈套，导致自己所在的旗车被击毁。",
+        "hyp": "文 1 : Captain and Communicator (Vice-Captain of the Chariot Department) of M4 Sherman (76mm turret type) Chariot, a sophomore at Sandals University High School, who first appeared in the 4th episode of this story, is good at devising tactics and serves as the team's military advisor, but would get very emotional and easily tense during chariot road races. In a race with the Oarai Women's Academy, she panicked and messed up, affecting the morale of her teammates. Taking advantage of a loophole in the rules, she secretly used a spy balloon to eavesdrop on information, but was backfired on, causing the whole team to lose the advantage and lose the battle. She was punished by Kaye for that. When she is sad or angry, she would inexplicably mention the boy she has a crush on (Takashi), and is consoled by the Bunny Team for this reason in the theatrical version. She is a tough talker and is always full of ideas. She is just a girl with a rich character and a silly personality. In the 3rd episode of the final chapter, she falls for the Continuation High School's trap, which leads to the destruction of the flag car she is in.",
+        "label_text": "has"
+    },
+    {
+        "source": "原文 : 这鞋很“窄”，虽然前面还留着距离，但是感觉紧紧的。",
+        "hyp": "文 3 : The shoes are \"narrow\". It feels tight, even though there is still room in the front.",
+        "label_text": "It"
+    },
+    {
+        "source": "原文 : 2015年8月，经济学人集团从培生集团手中回购了价值2.84亿美元的500万股股份，而培生集团所持有的其余价值4.47亿美元的股份则被出售给意大利投资公司。",
+        "hyp": "文 2 : In August 2015, the Economist Group repurchased 5 million shares from Pearson Group for $284 million. The remaining stake of $447 million was sold to an Italian investment firm.",
+        "label_text": "for"
+    },
+    {
+        "source": "原文 : 虽然丘吉尔改弦易辙，但他仍一直保有Oldham的议席。",
+        "hyp": "文 5 : Despite his change in party allegiance, Churchill had retained his seat in Oldham.",
+        "label_text": "had retained"
+    },
+    {
+        "source": "原文 : 1 使用过程中听不到声音 。",
+        "hyp": "文 3 : 1. I cannot hear any sound during the use.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 别看只是女人走路，里面可是有很多学问。 而莫问成天守在工地上，对面就是马路与人行道。",
+        "hyp": "文 3 : Although it's just a woman walking, we can learn a lot from it. Mo Men has always been on the construction site, the opposite of which is the road and the sidewalk.",
+        "label_text": "Although"
+    },
+    {
+        "source": "原文 : “这回可真是没话说了，我不无敌谁无敌？”",
+        "hyp": "文 3 : \"Well, there's absolutely no denying it this time, if I'm not invincible, then who is?\"",
+        "label_text": "there's absolutely no denying it this time, if I'm not invincible,"
+    },
+    {
+        "source": "原文 : 想取消订单，对不起，订单信息已传递给供应商，不能取消；想退换货，在亚马逊成功申请了退换货，对不起，没有人理你，需要自行联系供货商退货。",
+        "hyp": "文 3 : Once the order information has been passed to the supplier, cancellation is not possible; if you wish to return or exchange items, you might have successfully applied through Amazon but beware, there seems to be no follow-ups, leaving you no choice but to reach out to the supplier on your own for the return process.",
+        "label_text": "but beware, there seems to be no follow-ups"
+    },
+    {
+        "source": "原文 : 2023年春节后首周，海归优先的职位数和在国内求职的海归人数均呈上扬态势，2月3日的海归优先职位数比1月28日增长11%，海归求职人数增长27%。",
+        "hyp": "文 5 : In the first week following the Spring Festival of 2023, there's a marked uptick in the number of priority job postings for returning overseas students and the count of such individuals seeking employment domestically. On February 3rd, the volume of priority job postings for these returnees experienced a surge of 11% in comparison to January 28th, alongside a 27% rise in the number of these overseas returnees seeking work.",
+        "label_text": "comparison to January 28th"
+    },
+    {
+        "source": "原文 : 顶盖的弧度和控制面板的弧度居然不一致，拼合之后出现了一个最高2mm左右的高差。",
+        "hyp": "文 5 : The curvature of the top cover is inconsistent with that of the control panel, resulting in a height difference of about 2mm after assembled.",
+        "label_text": "assembled"
+    },
+    {
+        "source": "原文 : 硫酸铅在1170°C下融化并部分分解出三氧化硫。",
+        "hyp": "文 4 : Lead sulfate melts under 1,170 °C and partially dissolves to produce sulfur trioxide.",
+        "label_text": "under "
+    }
+]

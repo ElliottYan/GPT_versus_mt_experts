@@ -1,0 +1,137 @@
+[
+    {
+        "source": "原文 : 以驾驶者为中心的沉浸式驾驶舱，10.25英寸智慧双连屏，搭载智能网联系统4.0，可实现多项个性化应用信息联动，尽享智能科技带来的便捷体验，处处皆掌控，随心随意智联无限。",
+        "hyp": "文 1 : An immersive, driver-centered cockpit with a 10.25-inch smart dual-screen, equipped with the Intelligent Network Connection System 4.0, enables a multitude of personalized application interconnectivity, allowing you to fully enjoy the convenience of smart technology. With control at your fingertips, experience limitless connectivity at will.",
+        "label_text": "interconnectivity"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 4 : The 1.5T high-power engine features the world's first application of CVVD technology, unleashing a robust power of 200 horsepower. The dynamic dual-sided quad exhaust pipes produce a deep and resonant sound. With the push of a button, the SPORT+ driving mode is activated, providing instant acceleration and pleasure at every turn, allowing you to fully enjoy the thrill of driving.",
+        "label_text": "200 horsepower"
+    },
+    {
+        "source": "原文 : 1.5T 高功率发动机应用全球首创 CVVD 技术，迸发最大功率200马力的强劲动力。动感双边四出排气管，带来浑厚声浪。一键 SPORT+ 驾驶模式，瞬间加速，处处皆快感，尽享驾控乐趣。",
+        "hyp": "文 4 : The 1.5T high-power engine features the world's first application of CVVD technology, unleashing a robust power of 200 horsepower. The dynamic dual-sided quad exhaust pipes produce a deep and resonant sound. With the push of a button, the SPORT+ driving mode is activated, providing instant acceleration and pleasure at every turn, allowing you to fully enjoy the thrill of driving.",
+        "label_text": "200 horsepower"
+    },
+    {
+        "source": "原文 : 将遥控钥匙存放在远离任何液体和热源的阴凉干燥的地方。如果遥控钥匙暴露在潮湿(液体进入)或高温环境下，可能会导致遥控钥匙内部电路发生故障，而且这种情况不在车辆有限保修范围内。",
+        "hyp": "文 3 : Store the remote key in a cool, dry place away from any liquids and heat sources. If the remote key is exposed to moisture (liquid intrusion) or high temperatures, it may cause the internal circuitry of the remote to malfunction, and such circumstances are not covered under the vehicle's limited warranty.",
+        "label_text": "the remote"
+    },
+    {
+        "source": "原文 : 将遥控钥匙存放在远离任何液体和热源的阴凉干燥的地方。如果遥控钥匙暴露在潮湿(液体进入)或高温环境下，可能会导致遥控钥匙内部电路发生故障，而且这种情况不在车辆有限保修范围内。",
+        "hyp": "文 3 : Store the remote key in a cool, dry place away from any liquids and heat sources. If the remote key is exposed to moisture (liquid intrusion) or high temperatures, it may cause the internal circuitry of the remote to malfunction, and such circumstances are not covered under the vehicle's limited warranty.",
+        "label_text": "the remote"
+    },
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 2 : If the front-view camera installed on the windshield or the sensors are obstructed by foreign objects such as snow or rain, it will reduce the sensors' detection performance. This may cause the Forward Collision-Avoidance Assist (FCA) feature to pause or shut off.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 如果前挡风玻璃的前视摄像头安装部位，或传感器被积雪、雨水等异物遮挡，会降低传感器的检测性能，这会导致正面防撞辅助(FCA)功能暂停或关闭。",
+        "hyp": "文 2 : If the front-view camera installed on the windshield or the sensors are obstructed by foreign objects such as snow or rain, it will reduce the sensors' detection performance. This may cause the Forward Collision-Avoidance Assist (FCA) feature to pause or shut off.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 正面防撞辅助(FCA)功能根据发生碰撞的危险性，发出碰撞危险预警和控制车辆。此功能控制状态分为：“碰撞危险预警”、“紧急制动”和“停车并终止制动控制”。",
+        "hyp": "文 3 : The Forward Collision-Avoidance Assist (FCA) feature issues collision risk warnings and controls the vehicle based on the likelihood of a collision. This function's control states are divided into: \"Collision Risk Warning,\" \"Emergency Braking,\" and \"Stop and Terminate Brake Control.\"",
+        "label_text": "Stop"
+    },
+    {
+        "source": "原文 : 正面防撞辅助(FCA)功能根据发生碰撞的危险性，发出碰撞危险预警和控制车辆。此功能控制状态分为：“碰撞危险预警”、“紧急制动”和“停车并终止制动控制”。",
+        "hyp": "文 3 : The Forward Collision-Avoidance Assist (FCA) feature issues collision risk warnings and controls the vehicle based on the likelihood of a collision. This function's control states are divided into: \"Collision Risk Warning,\" \"Emergency Braking,\" and \"Stop and Terminate Brake Control.\"",
+        "label_text": "Stop"
+    },
+    {
+        "source": "原文 : 以百度3.0智能网联平台为基础，可高度识别自然语言指令，带来更轻松的语音控制。以BLE手机蓝牙钥匙为核心的IT配置，实现了多项个性化配置及跨越空间的人车联动。",
+        "hyp": "文 4 : Based on the Baidu 3.0 intelligent connected platform, it can highly recognize natural language commands, offering a more effortless voice control experience. With the BLE smartphone Bluetooth key as the core of its IT configuration, it has achieved numerous personalized settings and cross-space vehicle interaction.",
+        "label_text": "vehicle interaction"
+    },
+    {
+        "source": "原文 : 专属运动美学风格惊艳登场，动感造型独具个性，运动基因燃动驾控渴望，唤醒驾驶激情。",
+        "hyp": "文 3 : An exclusive sports aesthetic style makes a stunning entrance, with dynamic design that boasts individuality, igniting the desire for control through its sporty DNA, awakening a passion for driving.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 专属运动美学风格惊艳登场，动感造型独具个性，运动基因燃动驾控渴望，唤醒驾驶激情。",
+        "hyp": "文 3 : An exclusive sports aesthetic style makes a stunning entrance, with dynamic design that boasts individuality, igniting the desire for control through its sporty DNA, awakening a passion for driving.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 3 : After leaving the highway, the difficulty of driving suddenly increases, and the test for the vehicle becomes much more stringent. It requires not only a powerful and continuous output of power but also ease of control for smooth and coherent handling. A sudden increase in power output can easily lead to getting stuck in sandy terrain. Moreover, the complex and variable road conditions demand that the overall quality of the vehicle be absolutely top-notch.",
+        "label_text": "A sudden increase in power output can easily lead to getting stuck in sandy terrain."
+    },
+    {
+        "source": "原文 : 驶离公路后，行驶难度陡然提升，同时对于车辆的考验也变得更加严厉。不仅要求动力强劲且不间断地输出，同时还要易于控制连贯平顺，一旦动力输出突然增大，很容易会在沙地上陷车。同时复杂多变的路况，也要求整车各个方面的综合素质要绝对过硬。",
+        "hyp": "文 3 : After leaving the highway, the difficulty of driving suddenly increases, and the test for the vehicle becomes much more stringent. It requires not only a powerful and continuous output of power but also ease of control for smooth and coherent handling. A sudden increase in power output can easily lead to getting stuck in sandy terrain. Moreover, the complex and variable road conditions demand that the overall quality of the vehicle be absolutely top-notch.",
+        "label_text": "A sudden increase in power output can easily lead to getting stuck in sandy terrain."
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 1 : The hybrid system has a combined output of 193 horsepower and 350 Newton-meters of torque. Unlike Toyota, which uses an E-CVT transmission, this system opts for a 6-speed automatic transmission. The dashboard still features a traditional tachometer.",
+        "label_text": "Toyota"
+    },
+    {
+        "source": "原文 : 整套混动系统的综合功率为193马力，350牛·米。传动系统方面并没有像两田一样使用E-CVT变速箱，而是选择了6AT变速箱。仪表盘上也还是传统的转速表。",
+        "hyp": "文 1 : The hybrid system has a combined output of 193 horsepower and 350 Newton-meters of torque. Unlike Toyota, which uses an E-CVT transmission, this system opts for a 6-speed automatic transmission. The dashboard still features a traditional tachometer.",
+        "label_text": "Toyota"
+    },
+    {
+        "source": "原文 : 新车在设计层面没有改变，采用了最新的家族式前脸，轮圈为目前在售进取版的样式，应该是一款入门版车型。该车的长宽高分别为4750/1820/1488mm，轴距为2730mm，与现款保持一致。",
+        "hyp": "文 4 : The new car has not changed in terms of design, featuring the latest family-style front fascia and wheel designs that are currently available on the entry-level models. The dimensions of the car are 4750/1820/1488mm (length/width/height), with a wheelbase of 2730mm, which remains consistent with the current model.",
+        "label_text": ". "
+    },
+    {
+        "source": "原文 : 雅阁的前后车灯都加入了LED光源，除了2.0L车型之外，2.4L和3.0L不但拥有LED日间行车灯，近光灯也同样采用了LED光源。",
+        "hyp": "文 1 : The front and rear lights of the Accord have incorporated LED sources. Apart from the 2.0L model, the 2.4L and 3.0L not only feature LED daytime running lights but also use LED sources for their low beam headlights.",
+        "label_text": "sources"
+    },
+    {
+        "source": "原文 : 新一代蒙迪欧酷似阿斯顿·马丁的中网给人带来更多的新鲜感，这也成为消费者对它最多的评价。蒙迪欧的亮点除了它的外形，这台2.0T发动机242马力和350牛·米最大功率和扭矩也足够抢眼，这也使得它成为了很多追求运动风格消费者的最终选择。",
+        "hyp": "文 4 : The new generation Mondeo's front grille, which closely resembles that of an Aston Martin, brings a fresh appeal that has become the most frequent compliment from consumers. Beyond its appearance, the Mondeo's highlights include its 2.0T engine, which delivers an impressive 242 horsepower and 350 Newton-meters of torque, making it an eye-catching choice for many consumers seeking a sporty style.",
+        "label_text": "350 Newton-meters of torque"
+    },
+    {
+        "source": "原文 : 模式(MODE)按钮，用于转换显示的模式。",
+        "hyp": "文 1 : Mode button, used to switch the display mode.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 迈锐宝悬架偏软，刹车时车身前倾比较厉害，但刹车力度非常稳定，ABS工作细腻，踏板力度也很柔和，给人不错的刹车信心。",
+        "hyp": "文 1 : The Malibu's suspension is on the softer side, resulting in a noticeable forward pitch of the car body during braking. However, the braking force is very stable, the ABS operates smoothly, and the pedal feel is quite gentle, which instills a good sense of confidence in the braking system.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : SCC/LKA此组显示智能巡航控制(SCC)功能和车道保持辅助(LKA)功能的运行状态。",
+        "hyp": "文 4 : This group displays the operational status of the Smart Cruise Control (SCC) feature and the Lane Keeping Assist (LKA) feature.",
+        "label_text": "This"
+    },
+    {
+        "source": "原文 : 在高速公路上行驶时，此功能可以帮助驾驶员控制车辆保持与前方车辆之间的车距和以设定速度恒速行驶，并控制车辆保持在本车道内行驶。",
+        "hyp": "文 4 : When driving on the highway, this feature can assist the driver in maintaining a safe distance from the vehicle ahead and cruising at a set speed, as well as keeping the vehicle within its lane.",
+        "label_text": "maintaining "
+    },
+    {
+        "source": "原文 : 设置启用或停用喇叭反馈功能。启用喇叭反馈功能时，按下遥控钥匙上的门锁闭锁按钮闭锁所有门锁后，如果在4秒钟内再次按下门锁闭锁按钮时，喇叭反馈声响1次，表示所有门锁已经闭锁(如有配备遥控钥匙)。",
+        "hyp": "文 2 : Enable or disable the horn feedback feature. When the horn feedback feature is enabled, if you press the door lock button on the remote key to lock all doors and then press the door lock button again within 4 seconds, the horn will sound once to indicate that all doors have been locked (if equipped with a remote key).",
+        "label_text": "Enable or disable the horn feedback feature"
+    },
+    {
+        "source": "原文 : 动力方面，帕萨特采用了2.0T涡轮增压发动机，最大功率为162kW，搭配7速双离合变速箱，而凯美瑞采用的2.5L发动机最大功率为143kW，搭配8速手自一体变速箱，两车的动力差距并不算大。",
+        "hyp": "文 5 : In terms of power, the Passat is equipped with a 2.0T turbocharged engine with a maximum output of 162kW, paired with a 7-speed dual-clutch transmission. On the other hand, the Camry uses a 2.5L engine with a maximum output of 143kW, coupled with an 8-speed automatic transmission. The difference in power between the two vehicles is not significant.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 无人照顾的儿童能将钥匙插入到点火开关内，并可能操作电动门窗或其它控制装置，甚至使车辆移动，从而导致严重或致命人身伤害。",
+        "hyp": "文 1 : Unattended children can insert the key into the ignition switch and may operate the power windows or other controls, potentially causing the vehicle to move, which could lead to serious or fatal personal injuries.",
+        "label_text": "power windows "
+    },
+    {
+        "source": "原文 : 上海大众朗逸将于今年下半年到明年年初迎来中期改款，并于2013年正式换代。桑塔纳的换代车型也已确定在2012年推出，将全面更换平台与动力总成，但仍保留品牌名称。",
+        "hyp": "文 1 : The Shanghai Volkswagen Lavida is set to receive a mid-cycle refresh later this year and will be fully redesigned by the beginning of next year. The successor to the Santana has also been confirmed for release in 2012, featuring a complete overhaul of the platform and powertrain, while still retaining the brand name.",
+        "label_text": "."
+    }
+]

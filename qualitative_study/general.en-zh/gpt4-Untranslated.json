@@ -1,0 +1,62 @@
+[
+    {
+        "source": "原文 : user765123: No, I just had the “is now playing” thing show up.",
+        "hyp": "文 4 : user765123: 不，我只是看到了“正在播放”的提示。",
+        "label_text": "user"
+    },
+    {
+        "source": "原文 : user765123: No, I just had the “is now playing” thing show up.",
+        "hyp": "文 4 : user765123: 不，我只是看到了“正在播放”的提示。",
+        "label_text": "user"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 1 : 所以我和我的朋友又开始玩《Valorant》了，我们想学习一些通讯术语，比如“天堂”之类的。",
+        "label_text": "《Valorant》"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 2 : [PERSON9]已经开始进行数据收集，但我希望能看到在[PROJECT5]设置中那个领域适应的好处。",
+        "label_text": "[PERSON9"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 2 : [PERSON9]已经开始进行数据收集，但我希望能看到在[PROJECT5]设置中那个领域适应的好处。",
+        "label_text": "PROJECT5"
+    },
+    {
+        "source": "原文 : Just to clarify, when I say “anything” I mean anything within the FM’s current power.",
+        "hyp": "文 1 : 仅供澄清，当我说“任何事情”时，我的意思是指在FM目前权力范围内的任何事情。",
+        "label_text": "FM"
+    },
+    {
+        "source": "原文 : The first reference to the estuary stingray in scientific literature was probably a record by 19th-century English naturalist William Saville-Kent of a \"Trygon pastinaca\" feeding on oysters in a Queensland estuary.",
+        "hyp": "文 3 : 在科学文献中首次提到河口魟可能是19世纪英国自然学家威廉·萨维尔-肯特记录的一条“Trygon pastinaca”在昆士兰河口以牡蛎为食的记录。",
+        "label_text": "“Trygon pastinaca”"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 2 : 科特近年来最著名的案件包括由世界通讯公司（WorldCom）的前雇员或投资者对世界通讯公司的前董事和高管、其审计师安达信会计师事务所（Arthur Andersen），以及销售世界通讯公司证券的十多家投资银行提起的联邦证券和ERISA集体诉讼案。",
+        "label_text": "ERISA"
+    },
+    {
+        "source": "原文 : If you three could meet and double check what is [PROJECT5] doing with the -",
+        "hyp": "文 4 : 如果你们三个能见面并仔细核对一下[PROJECT5]项目正在处理的-",
+        "label_text": "PROJECT5"
+    },
+    {
+        "source": "原文 : contact me there than ill give you my ubisoft account info.",
+        "hyp": "文 3 : 在那里联系我，然后我会给你我的Ubisoft账户信息。",
+        "label_text": "Ubisoft"
+    },
+    {
+        "source": "原文 : So, we are now [PERSON14] putting that together to just one technical solution.",
+        "hyp": "文 2 : 所以，我们现在[PERSON14]正在将这些整合成一个技术方案。",
+        "label_text": "[PERSON14]"
+    },
+    {
+        "source": "原文 : Myxoid DFSP, which has areas of myxoid degeneration in the stroma",
+        "hyp": "文 3 : 黏液样DFSP，其间质中有黏液样变性区域。",
+        "label_text": "DFSP"
+    }
+]

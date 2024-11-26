@@ -1,0 +1,112 @@
+[
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 3 : 伦敦交通局开展的一项研究显示，在伦敦，有15%乘坐公共交通工具的女性遭受过某种形式的不受欢迎的性骚扰，但有90%的事件未报案。为减少性犯罪并提高报案率，安全运输司令部与英国交通警察局、伦敦市警察局和伦敦交通局合作发起了“守护者计划”。",
+        "label_text": "安全运输司令部"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 3 : 伦敦交通局开展的一项研究显示，在伦敦，有15%乘坐公共交通工具的女性遭受过某种形式的不受欢迎的性骚扰，但有90%的事件未报案。为减少性犯罪并提高报案率，安全运输司令部与英国交通警察局、伦敦市警察局和伦敦交通局合作发起了“守护者计划”。",
+        "label_text": "安全运输司令部"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 4 : 例如，讲新加坡英语方言的人常常弱化末辅音群，他们可能会使用“转位”、“喉化”和“删略”等音群弱化策略。",
+        "label_text": "转位"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 4 : 例如，讲新加坡英语方言的人常常弱化末辅音群，他们可能会使用“转位”、“喉化”和“删略”等音群弱化策略。",
+        "label_text": "音群"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 4 : 例如，讲新加坡英语方言的人常常弱化末辅音群，他们可能会使用“转位”、“喉化”和“删略”等音群弱化策略。",
+        "label_text": "转位"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 4 : 例如，讲新加坡英语方言的人常常弱化末辅音群，他们可能会使用“转位”、“喉化”和“删略”等音群弱化策略。",
+        "label_text": "音群"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 4 : 大家好，我一直都很难交到朋友，有时候觉得自己有点冷漠并且会觉得尴尬（你们知道的，尴尬症严重），但如果你让我不觉得尴尬，我就会相对放松一点。",
+        "label_text": "尴尬症严重"
+    },
+    {
+        "source": "原文 : So me and my friend started playing val again and want us to learn comms such as heaven and all of that,",
+        "hyp": "文 3 : 因此，我和我的朋友又开始玩《无畏契约》游戏（val），想学习诸如天啊之类的交流常用语，",
+        "label_text": "天啊"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 3 : 迪克希塔尔（Dikshitar）是塔拉（Tala）大师，是卡纳提克（Carnatic）计划中唯一一位在所有七个基本塔拉（Tala）中有克里提斯（Kritis）的作曲家。",
+        "label_text": "基本塔拉"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 3 : 迪克希塔尔（Dikshitar）是塔拉（Tala）大师，是卡纳提克（Carnatic）计划中唯一一位在所有七个基本塔拉（Tala）中有克里提斯（Kritis）的作曲家。",
+        "label_text": "克里提斯"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 5 : 2007年6月，纳尔迪耶罗（Nardiello）拒绝了与巴恩斯利足球俱乐部签订新合同，绕开了诺维奇城足球俱乐部，与同为英冠球队的女王公园巡游者足球俱乐部签订了一份为期两年的合同，此举受到了巴恩斯利足球俱乐部时任主席戈登·谢泼德（Gordon Shepherd）的批评。",
+        "label_text": "纳尔迪耶罗"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 3 : Deathwish唱片公司与相对论娱乐发行有限公司（RED Distribution）合作后，2016年3月，Deathwish唱片公司与华纳音乐集团旗下的独立发行公司Alternative Distribution Alliance (ADA)签署了一项全球协议，该公司还与Epitaph Records唱片公司、Rise Records唱片公司和Run for Cover Records唱片公司等朋克唱片公司进行了合作。",
+        "label_text": "相对论娱乐发行有限公司"
+    },
+    {
+        "source": "原文 : Me and my real life friends need a team that we (or especially I) can VOD review in order to learn about tarping, switching layers and positioning.",
+        "hyp": "文 4 : 我和我现实生活中的朋友需要一个团队，这样我们(或特别是我)就可以开展VOD审查，了解铺防水布系统，交换层和定位。",
+        "label_text": "VOD审查"
+    },
+    {
+        "source": "原文 : The lateral grey column receives input signals from preganglionic, myelinated fibers from viscera (internal organs), which course through prevertebral ganglia (between the visceral organ and the sympathetic chain) and paravertebral ganglia (in the sympathetic chain), white rami communicantes, and dorsal roots to synapse on cells of the intermediolateral cell column in the lateral horn.",
+        "hyp": "文 4 : 侧灰柱接收来自内脏节前和有髓纤维的输入信号，通过腹前神经节（内脏和交感神经链之间）和椎旁神经节（交感神经链之间）、白交通支和背根突触侧角中外侧细胞柱的细胞。",
+        "label_text": "节前和有髓纤维"
+    },
+    {
+        "source": "原文 : The lateral grey column receives input signals from preganglionic, myelinated fibers from viscera (internal organs), which course through prevertebral ganglia (between the visceral organ and the sympathetic chain) and paravertebral ganglia (in the sympathetic chain), white rami communicantes, and dorsal roots to synapse on cells of the intermediolateral cell column in the lateral horn.",
+        "hyp": "文 4 : 侧灰柱接收来自内脏节前和有髓纤维的输入信号，通过腹前神经节（内脏和交感神经链之间）和椎旁神经节（交感神经链之间）、白交通支和背根突触侧角中外侧细胞柱的细胞。",
+        "label_text": "腹前神经节"
+    },
+    {
+        "source": "原文 : The reptarenavirus family, responsible for inclusion body disease in snakes, shows a very high degree of genetic diversity due to reassortment of genetic material from multiple strains in the same infected animal.",
+        "hyp": "文 5 : 引起蛇类包涵体病的爬行动物沙粒病毒属科，因同一受感染动物中多个毒株遗传物质的重组，显示出高度的遗传多样性。",
+        "label_text": "爬行动物沙粒病毒属科"
+    },
+    {
+        "source": "原文 : The population of spermatogonia is maintained by \"type Ad spermatogonia.\"",
+        "hyp": "文 5 : 暗A型精原细胞维持精原细胞数量。",
+        "label_text": "暗A型精原细胞"
+    },
+    {
+        "source": "原文 : When computing several derivatives in the N-jet simultaneously, discrete scale-space smoothing with the discrete analogue of the Gaussian kernel, or with a recursive filter approximation, followed by small support difference operators, may be both faster and more accurate than computing recursive approximations of each derivative operator.",
+        "hyp": "文 3 : 在同时计算N射流多个导数时，通过高斯核离散模拟，或递归滤波器近似，和小分子支持差分算子来平滑离散尺度空间可能比单个计算导数算子递归近似值更快更精准。",
+        "label_text": "N射流多个导数"
+    },
+    {
+        "source": "原文 : Merseyside police commissioner Emily Spurrell told Radio City, \"It was incredibly dangerous and there were a couple of injuries amongst the police officers.\"",
+        "hyp": "文 5 : 默西赛德郡警察局局长艾米丽·斯普雷尔（Emily Spurrell）告诉Radio City电台称：“那是相当危险，有几个警察受伤了。”",
+        "label_text": "Radio City电台"
+    },
+    {
+        "source": "原文 : The National Healthcareer Association (NHA), the largest Allied Health Certification Agency in the US and the National Lutheran Health and Medical Board (NLHMB), Chennai, India, which is a leading NGO and sponsor of Two Universities have come together to offer the US employment National Healthcareer Association Certificate Examination in India.",
+        "hyp": "文 1 : 国家健康职业协会（美国最大的联合健康认证机构，NHA)和印度金奈国家路德教会健康和医学委员会（领先的非政府组织和两所大学的赞助商，National Lutheran Health and Medical Board，NLHMB)，在印度合作提供美国就业相关的全国健康职业协会证书考试。",
+        "label_text": " 国家健康职业协会"
+    },
+    {
+        "source": "原文 : The National Healthcareer Association (NHA), the largest Allied Health Certification Agency in the US and the National Lutheran Health and Medical Board (NLHMB), Chennai, India, which is a leading NGO and sponsor of Two Universities have come together to offer the US employment National Healthcareer Association Certificate Examination in India.",
+        "hyp": "文 1 : 国家健康职业协会（美国最大的联合健康认证机构，NHA)和印度金奈国家路德教会健康和医学委员会（领先的非政府组织和两所大学的赞助商，National Lutheran Health and Medical Board，NLHMB)，在印度合作提供美国就业相关的全国健康职业协会证书考试。",
+        "label_text": "美国就业相关的全国健康职业协会"
+    },
+    {
+        "source": "原文 : When the Sydney underground railways (now part of the Sydney Trains network) were constructed in 1927, Wynyard railway station was constructed by excavating the park and then rebuilding the park after the station had been constructed.",
+        "hyp": "文 1 : 1927年悉尼地下铁路（现悉尼列车网络的一部分）建成时，通过推翻公园来修建温亚站，然后在该站建成后再重建公园。",
+        "label_text": "温亚站"
+    }
+]

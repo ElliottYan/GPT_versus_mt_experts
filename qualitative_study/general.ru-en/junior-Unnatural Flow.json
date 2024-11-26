@@ -1,0 +1,67 @@
+[
+    {
+        "source": "原文 : \"Нам надо провести глубокий анализ, чтобы убедиться, что эта причина не распространяется на подобные конструкции на будущих пусках.",
+        "hyp": "文 5 : \"We need to do an in-depth analysis to make sure that this cause does not extend to similar designs on future launches\".",
+        "label_text": "this cause does not extend to "
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 1 : On the day of arrival called, clarified at what time to wait for us, gave information about the cost of transfer (1400 from the airport), we ordered a taxi (at 23:00 the price of 850 roubles), we arrived quickly, there were no traffic jams, allowed behind the barrier without any problems.",
+        "label_text": "called, clarified at what time to wait for us, gave information "
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 5 : The big-budget Ninth Legion extermination scene is directly inspired by the opening spread in the Germanic forests from Sir Ridley Scott's now benchmarked \"Gladiator,\" but trying to accuse Marshall of plagiarism is somehow completely unnerving: he works honestly and without pretence.",
+        "label_text": "The big-budget Ninth Legion extermination scene is directly inspired by the opening spread in the Germanic forests from Sir Ridley Scott's now benchmarked \"Gladiator,\""
+    },
+    {
+        "source": "原文 : Применение препарата Брейнмакс приводило к существенному улучшению показателей когнитивной деятельности (концентрация и поддержание внимания, рабочая память, зрительно-конструктивные навыки, объем и скорость переключения внимания, скорость обработки информации и исполнительные функции), снижению выраженности астенических проявлений и повышению показателей качества жизни.",
+        "hyp": "文 4 : The usage of Brainmax resulted in significant improvement of cognitive performance (concentration and maintenance of attention, working memory, visual-constructive skills, volume and speed of attention switching, speed of information processing and executive functions), reduction of asthenic manifestations and improvement of quality of life indicators.",
+        "label_text": "indicators"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 1 : The most difficult film at \"Kinotavr\" has already been selected for the Karlovy Vary competition - a director's star has been borned.",
+        "label_text": "difficult film"
+    },
+    {
+        "source": "原文 : Вопрос проработаем с учетом камер \"Безопасный регион\", - рассказал глава муниципалитета Сергей Никитенко.",
+        "hyp": "文 4 : We will work out the issue taking into account the cameras \"Safe Region\", - said the head of the municipality Sergey Nikitenko.",
+        "label_text": "We will work out the issue taking into account"
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 5 : My husband ate the smoked ribs - they were the bomb, soft, juicy, flavourful.",
+        "label_text": "they were the bomb"
+    },
+    {
+        "source": "原文 : От души рекомендую, единственная клиника где не хотят нагреть на деньги на моей памяти.",
+        "hyp": "文 5 : I heartily recommend, the only clinic in my memory  where they don't want to cheat for money ",
+        "label_text": "heartily "
+    },
+    {
+        "source": "原文 : В качестве возможных преемников называются Дэвид Иейтс, закончивший съемки саги о Гарри Поттере, и Нил Бломкамп, чей фильм «Район №9», спродюсированный Джексоном, получил номинацию на «Оскар».",
+        "hyp": "文 2 : David Yates, who finished shooting the Harry Potter saga, and Neill Blomkamp, whose film \"District 9,\" produced by Jackson, received an Oscar nomination, are mentioned as possible successors.",
+        "label_text": "David Yates, who finished shooting the Harry Potter saga, and Neill Blomkamp, whose film \"District 9,\" produced by Jackson, received an Oscar nomination, are mentioned as possible successors"
+    },
+    {
+        "source": "原文 : Матчи аравийцев тоже получались достаточно яркими: в 1/4 финала оформили ничью 1:1 и победу в серии пенальти, а в полуфинале - драматичные 3:2.",
+        "hyp": "文 2 : The Saudi Arabian's matches were also quite colourful, with a 1-1 draw and a penalty shootout win in the quarter-finals, and a dramatic 3-2 win in the semi-finals.",
+        "label_text": "colourful"
+    },
+    {
+        "source": "原文 : Разработка данных показателей в перспективе может привести к новому подходу в здравоохранении, направленному на повышение качества оказания медицинской помощи и на создание максимально комфортной среды для работников медицинской организации.",
+        "hyp": "文 5 : The development of these indicators in the future may lead to a new approach in healthcare aimed at improving the quality of medical care and creating the most comfortable environment for the employees of a medical organization.",
+        "label_text": "aimed at"
+    },
+    {
+        "source": "原文 : Связалась напрямую с мастером Александром, который объяснил все тонкости ремонта и сразу обозначил ценовые рамки.",
+        "hyp": "文 1 : I have directly contacted master Alexander , who explained all the intricacies of the repair and immediately outlined the price range.",
+        "label_text": "outlined "
+    },
+    {
+        "source": "原文 : Завершить прогулку нужно пятиминутной ходьбой в спокойном темпе и несколькими упражнениями на растяжку.",
+        "hyp": "文 3 : End your walk with a five-minute walk at a relaxed pace and a few stretching exercises.",
+        "label_text": "walk with a five-minute walk"
+    }
+]

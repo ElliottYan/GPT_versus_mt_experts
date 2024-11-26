@@ -1,0 +1,102 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 5 : Хм, ну не знаю, может быть, все дело в том, что мы РАЗНЫЕ ЛЮДИ с РАЗНОЙ ФИГУРОЙ???",
+        "label_text": "РАЗНОЙ ФИГУРОЙ"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 1 : Я думаю, что это команда с тотемом роста с 2 танками, заклинателем оглушения или нет, танковым бойцом и керри, который может делать все в одиночку, если захочет.",
+        "label_text": "захочет"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 1 : Некий Ламбет поднял флаг, и адмиралу Эйскью пришлось сдаться Тромпу на \"Гауде\" - это первый и последний раз в истории, когда британский адмирал столь высокого ранга был захвачен в плен в море.",
+        "label_text": "Гауде"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 1 : Некий Ламбет поднял флаг, и адмиралу Эйскью пришлось сдаться Тромпу на \"Гауде\" - это первый и последний раз в истории, когда британский адмирал столь высокого ранга был захвачен в плен в море.",
+        "label_text": "Гауде"
+    },
+    {
+        "source": "原文 : It's great at making coffee and keeping it hot, but there are too many other issues with it to invest in it at the current price.",
+        "hyp": "文 1 : Он идеально подходит для приготовления кофе и поддержания его горячим, но также присутствует немало других проблем, в результате чего инвестиции в данный продукт по текущей цене не рентабельны.",
+        "label_text": "подходит для приготовления"
+    },
+    {
+        "source": "原文 : She wud speak in Thai to me YET I DONT KNOW ANY THAI.",
+        "hyp": "文 2 : Она будет говорить со мной по-тайски, НО Я НЕ ЗНАЮ НИ СЛОВА ПО-ТАЙСКИ.",
+        "label_text": "будет говорить"
+    },
+    {
+        "source": "原文 : She wud speak in Thai to me YET I DONT KNOW ANY THAI.",
+        "hyp": "文 2 : Она будет говорить со мной по-тайски, НО Я НЕ ЗНАЮ НИ СЛОВА ПО-ТАЙСКИ.",
+        "label_text": "будет говорить"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 2 : Я могу определить, где был твой человек и что он делает по вкусу, когда он вернется?",
+        "label_text": "делает"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 2 : Я могу определить, где был твой человек и что он делает по вкусу, когда он вернется?",
+        "label_text": "он вернется"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 2 : Я могу определить, где был твой человек и что он делает по вкусу, когда он вернется?",
+        "label_text": "делает"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 2 : Я могу определить, где был твой человек и что он делает по вкусу, когда он вернется?",
+        "label_text": "он вернется"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 1 : 1:49 - это просто типично для моего тренера “ты должен быть хорош, но это не так, поэтому я буду ставить перед тобой нереалистичные цели”, или я правда должен уложиться 1:49?",
+        "label_text": "уложиться 1:49"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 4 : Я все еще учусь, и игры - моя мечта... но если на чистоту… эти цены нагоняют на меня депрессию и безнадежность от жизни…",
+        "label_text": "на чистоту"
+    },
+    {
+        "source": "原文 : Luckily the flare is a bit higher and not right where I make contact when sitting but it still hurts like a muther***",
+        "hyp": "文 4 : К счастью, вспышка немного выше и не в том месте, где я касаюсь, когда сижу, но все равно невыносимо больно.***",
+        "label_text": "вспышка немного выше"
+    },
+    {
+        "source": "原文 : Arsenal will be top of the league if they win.",
+        "hyp": "文 2 : Арсенал станет лидером лиги, если выиграет.",
+        "label_text": "выиграет"
+    },
+    {
+        "source": "原文 : As is common with despotic rule the whole period suffered from murders, suicides, corruption-material and moral- a record of which has been prepared by Kalhan Pandit who followed in the 12th century in the reign of Jayasinha.",
+        "hyp": "文 1 : Как и в случае с деспотическим правлением, все эти периоды были отмечены убийствами, самоубийствами, а также коррупцией - материальной и моральной - отчет о которых был подготовлен Калханом Пандитом в 12 веке во времена правления Джаясинхи.",
+        "label_text": "коррупцией - материальной и моральной"
+    },
+    {
+        "source": "原文 : Yesterday when I was at work, she messaged me saying something like “how’s your work doing?”, and I kind of replied to her with a cold tone saying “I’m at work, talk to you later”, and",
+        "hyp": "文 5 : Вчера, когда я был на работе, она написала мне что-то вроде “как дела работе?”, и я ответил ей  как бы холодным тоном, сказав: “Я на работе, поговорим позже”, и",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : It’s been now 4 or 5 hours and I saw him now drink and eat a little bit.",
+        "hyp": "文 1 : Прошло уже 4 или 5 часов, и я видел, как он немного выпил и поел.",
+        "label_text": " видел"
+    },
+    {
+        "source": "原文 : Several sites reported highest on record daily rainfall amounts including Mandora (281.0 mm on 6th) and Mount Narryer (152.0 mm on 10th).",
+        "hyp": "文 5 : Несколько регионов сообщили о самом высоком за всю историю количестве ежедневных осадков, включая Мандору (281,0 мм 6-го числа) и гору Нарриер (152,0 мм 10-го числа).",
+        "label_text": "Несколько регионов"
+    },
+    {
+        "source": "原文 : I don't know if you have responded, I had not seen anyone providing any- any updates to the document.",
+        "hyp": "文 1 : Я не знаю, ответили ли вы, однако я не видел, чтобы кто-либо предоставлял какие-либо обновления к документу.",
+        "label_text": " "
+    }
+]

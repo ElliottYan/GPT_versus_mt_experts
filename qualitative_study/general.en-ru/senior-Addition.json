@@ -1,0 +1,152 @@
+[
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 5 : Один человек из сервера продавал этот набор за 100 тысяч, и я такой \"Черта с два, он не стоит 100 тысяч\", понимаешь, бро.",
+        "label_text": "понимаешь,"
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 5 : Один человек из сервера продавал этот набор за 100 тысяч, и я такой \"Черта с два, он не стоит 100 тысяч\", понимаешь, бро.",
+        "label_text": "понимаешь, "
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 4 : Стоит отметить, что только два сегмента генома вируса гриппа А (IAV)  - NS и NP - не подверглись рекомбинации и эволюционировали в процессе генетического дрейфа, начавшегося вместе с пандемией 1918 года по настоящее время.",
+        "label_text": " вместе "
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 4 : Стоит отметить, что только два сегмента генома вируса гриппа А (IAV)  - NS и NP - не подверглись рекомбинации и эволюционировали в процессе генетического дрейфа, начавшегося вместе с пандемией 1918 года по настоящее время.",
+        "label_text": " вируса"
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 4 : Стоит отметить, что только два сегмента генома вируса гриппа А (IAV)  - NS и NP - не подверглись рекомбинации и эволюционировали в процессе генетического дрейфа, начавшегося вместе с пандемией 1918 года по настоящее время.",
+        "label_text": " вместе "
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 1 : помоги, лол. Нет, подожди, я могу просто загуглить это, ладно проехали, лол.",
+        "label_text": " Нет"
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 5 : К тому же, я могу еще проверить до следующей встречи, пытался ли я,",
+        "label_text": "К тому же, "
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 5 : К тому же, я могу еще проверить до следующей встречи, пытался ли я,",
+        "label_text": "К тому же, "
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 5 : Они условились, что тот, кто первым сумеет заставить путника снять плащ, будет считаться сильнее остальных.",
+        "label_text": "сумеет"
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 5 : Они условились, что тот, кто первым сумеет заставить путника снять плащ, будет считаться сильнее остальных.",
+        "label_text": "сумеет"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 2 : Друзья и товарищи, позвольте мне закончить речь призывом направить энергию всех вас, жители Зимбабве, на ускоренное развитие нашей страны.",
+        "label_text": "закончить речь"
+    },
+    {
+        "source": "原文 : Comrades and Friends let me conclude by urging all of you Zimbabweans to direct your energies to the accelerated development of our country.",
+        "hyp": "文 2 : Друзья и товарищи, позвольте мне закончить речь призывом направить энергию всех вас, жители Зимбабве, на ускоренное развитие нашей страны.",
+        "label_text": "закончить речь"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 2 : Быть тебе настоящим другом со всеми вытекающими \"брать-давать\" --- ты можешь опустить ее соответственно (например, с друга до просто \"кое-кого, кого я знаю\").",
+        "label_text": "кое-кого,"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 2 : Быть тебе настоящим другом со всеми вытекающими \"брать-давать\" --- ты можешь опустить ее соответственно (например, с друга до просто \"кое-кого, кого я знаю\").",
+        "label_text": "кое-кого,"
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 1 : Спасибо, желаю хорошего утра и хорошей ночи и хорошего вечера, шоу Трумана, хаха.",
+        "label_text": "желаю"
+    },
+    {
+        "source": "原文 : Thank you, have a good morning and good night and good evening Truman show, haha.",
+        "hyp": "文 1 : Спасибо, желаю хорошего утра и хорошей ночи и хорошего вечера, шоу Трумана, хаха.",
+        "label_text": "желаю"
+    },
+    {
+        "source": "原文 : Charles was expected to attend a showing of the completed film, but died before it opened.",
+        "hyp": "文 1 : Ожидалось, что Чарльз посетит показ завершенного фильма, но он умер до его открытия.",
+        "label_text": "Ожидалось, что"
+    },
+    {
+        "source": "原文 : Get some bumper stickers that are anti-Trump and plaster them all over.",
+        "hyp": "文 3 : Получите несколько антитрамповских наклеек на бампер и заштукатурьте ими все вокруг.",
+        "label_text": "несколько"
+    },
+    {
+        "source": "原文 : Get some bumper stickers that are anti-Trump and plaster them all over.",
+        "hyp": "文 3 : Получите несколько антитрамповских наклеек на бампер и заштукатурьте ими все вокруг.",
+        "label_text": "несколько"
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 3 : Это просто белый экран или это вышло время загрузки, или страница перестала отвечать на запрос??!",
+        "label_text": "на запрос"
+    },
+    {
+        "source": "原文 : Its just a white screen or it times out loading it, or the page becomes unresponsive??!",
+        "hyp": "文 3 : Это просто белый экран или это вышло время загрузки, или страница перестала отвечать на запрос??!",
+        "label_text": "на запрос"
+    },
+    {
+        "source": "原文 : Is poignant with today's pair of demi-gods holding world political position.",
+        "hyp": "文 4 : Пронизан сегодняшней парочкой полубогов, занимающих мировые политические позиции.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Is poignant with today's pair of demi-gods holding world political position.",
+        "hyp": "文 4 : Пронизан сегодняшней парочкой полубогов, занимающих мировые политические позиции.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : But it's more difficult to find people to follow and build up your timeline.",
+        "hyp": "文 1 : Но еще труднее найти людей, которые следовали бы за вами, и выстроить свой график.",
+        "label_text": "еще"
+    },
+    {
+        "source": "原文 : Cleaning pipes maintenance is the most important but wearing work to operate the Type 93 torpedo.",
+        "hyp": "文 4 : Техническое обслуживание чистящих труб - самое важное, но необходимо правильно одеваться, чтобы работать с торпедой Типа 93.",
+        "label_text": "Техническое"
+    },
+    {
+        "source": "原文 : Derry midfielder Adam Reilly closes down Lee Grace at the Brandywell",
+        "hyp": "文 4 : Полузащитник \"Дерри сити\" Адам О'Райли закрывает Ли Грейс на стадионе Brandywell",
+        "label_text": "на стадионе"
+    },
+    {
+        "source": "原文 : Yesterday when I was at work, she messaged me saying something like “how’s your work doing?”, and I kind of replied to her with a cold tone saying “I’m at work, talk to you later”, and",
+        "hyp": "文 1 : Вчера, когда я был на работе, она написала мне сообщение, в котором сказала что-то вроде \"как дела на работе?\", и я ответил ей холодным тоном что-то вроде \" я на работе, позже поговорим\", и",
+        "label_text": "что-то вроде"
+    },
+    {
+        "source": "原文 : What is it with those that follow Obama, if Romney would of done it too, therefore it is OK for Obama to do it?",
+        "hyp": "文 3 : Да что такое с теми, кто следует Обаме, если Ромни тоже сделал бы это, тем самым, это и для Обамы станет нормальным?",
+        "label_text": "Да"
+    },
+    {
+        "source": "原文 : U srsly don't know what to do and whom to trust anymore.",
+        "hyp": "文 3 : Теперь ты уже всерьез не знаешь, что делать и кому доверять.",
+        "label_text": "Теперь"
+    },
+    {
+        "source": "原文 : Finally they seem to want to engage w/ me and basically tell me they’re going to an event and they’d hope to see me there, which they reaffirm the next day and then day of.",
+        "hyp": "文 3 : Наконец, они, по всей видимости, захотели общаться со мной и в целом сказать мне, что идут на мероприятие и хотели бы видеть меня там, что они и подтвердили на следующий день и потом в день самого мероприятия.",
+        "label_text": "самого мероприятия"
+    }
+]

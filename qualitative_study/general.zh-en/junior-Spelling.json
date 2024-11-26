@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : “灵根还受了创伤！” 凌寒眉头一皱，凌重宽那一击对他的灵根都造成了伤害，而灵根受创，这是一件非常麻烦的事情，普通的医石无效。",
+        "hyp": "文 5 : En, the Spirit Base is damaged! Ling Han frowned. Ling Chongkuan's attack had caused damage to Ling Han's Spirit Base. This was troublesome for Ling Han, as normal medicines would be ineffective.",
+        "label_text": "En"
+    },
+    {
+        "source": "原文 : 《新修白水路记》摩崖，位于中国甘肃省徽县大河店乡王家河村，是一个全国重点文物保护单位，类型为石窟寺及石刻。",
+        "hyp": "文 2 : The Inscriptions of Construction of Baishui Road on cliffs are located in Wangjiahe Village, Daheidian Township, Huixian County, Gansu Province, China. They have been included in the list of key cultural heritage sites under state protection, and are categorized as cave temples and stone carvings.",
+        "label_text": "I"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "source": "原文 : 但是这种地址空间可能会增加互联网上路由器的负担，因为这种地址不一定能有效地在无类别域间路由系统中进行聚合。",
+        "hyp": "文 2 : However, this address space may increase the burden of routers on the Internet, as this address may not be able to efficiently aggregate in a classless interdomain routing system.",
+        "label_text": "interdomain"
+    },
+    {
+        "source": "原文 : 好在天无绝人之路，洪大力正恨不得自杀的功夫，系统的金属音再次传来：“说明：宿主每败家十万元（人民币），即可获得一个属性点。",
+        "hyp": "文 1 : Well, on the road to nowhere, Hong Da-li is hating the kung fu of suicide, the metal sound of the system is heard again: <unk> explains: for every 100,000 yuan (RMB) lost by the host, you can get an attribute point <unk>",
+        "label_text": "Da-li"
+    },
+    {
+        "source": "原文 : 2014年10月2日，孙延在代表韩国出战在韩国仁川举行的仁川亚运艺术体操女子个人全能项目，她在决赛的圈操、带操和棒操分别取得18.216分、18.083分和18.100分的成绩，尽管在最后一项的球操环节出现失误，仅取得17.300分，她仍然以总分71.699分荣获金牌，成为首位达到此成绩的韩国选手。",
+        "hyp": "文 3 : In the women's individual all-around event at the 2014 Asian Games in Incheon, South Korea, Sun won the gold medal with a total score of 71.69, becoming the first South Korean athlete to achieve this result, despite making a mistake in the last round.",
+        "label_text": "71.69"
+    },
+    {
+        "source": "原文 : 根据2000年美国人口普查，埃尔森特罗共有37,835人，其中白人占46.86%、亚裔美国人占3.5%、非裔美国人占3.16%。",
+        "hyp": "文 4 : According to the 2000 U.S. Census, Elsentro has a total population of 37,835, of which 46.86% are white, 3.5% are Asian-American, and 3.16% are African-American.",
+        "label_text": "Asian-American"
+    },
+    {
+        "source": "原文 : 根据2000年美国人口普查，埃尔森特罗共有37,835人，其中白人占46.86%、亚裔美国人占3.5%、非裔美国人占3.16%。",
+        "hyp": "文 4 : According to the 2000 U.S. Census, Elsentro has a total population of 37,835, of which 46.86% are white, 3.5% are Asian-American, and 3.16% are African-American.",
+        "label_text": "African-American"
+    },
+    {
+        "source": "原文 : 二十一世纪，东海市高级私人医院院长办公室。",
+        "hyp": "文 3 : In the 21st century, the office of the Dean of the Senior Private Hospital in Donghai City.",
+        "label_text": "office"
+    }
+]

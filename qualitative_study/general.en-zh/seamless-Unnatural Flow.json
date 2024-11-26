@@ -1,0 +1,632 @@
+[
+    {
+        "source": "原文 : And I did not know what to say at first but then something came so mind just say \" but I didnt.\"",
+        "hyp": "文 5 : 我一开始不知道该说什么,但后来有什么事情发生了,所以我想说\"但我没有\".",
+        "label_text": "所以我想说"
+    },
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 5 : 我已经列出了我能想到的所有问题 (有很多,好笑), 所以如果有人能花时间回答它们,",
+        "label_text": "所以"
+    },
+    {
+        "source": "原文 : I’ve come up with a list of all the questions I could think about (there’s kind of a lot, lol), so I would really appreciate it if someone would take the time to answer them.",
+        "hyp": "文 5 : 我已经列出了我能想到的所有问题 (有很多,好笑), 所以如果有人能花时间回答它们,",
+        "label_text": "所以"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为"
+    },
+    {
+        "source": "原文 : In response to a survey conducted by TfL, which showed that 15% of women using public transport in London had been the subject of some form of unwanted sexual behaviour but that 90% of incidents went unreported, the Safer Transport Command - in conjunction with the BTP, City of London Police, and TfL - launched Project Guardian, which aimed to reduce sexual offences and increase reporting.",
+        "hyp": "文 5 : 伦敦公共交通运输局(TfL)的一项调查显示,在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为,但90%的事件没有被报告,安全交通司令部与伦敦城市警察局 (BTP) 和伦敦交通运输局 (TfL) 共同启动了\"守护者项目\" (Project Guardian),旨在减少性犯罪和增加报告.",
+        "label_text": "在伦敦使用公共交通运输的15%的妇女曾受到某种形式的不必要的性行为"
+    },
+    {
+        "source": "原文 : I will always be the one to give in so that the fight wont continue anymore",
+        "hyp": "文 1 : 我总是会屈服的人,这样战斗就不会再继续了 ⁇",
+        "label_text": "战斗"
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 2 : 经过大量的研究, 我开始使用这个产品多年前.",
+        "label_text": "我开始使用这个产品多年前"
+    },
+    {
+        "source": "原文 : After a lot of research, I started using this product many years ago.",
+        "hyp": "文 2 : 经过大量的研究, 我开始使用这个产品多年前.",
+        "label_text": "我开始使用这个产品多年前"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "这些单词"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "聊天"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "支付服务器"
+    },
+    {
+        "source": "原文 : Anyway, I type those words into the chat (“I will not cheat on this game!”) and it tells me to pay the server and turn off Adblock.",
+        "hyp": "文 5 : 无论如何,我将这些单词输入聊天 (<unk>我不会欺骗这个游戏!<unk>) 它告诉我支付服务器并关闭广告屏蔽.",
+        "label_text": "支付服务器"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 1 : 我不是说他们应该为变成女孩而感到羞愧, 也不是说我对一个人是女孩的刻板印象,",
+        "label_text": "我对一个人是女孩的刻板印象"
+    },
+    {
+        "source": "原文 : I m not saying that they should be ashamed to be turned into girls or that I m being stereotypical towards a person being a girl but I am saying that they wont like to do it bcoz they r humans with their own choices and not agreeing to be a girl isnt making them a women anti.",
+        "hyp": "文 1 : 我不是说他们应该为变成女孩而感到羞愧, 也不是说我对一个人是女孩的刻板印象,",
+        "label_text": "我对一个人是女孩的刻板印象"
+    },
+    {
+        "source": "原文 : user765123: No, I just had the “is now playing” thing show up.",
+        "hyp": "文 3 : 用户765123:不,我刚刚出现了\"现在正在播放\"的东西.",
+        "label_text": "我刚刚出现了\"现在正在播放\"的东西"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "在说新加坡英语的方言中"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "在说新加坡英语的方言中"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "最后的辅音集群减少"
+    },
+    {
+        "source": "原文 : For example, final consonant cluster reduction is common among those speaking dialects of Singapore English, and they may use cluster reduction strategies known as metathesis, glottalization, and deletion.",
+        "hyp": "文 3 : 例如,在说新加坡英语的方言中,最后的辅音集群减少是常见的,他们可能使用称为 metathesis ⁇ glottalization 和 deletion 的集群减少策略 ⁇",
+        "label_text": "集群减少策略"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 3 : 艾布隐藏着他的悲伤,很容易笑,而<unk>姆不怕哭泣,但不太喜欢粗鲁的幽默.",
+        "label_text": "很容易笑"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 3 : 艾布隐藏着他的悲伤,很容易笑,而<unk>姆不怕哭泣,但不太喜欢粗鲁的幽默.",
+        "label_text": "但不太喜欢粗鲁的幽默"
+    },
+    {
+        "source": "原文 : Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.",
+        "hyp": "文 3 : 艾布隐藏着他的悲伤,很容易笑,而<unk>姆不怕哭泣,但不太喜欢粗鲁的幽默.",
+        "label_text": "很容易笑"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 4 : 所以,这可能会成为罕见词的第二个东西的空部分 -",
+        "label_text": "第二个东西"
+    },
+    {
+        "source": "原文 : Waziri added that Djehuty was supervisor of the state treasury and overviewed works of craftsmen and artists during the reign of Queen Hatshepsut.",
+        "hyp": "文 4 : 瓦齐里补充说,Djehuty 是国家财政部的监督员,并在哈切普苏特女王统治期间监督了工匠和艺术家的作品.",
+        "label_text": "监督了工匠和艺术家的作品"
+    },
+    {
+        "source": "原文 : Honestly, most of the posts or memes here are either from people who read the novels or the manga.",
+        "hyp": "文 4 : 诚实地说,这里的大部分帖子或模因都是读小说或漫画的人写的.",
+        "label_text": "诚实地说"
+    },
+    {
+        "source": "原文 : Honestly, most of the posts or memes here are either from people who read the novels or the manga.",
+        "hyp": "文 4 : 诚实地说,这里的大部分帖子或模因都是读小说或漫画的人写的.",
+        "label_text": "诚实地说"
+    },
+    {
+        "source": "原文 : Honestly, most of the posts or memes here are either from people who read the novels or the manga.",
+        "hyp": "文 4 : 诚实地说,这里的大部分帖子或模因都是读小说或漫画的人写的.",
+        "label_text": "这里的"
+    },
+    {
+        "source": "原文 : I’m a good listener. A lot of people view me as really cute or innocent.",
+        "hyp": "文 1 : 我是一个好听众.很多人认为我真的很可爱或无辜.",
+        "label_text": "好听众"
+    },
+    {
+        "source": "原文 : I’m a good listener. A lot of people view me as really cute or innocent.",
+        "hyp": "文 1 : 我是一个好听众.很多人认为我真的很可爱或无辜.",
+        "label_text": "听众"
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 3 : 在最基本的层面上,电子负率取决于核电荷 (原子有越多的质子,它对电子的\"拉动\"越大) 和原子外<unk>中的其他电子的数量和位置 (原子有越多的电子,等价电子离核越远,因此,它们会经历的正电荷越少 - - 无论是因为它们与核的距离增加,还是因为较低能量核心轨道中的其他电子会保护等价电子免受正电荷的核.",
+        "label_text": "\"拉动\""
+    },
+    {
+        "source": "原文 : On the most basic level, electronegativity is determined by factors like the nuclear charge (the more protons an atom has, the more \"pull\" it will have on electrons) and the number and location of other electrons in the atomic shells (the more electrons an atom has, the farther from the nucleus the valence electrons will be, and as a result, the less positive charge they will experience - both because of their increased distance from the nucleus and because the other electrons in the lower energy core orbitals will act to shield the valence electrons from the positively charged nucleus).",
+        "hyp": "文 3 : 在最基本的层面上,电子负率取决于核电荷 (原子有越多的质子,它对电子的\"拉动\"越大) 和原子外<unk>中的其他电子的数量和位置 (原子有越多的电子,等价电子离核越远,因此,它们会经历的正电荷越少 - - 无论是因为它们与核的距离增加,还是因为较低能量核心轨道中的其他电子会保护等价电子免受正电荷的核.",
+        "label_text": " 无论"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 1 : 嗨,伙计们,我一直很难交朋友,有时觉得自己有点冷漠和<unk>尬(癌症上升,你知道的),但一旦你过去了,你会很冷静.",
+        "label_text": "我一直很难交朋友"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 1 : 嗨,伙计们,我一直很难交朋友,有时觉得自己有点冷漠和<unk>尬(癌症上升,你知道的),但一旦你过去了,你会很冷静.",
+        "label_text": "你知道的"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 1 : 嗨,伙计们,我一直很难交朋友,有时觉得自己有点冷漠和<unk>尬(癌症上升,你知道的),但一旦你过去了,你会很冷静.",
+        "label_text": "但一旦你过去了"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 1 : 嗨,伙计们,我一直很难交朋友,有时觉得自己有点冷漠和<unk>尬(癌症上升,你知道的),但一旦你过去了,你会很冷静.",
+        "label_text": "你会很冷静"
+    },
+    {
+        "source": "原文 : Hi guys, I’ve always had a lot of trouble making friends and consider myself kind of standoffish and awkward at times (that cancer rising, you know) but pretty chill once you get past that.",
+        "hyp": "文 1 : 嗨,伙计们,我一直很难交朋友,有时觉得自己有点冷漠和<unk>尬(癌症上升,你知道的),但一旦你过去了,你会很冷静.",
+        "label_text": "我一直很难交朋友"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 3 : 单元的精度和稳定性对于我的应用程序来说看起来非常好,然而我无法通过蓝牙连接到iPhone或iPad (尝试了每个单元的几个).",
+        "label_text": "看起来非常好"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 3 : 单元的精度和稳定性对于我的应用程序来说看起来非常好,然而我无法通过蓝牙连接到iPhone或iPad (尝试了每个单元的几个).",
+        "label_text": "看起来非常好"
+    },
+    {
+        "source": "原文 : The accuracy and stability of the unit look very good for my application, however I was not able to connect to either an iPhone or iPad (tried several of each) via bluetooth.",
+        "hyp": "文 3 : 单元的精度和稳定性对于我的应用程序来说看起来非常好,然而我无法通过蓝牙连接到iPhone或iPad (尝试了每个单元的几个).",
+        "label_text": "尝试了每个单元的几个"
+    },
+    {
+        "source": "原文 : [PERSON9] is already starting the data collection, but I would like to see the benefit of that domain adaptation in in in the [PROJECT5] set up.",
+        "hyp": "文 1 : [PERSON9] 已经开始收集数据,但我希望在 [PROJECT5] 设置中看到该域的适应的好处.",
+        "label_text": "看到该域的适应的好处"
+    },
+    {
+        "source": "原文 : How to tell whether she’s mad at me or just annoyed, because right now I’m really confused?",
+        "hyp": "文 4 : 她是否对我生气,还是只是生气,因为现在我真的很困惑?",
+        "label_text": "因为"
+    },
+    {
+        "source": "原文 : While still living in the north King Mangrai was visited by some merchants from the Mon Kingdom, and hearing of the wealth of Lamphun he determined to conquer it, even against the advice of his councillors.",
+        "hyp": "文 1 : 在北方生活期间,曼格莱国王受到了蒙王国的商人来访,他听说了兰<unk>的财富,决定征服它,即使违背了他的顾问的建议.",
+        "label_text": "受到了蒙王国的商人来访"
+    },
+    {
+        "source": "原文 : While still living in the north King Mangrai was visited by some merchants from the Mon Kingdom, and hearing of the wealth of Lamphun he determined to conquer it, even against the advice of his councillors.",
+        "hyp": "文 1 : 在北方生活期间,曼格莱国王受到了蒙王国的商人来访,他听说了兰<unk>的财富,决定征服它,即使违背了他的顾问的建议.",
+        "label_text": "顾问"
+    },
+    {
+        "source": "原文 : While still living in the north King Mangrai was visited by some merchants from the Mon Kingdom, and hearing of the wealth of Lamphun he determined to conquer it, even against the advice of his councillors.",
+        "hyp": "文 1 : 在北方生活期间,曼格莱国王受到了蒙王国的商人来访,他听说了兰<unk>的财富,决定征服它,即使违背了他的顾问的建议.",
+        "label_text": "受到了蒙王国的商人来访"
+    },
+    {
+        "source": "原文 : He doesnt like to play much infact he seems kinda scared too.",
+        "hyp": "文 4 : 他不喜欢玩很多, 事实上他似乎有点害怕.",
+        "label_text": "他不喜欢玩很多"
+    },
+    {
+        "source": "原文 : He doesnt like to play much infact he seems kinda scared too.",
+        "hyp": "文 4 : 他不喜欢玩很多, 事实上他似乎有点害怕.",
+        "label_text": "他不喜欢玩很多"
+    },
+    {
+        "source": "原文 : Dikshitar was a master of tala and is the only composer to have kritis in all the seven basic talas of the Carnatic scheme.",
+        "hyp": "文 4 : 迪克希塔尔是塔拉的大师,也是唯一一个在卡尔纳特语的七个基本塔拉中拥有克里蒂斯的作曲家.",
+        "label_text": "唯一一个在卡尔纳特语的七个基本塔拉中拥有克里蒂斯的作曲家."
+    },
+    {
+        "source": "原文 : It’s just a white screen or it times out loading it, or the page becomes unresponsive!",
+        "hyp": "文 5 : 这只是一个白色的屏幕,或者它加载的时间过了,或者页面不再响应!",
+        "label_text": "加载的时间过了"
+    },
+    {
+        "source": "原文 : It’s just a white screen or it times out loading it, or the page becomes unresponsive!",
+        "hyp": "文 5 : 这只是一个白色的屏幕,或者它加载的时间过了,或者页面不再响应!",
+        "label_text": "页面不再响应"
+    },
+    {
+        "source": "原文 : It’s just a white screen or it times out loading it, or the page becomes unresponsive!",
+        "hyp": "文 5 : 这只是一个白色的屏幕,或者它加载的时间过了,或者页面不再响应!",
+        "label_text": "加载的时间过了"
+    },
+    {
+        "source": "原文 : It’s just a white screen or it times out loading it, or the page becomes unresponsive!",
+        "hyp": "文 5 : 这只是一个白色的屏幕,或者它加载的时间过了,或者页面不再响应!",
+        "label_text": "页面不再响应"
+    },
+    {
+        "source": "原文 : In June 2007, Nardiello turned down a new contract at Barnsley, and shunned interest from Norwich City to sign a two-year contract with fellow Championship side Queens Park Rangers, in a move that was criticised by Barnsley's then-chairman Gordon Shepherd.",
+        "hyp": "文 1 : 在2007年6月,纳迪埃洛拒绝了巴恩斯利的新合同,并避开了诺维奇城的兴趣,与冠军队队友皇后公园流浪者签下了为期两年的合同,这一举动受到巴恩斯利当时的董事长戈登·谢珀德的批评.",
+        "label_text": "避开了诺维奇城的兴趣"
+    },
+    {
+        "source": "原文 : It is the bar with the team composition and the status of each character that is used to follow “report team” (like in the actual World Cup).",
+        "hyp": "文 5 : 这是带有球队组成和每个角色的状态的<unk>杆,用于跟踪\"报告团队\" (就像实际的世界杯一样).",
+        "label_text": "跟踪"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 1 : 在之前与RED Distribution合作之后,2016年3月,Deathwish与Warner Music Group的独立发行唱片公司 Alternative Distribution Alliance (ADA) 签署了全球协议,该公司还与其他朋克唱片公司合作,包括Epitaph Records,Rise Records和Run for Cover Records.",
+        "label_text": "在之前与RED Distribution合作之后"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 1 : 在之前与RED Distribution合作之后,2016年3月,Deathwish与Warner Music Group的独立发行唱片公司 Alternative Distribution Alliance (ADA) 签署了全球协议,该公司还与其他朋克唱片公司合作,包括Epitaph Records,Rise Records和Run for Cover Records.",
+        "label_text": "在之前与RED Distribution合作之后"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 1 : 在之前与RED Distribution合作之后,2016年3月,Deathwish与Warner Music Group的独立发行唱片公司 Alternative Distribution Alliance (ADA) 签署了全球协议,该公司还与其他朋克唱片公司合作,包括Epitaph Records,Rise Records和Run for Cover Records.",
+        "label_text": "全球协议"
+    },
+    {
+        "source": "原文 : After having previously worked with RED Distribution, in March 2016, Deathwish signed a global deal with Alternative Distribution Alliance (ADA), an independent distribution label under Warner Music Group that has also partnered with other punk labels including Epitaph Records, Rise Records, and Run for Cover Records.",
+        "hyp": "文 1 : 在之前与RED Distribution合作之后,2016年3月,Deathwish与Warner Music Group的独立发行唱片公司 Alternative Distribution Alliance (ADA) 签署了全球协议,该公司还与其他朋克唱片公司合作,包括Epitaph Records,Rise Records和Run for Cover Records.",
+        "label_text": "该公司"
+    },
+    {
+        "source": "原文 : Hi guys, I was drinking with my friends from the US and my boyfriend and everyone’s fallen asleep, and I want to play some truth or dare or drink, so if you have Discord or Kik, just message me, owo",
+        "hyp": "文 3 : 大家好,我和来自美国的朋友和我的男朋友一起喝酒,每个人都睡着了,我想玩一些真相或挑战或喝酒,所以如果你有Discord或Kik,",
+        "label_text": "每个人"
+    },
+    {
+        "source": "原文 : Other than that I’ve made this my new school bag for college.",
+        "hyp": "文 1 : 除此之外,我还为大学制作了我的新学袋 ⁇",
+        "label_text": "新学袋"
+    },
+    {
+        "source": "原文 : Do u pick up insects and spiders with your bare hands?",
+        "hyp": "文 1 : 你用光手抓住昆虫和蜘蛛吗?",
+        "label_text": "用光手抓住"
+    },
+    {
+        "source": "原文 : Do u pick up insects and spiders with your bare hands?",
+        "hyp": "文 1 : 你用光手抓住昆虫和蜘蛛吗?",
+        "label_text": "用光手抓住"
+    },
+    {
+        "source": "原文 : Basically, he was very disappointed in me, and actually took time to convince her that I didn’t feel like telling her, because it’s private to me... until today.",
+        "hyp": "文 3 : 基本上,他对我感到非常失望, 实际上花了很长时间来说服她,",
+        "label_text": " 基本上"
+    },
+    {
+        "source": "原文 : Basically, he was very disappointed in me, and actually took time to convince her that I didn’t feel like telling her, because it’s private to me... until today.",
+        "hyp": "文 3 : 基本上,他对我感到非常失望, 实际上花了很长时间来说服她,",
+        "label_text": "实际上花了很长时间来说服她"
+    },
+    {
+        "source": "原文 : When the plate of which it was a part subducted under another plate, the terrane failed to subduct, detached from its transporting plate, and accreted onto the overriding plate.",
+        "hyp": "文 1 : 当它组成的板块在另一个板块下<unk>下时,地板未能<unk>下,从运输板块中脱离,并<unk>积到覆盖板块上.",
+        "label_text": "当它组成的板块在另一个板块下<unk>下时"
+    },
+    {
+        "source": "原文 : Did the motherfucker just kill himself in shame or what, he simply died all of the sudden?",
+        "hyp": "文 5 : 那个混蛋因为羞耻而自杀了,还是他突然死了?",
+        "label_text": "还是他突然死了"
+    },
+    {
+        "source": "原文 : It’s only been a few hours and she feels very sleepy, but when we pet her she sounds like a running car motor.",
+        "hyp": "文 1 : 这仅仅是几个小时, 她觉得很睡觉, 但当我们抚摸她她听起来像一个运行的汽车发动机.",
+        "label_text": "这仅仅是几个小时"
+    },
+    {
+        "source": "原文 : In \"The Ladykillers\" (1955) a gang of criminals rent a room from the elderly Mrs Wilberforce while they're pretending to be a string quintet looking for a space to practice.",
+        "hyp": "文 3 : 在\"The Ladykillers\" (1955) 中,一帮罪犯从老年人威尔伯福斯夫人那里租了一间房间,",
+        "label_text": "老年人威尔伯福斯夫人"
+    },
+    {
+        "source": "原文 : I’ve still 2 walls left unfinished and have spent the last 45 minutes picking up wallpaper from everything.",
+        "hyp": "文 3 : 我还留下了两个未完成的墙壁, 在过去的45分钟里,",
+        "label_text": "我还留下了两个未完成的墙壁, 在过去的45分钟里"
+    },
+    {
+        "source": "原文 : I am so tired of the headlines claiming that \"Remote work is dead.\" or that \"Remote work was a failed experiment.\"",
+        "hyp": "文 3 : 我厌倦了报道\"远程工作已经死亡\"或\"远程工作是一个失败的实验\"的头条新闻.",
+        "label_text": "远程工作已经死亡"
+    },
+    {
+        "source": "原文 : helo, im looking for ppl to talk to, maybe play some games or watch anime together.",
+        "hyp": "文 5 : <unk>,我正在寻找与人交谈,也许玩一些游戏或一起看动漫.",
+        "label_text": "我正在寻找与人交谈,也许玩一些游戏或一起看动漫"
+    },
+    {
+        "source": "原文 : Just to clarify, when I say “anything” I mean anything within the FM’s current power.",
+        "hyp": "文 2 : 只是为了澄清,当我说\"任何东西\"时,我的意思是FM当前功率内的任何东西.",
+        "label_text": "只是为了澄清"
+    },
+    {
+        "source": "原文 : Although most people see me as sweet, soft spoken, and quiet.",
+        "hyp": "文 3 : 虽然大多数人认为我是甜蜜的,温柔的,安静的.",
+        "label_text": "甜蜜"
+    },
+    {
+        "source": "原文 : so like, after my glow up or whatever more ppl started talkin to me ya?",
+        "hyp": "文 1 : 所以,像,在我发光之后或者任何更多的人开始跟我说话吗?",
+        "label_text": ",像,"
+    },
+    {
+        "source": "原文 : Is my dog not allowed to be nervous around other puppies?).",
+        "hyp": "文 2 : 我的狗不被允许在其他小狗身边紧张吗?",
+        "label_text": "不被允许"
+    },
+    {
+        "source": "原文 : Yet when fully charged for the first 30-60 minutes, it’s always on!",
+        "hyp": "文 3 : 然而,在第一个30到60分钟完全充电后, 它总是打开的!",
+        "label_text": "在第一个30到60分钟完全充电后"
+    },
+    {
+        "source": "原文 : Who at that pathetic, dying network was responsible for vetting the so-called \"independent voters\" in the audience?",
+        "hyp": "文 4 : 谁在那个可怜的,垂死的网络是负责审查所谓的\"独立选民\"在观众?",
+        "label_text": "网络"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 4 : 科特在近年来最著名的案件包括联邦证券和ERISA集体诉讼,由WorldCom的前员工或投资者对WorldCom的前董事和官员提出;其审计员阿瑟·安德森;和10多个出售WorldCom证券的投资银行.",
+        "label_text": "包括"
+    },
+    {
+        "source": "原文 : Among Cote's most famous cases in recent years were the federal securities and ERISA class-action lawsuits brought by former employees or investors in WorldCom against former directors and officers of WorldCom; its auditor, Arthur Andersen; and more than 10 investment banks that sold WorldCom securities.",
+        "hyp": "文 4 : 科特在近年来最著名的案件包括联邦证券和ERISA集体诉讼,由WorldCom的前员工或投资者对WorldCom的前董事和官员提出;其审计员阿瑟·安德森;和10多个出售WorldCom证券的投资银行.",
+        "label_text": "提出;其审计员阿瑟·安德森;和10多个出售WorldCom证券的投资银行."
+    },
+    {
+        "source": "原文 : This is because I made the mistake of turning things into her desk and not the bin, meaning I have like 4 or 5 assignments that I’ve done but are nowhere in the books,",
+        "hyp": "文 4 : 这是因为我犯了一个错误,把东西放在她的桌子里,而不是垃圾桶里,",
+        "label_text": "这是"
+    },
+    {
+        "source": "原文 : Reid kicked off his run for Governor of Nevada in Las Vegas on October 15, 2009, with a second event in Reno the following day as part of an effort to gain recognition in Northern Nevada.",
+        "hyp": "文 4 : 里德在2009年10月15日在拉斯维加斯开始竞选内华达州州长,第二天在里诺举行第二场比赛,作为北内华达州获得认可的努力的一部分.",
+        "label_text": "作为北内华达州获得认可的努力的一部分"
+    },
+    {
+        "source": "原文 : On 8 August 1949, the now sixty strong orchestra went to Düsseldorf for a week's visit during which they gave four concerts, which were very much appreciated by local people who came to see them.",
+        "hyp": "文 5 : 在1949年8月8日,现在六十名成员的乐团前往杜塞尔多夫进行一周的访问,在此期间他们举办了四场音乐会,受到当地观众的高度赞赏.",
+        "label_text": "现在六十名成员的乐团前往杜塞尔多夫进行一周的访问"
+    },
+    {
+        "source": "原文 : When I try to get it into the port to charge it, however, it launches right back out.",
+        "hyp": "文 2 : 然而,当我试图把它放进端口充电时, 它就会立即启动.",
+        "label_text": "放进端口充电"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 4 : 我敢打<unk>你没有打扰阅读整个数字,或注意到我放进来的字母,现在你会回去检查只有意识到没有字母.",
+        "label_text": "只有意识到没有字母"
+    },
+    {
+        "source": "原文 : I guess it was easier to break than they thought.",
+        "hyp": "文 1 : 我想打破它比他们想象的要容易.",
+        "label_text": "我想打破它比他们想象的要容易"
+    },
+    {
+        "source": "原文 : You can easily get an infinite powerlock in longer fights.",
+        "hyp": "文 3 : 在更长的战斗中,你可以很容易地获得无限的权力锁.",
+        "label_text": "在更长的战斗中"
+    },
+    {
+        "source": "原文 : If you three could meet and double check what is [PROJECT5] doing with the -",
+        "hyp": "文 3 : 如果你们三个人可以见面并检查[PROJECT5]在做什么 -",
+        "label_text": "检查"
+    },
+    {
+        "source": "原文 : TLDR: tips/support to get a 2-month baby sleeping beyond one sleep cycle in bassinet (currently replacing pacifier every hour).",
+        "hyp": "文 4 : TLDR:让2个月大的婴儿在婴儿床上睡超过一个睡眠周期的技巧/支持 (目前每小时更换一个<unk>子).",
+        "label_text": "让2个月大的婴儿在婴儿床上睡超过一个睡眠周期的技巧/支持"
+    },
+    {
+        "source": "原文 : The first boy I hung out with was really nice, but then we got high and I did very regrettable things I do not like.",
+        "hyp": "文 3 : 我和第一个男孩在一起真的很好, 但后来我们<unk>了, 我做了非常遗憾的事情,",
+        "label_text": "我做了非常遗憾的事情,"
+    },
+    {
+        "source": "原文 : Do you pick up insects and spiders with your bare hands?",
+        "hyp": "文 2 : 你用光手抓住昆虫和蜘蛛吗?",
+        "label_text": "用光手"
+    },
+    {
+        "source": "原文 : Do you pick up insects and spiders with your bare hands?",
+        "hyp": "文 2 : 你用光手抓住昆虫和蜘蛛吗?",
+        "label_text": "用光手"
+    },
+    {
+        "source": "原文 : On April 6, 1860, at a General Conference of the New Organization of the church in Amboy, Illinois, Joseph Smith III joined with the group and was sustained to follow in his father's role as President of the Church.",
+        "hyp": "文 3 : 1860年4月6日,在伊利诺伊州安博伊的新教会组织大会上,约瑟夫·史密斯三世加入了这个团体,并被支持接替他的父亲担任教会主席 ⁇",
+        "label_text": "并被支持"
+    },
+    {
+        "source": "原文 : Towards the end, my husband sends me a Facebook message saying he’s ready for her to leave (she’d been there 2 hours at this point) and then he starts passive-aggressive cleaning in front of us.",
+        "hyp": "文 4 : 在结束时,我的丈夫给我发了一条Facebook消息, 说他已经准备好让她离开了(她已经在那里两个小时了), 然后他开始在我们面前进行被动攻击的清洁.",
+        "label_text": "在结束时"
+    },
+    {
+        "source": "原文 : The mic comes with different options to adjust the volume level of the music and your voice (separately too!)",
+        "hyp": "文 5 : 麦克风有不同的选项来调整音乐和你的声音的音量水平(也单独!)",
+        "label_text": "也单独!"
+    },
+    {
+        "source": "原文 : Afaik, the concept of mini album is only around in kpop (maybe jpop?) I",
+        "hyp": "文 3 : Afaik,迷你专辑的概念只存在于kpop(也许是jpop?)中",
+        "label_text": "也许是jpop?"
+    },
+    {
+        "source": "原文 : okay so i went out with my gf to go to 7-11 and i had my hair in my face, a hoodie, and a mask and someone called me he/him.",
+        "hyp": "文 1 : 好吧,所以我和我的女朋友出去去七十一, 我有我的头发在我的脸, 一个帽子, 和一个面具和有人叫我他/他.",
+        "label_text": "有人叫我他/他."
+    },
+    {
+        "source": "原文 : I have a passport from a while ago from before transitioning, so that doesn’t have an updated name either.",
+        "hyp": "文 3 : 我有一张早在过渡前的护照,所以也没有更新的名字.",
+        "label_text": "我有一张早在过渡前的护照"
+    },
+    {
+        "source": "原文 : A nonsense mutation in one gene of an operon prevents the translation of subsequent genes in the unit.",
+        "hyp": "文 4 : 一个操作子的一个基因的无稽之谈突变阻止了该单元中的后续基因的翻译.",
+        "label_text": "翻译"
+    },
+    {
+        "source": "原文 : All of niobium's isomers decay by isomeric transition or beta decay except Nb, which has a minor electron capture branch.",
+        "hyp": "文 2 : 所有<unk>的同位素都通过同位素转换或β分解衰变,除了Nb,它有一个小电子捕获分支.",
+        "label_text": "除了Nb,它有一个小电子捕获分支"
+    },
+    {
+        "source": "原文 : I’ll keep you updated on what she says bc she only said my name in all caps and then an nvm.",
+        "hyp": "文 4 : 我会告诉你她说什么,因为她只用大写写了我的名字,",
+        "label_text": "我会告诉你她说什么,因为她只用大写写了我的名字"
+    },
+    {
+        "source": "原文 : In 2018, Lufkin's crime rate was 4,666 crimes per 100,000 persons, which was an overall decrease by 2% from 2017; 134 violent crimes and 1,403 property crimes were reported.",
+        "hyp": "文 3 : 2018年,卢夫金的犯罪率为每10万人466起犯罪,比2017年总体下降2%;报告了134起暴力犯罪和1403起财产犯罪.",
+        "label_text": "报告了134起暴力犯罪和1403起财产犯罪"
+    },
+    {
+        "source": "原文 : If elected, he would undoubtedly pardon himself to get out of prison.",
+        "hyp": "文 4 : 如果当选, 他无疑会赦免自己离开监狱.",
+        "label_text": "赦免自己离开监狱"
+    },
+    {
+        "source": "原文 : You honestly deserve to get scammed if you give a random guy on the internet like 300€ worth of fake internet points, like wtf are you doing honestly LOL",
+        "hyp": "文 5 : 如果你在互联网上给一个随机的人300欧元的假互联网积分,",
+        "label_text": "如果你在互联网上给一个随机的人300欧元的假互联网积分"
+    },
+    {
+        "source": "原文 : So I will be starting a job next week and desperately need to move down to the city its based out off, as a daily commute is impossible.",
+        "hyp": "文 3 : 所以我将在下周开始工作, 迫切需要搬到城市, 因为每天通勤是不可能的.",
+        "label_text": "因为每天通勤是不可能的"
+    },
+    {
+        "source": "原文 : However, always. Possibility that the man behind us did it.",
+        "hyp": "文 1 : 然而,总是. 可能性是我们后面的男人做到了.",
+        "label_text": "然而,总是. 可能性是我们后面的男人做到了."
+    },
+    {
+        "source": "原文 : So yeah, I think this is actual lols, she thinks it doesn’t exist.",
+        "hyp": "文 4 : 所以,是的,我认为这是真正的lol,她认为它不存在.",
+        "label_text": "所以,是的,"
+    },
+    {
+        "source": "原文 : Out of fear for their children's safety, Adam and Eve have set their glen as the boundary, preventing them from going beyond the waterfall.",
+        "hyp": "文 1 : 由于担心他们的孩子的安全, 亚当和夏娃把他们的山谷作为边界, 阻止他们超越<unk>布.",
+        "label_text": "超越"
+    },
+    {
+        "source": "原文 : In 2008, the Tuskegee Airmen were inducted into the International Air & Space Hall of Fame at the San Diego Air & Space Museum.",
+        "hyp": "文 5 : 在2008年,塔斯基吉飞行员被引入圣地亚哥航空航天博物馆的国际航空航天名人堂.",
+        "label_text": "被引入"
+    },
+    {
+        "source": "原文 : The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",
+        "hyp": "文 5 : 实验并没有创造这个读数上的事实, 而是选择进行哪些实验来控制哪些事实被发现.",
+        "label_text": "而是选择进行哪些实验来控制哪些事实被发现"
+    },
+    {
+        "source": "原文 : As the diocese that was growing and the world was changing, Bishop Ahr took part in all four sessions of the Second Vatican Council, 1962-1965, and subsequently guided implementation of the council's decrees in the diocese.",
+        "hyp": "文 3 : 随着教区的成长和世界的变化,阿赫尔主教参加了1962年至1965年第二次<unk>蒂冈公会的四次会议,并随后指导了教区执行公会的法令.",
+        "label_text": "随着教区的成长和世界的变化"
+    },
+    {
+        "source": "原文 : I’m short, so if my classes are far, I might as well rollerskate my way through campus, just kidding.",
+        "hyp": "文 5 : 我很矮,所以如果我的课程很远, 我也可以滑冰穿过校园, 只是开玩笑.",
+        "label_text": "我也可以滑冰穿过校园"
+    },
+    {
+        "source": "原文 : I’m short, so if my classes are far, I might as well rollerskate my way through campus, just kidding.",
+        "hyp": "文 5 : 我很矮,所以如果我的课程很远, 我也可以滑冰穿过校园, 只是开玩笑.",
+        "label_text": "只是开玩笑"
+    },
+    {
+        "source": "原文 : first of all, the satisfaction i get from saying i am the manager when customers ask for one is amazing.",
+        "hyp": "文 2 : 首先,当客户要求经理时, 我说我是经理时,",
+        "label_text": "首先,当客户要求经理时, 我说我是经理时"
+    },
+    {
+        "source": "原文 : So, we need a filter for the ASRs, so that the ASR is silent if it's the wrong language and it is the recognized text if it's the correct language.",
+        "hyp": "文 3 : 所以,我们需要一个ASR的过<unk>器,这样如果是错误的语言,ASR就会保持沉默,如果是正确的语言,它就会被识别为文本.",
+        "label_text": "它就会被识别为文本"
+    },
+    {
+        "source": "原文 : One day she got kicked out of Mewny (her home dimension) by her mean mom >:-( just because she made a mistake.",
+        "hyp": "文 1 : 有一天,她被她的<unk>妈<unk>出Mewny (她的家庭维度) <unk>,只是因为她犯了一个错误.",
+        "label_text": "家庭维度"
+    },
+    {
+        "source": "原文 : I think the designation of \"non-binary\" needs to be extended from just a gender term, to be used when referring to sex.",
+        "hyp": "文 3 : 我认为\"非二进制\"的名称需要从一个性别术语扩展,",
+        "label_text": "我认为\"非二进制\"的名称需要从一个性别术语扩展"
+    },
+    {
+        "source": "原文 : I forgot what I was about to say, and I had a math tutor, but iI couldn’t focus and just also my mind is like chaos people.",
+        "hyp": "文 4 : 我忘记了我要说什么, 我有一个数学辅导员, 但我不能专注,",
+        "label_text": "数学辅导员"
+    },
+    {
+        "source": "原文 : I love my boyfriend and desperately want to keep his system happy.",
+        "hyp": "文 1 : 我爱我的男朋友, 绝望地想让他的系统快乐.",
+        "label_text": "绝望地"
+    },
+    {
+        "source": "原文 : When the Sydney underground railways (now part of the Sydney Trains network) were constructed in 1927, Wynyard railway station was constructed by excavating the park and then rebuilding the park after the station had been constructed.",
+        "hyp": "文 5 : 当悉尼地铁 (现在是悉尼火车网络的一部分) 在1927年建成时,Wynyard火车站是通过挖掘公园而建造的,然后在车站建成后重建公园.",
+        "label_text": "建成时"
+    },
+    {
+        "source": "原文 : So, I asked that you would have various versions of this dictionary by taking only the words that were observed, five times.",
+        "hyp": "文 5 : 所以,我要求你只用五次观察到的单词来编写这个词典的各种版本.",
+        "label_text": "五次观察到的单词"
+    },
+    {
+        "source": "原文 : So, I asked that you would have various versions of this dictionary by taking only the words that were observed, five times.",
+        "hyp": "文 5 : 所以,我要求你只用五次观察到的单词来编写这个词典的各种版本.",
+        "label_text": "各种版本"
+    },
+    {
+        "source": "原文 : I go to take it out and how tf am i supposed to do this with my long ass acrylic nails.",
+        "hyp": "文 2 : 我去把它拿出来,我怎么能用我的长<unk>子<unk>烯酸指甲这样做.",
+        "label_text": "去把它拿出来"
+    },
+    {
+        "source": "原文 : Does this mean I still have to inform the prof that I'm dropping the course, do I also have to get permission?",
+        "hyp": "文 3 : 这是否意味着我仍然必须通知教授我要放弃课程,我还必须得到许可吗?",
+        "label_text": "通知教授"
+    },
+    {
+        "source": "原文 : I told her I was going on another one next month (lie) to make her feel better, but I didn’t.",
+        "hyp": "文 5 : 我告诉她我将在下个月再去一次 (谎言) 让她感觉更好,但我没有.",
+        "label_text": "(谎言)"
+    },
+    {
+        "source": "原文 : I told her I was going on another one next month (lie) to make her feel better, but I didn’t.",
+        "hyp": "文 5 : 我告诉她我将在下个月再去一次 (谎言) 让她感觉更好,但我没有.",
+        "label_text": "让她感觉更好"
+    },
+    {
+        "source": "原文 : I suspected it, but I want him to be upfront about it with me.",
+        "hyp": "文 3 : 我怀疑它,但我希望他能先跟我说出来 ⁇",
+        "label_text": "它"
+    },
+    {
+        "source": "原文 : Today it’s my birthday, so I’m sharing my “strange” coming out story.",
+        "hyp": "文 4 : 今天是我的生日,所以我分享我的\"奇怪\"出来的故事.",
+        "label_text": "所以"
+    }
+]

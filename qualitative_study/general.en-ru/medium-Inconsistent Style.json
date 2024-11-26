@@ -1,0 +1,217 @@
+[
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 2 : Последние где-то года четыре я носила лифчики Lane Bryants Lounge, и это был первый раз за очень долгое время, когда я надела лифчик с проволокой.",
+        "label_text": "лифчик"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 2 : Последние где-то года четыре я носила лифчики Lane Bryants Lounge, и это был первый раз за очень долгое время, когда я надела лифчик с проволокой.",
+        "label_text": "лифчик"
+    },
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 4 : Мы также объясняем, каким образом отдельные факторы могут повлиять на взаимодействие сообществ с этой пищевой средой.",
+        "label_text": "отдельные "
+    },
+    {
+        "source": "原文 : On August 31, 1933, Alexander Dahl took the first picture of the Earth's curvature in an open hydrogen gas balloon.",
+        "hyp": "文 4 : 31 августа 1933 года Александр Даль сделал первый снимок кривизны Земли при помощи открытого баллона с водородным газом.",
+        "label_text": "снимок"
+    },
+    {
+        "source": "原文 : On August 31, 1933, Alexander Dahl took the first picture of the Earth's curvature in an open hydrogen gas balloon.",
+        "hyp": "文 4 : 31 августа 1933 года Александр Даль сделал первый снимок кривизны Земли при помощи открытого баллона с водородным газом.",
+        "label_text": "снимок"
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 4 : В конце модельного года стала доступна \"уличная\" версия более крупного V8 объемом 421 кубический дюйм, который в 1961 году и большую часть 1962 года был в основном гоночным авто, но только в четырехцилиндровом исполнении мощностью в ( ) лошадиных сил.",
+        "label_text": "гоночным авто"
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 4 : В конце модельного года стала доступна \"уличная\" версия более крупного V8 объемом 421 кубический дюйм, который в 1961 году и большую часть 1962 года был в основном гоночным авто, но только в четырехцилиндровом исполнении мощностью в ( ) лошадиных сил.",
+        "label_text": "гоночным авто"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 5 : По моему, я нормально справляюсь с маневрами, но инструктор считает, что мне все еще нужно побольше практики.",
+        "label_text": "справляюсь с маневрами,"
+    },
+    {
+        "source": "原文 : I know it’s a scientific things and all, but some of the posts there are just too much.",
+        "hyp": "文 2 : Я в курсе, что это научные вещи и все такое, но с некоторыми постами там явно перебор.",
+        "label_text": "Я в курсе"
+    },
+    {
+        "source": "原文 : Thus, Stimforte, which exhibits, on the one hand, antiviral activity against viruses of different families and, on the other hand, the immunomodulatory properties, could be promising as an etiopathogenic tool in helping to normalize both nonspecific and specific immunity.",
+        "hyp": "文 3 : Следоваательно, Стимфорте, проявляющий, с одной стороны, противовирусную активность в отношении вирусов различных семейств и, с другой стороны, иммуномодулирующие свойства, может быть перспективным в качестве этиопатогенетического средства, способствующего нормализации как неспецифического, так и специфического иммунитета.",
+        "label_text": "Следоваательно"
+    },
+    {
+        "source": "原文 : It's great at making coffee and keeping it hot, but there are too many other issues with it to invest in it at the current price.",
+        "hyp": "文 1 : Он идеально подходит для приготовления кофе и поддержания его горячим, но также присутствует немало других проблем, в результате чего инвестиции в данный продукт по текущей цене не рентабельны.",
+        "label_text": "идеально подходит"
+    },
+    {
+        "source": "原文 : It's great at making coffee and keeping it hot, but there are too many other issues with it to invest in it at the current price.",
+        "hyp": "文 1 : Он идеально подходит для приготовления кофе и поддержания его горячим, но также присутствует немало других проблем, в результате чего инвестиции в данный продукт по текущей цене не рентабельны.",
+        "label_text": "немало"
+    },
+    {
+        "source": "原文 : It's great at making coffee and keeping it hot, but there are too many other issues with it to invest in it at the current price.",
+        "hyp": "文 1 : Он идеально подходит для приготовления кофе и поддержания его горячим, но также присутствует немало других проблем, в результате чего инвестиции в данный продукт по текущей цене не рентабельны.",
+        "label_text": "не рентабельны"
+    },
+    {
+        "source": "原文 : I ruled-out 'different', I think, by seeing that it will roll down-hill just fine in Neutral, so no mechanical interferences.",
+        "hyp": "文 2 : Я исключил \"другое\", увидев, как он отлично катится с холма на нейтральной скорости, так что  необходимость в каком-либо механическом воздействии отпала.",
+        "label_text": "воздействии отпала"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 3 : Тем не менее, последние несколько месяцев она ездит по той же велосипедной дорожке, что и я (и только я), мы пересекаемся где-то каждые пару недель и немного общаемся.",
+        "label_text": "пересекаемся"
+    },
+    {
+        "source": "原文 : I sometimes feel sad for them when they r asked to do all this.",
+        "hyp": "文 5 : Иногда мне становится грустно за них, когда им говорят сделать все это.",
+        "label_text": " говорят "
+    },
+    {
+        "source": "原文 : The funny thing is that right now these same hard-line conservatives declare that we must not run deficits in times of economic crisis.",
+        "hyp": "文 1 : И прикольнее всего то, что прямо сейчас те же самые закоренелые консерваторы заявляют, что мы не должны испытывать дефицит бюджета во времена экономического кризиса.",
+        "label_text": "И прикольнее всего то, что"
+    },
+    {
+        "source": "原文 : It’s getting old, and you look like an idiot when you spell like this.",
+        "hyp": "文 2 : Это уже устарело, и ты выглядишь как идиот, когда так говоришь.",
+        "label_text": "устарело"
+    },
+    {
+        "source": "原文 : It’s getting old, and you look like an idiot when you spell like this.",
+        "hyp": "文 2 : Это уже устарело, и ты выглядишь как идиот, когда так говоришь.",
+        "label_text": "говоришь"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 3 : Согласно сообщениям издания The Washington Post в октябре, в этом отказе отмечалось, что бывший советник Пенс Марк Шорт, например, \"вероятно, обладал информацией, важной для уголовного расследования Министерством юстиции нападения на конгресс США 6 января 2021 года, которая не была доступна из других источников\".",
+        "label_text": "Согласно"
+    },
+    {
+        "source": "原文 : As The Washington Post reported in October, that rejection noted that former Pence aide Marc Short, for example, \"probably possessed information important to the Justice Department's criminal investigation of the Jan. 6, 2021, attack on the Capitol that was not available from other sources.\"",
+        "hyp": "文 3 : Согласно сообщениям издания The Washington Post в октябре, в этом отказе отмечалось, что бывший советник Пенс Марк Шорт, например, \"вероятно, обладал информацией, важной для уголовного расследования Министерством юстиции нападения на конгресс США 6 января 2021 года, которая не была доступна из других источников\".",
+        "label_text": "на конгресс США"
+    },
+    {
+        "source": "原文 : Just knowing I can go home and text them brightens my mood ten-fold.",
+        "hyp": "文 4 : Просто осознание того, что я могу вернуться домой и написать им, поднимает мне настроение в десять раз.",
+        "label_text": "вернуться "
+    },
+    {
+        "source": "原文 : Just knowing I can go home and text them brightens my mood ten-fold.",
+        "hyp": "文 4 : Просто осознание того, что я могу вернуться домой и написать им, поднимает мне настроение в десять раз.",
+        "label_text": "поднимает мне настроение"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 2 : Я могу определить, где был твой человек и что он делает по вкусу, когда он вернется?",
+        "label_text": "определить"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 3 : Бьюсь об заклад, вы даже не удосужились прочитать номер целиком или не заметили букву, которую я туда вставил, и теперь вы вернетесь, чтобы проверить, только чтобы понять, что буквы там не было.",
+        "label_text": "Бьюсь об заклад"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 3 : Бьюсь об заклад, вы даже не удосужились прочитать номер целиком или не заметили букву, которую я туда вставил, и теперь вы вернетесь, чтобы проверить, только чтобы понять, что буквы там не было.",
+        "label_text": "вставил"
+    },
+    {
+        "source": "原文 : It actually hurts my brain trying to add the T, and I sound American if I do or still say wut-ta.",
+        "hyp": "文 2 : Мне прям по мозгам отдает, когда я пытаюсь добавить \"Т\", и мой акцент звучит по-американски, если произношу \"ч-т-о\".",
+        "label_text": "ч-т-о"
+    },
+    {
+        "source": "原文 : However, the expression level of the NUP153 gene from the alternative LINE-1 promoter was 17 times higher in chorionic villi and 23 times higher in extraembryonic mesoderm than in lymphocytes (p < 0.05).",
+        "hyp": "文 4 : Однако уровень экспрессии гена NUP153 из альтернативного промотора ЛИНИИ 1 был в 17 раз выше в ворсинках хориона и в 23 раза выше во внеэмбриональной мезодерме, чем в лимфоцитах (р < 0,05).",
+        "label_text": "внеэмбриональной"
+    },
+    {
+        "source": "原文 : Have To Break Up Format \"xxx.yyy\" Into two seperate colums \"xxx\" and \"yyy\"",
+        "hyp": "文 1 : Нужно разбить формат \"xxx.yyy\" на два отдельных столбца \"xxx\" и \"yyy\".",
+        "label_text": "Нужно"
+    },
+    {
+        "source": "原文 : It’s the same as a whole one (and along that line), like, lol, why?”, and he was like “ok, oof, it’s not” and I’m like “lol, why did you say that?”",
+        "hyp": "文 2 : Это то же самое, что и в целом (и в этом роде), типа почему?”, а он такой: “ладно, это не так”, а я такой: “Ржу, почему ты это сказал?”",
+        "label_text": "и в этом роде"
+    },
+    {
+        "source": "原文 : There's another way: In Bailout, Neil Barofsky's memoir of his time in Washington serving as the special inspector general overseeing the Troubled Asset Relief Program, he described the advice he received from Kristine Belisle, the woman he smartly hired to be his communications director.",
+        "hyp": "文 2 : Есть и другой способ: в книге \"Спасение\", мемуарах Нила Барофски о его работев Вашингтоне в качестве специального генеральногоинспекторапонадзоруза программойпомощи проблемным активам, онописываетсовет,полученныйимот КристинБелэр,женщины, которую он ловко нанял на должностьдиректора по коммуникациям.",
+        "label_text": "книге"
+    },
+    {
+        "source": "原文 : South Korean companies have kept their workers there, in some cases extending their stays, to keep the plants running despite shortages of food and gas and the risk of their employees becoming caught in the middle of the stand-off.",
+        "hyp": "文 4 : Существует практика южнокорейских компаний задерживать своих работников, иногда даже продлевая их пребывание, в целях обеспечения бесперебойной работы заводов несмотря на ограниченное количество продовольствия и газа, а также возможный риск попадания работников в центр конфликта.",
+        "label_text": " в центр конфликта"
+    },
+    {
+        "source": "原文 : It makes me feel like this is an infatuation that will pass.",
+        "hyp": "文 5 : У меня такое ощущение, что это увлечение пройдет.",
+        "label_text": "У меня такое ощущение"
+    },
+    {
+        "source": "原文 : As long as an event is not disruptive to the school day or event, administrators do not get involved.",
+        "hyp": "文 4 : До тех пор, пока мероприятие не идет в разрез со учебным днем или мероприятие, администраторы не вмешиваются.",
+        "label_text": "До тех пор"
+    },
+    {
+        "source": "原文 : As long as an event is not disruptive to the school day or event, administrators do not get involved.",
+        "hyp": "文 4 : До тех пор, пока мероприятие не идет в разрез со учебным днем или мероприятие, администраторы не вмешиваются.",
+        "label_text": "не идет в разрез"
+    },
+    {
+        "source": "原文 : this item is phenomenal on bard on hits are great.",
+        "hyp": "文 1 : это пользуется феноменальностью на bard on, просто отличные хиты.",
+        "label_text": "просто отличные хиты"
+    },
+    {
+        "source": "原文 : However, his shield’s gun is overpowered and his rewind ability is somewhat annoying.",
+        "hyp": "文 2 : Однако оружие его щита подавлено, а его способность к перемотке назад несколько раздражает.",
+        "label_text": " перемотке назад несколько раздражает"
+    },
+    {
+        "source": "原文 : Also reintroduced with the Omens expansion was the Shyft faction, as well as the first 2.0 non-unique Mage Spawn figures.",
+        "hyp": "文 3 : Также в дополнении Omens была вновь представлена фракция Шайфтов, а также первые неуникальные фигуры магов версии 2.0.",
+        "label_text": "Шайфтов"
+    },
+    {
+        "source": "原文 : Yesterday when I was at work, she messaged me saying something like “how’s your work doing?”, and I kind of replied to her with a cold tone saying “I’m at work, talk to you later”, and",
+        "hyp": "文 5 : Вчера, когда я был на работе, она написала мне что-то вроде “как дела работе?”, и я ответил ей  как бы холодным тоном, сказав: “Я на работе, поговорим позже”, и",
+        "label_text": " работе"
+    },
+    {
+        "source": "原文 : I like the product it’s a nice size and color!",
+        "hyp": "文 3 : Мне нравится эта вещь, размер и цвет отлично подходят!",
+        "label_text": "вещь"
+    },
+    {
+        "source": "原文 : So, this could become an empty part of the second thing of the rare word -",
+        "hyp": "文 4 : Итак, это может стать пустой частью второго значения редкого слова -",
+        "label_text": "значения"
+    },
+    {
+        "source": "原文 : The wind would start to rustle in the bare trees, then die down. However, it didn’t go away, it was still here.",
+        "hyp": "文 2 : Ветер начинал шелестеть среди голых веток деревьях, затем стихал. Однако он никуда не исчез, и по-прежнему ощущается здесь.",
+        "label_text": "по-прежнему ощущается здесь"
+    },
+    {
+        "source": "原文 : I care abt how I effect ppl a lot but try not to show it.",
+        "hyp": "文 1 : Меня крайне беспокоит, как я влияю на людей, но я стараюсь этого не показывать.",
+        "label_text": "крайне беспокоит"
+    }
+]

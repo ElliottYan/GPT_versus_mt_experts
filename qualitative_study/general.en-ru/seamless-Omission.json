@@ -1,0 +1,177 @@
+[
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 1 : Умм, может быть, потому что мы разные люди с разными телами???",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Umm idk, maybe its bc we're DIFFERENT PEOPLE with DIFFERENT BODIES???",
+        "hyp": "文 1 : Умм, может быть, потому что мы разные люди с разными телами???",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 2 : Один человек на сервере продавал набор за 100 тысяч, и я сказал: \"Нет, это не стоит 100 тысяч\", как брат.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : One person in the server was selling the set for 100k, and I was like “Hell no, that’s not worth 100k”, like bruh.",
+        "hyp": "文 2 : Один человек на сервере продавал набор за 100 тысяч, и я сказал: \"Нет, это не стоит 100 тысяч\", как брат.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 5 : Он делает так, что кажется, что XVG - это тонущий корабль, а банкомат работает хорошо.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 3 : Я полагаю, что это команда с тотемом роста с двумя танками, астероидом, танковым истребителем, и самолет, который может нести все, если захочет.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 3 : Я полагаю, что это команда с тотемом роста с двумя танками, астероидом, танковым истребителем, и самолет, который может нести все, если захочет.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 3 : В конце модельного года \"уличная\" версия большего 421 кубического дюйма V8, которая была в первую очередь гоночной мельницей в 1961 году и большую часть 1962 года, стала доступна, но только в форме с четырьмя стволами, оцененной в лошадиных силах.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 4 : Они согласились, что тот, кто первым сумеет заставить путешественника снять плащ, должен считаться сильнее другого.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : They agreed that the one who first succeeded in making the traveller take his cloak off should be considered stronger than the other.",
+        "hyp": "文 4 : Они согласились, что тот, кто первым сумеет заставить путешественника снять плащ, должен считаться сильнее другого.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Thus, Stimforte, which exhibits, on the one hand, antiviral activity against viruses of different families and, on the other hand, the immunomodulatory properties, could be promising as an etiopathogenic tool in helping to normalize both nonspecific and specific immunity.",
+        "hyp": "文 2 : Таким образом, Stimforte, который демонстрирует, с одной стороны, противовирусную активность против вирусов различных семейств и, с другой стороны, иммуномодулирующие свойства, может быть перспективным в качестве этиопатогенного инструмента, помогающего нормализовать как неспецифический, так и специфический иммунитет.",
+        "label_text": "Stimforte"
+    },
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 1 : В любом случае, эти ужасные воспоминания преследовали меня, так что вчера я наконец-то набралась мужества написать ему.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Anyways, these terrible memories kept haunting me, so yesterday I finally mustered up the courage to message him.",
+        "hyp": "文 1 : В любом случае, эти ужасные воспоминания преследовали меня, так что вчера я наконец-то набралась мужества написать ему.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 2 : Солдаты, как утверждается, украли еще 1 440 000 CFA ($ 2 845) у других мужчин.",
+        "label_text": "CFA"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 2 : Уверен, вы не прочитали все число или не заметили букву, которую я вставил, а теперь вернетесь, чтобы проверить, только чтобы понять, что не было никакой буквы.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 3 : 1:49 - это просто мой тренер, который говорит: \"Ты должен быть хорошим, но ты не такой, поэтому я собираюсь дать тебе нереалистичные цели\", или я должен быть в 1:49?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Ben Kingsley, left, and Liam Neeson star in the Holocaust drama 'Schindler's List.'",
+        "hyp": "文 3 : Бен Кингсли, слева, и Лиам Нисон в драме о Холокосте \"Список Шиндлера\".",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Mine’s ending and all my grades are passable except for biology in which I have an F.",
+        "hyp": "文 3 : У меня заканчивается, и все мои оценки приемлемы, за исключением биологии, в которой у меня F.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Luckily the flare is a bit higher and not right where I make contact when sitting but it still hurts like a muther***",
+        "hyp": "文 3 : К счастью, вспышка немного выше и не там, где я соприкасаюсь, когда сижу, но это все равно болит, как матерь.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : There's another way: In Bailout, Neil Barofsky's memoir of his time in Washington serving as the special inspector general overseeing the Troubled Asset Relief Program, he described the advice he received from Kristine Belisle, the woman he smartly hired to be his communications director.",
+        "hyp": "文 5 : В мемуарах Нила Барофски о своем пребывании в Вашингтоне в качестве специального генерального инспектора, курирующего программу помощи проблемным активам, он описал совет, который он получил от Кристин Белисл, женщины, которую он умно нанял в качестве директора по коммуникациям.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Personally, I think VII was (alongside RB1) the best Neps games in the entire franchise, what with having a storyline that doesn’t come off as too edgy nor melodramatic like Mk2/RB2, but neither as over-the-top like V/RB3, having the exact and necessary amount of seriousness and comedy.",
+        "hyp": "文 5 : Лично я думаю, что VII была (наряду с RB1) лучшей игрой Neps во всей франшизе, что с сюжетной линией, которая не выглядит слишком резкой или мелодраматичной, как Mk2 или RB2, но ни как чрезмерная, как VRB3, имея точное и необходимое количество серьезности и комедии.",
+        "label_text": "Neps"
+    },
+    {
+        "source": "原文 : (PERSON6) So this is an important thing that we should have come across months ago.",
+        "hyp": "文 5 : Так что это важная вещь, с которой мы должны были столкнуться несколько месяцев назад.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Yesterday when I was at work, she messaged me saying something like “how’s your work doing?”, and I kind of replied to her with a cold tone saying “I’m at work, talk to you later”, and",
+        "hyp": "文 3 : Вчера, когда я был на работе, она написала мне что-то вроде \"Как у тебя работа?\" И я ответил ей холодным тоном, сказав: \"Я на работе, поговорим позже\".",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Can I give my 2-month Boston Terrier puppy raw beef bones?",
+        "hyp": "文 1 : Могу я дать своему двухмесячному щенку бостонского терьера сырые говяжие кости?",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : I know they're utter pish and paper wise we should be wiping the floor with them but just not feelin the 2/3 nil vibe atm!",
+        "hyp": "文 1 : Я знаю, что они полны пиха и бумаги, мы должны вытирать ими пол, но мы не чувствуем ничтожной вибрации!",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Scientific study of this group is necessary for understanding of Orbivirus genus evolution patterns.",
+        "hyp": "文 3 : Научное изучение этой группы необходимо для понимания эволюционных моделей рода Orbivirus.",
+        "label_text": "Orbivirus"
+    },
+    {
+        "source": "原文 : So, there will be problems on various fronts, I'm sure, and we will need the numbers very soon.",
+        "hyp": "文 3 : Таким образом, будут проблемы на различных фронтах, я уверен, и нам понадобятся цифры очень скоро.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : At an inland site, Platt Island, mammals (primarily deer ) accounted for more than 60 percent of the energy from animal meat, while fish provided just under 20 percent.",
+        "hyp": "文 2 : На острове Платт млекопитающие (в основном олени) обеспечивали более 60 процентов энергии из мяса животных, в то время как рыба обеспечивала чуть менее 20 процентов.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : In both landings, the covering force went ashore from warships with the exception of V Beach at Helles where the SS River Clyde was used as an improvised landing craft for 2,000 men.",
+        "hyp": "文 5 : В обоих десантах прикрывающие силы выходили на берег с военных кораблей, за исключением пляжа V в Хельсе, где SS River Clyde использовался в качестве импровизированного десантного судна для 2000 человек.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 2 : n так я не узнал на de 2nd или 3rd пост dät The AJ Show был заблокирован на YT, я не фанат правых вещей n был acctully de причина я перестал смотреть его 2 года назад tho небольшой аромат свободы был dät трудно ты найти amoung 90% национальный капитализм de сайт имеет tu предложение, но в любом случае я получил d идею не цензуры видео сайт как liveleak но гораздо более просто n менее \"newsy\" dät any1 может опубликовать на нет содержимого wud b удален❤️",
+        "label_text": "dät"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 2 : n так я не узнал на de 2nd или 3rd пост dät The AJ Show был заблокирован на YT, я не фанат правых вещей n был acctully de причина я перестал смотреть его 2 года назад tho небольшой аромат свободы был dät трудно ты найти amoung 90% национальный капитализм de сайт имеет tu предложение, но в любом случае я получил d идею не цензуры видео сайт как liveleak но гораздо более просто n менее \"newsy\" dät any1 может опубликовать на нет содержимого wud b удален❤️",
+        "label_text": "dät"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 2 : n так я не узнал на de 2nd или 3rd пост dät The AJ Show был заблокирован на YT, я не фанат правых вещей n был acctully de причина я перестал смотреть его 2 года назад tho небольшой аромат свободы был dät трудно ты найти amoung 90% национальный капитализм de сайт имеет tu предложение, но в любом случае я получил d идею не цензуры видео сайт как liveleak но гораздо более просто n менее \"newsy\" dät any1 может опубликовать на нет содержимого wud b удален❤️",
+        "label_text": "tu"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 2 : n так я не узнал на de 2nd или 3rd пост dät The AJ Show был заблокирован на YT, я не фанат правых вещей n был acctully de причина я перестал смотреть его 2 года назад tho небольшой аромат свободы был dät трудно ты найти amoung 90% национальный капитализм de сайт имеет tu предложение, но в любом случае я получил d идею не цензуры видео сайт как liveleak но гораздо более просто n менее \"newsy\" dät any1 может опубликовать на нет содержимого wud b удален❤️",
+        "label_text": "dät"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 2 : n так я не узнал на de 2nd или 3rd пост dät The AJ Show был заблокирован на YT, я не фанат правых вещей n был acctully de причина я перестал смотреть его 2 года назад tho небольшой аромат свободы был dät трудно ты найти amoung 90% национальный капитализм de сайт имеет tu предложение, но в любом случае я получил d идею не цензуры видео сайт как liveleak но гораздо более просто n менее \"newsy\" dät any1 может опубликовать на нет содержимого wud b удален❤️",
+        "label_text": "any1"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 2 : n так я не узнал на de 2nd или 3rd пост dät The AJ Show был заблокирован на YT, я не фанат правых вещей n был acctully de причина я перестал смотреть его 2 года назад tho небольшой аромат свободы был dät трудно ты найти amoung 90% национальный капитализм de сайт имеет tu предложение, но в любом случае я получил d идею не цензуры видео сайт как liveleak но гораздо более просто n менее \"newsy\" dät any1 может опубликовать на нет содержимого wud b удален❤️",
+        "label_text": " wud b"
+    }
+]

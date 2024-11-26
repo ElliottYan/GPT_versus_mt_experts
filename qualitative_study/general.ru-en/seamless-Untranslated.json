@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 2 : After a slight decrease in the number of participants in the protests on Tuesday compared to the first two \"days of mobilization,\" the unions hope this time to take to the streets a larger number of protesters, taking into account those citizens who did not have the opportunity to participate in the demonstrations on weekdays.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 2 : After a slight decrease in the number of participants in the protests on Tuesday compared to the first two \"days of mobilization,\" the unions hope this time to take to the streets a larger number of protesters, taking into account those citizens who did not have the opportunity to participate in the demonstrations on weekdays.",
+        "label_text": " "
+    }
+]

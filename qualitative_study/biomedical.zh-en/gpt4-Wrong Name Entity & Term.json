@@ -1,0 +1,137 @@
+[
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 4 : In the product report from Yuan Research, out of the 17,485 total cases, there were 532 instances of adverse reactions (3.04%).",
+        "label_text": "Yuan Research"
+    },
+    {
+        "source": "原文 : 原研产品报告的17485例总病例中，发生不良反应的病例532例（3.04%）。",
+        "hyp": "文 4 : In the product report from Yuan Research, out of the 17,485 total cases, there were 532 instances of adverse reactions (3.04%).",
+        "label_text": "Yuan Research"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Shock and allergic symptoms (with unknown frequency) may occur, therefore close observation is necessary. If symptoms such as chest tightness, chills, cold sweats, difficulty breathing, numbness in the limbs, low blood pressure, vascular edema, or hives occur, discontinue the medication and take appropriate measures.",
+        "label_text": "vascular edema"
+    },
+    {
+        "source": "原文 : 有可能出现休克、过敏症状（频率均不明*），因此应充分进行观察，出现胸闷、恶寒、冷汗、呼吸困难、四肢麻木、血压降低、血管水肿、荨麻疹等时中止用药，并采取相应措施。",
+        "hyp": "文 4 : Shock and allergic symptoms (with unknown frequency) may occur, therefore close observation is necessary. If symptoms such as chest tightness, chills, cold sweats, difficulty breathing, numbness in the limbs, low blood pressure, vascular edema, or hives occur, discontinue the medication and take appropriate measures.",
+        "label_text": "chills"
+    },
+    {
+        "source": "原文 : （2）再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症",
+        "hyp": "文 2 : (2) Aplastic anemia, hemolytic anemia, neutropenia, and thrombocytopenia.",
+        "label_text": "neutropenia"
+    },
+    {
+        "source": "原文 : （2）再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症",
+        "hyp": "文 2 : (2) Aplastic anemia, hemolytic anemia, neutropenia, and thrombocytopenia.",
+        "label_text": "neutropenia"
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Digestive ulcers, gastrointestinal bleeding, and ulcerative colitis (all with unknown frequency) may occur. If any abnormalities are detected, discontinue the medication and take appropriate measures.",
+        "label_text": "Digestive ulcers"
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 2 : Digestive ulcers, gastrointestinal bleeding, and ulcerative colitis (all with unknown frequency) may occur. If any abnormalities are detected, discontinue the medication and take appropriate measures.",
+        "label_text": "Digestive ulcers"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 1 : Hanhoo Pomegranate Nourishing Radiance Six-Piece Set (Skincare and Cosmetics Set for Hydration and Moisturizing, Suitable for Female Students - Includes Facial Cleanser, Toner, Lotion, Eye Cream, and Full-Size Gift Box)",
+        "label_text": "Pomegranate Nourishing Radiance"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 1 : Hanhoo Pomegranate Nourishing Radiance Six-Piece Set (Skincare and Cosmetics Set for Hydration and Moisturizing, Suitable for Female Students - Includes Facial Cleanser, Toner, Lotion, Eye Cream, and Full-Size Gift Box)",
+        "label_text": "Pomegranate Nourishing Radiance"
+    },
+    {
+        "source": "原文 : 磺酰脲类降糖药如氯磺丙脲、格列本脲等",
+        "hyp": "文 3 : Sulfonylurea hypoglycemic drugs such as chlorpropamide, glyburide, etc.",
+        "label_text": "glyburide"
+    },
+    {
+        "source": "原文 : 橄榄油富含丰富的单不饱和脂肪酸，即油酸及亚油酸、亚麻酸，还有维生素A、维生素B、维生素D、维生素E、维生素K及抗氧化物等。",
+        "hyp": "文 4 : Olive oil is rich in monounsaturated fatty acids, including oleic acid, linoleic acid, and alpha-linolenic acid, as well as vitamins A, B, D, E, K, and antioxidants.",
+        "label_text": "alpha-linolenic acid"
+    },
+    {
+        "source": "原文 : 在使用多替拉韦治疗的第一周内发生血清肌酐升高，在此后的96周期间保持稳定。",
+        "hyp": "文 1 : An increase in serum creatinine occurred within the first week of treatment with doravirine, and then remained stable over the subsequent 96-week period.",
+        "label_text": "doravirine"
+    },
+    {
+        "source": "原文 : 皮莱说 ： “ 他们能够在家里控制疾病，大多数人在隔离10至14天内康复 。 ”",
+        "hyp": "文 3 : Pilai said, \"They are able to manage the illness at home, and most people recover within 10 to 14 days of isolation.\"",
+        "label_text": "Pilai"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 4 : Further validation of the analytical performance of the method, including its sensitivity, specificity, and linear range, was conducted. The results showed that within the same reaction system, the response range for katG315 was from 1.0 pmol/L to 0.1 nmol/L, while for rpoB531 and rpsL43, the response ranges were from 1.0 pmol/L to 50.0 pmol/L and 1.0 pmol/L to 20.0 pmol/L, respectively. The method demonstrated good specificity and sensitivity, capable of precisely identifying single nucleotide mutations in a mixture of targets, with a detection limit as low as 1.0 pmol/L. In recovery experiments using simulated serum samples, the recovery rate reached 95.0% to 105.2%.",
+        "label_text": "detection limit as low as"
+    },
+    {
+        "source": "原文 : \"向血管内注射碘化造影剂可能导致造影剂肾病，这可能引起二甲双胍蓄积和增加乳酸酸中毒的风险。\"",
+        "hyp": "文 5 : Injecting iodinated contrast agents into the bloodstream may lead to contrast-induced nephropathy, which can result in the accumulation of metformin and increase the risk of lactic acidosis.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 脑肠菌群轴在功能性胃肠疾病中的作用逐渐受到关注，根据罗马便秘Ⅳ诊断标准，将功能性胃肠疾病归类于脑肠功能互动异常，该概念的提出对功能性胃肠疾病诊疗模式的改变具有重要意义。",
+        "hyp": "文 2 : The role of the gut-brain axis in functional gastrointestinal disorders is increasingly receiving attention. According to the Rome IV diagnostic criteria for constipation, functional gastrointestinal disorders are categorized as abnormalities in gut-brain interaction. The introduction of this concept is of significant importance for the changes in the diagnostic and treatment models of functional gastrointestinal disorders.",
+        "label_text": "gut-brain axis"
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 5 : \"Let's Talk About Autism: 55 Key Questions Closely Related to Autism (+) by Bridget King-Trieu and Bridget Ha [Genuine] [Authentic Book]\"",
+        "label_text": "Bridget King-Trieu"
+    },
+    {
+        "source": "原文 : 一起聊聊自闭症 与自闭症密切相关的55个问题 (加)布里吉特金·翠 布里吉特·哈【正版】【正版书】",
+        "hyp": "文 5 : \"Let's Talk About Autism: 55 Key Questions Closely Related to Autism (+) by Bridget King-Trieu and Bridget Ha [Genuine] [Authentic Book]\"",
+        "label_text": "Bridget Ha"
+    },
+    {
+        "source": "原文 : 根据中怡康的预测，2020年，激光电视市场销量增长将超过140%，继续保持高速增长。",
+        "hyp": "文 2 : According to predictions by Zhongyikang, in 2020, the laser TV market is expected to see a sales increase of over 140%, continuing its rapid growth.",
+        "label_text": "Zhongyikang"
+    },
+    {
+        "source": "原文 : 本品的前列腺素合成抑制作用造成的肾损害加剧了他莫克司水合物的肾损害。",
+        "hyp": "文 5 : The prostaglandin synthesis inhibitory effect of this product exacerbates the renal damage caused by tamsulosin hydrochloride.",
+        "label_text": "tamsulosin hydrochloride"
+    },
+    {
+        "source": "原文 : 新型喹诺酮类抗菌剂如依诺沙星水合物等",
+        "hyp": "文 2 : New quinolone antibacterial agents such as enrofloxacin hydrate.",
+        "label_text": "enrofloxacin hydrate"
+    },
+    {
+        "source": "原文 : 每片含多替拉韦钠（以多替拉韦计）50mg、硫酸阿巴卡韦（以阿巴卡韦计）600mg和拉米夫定300mg。",
+        "hyp": "文 2 : Each tablet contains 50 mg of tenofovir disoproxil fumarate (equivalent to tenofovir), 600 mg of abacavir sulfate (equivalent to abacavir), and 300 mg of lamivudine.",
+        "label_text": "tenofovir disoproxil fumarate"
+    },
+    {
+        "source": "原文 : 每片含多替拉韦钠（以多替拉韦计）50mg、硫酸阿巴卡韦（以阿巴卡韦计）600mg和拉米夫定300mg。",
+        "hyp": "文 2 : Each tablet contains 50 mg of tenofovir disoproxil fumarate (equivalent to tenofovir), 600 mg of abacavir sulfate (equivalent to abacavir), and 300 mg of lamivudine.",
+        "label_text": "tenofovir"
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 3 : An analysis was conducted on the aggregated data from Phase IIb to IIIb clinical trials, and the results revealed that the observed adverse reactions from the combination therapy of doravirine + abacavir/lamivudine were generally consistent with the adverse reaction profiles of the individual components doravirine, abacavir, and lamivudine.",
+        "label_text": "doravirine "
+    },
+    {
+        "source": "原文 : 对IIb期至IIIb期临床试验的汇总数据实施了一项分析，结果发现多替拉韦+阿巴卡韦/拉米夫定联合用药观察到的不良反应一般与单一成分多替拉韦、阿巴卡韦和拉米夫定的不良反应特征一致。",
+        "hyp": "文 3 : An analysis was conducted on the aggregated data from Phase IIb to IIIb clinical trials, and the results revealed that the observed adverse reactions from the combination therapy of doravirine + abacavir/lamivudine were generally consistent with the adverse reaction profiles of the individual components doravirine, abacavir, and lamivudine.",
+        "label_text": "doravirine"
+    },
+    {
+        "source": "原文 : 在这次新冠肺炎抗击战中，她和团队所提出的“四抗二平衡”方案及带去的人工肝、微生态和干细胞三大技术，显著提高了重症救治率。",
+        "hyp": "文 3 : In this battle against COVID-19, the \"four-anti and two-balance\" strategy proposed by her and her team, along with the three major technologies they brought—artificial liver, microbiota, and stem cells—significantly improved the survival rate of critically ill patients.",
+        "label_text": "microbiota"
+    }
+]

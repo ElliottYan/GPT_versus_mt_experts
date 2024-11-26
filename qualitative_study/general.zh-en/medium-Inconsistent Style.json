@@ -1,0 +1,12 @@
+[
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 5 : Following the conclusion of the first season of the programme, which focused on the theme of “sound”, the second season, Kyoto Irodori Diary, shifted its core topic to “colors”. Starting from July 17, 2013, the programme aired every third Wednesday of the month, late at night (or early Thursday morning) at 1:58 a.m. In addition, the second season maintained the “Yui’s Diary” segment at the end of each episode, but the second session featured Yokoyama’s hand-drawn illustrated diary to recap and summarize the episode’s content. Furthermore, in the episode aired on June 11, 2014, Yokoyama announced that the second season would continue for another year and would produce the first special episode of the programme. The special episode invited special guest Rie Kitahara, also a member of AKB48, and had an extended duration of 90 minutes.",
+        "label_text": "sound"
+    },
+    {
+        "source": "原文 : 继以声音为主题的第一季节目结束后，第二季《京都色彩日记》则改以“颜色”作为核心话题，自2013年7月17日起于每个月的第三个星期三深夜（相当于周四凌晨） 1时58分播放，此外在每集的末尾亦维持第一季“由依的日记”小单元，但第二季是以横山手绘的绘图日记来回顾并总结该集内容，此外在2014年6月11日播出的节目中，横山宣布了第二季将会持续迈入第二年的播出，并制作开播以来的首集特别篇，除会邀请同为AKB48成员的北原里英担任特别来宾外，特别篇将会有90分钟的延长播出。",
+        "hyp": "文 5 : Following the conclusion of the first season of the programme, which focused on the theme of “sound”, the second season, Kyoto Irodori Diary, shifted its core topic to “colors”. Starting from July 17, 2013, the programme aired every third Wednesday of the month, late at night (or early Thursday morning) at 1:58 a.m. In addition, the second season maintained the “Yui’s Diary” segment at the end of each episode, but the second session featured Yokoyama’s hand-drawn illustrated diary to recap and summarize the episode’s content. Furthermore, in the episode aired on June 11, 2014, Yokoyama announced that the second season would continue for another year and would produce the first special episode of the programme. The special episode invited special guest Rie Kitahara, also a member of AKB48, and had an extended duration of 90 minutes.",
+        "label_text": "colors"
+    }
+]

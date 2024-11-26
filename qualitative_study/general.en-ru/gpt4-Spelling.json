@@ -1,0 +1,112 @@
+[
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 4 : Край может быть необходим в зависимости от свободных агентов, а парень из Айовы (я не могу написать его имя) хорош, но это все еще немного рискованно.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 4 : Край может быть необходим в зависимости от свободных агентов, а парень из Айовы (я не могу написать его имя) хорош, но это все еще немного рискованно.",
+        "label_text": "е "
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 4 : Он создаёт впечатление, что XVG сейчас тонет, хотя на самом деле всё идёт хорошо.",
+        "label_text": "XVG"
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 4 : Он создаёт впечатление, что XVG сейчас тонет, хотя на самом деле всё идёт хорошо.",
+        "label_text": "XVG"
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 1 : В конце модельного года появилась \"уличная\" версия большего 421-кубического дюйма V8, которая в основном использовалась для гонок в 1961 и большую часть 1962 года, но она стала доступна только в четырехбаррельном исполнении с мощностью в лошадиных силах ( ).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 1 : Я слишком некрасив(а), чтобы жаловаться в Snapchat, поэтому делаю это на Reddit.",
+        "label_text": " Я"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 4 : Это 1:49 - это просто мой тренер в своем репертуаре: \"ты должен быть хорош, но пока не очень, так что я поставлю тебе нереальные цели\", или мне действительно стоит стремиться к 1:49?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Brenda said “well you can do the tattoo with me”.",
+        "hyp": "文 3 : Бренда сказала: \"ну ты можешь сделать татуировку со мной\".",
+        "label_text": "ну"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 5 : Я все еще учусь, и моя мечта - игры... а эти цены вызывают у меня депрессию и отчаяние от жизни... если честно...",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 5 : Я все еще учусь, и моя мечта - игры... а эти цены вызывают у меня депрессию и отчаяние от жизни... если честно...",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 4 : Между детьми с тяжелой гипоксемией (SpO₂: < 80%) и теми, у кого наблюдалась легкая гипоксемия (SpO₂: 80 до < 92%), не было значительной разницы в распространенности радиологической пневмонии или сердечно-сосудистых аномалий, а также в смертности в течение 28 дней.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 4 : Между детьми с тяжелой гипоксемией (SpO₂: < 80%) и теми, у кого наблюдалась легкая гипоксемия (SpO₂: 80 до < 92%), не было значительной разницы в распространенности радиологической пневмонии или сердечно-сосудистых аномалий, а также в смертности в течение 28 дней.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 4 : Между детьми с тяжелой гипоксемией (SpO₂: < 80%) и теми, у кого наблюдалась легкая гипоксемия (SpO₂: 80 до < 92%), не было значительной разницы в распространенности радиологической пневмонии или сердечно-сосудистых аномалий, а также в смертности в течение 28 дней.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : It is with a broken heart that I must tell you of the death of my beloved wife, husband John Furlong confirmed in a statement on Friday morning.",
+        "hyp": "文 5 : С разбитым сердцем я должен сообщить вам о смерти моей любимой жены, подтвердил в заявлении в пятницу утром муж Джон Ферлонг.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : We are probably not getting him the ball as much as we need.",
+        "hyp": "文 1 : Мы, вероятно, не передаем ему мяч так часто, как нам нужно.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Okay, so I’ve got less than a chapter left in Gardens of the Moon and I still can’t understand what the fuck Oponn is trying to achieve through all their/its meddling.",
+        "hyp": "文 5 : Хорошо, у меня осталась меньше главы до конца \"Садов Луны\", и я все еще не могу понять, чего, черт возьми, Опонн пытается добиться со всем этим своим/их вмешательством.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Okay, so I’ve got less than a chapter left in Gardens of the Moon and I still can’t understand what the fuck Oponn is trying to achieve through all their/its meddling.",
+        "hyp": "文 5 : Хорошо, у меня осталась меньше главы до конца \"Садов Луны\", и я все еще не могу понять, чего, черт возьми, Опонн пытается добиться со всем этим своим/их вмешательством.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Tell me about yourself and we can go from there.",
+        "hyp": "文 4 : Расскажи мне о себе, и мы начнем с этого.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Cleaning pipes maintenance is the most important but wearing work to operate the Type 93 torpedo.",
+        "hyp": "文 1 : Обслуживание и очистка трубопроводов - это самая важная, но утомительная работа при эксплуатации торпеды типа 93.",
+        "label_text": "т"
+    },
+    {
+        "source": "原文 : There's another way: In Bailout, Neil Barofsky's memoir of his time in Washington serving as the special inspector general overseeing the Troubled Asset Relief Program, he described the advice he received from Kristine Belisle, the woman he smartly hired to be his communications director.",
+        "hyp": "文 1 : Есть другой путь: в своих мемуарах \"Bailout\", Нил Барофски, рассказывая о времени, проведённом в Вашингтоне в качестве специального инспектора по надзору за Программой по облегчению финансовых активов, описывает советы, которые он получил от Кристин Белисл, женщины, которую он умно нанял на должность директора по связям с общественностью.",
+        "label_text": "Нил"
+    },
+    {
+        "source": "原文 : Derry midfielder Adam Reilly closes down Lee Grace at the Brandywell",
+        "hyp": "文 5 : Полузащитник \"Дерри\" Адам Райли блокирует Ли Грейса на стадионе \"Брендивелл\".",
+        "label_text": "Райли"
+    },
+    {
+        "source": "原文 : From a previous marriage, she has a daughter named Cheyan and a son named Dakota.",
+        "hyp": "文 5 : Из предыдущего брака у неё есть дочь по имени Чеян и сын по имени Дакота.",
+        "label_text": "Чеян"
+    }
+]

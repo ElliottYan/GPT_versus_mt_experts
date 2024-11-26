@@ -1,0 +1,27 @@
+[
+    {
+        "source": "原文 : 从总表来看，增压车型依然延续了性能测试中的强势地位，垄断了前四名的位置。",
+        "hyp": "文 5 : From the overall rankings, the turbocharged models have maintained their dominant position observed in the performance tests, monopolizing the top four.",
+        "label_text": " observed "
+    },
+    {
+        "source": "原文 : 前车门管状梁外径尺寸33.25mm，后车门上方梁外径尺寸25.70mm，下方梁外径尺寸为32.34mm。",
+        "hyp": "文 1 : The outer diameter of the tubular beams in the front doors of the Sonata is approximately 33.25 mm. The outer diameter of the upper beam of the rear doors is approximately 25.70 mm, while the outer diameter of the lower beam is approximately 32.34 mm.",
+        "label_text": "of the Sonata"
+    },
+    {
+        "source": "原文 : 前车门管状梁外径尺寸33.25mm，后车门上方梁外径尺寸25.70mm，下方梁外径尺寸为32.34mm。",
+        "hyp": "文 1 : The outer diameter of the tubular beams in the front doors of the Sonata is approximately 33.25 mm. The outer diameter of the upper beam of the rear doors is approximately 25.70 mm, while the outer diameter of the lower beam is approximately 32.34 mm.",
+        "label_text": "approximately"
+    },
+    {
+        "source": "原文 : 前车门管状梁外径尺寸33.25mm，后车门上方梁外径尺寸25.70mm，下方梁外径尺寸为32.34mm。",
+        "hyp": "文 1 : The outer diameter of the tubular beams in the front doors of the Sonata is approximately 33.25 mm. The outer diameter of the upper beam of the rear doors is approximately 25.70 mm, while the outer diameter of the lower beam is approximately 32.34 mm.",
+        "label_text": "approximately"
+    },
+    {
+        "source": "原文 : 前车门管状梁外径尺寸33.25mm，后车门上方梁外径尺寸25.70mm，下方梁外径尺寸为32.34mm。",
+        "hyp": "文 1 : The outer diameter of the tubular beams in the front doors of the Sonata is approximately 33.25 mm. The outer diameter of the upper beam of the rear doors is approximately 25.70 mm, while the outer diameter of the lower beam is approximately 32.34 mm.",
+        "label_text": "approximately"
+    }
+]

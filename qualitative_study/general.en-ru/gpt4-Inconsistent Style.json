@@ -1,0 +1,157 @@
+[
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 5 : Заслуживает внимания тот факт, что только два сегмента генома IAV - NS и NP - не подверглись реассортименту и эволюционировали в результате генетического дрейфа, начиная с пандемии 1918 года и до настоящего времени.",
+        "label_text": "Заслуживает внимания тот факт"
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 5 : Заслуживает внимания тот факт, что только два сегмента генома IAV - NS и NP - не подверглись реассортименту и эволюционировали в результате генетического дрейфа, начиная с пандемии 1918 года и до настоящего времени.",
+        "label_text": "в результате"
+    },
+    {
+        "source": "原文 : I know it’s a scientific things and all, but some of the posts there are just too much.",
+        "hyp": "文 3 : Я понимаю, что это всё научные штуки и всё такое, но некоторые посты там просто чересчур.",
+        "label_text": "штуки"
+    },
+    {
+        "source": "原文 : I know it’s a scientific things and all, but some of the posts there are just too much.",
+        "hyp": "文 3 : Я понимаю, что это всё научные штуки и всё такое, но некоторые посты там просто чересчур.",
+        "label_text": "просто чересчур"
+    },
+    {
+        "source": "原文 : A certain Lambeth struck the flag and Ayscue had to surrender to Tromp on the Gouda, the first and last time in history a British admiral of so high a rank would be captured at sea.",
+        "hyp": "文 2 : Определённый Лэмбет опустил флаг, и Эйску пришлось сдаться Тромпу на борту \"Гауды\", это был первый и последний случай в истории, когда британский адмирал такого высокого ранга был захвачен в море.",
+        "label_text": "опустил"
+    },
+    {
+        "source": "原文 : It's great at making coffee and keeping it hot, but there are too many other issues with it to invest in it at the current price.",
+        "hyp": "文 3 : Он отлично готовит кофе и поддерживает его горячим, но слишком много других проблем, чтобы вкладываться в него при текущей цене.",
+        "label_text": "вкладываться"
+    },
+    {
+        "source": "原文 : And so I did and found out on the 2nd or 3rd post that The AJ Show has been blocked on YouTube, I’m not a fan of rightwing stuff and was actually the reason I stopped watching it 2 years ago, though the small fragrance of freedom was that hard to find among the 90% national-capitalism the site has to offer, but anyhow, I got the idea of a non-censoring video site like LiveLeak but much more simple and less “newsy” that anyone can post on.",
+        "hyp": "文 5 : И вот я это сделал и узнал из второго или третьего поста, что шоу AJ заблокировали на YouTube. Я не поклонник правых взглядов и, собственно, поэтому перестал смотреть его два года назад, хотя и было трудно найти хоть какой-то аромат свободы среди 90% национал-капитализма, который предлагал сайт. Но тем не менее, у меня возникла идея о видео-сайте без цензуры вроде LiveLeak, только гораздо проще и менее \"новостным\", на который каждый мог бы что-то выложить.",
+        "label_text": "мог бы что-то выложить"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 5 : Однако последние несколько месяцев она катается по той же велосипедной тропе, что и я (единственной такой), и мы сталкиваемся друг с другом каждые пару недель и обмениваемся парой слов.",
+        "label_text": "сталкиваемся"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 5 : Однако последние несколько месяцев она катается по той же велосипедной тропе, что и я (единственной такой), и мы сталкиваемся друг с другом каждые пару недель и обмениваемся парой слов.",
+        "label_text": "обмениваемся парой слов"
+    },
+    {
+        "source": "原文 : Charles was expected to attend a showing of the completed film, but died before it opened.",
+        "hyp": "文 5 : От Чарльза ожидали, что он посетит показ завершённого фильма, но он умер до его премьеры.",
+        "label_text": "От Чарльза ожидали, что"
+    },
+    {
+        "source": "原文 : I was only locally driving, so it took the better part of a week to realize I couldn’t put it to 60mph, or that I had to floor it to hit 3500 rpm.",
+        "hyp": "文 5 : Я ездил только по местности, поэтому ушла почти неделя, чтобы понять, что я не могу разогнаться до 60 миль в час, или что мне приходится выжимать педаль в пол, чтобы достичь 3500 оборотов в минуту.",
+        "label_text": "по местности"
+    },
+    {
+        "source": "原文 : She wud speak in Thai to me YET I DONT KNOW ANY THAI.",
+        "hyp": "文 1 : Она говорила со мной по-тайски, А Я ВООБЩЕ НЕ ЗНАЮ ТАЙСКИЙ.",
+        "label_text": "ВООБЩЕ"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 4 : Солдаты якобы украли у других мужчин ещё 1 440 000 CFA (2 845 долларов США).",
+        "label_text": "США"
+    },
+    {
+        "source": "原文 : Idek what kind of dog this was but it was so ugly my god who would own such a thing.",
+        "hyp": "文 2 : Я понятия не имею, какой это была порода собаки, но она была такая уродливая, боже мой, кто бы завёл такое существо.",
+        "label_text": "Я понятия не имею"
+    },
+    {
+        "source": "原文 : Yesterday when I was at work, she messaged me saying something like “how’s your work doing?”, and I kind of replied to her with a cold tone saying “I’m at work, talk to you later”, and",
+        "hyp": "文 2 : Вчера, когда я был на работе, она написала мне что-то вроде \"Как у тебя дела на работе?\", и я как-то холодно ответил ей: \"Я на работе, поговорим позже\", и",
+        "label_text": "холодно ответил"
+    },
+    {
+        "source": "原文 : I think there is less stigma attached to being a fat bloke than being a fat woman.",
+        "hyp": "文 4 : Я думаю, что к толстым мужчинам общество относится менее осуждающе, чем к полным женщинам.",
+        "label_text": "полным"
+    },
+    {
+        "source": "原文 : So, there will be problems on various fronts, I'm sure, and we will need the numbers very soon.",
+        "hyp": "文 4 : Итак, у нас, я уверен, возникнут проблемы на разных фронтах, и нам очень скоро понадобятся эти данные.",
+        "label_text": "данные"
+    },
+    {
+        "source": "原文 : I was avoiding eye contact and trying to face as far away from them as possible.",
+        "hyp": "文 1 : Я избегал взгляда в глаза и старался повернуться как можно дальше от них.",
+        "label_text": "взгляда в глаза"
+    },
+    {
+        "source": "原文 : Ukraine's military chief, Gen. Valerii Zaluzhnyi, said that Russian forces launched 71 cruise missiles, 35 S-300 missiles and seven Shahed drones between late Thursday and midday Friday, adding that Ukrainian air defenses downed 61 cruise missiles and five drones.",
+        "hyp": "文 1 : Глава военного ведомства Украины, генерал Валерий Залужный, сообщил, что российские войска запустили 71 крылатую ракету, 35 ракет системы С-300 и семь беспилотников Shahed с позднего четверга до полудня пятницы, добавив, что украинская противовоздушная оборона сбила 61 крылатую ракету и пять дронов.",
+        "label_text": "противовоздушная"
+    },
+    {
+        "source": "原文 : I don't know if you have responded, I had not seen anyone providing any- any updates to the document.",
+        "hyp": "文 4 : Я не знаю, отвечали ли вы, я не видел, чтобы кто-либо вносил какие-либо обновления в документ.",
+        "label_text": "вносил "
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 3 : Итак, я узнал из второго или третьего поста, что шоу AJ заблокировали на YouTube. Я не фанат правых взглядов и, на самом деле, это была причина, по которой я перестал смотреть его два года назад, хотя и было трудно найти хоть крупицу свободы среди 90% национал-капитализма, который предлагает сайт. Но тем не менее, у меня возникла идея о видеохостинге без цензуры, типа LiveLeak, но гораздо проще и менее \"новостным\", где каждый мог бы размещать контент и ничего бы не удалялось❤️",
+        "label_text": "узнал"
+    },
+    {
+        "source": "原文 : n so i did n found out on de 2nd or 3rd post dät The AJ Show has been blocked on YT, im not a fan of rightwing stuff n was acctully de reason i stopd watching it 2 years ago tho the small fragrence of freedom was dät hard tu find amoung the 90% national-capitalism de site has tu offer, but anyhow i got d idea of a non censoring video site like liveleak but much more simple n less \"newsy\" dät any1 can post on no content wud b removed❤️",
+        "hyp": "文 3 : Итак, я узнал из второго или третьего поста, что шоу AJ заблокировали на YouTube. Я не фанат правых взглядов и, на самом деле, это была причина, по которой я перестал смотреть его два года назад, хотя и было трудно найти хоть крупицу свободы среди 90% национал-капитализма, который предлагает сайт. Но тем не менее, у меня возникла идея о видеохостинге без цензуры, типа LiveLeak, но гораздо проще и менее \"новостным\", где каждый мог бы размещать контент и ничего бы не удалялось❤️",
+        "label_text": "правых взглядов"
+    },
+    {
+        "source": "原文 : I can safely open this attachment because it appears to be from my friend/family/trusted authority.",
+        "hyp": "文 2 : Я могу смело открыть это вложение, потому что оно, похоже, от моего друга/семьи/доверенного источника.",
+        "label_text": "источника"
+    },
+    {
+        "source": "原文 : If you are reading this, you should be ashamed of yourself.",
+        "hyp": "文 5 : Если вы это читаете, вам следует стыдиться.",
+        "label_text": "вам следует стыдиться"
+    },
+    {
+        "source": "原文 : I got covid by kissing another guy for the first time, so i had to tell my mum.",
+        "hyp": "文 3 : Я заразился ковидом, поцелув другого парня в первый раз, поэтому мне пришлось сказать об этом маме.",
+        "label_text": "заразился"
+    },
+    {
+        "source": "原文 : OT could be there like Thomas, but I’m just not convinced any guy we take will be better than Little entering his 2nd year.",
+        "hyp": "文 3 : Так, возможно, мы могли бы взять там нападающего, как Томаса, но я просто не убежден, что любой парень, которого мы выберем, будет лучше, чем Литтл на втором году его карьеры.",
+        "label_text": "нападающего"
+    },
+    {
+        "source": "原文 : He finds one he likes, a Jericho, and buys it and some ammo.",
+        "hyp": "文 2 : Он находит понравившийся ему пистолет — Иерихон, — покупает его и несколько патронов.",
+        "label_text": "патронов"
+    },
+    {
+        "source": "原文 : He finds one he likes, a Jericho, and buys it and some ammo.",
+        "hyp": "文 2 : Он находит понравившийся ему пистолет — Иерихон, — покупает его и несколько патронов.",
+        "label_text": "патронов"
+    },
+    {
+        "source": "原文 : However, banks still maintain telephone banking systems that allow customers to perform routine transactions.",
+        "hyp": "文 3 : Тем не менее, банки по-прежнему поддерживают системы телефонного банкинга, которые позволяют клиентам выполнять стандартные операции.",
+        "label_text": "стандартные операции"
+    },
+    {
+        "source": "原文 : I care abt how I effect ppl a lot but try not to show it.",
+        "hyp": "文 4 : Мне очень важно, как я влияю на людей, но я стараюсь это не показывать.",
+        "label_text": " очень важно"
+    },
+    {
+        "source": "原文 : I care abt how I effect ppl a lot but try not to show it.",
+        "hyp": "文 4 : Мне очень важно, как я влияю на людей, но я стараюсь это не показывать.",
+        "label_text": " очень важно"
+    }
+]

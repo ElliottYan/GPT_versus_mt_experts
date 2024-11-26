@@ -1,0 +1,227 @@
+[
+    {
+        "source": "原文 : Жаль, что первое впечатление было перечеркнуто , теперь посещаем другой филиал, и там отношение к клиентам не зависит от смены сотрудников.",
+        "hyp": "文 5 : It’s a shame that the first impression was ruined; now we attend another branch, and its customer treatment doesn't depend on the personnel shift.",
+        "label_text": "personnel shift"
+    },
+    {
+        "source": "原文 : В уборке примут участие 114 единиц спецтехники и 123 рабочих.",
+        "hyp": "文 1 : In total, 114 special vehicles and 123 workers will be employed in the cleaning.",
+        "label_text": "vehicles"
+    },
+    {
+        "source": "原文 : \"Нам надо провести глубокий анализ, чтобы убедиться, что эта причина не распространяется на подобные конструкции на будущих пусках.",
+        "hyp": "文 1 : \"We need to carry out a thorough analysis to make sure that the structures during future launches won't be affected by the same reason.",
+        "label_text": "the same"
+    },
+    {
+        "source": "原文 : \"Нам надо провести глубокий анализ, чтобы убедиться, что эта причина не распространяется на подобные конструкции на будущих пусках.",
+        "hyp": "文 1 : \"We need to carry out a thorough analysis to make sure that the structures during future launches won't be affected by the same reason.",
+        "label_text": "the same"
+    },
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 3 : In the Granovshchina village, the Chair of the Government checked the operation of a new educational institution, the Granovskaya school which opened in September 2022.",
+        "label_text": "Chair"
+    },
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 3 : In the Granovshchina village, the Chair of the Government checked the operation of a new educational institution, the Granovskaya school which opened in September 2022.",
+        "label_text": "checked"
+    },
+    {
+        "source": "原文 : Риторика потому, что подобный случай, повторю, со мной происходит уже третий раз.",
+        "hyp": "文 4 : It is the line of argument because such a case, I mention it again, has happened to me for the third time already.",
+        "label_text": "It is the line of argument"
+    },
+    {
+        "source": "原文 : Риторика потому, что подобный случай, повторю, со мной происходит уже третий раз.",
+        "hyp": "文 4 : It is the line of argument because such a case, I mention it again, has happened to me for the third time already.",
+        "label_text": "It is the line of argument"
+    },
+    {
+        "source": "原文 : После некоторого снижения количества участников протестных акций в минувший вторник по сравнению с двумя первыми \"днями мобилизации\" профсоюзы надеются в этот раз вывести на улицы большее количество протестующих с учетом тех граждан, кто не имел возможности участвовать в манифестациях в будний день.",
+        "hyp": "文 4 : After the number of participants in protest actions initiated last Tuesday slightly decreased as compared with the first two “days of mobilization”, the trade unions hope to bring more protesters to the streets this time, taking into account the citizens who were not able to participate in the demonstrations on a weekday.",
+        "label_text": "on a weekday"
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 2 : On the move-in day, they called, asked what time to expect us to come, specified the cost of the transfer (1400 from the airport). We booked a taxi (at 11 pm the price was 850 rubles), arrived quickly, without any traffic jams, and we had no problems to pass the crossing barrier.",
+        "label_text": "move-in"
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 2 : On the move-in day, they called, asked what time to expect us to come, specified the cost of the transfer (1400 from the airport). We booked a taxi (at 11 pm the price was 850 rubles), arrived quickly, without any traffic jams, and we had no problems to pass the crossing barrier.",
+        "label_text": "move-in"
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 2 : On the move-in day, they called, asked what time to expect us to come, specified the cost of the transfer (1400 from the airport). We booked a taxi (at 11 pm the price was 850 rubles), arrived quickly, without any traffic jams, and we had no problems to pass the crossing barrier.",
+        "label_text": "expect us to come"
+    },
+    {
+        "source": "原文 : Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.",
+        "hyp": "文 3 : Pay your attention to George Clooney who sided with a rock photographer, now director Anton Corbijn  (\"Control\") for an always-curious existential exploration of the psychology of a hired killer hiding from people in a small Italian town and belatedly penetrating into the secrets of human nature.",
+        "label_text": "photographer, now director"
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 4 : Hereditary optic neuropathies (HON) represent a group of neurodegenerative diseases characterized by the primary loss of structure and function of retinal ganglion cells, with the following death of their axons and the development of partial optic atrophy.",
+        "label_text": " represent "
+    },
+    {
+        "source": "原文 : Сцена истребления Девятого Легиона, на которую ушло много бюджетных денег, напрямую инспирирована вступительной раздачей в германских лесах из теперь уже эталонного «Гладиатора» сэра Ридли Скотта, но пытаться уличать Маршалла в плагиате почему-то абсолютно не хочется: он работает честно и без претензий.",
+        "hyp": "文 2 : The scene of the extermination of the Ninth Legion, that absorbed a lot of pubic money, was directly inspired by the scene in the German forests that opened a currently benchmark film “Gladiator” by Sir Ridley Scott, but for some reason, I have no desire at all to catch Marshall for plagiarizing: he works honestly and without pretensions.",
+        "label_text": "pubic money"
+    },
+    {
+        "source": "原文 : И обязательно рекомендую русский корпус нижегородского художественного музея - неожиданно прекрасная крллекция",
+        "hyp": "文 5 : And I highly recommend the Russian building of the Nizhny Novgorod Art Museum with its unexpectedly wonderful collection.",
+        "label_text": "with"
+    },
+    {
+        "source": "原文 : И обязательно рекомендую русский корпус нижегородского художественного музея - неожиданно прекрасная крллекция",
+        "hyp": "文 5 : And I highly recommend the Russian building of the Nizhny Novgorod Art Museum with its unexpectedly wonderful collection.",
+        "label_text": "with its unexpectedly wonderful collection"
+    },
+    {
+        "source": "原文 : Детское меню как везде: макароны, фри, куриные котлеты. Мои ели пиццу, она тут ОГОНЬ!",
+        "hyp": "文 4 : Children's menu was the same as everywhere: pasta, fries, chicken cutlets. Mine ate pizza, it's straight FIRE here!",
+        "label_text": "FIRE "
+    },
+    {
+        "source": "原文 : Она будет устраивать одно ДТП за другим, бегать по стенам а-ля «Матрица» и как детей раскидывать крепких мужиков в одинаковых строгих костюмах.",
+        "hyp": "文 3 : She will cause car accidents, one by one, run across walls a la “The Matrix” and throw out, like kids, strong men in similar formal suits.",
+        "label_text": "like kids"
+    },
+    {
+        "source": "原文 : По информации ведомства, инцидент произошел вечером пятницы на 218 километре автодороги Р-22 в Михайловском районе.",
+        "hyp": "文 2 : According to the department's data, the incident took place on Friday evening, at the 218th kilometer of the R-22 motorway in the Mikhailovsky district.",
+        "label_text": "motorway"
+    },
+    {
+        "source": "原文 : Статистический отчет за 2017-2020 гг. показал, что в амбулаторных условиях многопрофильной стоматологической клиники, оказывающей услуги по системе обязательного медицинского страхования населению мегаполиса, наблюдается прирост численности врачей по исследуемому профилю до 304,5% и среднего медицинского персонала до 256,3% за счет молодых кадров.",
+        "hyp": "文 3 : The statistical report for 2017–2020 demonstrated that multidisciplinary dental clinics providing outpatient services to big-city residents under the compulsory medical insurance system enjoyed the increase of up to 304.5% in the number of doctors in the studied discipline and that in the number of nursing staff — up to 256.3% thanks to the influx of young personnel.",
+        "label_text": "the increase of up to 304.5% in the number of doctors in the studied discipline and that in the number of nursing staff — up to 256.3%"
+    },
+    {
+        "source": "原文 : Статистический отчет за 2017-2020 гг. показал, что в амбулаторных условиях многопрофильной стоматологической клиники, оказывающей услуги по системе обязательного медицинского страхования населению мегаполиса, наблюдается прирост численности врачей по исследуемому профилю до 304,5% и среднего медицинского персонала до 256,3% за счет молодых кадров.",
+        "hyp": "文 3 : The statistical report for 2017–2020 demonstrated that multidisciplinary dental clinics providing outpatient services to big-city residents under the compulsory medical insurance system enjoyed the increase of up to 304.5% in the number of doctors in the studied discipline and that in the number of nursing staff — up to 256.3% thanks to the influx of young personnel.",
+        "label_text": "the increase of up to 304.5% in the number of doctors in the studied discipline and that in the number of nursing staff — up to 256.3%"
+    },
+    {
+        "source": "原文 : Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.",
+        "hyp": "文 1 : In fact, you are utterly natural on screen, which many people, frankly speaking, didn't expect.",
+        "label_text": "In fact"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 4 : The most problematic film of \"Kinotavr\" has already been selected for the Karlovy Vary competition: a director star is born.",
+        "label_text": "problematic"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 4 : The most problematic film of \"Kinotavr\" has already been selected for the Karlovy Vary competition: a director star is born.",
+        "label_text": "problematic"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 4 : The most problematic film of \"Kinotavr\" has already been selected for the Karlovy Vary competition: a director star is born.",
+        "label_text": "film"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 2 : At a round-table meeting dedicated to the destiny of the Russian arthouse, the chairman of the fund supporting home-produced films, Sergei Tolstikov, initiated a scenic quarrel with critics: “Do you ever read the press articles that I read?” he angrily asked the audience.",
+        "label_text": "scenic"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 2 : At a round-table meeting dedicated to the destiny of the Russian arthouse, the chairman of the fund supporting home-produced films, Sergei Tolstikov, initiated a scenic quarrel with critics: “Do you ever read the press articles that I read?” he angrily asked the audience.",
+        "label_text": "arthouse"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 2 : At a round-table meeting dedicated to the destiny of the Russian arthouse, the chairman of the fund supporting home-produced films, Sergei Tolstikov, initiated a scenic quarrel with critics: “Do you ever read the press articles that I read?” he angrily asked the audience.",
+        "label_text": "scenic"
+    },
+    {
+        "source": "原文 : Ваш партнер по фильму Александр Яценко совершенно не похож на своего героя.",
+        "hyp": "文 5 : Your partner in the film, Alexander Yatsenko, looks nothing like his character.",
+        "label_text": "looks nothing like"
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 4 : The Turkish agency Anadolu provides other data and reports that the Margara-Alijan border check point was last used to supply humanitarian cargos to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": "provides"
+    },
+    {
+        "source": "原文 : Итоги командного зачета определяются согласно Положению. В командный зачет принимаются результаты, в том числе всероссийских соревнований.",
+        "hyp": "文 4 : The results of the team classification are determined in accordance with the Regulation. The nation-wide competition results, among others, are accepted for the team classification",
+        "label_text": "nation-wide"
+    },
+    {
+        "source": "原文 : Итоги командного зачета определяются согласно Положению. В командный зачет принимаются результаты, в том числе всероссийских соревнований.",
+        "hyp": "文 4 : The results of the team classification are determined in accordance with the Regulation. The nation-wide competition results, among others, are accepted for the team classification",
+        "label_text": "others"
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 3 : The husband ate smoked ribs, that was a sensation: soft, juicy, flavory.",
+        "label_text": "sensation"
+    },
+    {
+        "source": "原文 : Я конкретно про \"лягушонок\", Тренер наш Анастасия Витальевна очень нравится ребенку и профессиональна!!",
+        "hyp": "文 3 : I mean the “frog” here; the child likes our coach Anastasia Vitalyevna very much and she is a professional!!",
+        "label_text": "the child likes"
+    },
+    {
+        "source": "原文 : При этом Бессон обращается с жанровым кино, про которое знает решительно все, бесцеремонно и весело, как мальчишка, насмотревшийся старых фильмов и начитавшийся Жюля Верна.",
+        "hyp": "文 5 : At the same time, Besson treats genre films, which are an entirely known sphere for him, off-handedly and merrily, like a boy who has seen lots of old films and read a host of Jules Verne's works.",
+        "label_text": "At the same time"
+    },
+    {
+        "source": "原文 : Потом в помещение заходит вежливый человек в белом халате, представляется доктором и стреляет одной из испытуемых в голову.",
+        "hyp": "文 5 : Then a polite man in a lab coat enters the room, introduces himself as a doctor and shoots in the head of one of the girls participating in the trial.",
+        "label_text": "girls participating"
+    },
+    {
+        "source": "原文 : Странствуя по улочкам Петербурга, мы с подругами решили заглянуть в это многообещающее заведение - и не прогадали!",
+        "hyp": "文 3 : While wandering through the streets of St. Petersburg, my female friends and I decided to call at this promising location, and we got money's worth!",
+        "label_text": "ot money's worth"
+    },
+    {
+        "source": "原文 : Ретроспективный анализ результатов хирургического лечения эпилепсии у детей с ТС и факторов, влияющих на его исход.",
+        "hyp": "文 2 : Post-hoc analysis of the results of operative therapy of epilepsy in the children with tuberous sclerosis and of the factors influencing the treatment outcome.",
+        "label_text": " Post-hoc"
+    },
+    {
+        "source": "原文 : Пациенты в зависимости от степени атеросклеротического стеноза внутренней сонной артерии и картины глазного дна были разделены на две группы.",
+        "hyp": "文 3 : Depending on the degree of atherosclerotic stenosis of the internal carotid artery and the condition of fundus of eye, the patients were divided into two groups.",
+        "label_text": "condition"
+    },
+    {
+        "source": "原文 : К отмене крепостного права в Центральной России 55% крепостных были отпущены на оброк.",
+        "hyp": "文 5 : By the time when serfdom in Central Russia was abolished, 55% of serfs were released under condition to pay quitrent.",
+        "label_text": " to pay quitrent"
+    },
+    {
+        "source": "原文 : График работы, с 10.00 до 21.00, без выходных и праздничных дней.",
+        "hyp": "文 4 : Working hours: from 10 am to 09 pm, seven days a week.",
+        "label_text": "seven days a week"
+    },
+    {
+        "source": "原文 : Аналитики ПСБ отмечают, что на относительную устойчивость отрасли оказали влияние программы государственной поддержки.",
+        "hyp": "文 2 : The Promsvyazbank analysts point out that the relative stability of the industry was influenced by state support programs.",
+        "label_text": "Promsvyazbank"
+    },
+    {
+        "source": "原文 : Погодные условия осложнялись порывистым ветром, скорость которого временами достигала 20-25 метров в секунду.",
+        "hyp": "文 5 : Weather conditions were impaired by a gusty wind, the velocity of which reached 20–25 meters per second at times.",
+        "label_text": "impaired"
+    },
+    {
+        "source": "原文 : Процесс выглядит следующим образом: самолеты на расстоянии 50-100 километров от Москвы (в зависимости от длины и мощности дождевого фронта) “разбивают” этими реагентами тучи, идущие на город. Частицы веществ конденсируют вокруг себя влагу.",
+        "hyp": "文 4 : The process is as follows: at a distance of 50–100 kilometers from Moscow, airplanes (depending on the length and power of the rain front) use these reagents to “break” clouds approaching the city. Particles of substances condense moisture around themselves.",
+        "label_text": "themselves"
+    }
+]

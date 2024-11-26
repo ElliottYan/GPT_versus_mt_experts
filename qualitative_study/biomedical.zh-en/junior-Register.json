@@ -1,0 +1,212 @@
+[
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 2 : Combining this product with sulfonylureas and adjusting their dosage can achieve satisfactory blood sugar control.",
+        "label_text": "blood sugar "
+    },
+    {
+        "source": "原文 : 联合服用本品与磺脲类药物，通过调整两种药物的剂量可以达到满意的血糖控制。",
+        "hyp": "文 2 : Combining this product with sulfonylureas and adjusting their dosage can achieve satisfactory blood sugar control.",
+        "label_text": "blood sugar "
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 2 : 1. Patients with peptic ulcers (see [Precautions]) [may experience aggravated ulcer symptoms due to the inhibitory effects on prostaglandin synthesis, which reduce the gastric mucosal defense capability]",
+        "label_text": "see"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 2 : 2.  If buyers have an urgent need for the product or if there are time constraints, it is recommended to choose a reliable express service provider such as SF Express and modify the freight charge prior to making the payment.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 5 : 2. Patients with severe blood abnormalities [may experience worsening conditions due to potential adverse reactions such as blood disorders].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 5 : 2. Patients with severe blood abnormalities [may experience worsening conditions due to potential adverse reactions such as blood disorders].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 5 : 2. Patients with severe blood abnormalities [may experience worsening conditions due to potential adverse reactions such as blood disorders].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 2.严重的血液异常患者［可能出现血液病等的不良反应，因此有可能使血液异常进一步恶化］",
+        "hyp": "文 5 : 2. Patients with severe blood abnormalities [may experience worsening conditions due to potential adverse reactions such as blood disorders].",
+        "label_text": "blood"
+    },
+    {
+        "source": "原文 : 10.使用齐多夫定的患者［参照【药物相互作用】］；",
+        "hyp": "文 5 : 10. Patients taking zidovudine (see [Drug Interactions]);",
+        "label_text": "see"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 3 : 4、 Hanhoo Red Pomegranate Fresh Moisturizing Six-piece Set (Hydrating and Moisturizing Skin care and Cosmetics Set for Female  Students, Complete Gift Box Set with Facial Cleanser, Toning Lotion, Facial Cream and Eye Cream)",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 5 : When relapse happens, the symptoms are generally more severe than those of the initial episode, which may include life-threatening low blood pressure and even death.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 5 : When relapse happens, the symptoms are generally more severe than those of the initial episode, which may include life-threatening low blood pressure and even death.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 他差两个餐没送，但有个 order 已完结",
+        "hyp": "文 1 : He still has two pending food delivery orders, but one of the orders has already been fulfilled.",
+        "label_text": "fulfilled"
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 3 : The entire process, including makeup and shooting, will take about two hours. The photographer is a young man from the post-95s generation, who may not be so skilled. Hope that you can offer more advice on the shooting poses of customers~ He is quite conversable, and we had an enjoyable time during the shoot.",
+        "label_text": "you "
+    },
+    {
+        "source": "原文 : 这种超敏反应复发一般比初次发作时的表现更严重，可能包括危及生命的低血压和死亡。",
+        "hyp": "文 3 : When relapse happens, the symptoms of this hypersensitivity reaction are generally more severe than those of the initial episode, which may include life-threatening low blood pressure and even death.",
+        "label_text": "low blood pressure"
+    },
+    {
+        "source": "原文 : 打击犯罪、保障儿童和家长权益，从立法的完善，到司法的保障，以及执法的缜密，无不需要贯彻“护幼扶弱”的关怀。",
+        "hyp": "文 1 : In order to tackle crime and ensure the rights and welfare of children and parents, it is essential to uphold the principle of \"protecting the young and supporting the weak\" at every stage. This includes improvements in legislation, judicial protection, and meticulous law enforcement.",
+        "label_text": "weak"
+    },
+    {
+        "source": "原文 : 橄榄油富含丰富的单不饱和脂肪酸，即油酸及亚油酸、亚麻酸，还有维生素A、维生素B、维生素D、维生素E、维生素K及抗氧化物等。",
+        "hyp": "文 2 : Olive oil is abundant in monounsaturated fatty acids (oleic acid, linoleic acid, and linolenic acid). Besides, it also contains vitamins A, B, D, E, and K, along with antioxidants.",
+        "label_text": "abundant"
+    },
+    {
+        "source": "原文 : 对CYP2C9有抑制作用的药物如伏立康唑、氟康唑",
+        "hyp": "文 4 : Medications such as fluconazole and voriconazole have inhibitory effects on CYP2C9.",
+        "label_text": "Medications"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，致使肾脏的钠排泄减少，锂清除率降低，血中锂浓度升高。",
+        "hyp": "文 5 : As a result of the inhibitory action of this product on prostaglandin synthesis, there is a decrease in sodium excretion in the kidneys, leading to a reduction in lithium clearance and an elevation in blood lithium concentration.",
+        "label_text": "action"
+    },
+    {
+        "source": "原文 : 可能影响肾功能的急性病情，如：脱水、严重感染、休克；",
+        "hyp": "文 1 : Acute medical conditions that have the potential to impact kidney function, including dehydration, severe infection, and shock;",
+        "label_text": "kidney"
+    },
+    {
+        "source": "原文 : 严重感染和外伤，外科大手术，临床有低血压和缺氧等；",
+        "hyp": "文 4 : Severe infections and traumas, major surgical procedures, clinical symptoms such as low blood pressure and hypoxia, etc.;",
+        "label_text": " low blood pressure"
+    },
+    {
+        "source": "原文 : 糖尿病昏迷前驱期；",
+        "hyp": "文 3 : Prodromal phase of diabetic coma;",
+        "label_text": "phase"
+    },
+    {
+        "source": "原文 : 肝功能不全、急性酒精中毒、酗酒；",
+        "hyp": "文 2 : Liver dysfunction, acute alcoholism, and alcoholism;",
+        "label_text": "alcoholism"
+    },
+    {
+        "source": "原文 : 皮莱说 ： “ 他们能够在家里控制疾病，大多数人在隔离10至14天内康复 。 ”",
+        "hyp": "文 4 : Pillay says, \"Their conditions can be controlled at home, and most of them can recover within 10 to 14 days of isolation.\"",
+        "label_text": "isolation"
+    },
+    {
+        "source": "原文 : 分离出的121株病原菌中，革兰氏阴性（G<sup>-</sup>）菌 76株（62.8%），革兰氏阳性（G<sup>+</sup>）菌 40株（33.1%），真菌5株（4.1%）。",
+        "hyp": "文 1 : Among the isolated 121 pathogenic strains, 76 strains (62.8%) were Gram-negative (G-), 40 strains (33.1%) were Gram-positive (G+), and 5 strains (4.1%) were fungi.",
+        "label_text": "pathogenic strains"
+    },
+    {
+        "source": "原文 : 其他关键症状包括胃肠道、呼吸或全身症状，例如嗜睡和不适。",
+        "hyp": "文 5 : Other key symptoms include gastrointestinal, respiratory, or systemic symptoms, such as drowsiness and discomfort.",
+        "label_text": "iscomfort"
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，致使水、钠体内潴留。",
+        "hyp": "文 2 : The inhibitory action of this product on prostaglandin synthesis leads to fluid and sodium retention in the body.",
+        "label_text": "action "
+    },
+    {
+        "source": "原文 : 由于本品对前列腺素合成的抑制作用，血管扩张作用和水、钠排泄被抑制。",
+        "hyp": "文 3 : This product inhibits prostaglandin synthesis, resulting in vasodilation and a reduction in fluid and sodium excretion.",
+        "label_text": "a reduction in"
+    },
+    {
+        "source": "原文 : 据国外文献报道，即使二甲双胍服药量达到85g都没有发生低血糖，但在这种情况下会发生乳酸酸中毒。",
+        "hyp": "文 3 : According to reports in foreign literature, hypoglycemia may not occur even with a dosage of up to 85 g of metformin. However, in these cases, lactic acidosis may occur.",
+        "label_text": "reports in "
+    },
+    {
+        "source": "原文 : 术后至少48小时或恢复进食并且肾功能经评估稳定后才可以重新开始治疗。",
+        "hyp": "文 1 : Treatment can only be resumed after a minimum of 48 hours post-surgery or upon stable renal function evaluation and resumption of eating.",
+        "label_text": "eating"
+    },
+    {
+        "source": "原文 : 浸润性癌12例、原位癌3例；肿瘤分期：T <sub>is</sub>N <sub>0</sub>M <sub>0</sub> 3例，T <sub>1</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>1</sub>N <sub>2</sub>M <sub>0</sub> 2例，T <sub>2</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>2</sub>N <sub>1</sub>M <sub>0</sub> 2例。",
+        "hyp": "文 2 : There were 12 cases of invasive cancer and 3 cases of carcinoma in situ. The tumor staging included 3 cases of TisN0M0, 4 cases of T1N0M0, 2 cases of T1N2M0, 1 case of T2N0M0, and 2 cases of T2N1M0.",
+        "label_text": "cancer "
+    },
+    {
+        "source": "原文 : 合用增强了新喹诺酮抗菌剂的GABA抑制作用。",
+        "hyp": "文 5 : Through combined administration, the GABA inhibitory effect of new quinolone antibacterial agents is enhanced.",
+        "label_text": "new"
+    },
+    {
+        "source": "原文 : 月经无法控制，开始到结束为止的几天内24小时流血，能做的只有用卫生巾或卫生棉条吸血防止流到衣服椅子上。",
+        "hyp": "文 1 : During the uncontrollable menstrual period, which lasts for several days with continuous bleeding, the only recourse is to use sanitary pads or tampons to prevent blood from staining the clothes or chairs.",
+        "label_text": "recourse"
+    },
+    {
+        "source": "原文 : 现有的免疫功能定义如免疫过度、免疫抑制、免疫麻痹、免疫耐受均停留在描述性的概念，缺乏定量的诊断标准，结合临床表现及生物学指标将是未来最有效的量化方式。",
+        "hyp": "文 2 : The current definitions of immune function, including immune hyperactivation, immune suppression, immune paralysis, and immune tolerance, are purely descriptive and lack quantitative diagnostic criteria. The most effective future approach is to combine clinical manifestations with biological indicators for quantification.",
+        "label_text": "immune suppression"
+    },
+    {
+        "source": "原文 : 现有的PAP动物模型均不能完全反映人PAP疾病发展，需进一步开发和改进，为临床实践提供依据。",
+        "hyp": "文 3 : The current PAP animal models do not fully reflect the development of the disease in humans, necessitating further development and improvement to provide a basis for clinical practice.",
+        "label_text": "development"
+    },
+    {
+        "source": "原文 : 个性化定位组胫骨轴线分为直线型58膝（50.88%）、内弓型35膝（30.70%）、外弓型21膝（18.42%）。",
+        "hyp": "文 2 : The personalized positioning of the tibial shaft axis is classified into three types: straight (58 joints, 50.88%), medial arch (35 joints, 30.70%), and lateral arch (21 joints, 18.42%).",
+        "label_text": "joints"
+    },
+    {
+        "source": "原文 : 个性化定位组胫骨轴线分为直线型58膝（50.88%）、内弓型35膝（30.70%）、外弓型21膝（18.42%）。",
+        "hyp": "文 2 : The personalized positioning of the tibial shaft axis is classified into three types: straight (58 joints, 50.88%), medial arch (35 joints, 30.70%), and lateral arch (21 joints, 18.42%).",
+        "label_text": "joints"
+    },
+    {
+        "source": "原文 : 个性化定位组胫骨轴线分为直线型58膝（50.88%）、内弓型35膝（30.70%）、外弓型21膝（18.42%）。",
+        "hyp": "文 2 : The personalized positioning of the tibial shaft axis is classified into three types: straight (58 joints, 50.88%), medial arch (35 joints, 30.70%), and lateral arch (21 joints, 18.42%).",
+        "label_text": "joints"
+    },
+    {
+        "source": "原文 : 肺泡蛋白沉积症（PAP）是一种呼吸系统罕见病，研究进展缓慢。",
+        "hyp": "文 3 : Pulmonary Alveolar Proteinosis (PAP) is a rare disease characterized by respiratory system disorder. Little progress has been made in its research.",
+        "label_text": "Little"
+    },
+    {
+        "source": "原文 : 如果成人或青少年的体重低于40 kg，不应当给予本品，因为本品是固定剂量片剂，不能减少剂量。",
+        "hyp": "文 2 : This product is contraindicated for adults or adolescents weighing below 40 kg due to its fixed-dose formulation, which does not allow for dosage reduction.",
+        "label_text": "dosage"
+    },
+    {
+        "source": "原文 : 我不要了，由于下面没法停车，他未能送上来",
+        "hyp": "文 4 : He was unable to deliver because he couldn't park below, so I decided to cancel my order.",
+        "label_text": "below"
+    },
+    {
+        "source": "原文 : 综上，基于CHB临床检验诊断路径的实验诊断学教学模式，实现了实验诊断学与临床医学的融合，提升了学生对CHB诊疗中各种实验室检查检测的整体认识，教学质量得到了提高。",
+        "hyp": "文 4 : In summary, the experimental diagnostic teaching model based on the CHB clinical laboratory diagnostic pathway has realized the integration of experimental diagnostics and clinical medicine and improved the overall understanding of various laboratory examinations and tests in CHB diagnosis and treatment among students, thereby enhancing the teaching quality.",
+        "label_text": "diagnostic"
+    }
+]

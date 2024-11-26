@@ -1,0 +1,22 @@
+[
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 5 : Edge может понадобиться в зависимости от FA, парень из Айовы (я не могу произнести его имя) хорош, но разрыв все жэ еще есть.",
+        "label_text": "Edge"
+    },
+    {
+        "source": "原文 : There's another way: In Bailout, Neil Barofsky's memoir of his time in Washington serving as the special inspector general overseeing the Troubled Asset Relief Program, he described the advice he received from Kristine Belisle, the woman he smartly hired to be his communications director.",
+        "hyp": "文 2 : Есть и другой способ: в книге \"Спасение\", мемуарах Нила Барофски о его работев Вашингтоне в качестве специального генеральногоинспекторапонадзоруза программойпомощи проблемным активам, онописываетсовет,полученныйимот КристинБелэр,женщины, которую он ловко нанял на должностьдиректора по коммуникациям.",
+        "label_text": "Спасение"
+    },
+    {
+        "source": "原文 : In both landings, the covering force went ashore from warships with the exception of V Beach at Helles where the SS River Clyde was used as an improvised landing craft for 2,000 men.",
+        "hyp": "文 4 : В обеих высадках силы прикрытия высаживались на берег с военных кораблей, за исключением пляжа V в Хеллесе, где эсминец \"Ривер Клайд\" использовался в качестве импровизированного десантного судна на 2000 человек.",
+        "label_text": "\"Ривер Клайд\""
+    },
+    {
+        "source": "原文 : In both landings, the covering force went ashore from warships with the exception of V Beach at Helles where the SS River Clyde was used as an improvised landing craft for 2,000 men.",
+        "hyp": "文 4 : В обеих высадках силы прикрытия высаживались на берег с военных кораблей, за исключением пляжа V в Хеллесе, где эсминец \"Ривер Клайд\" использовался в качестве импровизированного десантного судна на 2000 человек.",
+        "label_text": "Ривер Клайд"
+    }
+]

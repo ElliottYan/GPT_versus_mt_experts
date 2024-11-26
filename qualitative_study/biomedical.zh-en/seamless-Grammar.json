@@ -1,0 +1,192 @@
+[
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "discontinued"
+    },
+    {
+        "source": "原文 : 有可能出现再生障碍性贫血、溶血性贫血、粒细胞减少症、血小板减少症（频率均不明*），因此应充分进行观察，发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Regenerative anemia, hemolysis, anemia, granulocyte depletion, and platelet depletion (frequency unknown*) are possible, and should be observed closely, discontinued if abnormalities are detected, and appropriate measures taken.",
+        "label_text": "measures taken"
+    },
+    {
+        "source": "原文 : 有可能出现消化性溃疡、胃肠出血、溃疡性结肠炎（频率均不明*），发现异常时中止用药，并采取相应措施。",
+        "hyp": "文 5 : Digestive ulcers, gastrointestinal bleeding, and ulcerative colitis (frequency unknown*) are possible, and medication should be discontinued if abnormalities are detected and appropriate measures taken.",
+        "label_text": "taken"
+    },
+    {
+        "source": "原文 : 1.消化性溃疡患者（参照【注意事项】）［由于前列腺素合成抑制作用致胃黏膜防御能力降低，因此有可能使消化性溃疡加剧］",
+        "hyp": "文 4 : 1. Patients with digestive ulcers (see <unk> Precautions <unk>) [Due to the inhibitory effect of prostaglandin synthesis, the gastric mucosa defenses are reduced, so it is possible to aggravate digestive ulcers]",
+        "label_text": "of"
+    },
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 1 : 2. Buyers in urgent need of products or time constraints, it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again.",
+        "label_text": "Buyers in urgent need of products or time constraints"
+    },
+    {
+        "source": "原文 : 不能期待一个两岁的孩子具有足够的自我保护技能，但作为年幼孩子的家长，应至少具有相当的保护意识。",
+        "hyp": "文 3 : A two-year-old child cannot be expected to have sufficient self-protection skills, but as a parent of a young child, you should at least have a considerable sense of protection.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 不能期待一个两岁的孩子具有足够的自我保护技能，但作为年幼孩子的家长，应至少具有相当的保护意识。",
+        "hyp": "文 3 : A two-year-old child cannot be expected to have sufficient self-protection skills, but as a parent of a young child, you should at least have a considerable sense of protection.",
+        "label_text": "a"
+    },
+    {
+        "source": "原文 : 7.有对本品的成分过敏的既往病史的患者；",
+        "hyp": "文 1 : Patients with a history of allergies to the ingredients of this product;",
+        "label_text": "allergies"
+    },
+    {
+        "source": "原文 : 有可能增强香豆素类抗凝血药（华法林）的作用，因此应注意调整用量。",
+        "hyp": "文 4 : There is a possibility of enhancing the effect of the anticoagulant warfarin, so care should be taken to adjust the dosage.",
+        "label_text": "care should be taken"
+    },
+    {
+        "source": "原文 : 有报告指出，阿司匹林削弱血小板聚集抑制作用。",
+        "hyp": "文 5 : Some reports indicate that aspirin weakens the inhibitory effect of platelet aggregation.",
+        "label_text": "of"
+    },
+    {
+        "source": "原文 : 狼疮抗凝物是发生静脉血栓栓塞症的危险因素之一，在静脉血栓栓塞症患者中检测狼疮抗凝物，对治疗方案抉择和疗效预后判断等方面具有重要意义。",
+        "hyp": "文 5 : Lupus anticoagulant is one of the risk factors for venous thromboembolism, detection of lupus anticoagulant in patients with venous thromboembolism is important in terms of treatment choice and prognosis.",
+        "label_text": "thromboembolism, detection of"
+    },
+    {
+        "source": "原文 : 狼疮抗凝物是发生静脉血栓栓塞症的危险因素之一，在静脉血栓栓塞症患者中检测狼疮抗凝物，对治疗方案抉择和疗效预后判断等方面具有重要意义。",
+        "hyp": "文 5 : Lupus anticoagulant is one of the risk factors for venous thromboembolism, detection of lupus anticoagulant in patients with venous thromboembolism is important in terms of treatment choice and prognosis.",
+        "label_text": "thromboembolism, detection of"
+    },
+    {
+        "source": "原文 : 所谓古着，vintage，设计都会带有年代的复古感，也就是怀旧，之所以喜欢古着也是喜欢它的岁月感，和它的质感！",
+        "hyp": "文 4 : So-called vintage, vintage designs have a vintage feel to them, which is nostalgia, which is why loving vintage is also loving the feeling of the years, and the texture of it!",
+        "label_text": "So-called vintage"
+    },
+    {
+        "source": "原文 : 比较各组患者治疗3、6、24个月的血液学、细胞遗传学和分子学反应。",
+        "hyp": "文 1 : Comparison of hematology, cell genetics, and molecular responses of groups of patients treated for 3-6-24 months.",
+        "label_text": "hematology"
+    },
+    {
+        "source": "原文 : 比较各组患者治疗3、6、24个月的血液学、细胞遗传学和分子学反应。",
+        "hyp": "文 1 : Comparison of hematology, cell genetics, and molecular responses of groups of patients treated for 3-6-24 months.",
+        "label_text": "of"
+    },
+    {
+        "source": "原文 : 学员通过点播课件、提问答疑、网上讨论等方式进行学习。",
+        "hyp": "文 3 : Students learn by broadcasting lessons, asking questions, answering questions, and discussing online.",
+        "label_text": "learn "
+    },
+    {
+        "source": "原文 : 整个拍摄过程要2个小时左右，化妆+拍摄，负责拍摄的摄影师是95后的弟弟呢，感觉稍微还是有点青涩，希望在顾客拍摄动作指导方面以后能给更多的建议呀～挺健谈的，拍摄过程比较愉快。",
+        "hyp": "文 1 : The whole process of shooting took about 2 hours, makeup + shooting, the photographer in charge of the shooting is the brother of the 95th, the feeling is a little bit still a little frog, hoping to give more advice in the future in terms of guiding the customer's shooting movements.",
+        "label_text": "hoping to"
+    },
+    {
+        "source": "原文 : 选择性5-羟色胺再摄取抑制剂（SSRI）氟伏沙明、帕罗西汀等",
+        "hyp": "文 1 : Selective serotonin reuptake inhibitors (SSRI) such as fluoxetine and paroxetine",
+        "label_text": "(SSRI)"
+    },
+    {
+        "source": "原文 : 有报告显示血中锂浓度升高，并出现锂中毒，因此合用时应充分进行观察，如监测血中锂浓度等，慎重用药。",
+        "hyp": "文 2 : There have been reports of elevated blood potassium levels and potassium poisoning, so the combination should be observed thoroughly, such as monitoring blood potassium levels, etc., and the drug should be used with caution.",
+        "label_text": "etc."
+    },
+    {
+        "source": "原文 : 在使用多替拉韦治疗的第一周内发生血清肌酐升高，在此后的96周期间保持稳定。",
+        "hyp": "文 5 : Serum myocardial infarction occurs within the first week of treatment with doxycycline and remains stable for the next 96 weeks.",
+        "label_text": "and remains stable for the next 96 weeks"
+    },
+    {
+        "source": "原文 : 维生素B12、叶酸缺乏未纠正者。",
+        "hyp": "文 4 : Vitamin B12 folic acid deficiency uncorrected",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 比例有3种类型：时点（或率型）构成比例、时期发生比例及由前二者综合而成的时期构成比例。",
+        "hyp": "文 4 : There are three types of ratios: the ratio of the time point (or rate type) to the period of occurrence of the ratio, and the ratio of the period of occurrence of the ratio of the combination of the previous two.",
+        "label_text": "he period of occurrence of the ratio"
+    },
+    {
+        "source": "原文 : CN1连接器 CN1信号I/O连接线 CN1口用端子台 刹车电阻",
+        "hyp": "文 1 : CN1 connector CN1 signal I/O connection line CN1 port with terminal platform brake resistor",
+        "label_text": "brake"
+    },
+    {
+        "source": "原文 : 进一步对该方法的灵敏度、特异性与线性范围等分析性能进行验证，结果显示同一反应体系中katG315的响应范围为1.0 pmol/L至0.1 nmol/L，rpoB531和rpsL43的响应范围为1.0 pmol/L至50.0 pmol/L和1.0 pmol/L至20.0 pmol/L，且该方法具有较好的特异度与灵敏度，在混合靶标中可精确识别单碱基突变，最低检出限低至1.0 pmol/L；在模拟血清样本的回收实验中，回收率可达95.0%~105.2%。",
+        "hyp": "文 2 : Further verification of the analytical performance of the method, such as sensitivity, specificity and linearity, showed that the response range of katG315 in the same reaction system was 1.0 ppmolL to 0.1 nmolL, the response range of rpoB531 and rpsL was 1.0 pmolL to 50.0 pmolL and 1.0 pmolL to 0.0 pmolL, and the method had better specificity and sensitivity, with accuracy in identifying single base mutations, with a minimum output of 1.0 pmolL.",
+        "label_text": "better"
+    },
+    {
+        "source": "原文 : 术后乳头位置均略高于乳房下皱襞。",
+        "hyp": "文 1 : After surgery, the position of the nipple is slightly higher than that of the breast.",
+        "label_text": "nipple is"
+    },
+    {
+        "source": "原文 : 本品能抑制前列腺素的合成，具有镇痛、解热和抗炎的作用。",
+        "hyp": "文 3 : This product inhibits the synthesis of prostate gland, has analgesic, antipyretic and anti-inflammatory properties.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 继续治疗会使与超敏反应相关的症状加重，可能危及生命，罕见情况下可能致命。",
+        "hyp": "文 1 : Continued treatment may worsen symptoms associated with hypersensitivity reactions, may be life-threatening, and in rare cases may be fatal.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 据国外文献报道，即使二甲双胍服药量达到85g都没有发生低血糖，但在这种情况下会发生乳酸酸中毒。",
+        "hyp": "文 2 : According to foreign literature, even if the dosage of methamphetamine reaches 85 g, there is no low blood sugar, but in this case lactic acid poisoning occurs.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : 用于缓解轻至中度疼痛如头痛、关节痛、偏头痛。",
+        "hyp": "文 1 : It is used to relieve mild to moderate pain such as headache, joint pain, migraine.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : “最好原则”的最大问题在于门槛太高，它往往超越了普通人的能力极限，让绝大多数人“望门兴叹 ” 。",
+        "hyp": "文 4 : The biggest problem with the \"best principle\" is that the threshold is too high, it often exceeds the capacity of ordinary people, making the vast majority of people look forward to it.",
+        "label_text": "it "
+    },
+    {
+        "source": "原文 : 现有的免疫功能定义如免疫过度、免疫抑制、免疫麻痹、免疫耐受均停留在描述性的概念，缺乏定量的诊断标准，结合临床表现及生物学指标将是未来最有效的量化方式。",
+        "hyp": "文 5 : Existing definitions of immune function such as immunodeficiency, immunosuppression, immune paralysis, and immune tolerance remain descriptive concepts, lacking quantitative diagnostic criteria, combined with clinical performance and biological indicators will be the most effective quantification in the future.",
+        "label_text": ", combined"
+    },
+    {
+        "source": "原文 : 进入大学本科阶段，专业开始细分，很多专业课程以基础知识为主。",
+        "hyp": "文 2 : Entering the undergraduate stage of the university, the majors begin to be subdivided, many majors are based on basic knowledge.",
+        "label_text": "Entering"
+    },
+    {
+        "source": "原文 : 进入大学本科阶段，专业开始细分，很多专业课程以基础知识为主。",
+        "hyp": "文 2 : Entering the undergraduate stage of the university, the majors begin to be subdivided, many majors are based on basic knowledge.",
+        "label_text": ", many"
+    },
+    {
+        "source": "原文 : 如果需要停用活性成分之一或对其实施剂量调整，可以使用单独的多替拉韦、阿巴卡韦或拉米夫定制剂。",
+        "hyp": "文 5 : If the active ingredient needs to be discontinued or the dose adjusted, a separate Dotyravet, Abacave or Ramiff formulation may be used.",
+        "label_text": "the"
+    },
+    {
+        "source": "原文 : 如果成人或青少年的体重低于40 kg，不应当给予本品，因为本品是固定剂量片剂，不能减少剂量。",
+        "hyp": "文 5 : If the weight of an adult or a teenager is less than 40 kg, this product should not be given, because this product is a fixed dose tablet, the dose cannot be reduced.",
+        "label_text": ", the"
+    },
+    {
+        "source": "原文 : 尚无中度或重度肝损害患者的临床数据， 因此，除非认为有必要，否则不建议使用本品。",
+        "hyp": "文 3 : There are no clinical data in patients with moderate or severe liver damage, therefore, the use of this product is not recommended unless deemed necessary.",
+        "label_text": ", therefore"
+    },
+    {
+        "source": "原文 : 但是人能出生是因为他的母亲来过月经，月经是为了准备你第一次来到这个世界时要住10个月的房子，大家要感谢自己的母亲规律健康的来过月经。",
+        "hyp": "文 5 : But a person can be born because his mother came through menstruation, menstruation is to prepare you for the first time to come into this world to live in a house for 10 months, we have to thank our mother for menstruating regularly and healthy.",
+        "label_text": "healthy"
+    },
+    {
+        "source": "原文 : 目前新冠疫情正在全球肆虐，大多数的捐款者也已年届退休。",
+        "hyp": "文 3 : Currently, the coronavirus epidemic is raging around the world, and most donors have retired.",
+        "label_text": "have retired"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 1 : Попробуйте написать в чате: \"Я не буду обманывать в этой игре!\"",
+        "label_text": "обманывать"
+    },
+    {
+        "source": "原文 : Try to type in chat, \"I will not cheat on this game!\"",
+        "hyp": "文 1 : Попробуйте написать в чате: \"Я не буду обманывать в этой игре!\"",
+        "label_text": "обманывать"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 1 : Я носила лифчики от Lane Bryant последние где-то четыре года, да, и это был первый раз за долгое время, когда я надела бюстгальтер на косточках.",
+        "label_text": "на косточках"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 1 : Я носила лифчики от Lane Bryant последние где-то четыре года, да, и это был первый раз за долгое время, когда я надела бюстгальтер на косточках.",
+        "label_text": "на косточках"
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 4 : Стоит отметить, что только два сегмента генома вируса гриппа А (IAV)  - NS и NP - не подверглись рекомбинации и эволюционировали в процессе генетического дрейфа, начавшегося вместе с пандемией 1918 года по настоящее время.",
+        "label_text": "вируса гриппа А"
+    },
+    {
+        "source": "原文 : It is noteworthy that only two segments of IAV genome - NS and NP - did not undergo reassortment and evolved in the course of genetic drift, beginning with the pandemic of 1918 to the present.",
+        "hyp": "文 4 : Стоит отметить, что только два сегмента генома вируса гриппа А (IAV)  - NS и NP - не подверглись рекомбинации и эволюционировали в процессе генетического дрейфа, начавшегося вместе с пандемией 1918 года по настоящее время.",
+        "label_text": "гриппа А"
+    },
+    {
+        "source": "原文 : help lol oh wait i can just google it nvm lol",
+        "hyp": "文 1 : помоги, лол. Нет, подожди, я могу просто загуглить это, ладно проехали, лол.",
+        "label_text": "Нет, "
+    },
+    {
+        "source": "原文 : I can check it till the next meeting whether I tried also,",
+        "hyp": "文 5 : К тому же, я могу еще проверить до следующей встречи, пытался ли я,",
+        "label_text": "пытался"
+    },
+    {
+        "source": "原文 : We also explain the ways in which individual factors might influence how communities interact with this food environment.",
+        "hyp": "文 3 : Также мы объясняем пути, по которым индивидуальные факторы могут влиять на то, как сообщества взаимодействуют с этой продовольственной средой.",
+        "label_text": "продовольственной "
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "возможностью включения или отключения глушения"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "ВВС"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "носильщиком,"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "возможностью включения или отключения глушения"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "ВВС"
+    },
+    {
+        "source": "原文 : My guess is a team with growth totem with 2 tanks, a stun-or-not caster, a tanky af fighter, and a carry that solo everything if he wants to.",
+        "hyp": "文 5 : Мое предположение - команда, у которой есть тотем для роста, с 2 танками, заклинателем с возможностью включения или отключения глушения, танковым истребителем ВВС и носильщиком, который при желании может делать все сам.",
+        "label_text": "носильщиком"
+    },
+    {
+        "source": "原文 : Other times, the works simply remain unperformed because the composer doesn't have a big name like Beethoven or Vivaldi that draws big crowds.",
+        "hyp": "文 5 : Порой произведения попросту остаются несыгранными, потому что у композитора нет такого большого имени, как Бетховен или Вивальди, которое собирало бы толпы.",
+        "label_text": "остаются несыгранными"
+    },
+    {
+        "source": "原文 : Other times, the works simply remain unperformed because the composer doesn't have a big name like Beethoven or Vivaldi that draws big crowds.",
+        "hyp": "文 5 : Порой произведения попросту остаются несыгранными, потому что у композитора нет такого большого имени, как Бетховен или Вивальди, которое собирало бы толпы.",
+        "label_text": "остаются несыгранными"
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 2 : В конце модельного года стала доступна \"уличная\" версия более крупного двигателя V8 объемом 421 кубических дюйма, который использовался прежде всего для гоночной фрезеровки в 1961 и большую часть 1962 года, но лишь в четырехцилиндровом варианте с мощностью ( ) лошадиных сил.",
+        "label_text": " гоночной фрезеровки"
+    },
+    {
+        "source": "原文 : Late in the model year a \"street\" version of the larger 421 cubic-inch V8 that was primarily a racing mill in 1961 and most of 1962 became available, but only in a four-barrel form rated at horsepower ( ).",
+        "hyp": "文 2 : В конце модельного года стала доступна \"уличная\" версия более крупного двигателя V8 объемом 421 кубических дюйма, который использовался прежде всего для гоночной фрезеровки в 1961 и большую часть 1962 года, но лишь в четырехцилиндровом варианте с мощностью ( ) лошадиных сил.",
+        "label_text": " гоночной фрезеровки"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 2 : Мне кажется, я неплохо лавирую, но инструктор говорит, что мне все еще нужно больше практиковаться.",
+        "label_text": "лавирую"
+    },
+    {
+        "source": "原文 : Thus, Stimforte, which exhibits, on the one hand, antiviral activity against viruses of different families and, on the other hand, the immunomodulatory properties, could be promising as an etiopathogenic tool in helping to normalize both nonspecific and specific immunity.",
+        "hyp": "文 4 : Таким образом, Стимфорте, демонстрирующий, с одной стороны, противовирусную активность против вирусов различных семейств и, с другой стороны, иммуномодулирующие свойства, может быть перспективным в качестве этиопатогенного инструмента, помогающего нормализовать как неспецифический, так и специфический иммунитет.",
+        "label_text": "демонстрирующий"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 3 : Другие запасные (добровольные) силы были учреждены в 1981 году, а составляли их гражданские лица, готовые выполнять ограниченные полицейские задачи без вознаграждения.",
+        "label_text": "Другие запасные (добровольные) силы были учреждены"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 2 : Быть тебе настоящим другом со всеми вытекающими \"брать-давать\" --- ты можешь опустить ее соответственно (например, с друга до просто \"кое-кого, кого я знаю\").",
+        "label_text": "опустить"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 2 : Быть тебе настоящим другом со всеми вытекающими \"брать-давать\" --- ты можешь опустить ее соответственно (например, с друга до просто \"кое-кого, кого я знаю\").",
+        "label_text": "опустить"
+    },
+    {
+        "source": "原文 : This page presents an overview of the state of the art based on official sources.",
+        "hyp": "文 3 : Эта страница представляет собой обзор положения дел, основанный на официальных ресурсах.",
+        "label_text": "положения дел"
+    },
+    {
+        "source": "原文 : This page presents an overview of the state of the art based on official sources.",
+        "hyp": "文 3 : Эта страница представляет собой обзор положения дел, основанный на официальных ресурсах.",
+        "label_text": "ресурсах"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 2 : Впрочем, она ездит по той же велосипедной дорожке (единственной), что и я, последние несколько месяцев, и мы пересекаемся каждые две недели и немножко болтаем.",
+        "label_text": "болтаем"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 2 : Впрочем, она ездит по той же велосипедной дорожке (единственной), что и я, последние несколько месяцев, и мы пересекаемся каждые две недели и немножко болтаем.",
+        "label_text": "каждые две недели"
+    },
+    {
+        "source": "原文 : However, she takes the same bike trail as me (the only one) for the past few months and we run into each other every couple weeks and have small talk.",
+        "hyp": "文 2 : Впрочем, она ездит по той же велосипедной дорожке (единственной), что и я, последние несколько месяцев, и мы пересекаемся каждые две недели и немножко болтаем.",
+        "label_text": "болтаем"
+    },
+    {
+        "source": "原文 : It’s getting old, and you look like an idiot when you spell like this.",
+        "hyp": "文 4 : Это уже надоедает, и ты выглядишь как идиот, когда пишешь так.",
+        "label_text": "надоедает"
+    },
+    {
+        "source": "原文 : It’s getting old, and you look like an idiot when you spell like this.",
+        "hyp": "文 4 : Это уже надоедает, и ты выглядишь как идиот, когда пишешь так.",
+        "label_text": "надоедает"
+    },
+    {
+        "source": "原文 : Just knowing I can go home and text them brightens my mood ten-fold.",
+        "hyp": "文 3 : Одно лишь знание, что я могу пойти домой и написать им, улучшает мое настроение в десять раз.",
+        "label_text": "пойти"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 2 : В последнее время я пытался использовать их, но, к сожалению, каждый раз, когда я беру капсулу, моя Keurig машина выдает сообщение о том, что капсула несовместима с ней.",
+        "label_text": "беру капсулу"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 2 : В последнее время я пытался использовать их, но, к сожалению, каждый раз, когда я беру капсулу, моя Keurig машина выдает сообщение о том, что капсула несовместима с ней.",
+        "label_text": "капсула "
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 2 : В последнее время я пытался использовать их, но, к сожалению, каждый раз, когда я беру капсулу, моя Keurig машина выдает сообщение о том, что капсула несовместима с ней.",
+        "label_text": "беру капсулу"
+    },
+    {
+        "source": "原文 : Recently I tried to use them and unfortunately each time I try one my Keurig machine gives me an error message that the pod is not compatible with my machine.",
+        "hyp": "文 2 : В последнее время я пытался использовать их, но, к сожалению, каждый раз, когда я беру капсулу, моя Keurig машина выдает сообщение о том, что капсула несовместима с ней.",
+        "label_text": "капсула "
+    },
+    {
+        "source": "原文 : She wud speak in Thai to me YET I DONT KNOW ANY THAI.",
+        "hyp": "文 5 : Она говорила со мной по-тайски, ХОТЯ Я НЕ ЗНАЛА НИЧЕГО НА ТАЙСКОМ.",
+        "label_text": "ХОТЯ"
+    },
+    {
+        "source": "原文 : She wud speak in Thai to me YET I DONT KNOW ANY THAI.",
+        "hyp": "文 5 : Она говорила со мной по-тайски, ХОТЯ Я НЕ ЗНАЛА НИЧЕГО НА ТАЙСКОМ.",
+        "label_text": "ХОТЯ"
+    },
+    {
+        "source": "原文 : Is poignant with today's pair of demi-gods holding world political position.",
+        "hyp": "文 4 : Пронизан сегодняшней парочкой полубогов, занимающих мировые политические позиции.",
+        "label_text": "Пронизан"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 5 : Держу пари, ты не утруждал себя прочитать весь номер или заметить письмо, которое я положила туда, ииии теперь ты вернешься только чтобы проверить и понять, что письма там не было.",
+        "label_text": "ииии"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 2 : Я слишком страшный, чтобы разглагольствовать даже в Снэпчате, поэтому я делаю это на reddit",
+        "label_text": "страшный"
+    },
+    {
+        "source": "原文 : THE MOMENT I LOOK UP, PAUL IS LOOKING STRAIGHT AT ME, STILL WALKING TOWARDS ME.",
+        "hyp": "文 5 : В момент, когда я посмотрела наверх, Пол смотрел прямо на меня, продолжая идти навстречу.",
+        "label_text": "Пол "
+    },
+    {
+        "source": "原文 : I wouldn’t do that to him of course, but I was just wondering how bad is it to cheat?",
+        "hyp": "文 1 : Я бы, конечно, так с ним не поступала, но мне было просто интересно, как это может быть плохо - обманывать?",
+        "label_text": "как это может быть плохо - обманывать"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 5 : В 1:49 мой тренер как обычно начинает свое \"твоя задача - быть хорошим игроком, но ты этого не делаешь, поэтому я ставлю тебе нереалистичные цели\", или должен ли я быть в 1:49?",
+        "label_text": "В 1:49"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical “you should be good, but you’re not, so I’m going to give you unrealistic goals”, or should I be at 1:49?",
+        "hyp": "文 5 : В 1:49 мой тренер как обычно начинает свое \"твоя задача - быть хорошим игроком, но ты этого не делаешь, поэтому я ставлю тебе нереалистичные цели\", или должен ли я быть в 1:49?",
+        "label_text": "В 1:49"
+    },
+    {
+        "source": "原文 : Ben Kingsley, left, and Liam Neeson star in the Holocaust drama 'Schindler's List.'",
+        "hyp": "文 1 : Бен Кингсли, слева, и Лиам Нисон, звезда драмы о Холокосте \"Список Шиндлера\".",
+        "label_text": "звезда "
+    },
+    {
+        "source": "原文 : But it's more difficult to find people to follow and build up your timeline.",
+        "hyp": "文 1 : Но еще труднее найти людей, которые следовали бы за вами, и выстроить свой график.",
+        "label_text": "следовали бы за вами"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 3 : Я все еще учусь, и гейминг - моя мечта… и от этих цен у меня начинается депрессия и безнадежность жизни… честно говоря…",
+        "label_text": "гейминг"
+    },
+    {
+        "source": "原文 : I texted her in the night yesterday asking if she’s mad, and like she said she’s only a bit let down.",
+        "hyp": "文 2 : Я написала ей вчера ночью с вопросом, сердится ли она, и, как она сказала, она лишь немного подавлена.",
+        "label_text": "подавлена"
+    },
+    {
+        "source": "原文 : its a bit unnerving to manage expenses on 1 persons salary in this place....",
+        "hyp": "文 1 : Немножко раздражает управлять расходами на зарплату 1 человека в этом месте…",
+        "label_text": "раздражает"
+    },
+    {
+        "source": "原文 : But by the next day, Tom Gross JPost: Tom Gross - The BBC discovers 'terrorism,' briefly and many others noted that the online articles had been edited, replacing \"terrorists\" by \"bombers\".",
+        "hyp": "文 5 : Но к следующему дню, Том Гросс в JPost: Том Гросс - BBC обнаружило 'терроризм', и многие другие отметили, что онлайн статьи были отредактированы, и \"террористы\" были заменены на \"бомбардировщики\".",
+        "label_text": "- "
+    },
+    {
+        "source": "原文 : Let’s drop down my main build, because it’s the best assassin play style I like.",
+        "hyp": "文 1 : Давайте опустимся в мое главное сооружение, потому что это лучший стиль игры в assassin, который мне нравится.",
+        "label_text": "опустимся "
+    },
+    {
+        "source": "原文 : Let’s drop down my main build, because it’s the best assassin play style I like.",
+        "hyp": "文 1 : Давайте опустимся в мое главное сооружение, потому что это лучший стиль игры в assassin, который мне нравится.",
+        "label_text": "сооружение"
+    },
+    {
+        "source": "原文 : I found the built-in maps app seriously subpar, as I'm used to using Google Maps.",
+        "hyp": "文 2 : Я нахожу встроенное приложение \"Карты\" невероятно посредственными, поскольку привык пользоваться Гугл-картами.",
+        "label_text": "посредственными"
+    },
+    {
+        "source": "原文 : David himself had lost his popularity and lost the respect of his nobles when he married the widow of a minor laird after the death of his English wife.",
+        "hyp": "文 4 : Дэвид сам потерял свою популярность и уважение своих аристократов, когда женился на вдове несовершеннолетнего лэрда после смерти своей английской супруги.",
+        "label_text": "лэрда "
+    },
+    {
+        "source": "原文 : The main requirement we have formulated is not to freeze whole blood.",
+        "hyp": "文 4 : Главное требование, которое мы сформулировали, - не замораживать всю кровь.",
+        "label_text": "всю кровь"
+    },
+    {
+        "source": "原文 : It seems no matter what i do i literally can't keep the dust at bay for more than 24hrs and i am losing my mind.",
+        "hyp": "文 1 : Кажется, что бы я ни делала, я буквально не могу контролировать рост пыли более чем на 24 часа, и я теряю голову.",
+        "label_text": "рост"
+    },
+    {
+        "source": "原文 : After the first few minutes, it didn't feel like we were doing a first test flight, said Peter Chandler, chief test pilot for Airbus.",
+        "hyp": "文 3 : Спустя первые пять минут уже не казалось, что мы совершали первый тестовый полет, сказал Питер Чендлер, главный летчик-испытатель Airbus.",
+        "label_text": "пять минут"
+    },
+    {
+        "source": "原文 : It’s the same as a whole one (and along that line), like, lol, why?”, and he was like “ok, oof, it’s not” and I’m like “lol, why did you say that?”",
+        "hyp": "文 5 : Это один-в-один то целое (и по тому же направлению), типа, лол, почему?\", и он такой: \"ладно, ууф, это не так\" и я такая \"лол, почему ты сказал это?\"",
+        "label_text": "один-в-один"
+    },
+    {
+        "source": "原文 : It makes me feel like this is an infatuation that will pass.",
+        "hyp": "文 1 : Это заставляет меня думать о произошедшем как об увлечении, которое пройдет.",
+        "label_text": " думать"
+    },
+    {
+        "source": "原文 : Personally, I think VII was (alongside RB1) the best Neps games in the entire franchise, what with having a storyline that doesn’t come off as too edgy nor melodramatic like Mk2/RB2, but neither as over-the-top like V/RB3, having the exact and necessary amount of seriousness and comedy.",
+        "hyp": "文 4 : Лично я считаю, что VII  (наряду с RB1) была лучшей из всех Hyperdimension Neptunia игр во всей франшизе, а ее сюжетная линия не выглядела слишком острой и мелодраматичной, как в Mk2/RB2, или чрезмерно зашкаливающей, как V/RB3, обладая конкретным и необходимым количеством серьезности и комедии.",
+        "label_text": "Hyperdimension Neptunia"
+    },
+    {
+        "source": "原文 : I don’t know how to write these properly, so I tried to copy this one post I saw that was in a bullet format, oh my.",
+        "hyp": "文 2 : Я не знаю, как правильно их писать, поэтому я попробовал скопировать один увиденный пост, который был в формате подпунктов, Боже мой.",
+        "label_text": "подпунктов"
+    },
+    {
+        "source": "原文 : If you work backward from x=2, taking the cube root of both sides ignores the possible factors of which are non-principal cube roots of one.",
+        "hyp": "文 5 : Если ты сработаешь в обратном направлении от x=2, взятие кубического корня с обеих сторон игнорирует их возможные факторы для непринципиального кубического корня от 1.",
+        "label_text": "корня от 1"
+    },
+    {
+        "source": "原文 : this item is phenomenal on bard on hits are great.",
+        "hyp": "文 3 : этот предмет феноменален на барде, и хиты замечательны.",
+        "label_text": "замечательны"
+    },
+    {
+        "source": "原文 : I’m a good listener. A lot of people view me as really cute or innocent.",
+        "hyp": "文 2 : Я хороший слушатель. Много людей видят меня очень милым или невинным человеком.",
+        "label_text": "видят"
+    },
+    {
+        "source": "原文 : Thousands of people braved heavy rain to attend Lakiss's funeral in Baalbek.",
+        "hyp": "文 5 : Тысячи людей, невзирая на проливной дождь, пришли на похороны Лакиса в Баальбэке.",
+        "label_text": "невзирая на"
+    },
+    {
+        "source": "原文 : The WHO materials, regulatory documents, data from scientific literature of foreign countries and Russia about the vaccine interchangeability are summarized.",
+        "hyp": "文 1 : Обобщены материалы, нормативные документы ВОЗ, данные научной литературы зарубежных стран и России о взаимозаменяемости вакцин.",
+        "label_text": "Обобщены материалы, нормативные документы ВОЗ"
+    },
+    {
+        "source": "原文 : However, his shield’s gun is overpowered and his rewind ability is somewhat annoying.",
+        "hyp": "文 4 : Однако, его щитовое оружие было преодолено, и его способность перемотки несколько раздражает.",
+        "label_text": "преодолено"
+    },
+    {
+        "source": "原文 : Also reintroduced with the Omens expansion was the Shyft faction, as well as the first 2.0 non-unique Mage Spawn figures.",
+        "hyp": "文 5 : Кроме того, вновь введенной вслед за расширением Предзнаменований стала фракция Шайфт, также как первые неуникальные фигурки Отродие Мага 2.0.",
+        "label_text": "Предзнаменований"
+    },
+    {
+        "source": "原文 : I know they're utter pish and paper wise we should be wiping the floor with them but just not feelin the 2/3 nil vibe atm!",
+        "hyp": "文 2 : Я знаю, что они несут полную чушь и, согласно документам, мы должны бы размазать их по земле, но у меня сейчас нулевое настроение пробивать 2/3!",
+        "label_text": "размазать их по земле"
+    },
+    {
+        "source": "原文 : I know that it doesn’t matter if your dog is friendly, aggressive, or otherwise, doesn’t matter if your dog is already barking and growling, or just minding its own business.",
+        "hyp": "文 1 : Я знаю, что это не имеет значения, дружелюбна ли твоя собака, агрессивна или еще какая-либо, неважно, лает она уже или рычит, или просто занимается своими делами.",
+        "label_text": "или "
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical \"u shud be good but ur not so im gunna giveu unrealistIC GOals\", or should i be at 1:49?",
+        "hyp": "文 4 : В 1:49 мой тренер как обычно начинает свое \"твоя задача - быть хорошим игроком, но ты этого не делаешь, поэтому я ставлю тебе нереалистичные цели\", или должен ли я быть в 1:49?",
+        "label_text": "В 1:49 мой тренер как обычно начинает свое"
+    },
+    {
+        "source": "原文 : Is 1:49 just my coach being a typical \"u shud be good but ur not so im gunna giveu unrealistIC GOals\", or should i be at 1:49?",
+        "hyp": "文 4 : В 1:49 мой тренер как обычно начинает свое \"твоя задача - быть хорошим игроком, но ты этого не делаешь, поэтому я ставлю тебе нереалистичные цели\", или должен ли я быть в 1:49?",
+        "label_text": "В 1:49 мой тренер как обычно начинает свое"
+    },
+    {
+        "source": "原文 : Pls can someone explain to me what should I do",
+        "hyp": "文 5 : Плиз, может кто-нибудь объяснить, что мне делать",
+        "label_text": "Плиз"
+    },
+    {
+        "source": "原文 : Pls can someone explain to me what should I do",
+        "hyp": "文 5 : Плиз, может кто-нибудь объяснить, что мне делать",
+        "label_text": "Плиз"
+    },
+    {
+        "source": "原文 : U srsly don't know what to do and whom to trust anymore.",
+        "hyp": "文 3 : Теперь ты уже всерьез не знаешь, что делать и кому доверять.",
+        "label_text": "всерьез"
+    },
+    {
+        "source": "原文 : Maybe it is not faster for your end, but at least you should consider it.",
+        "hyp": "文 4 : Может, это не ускорит процесс, чтобы тебе все закончить, но, как минимум, ты должен рассмотреть это.",
+        "label_text": "процесс, чтобы тебе все закончить"
+    },
+    {
+        "source": "原文 : So i get tipped on the app, gave me cash at the door, then took away the tip on the app after?",
+        "hyp": "文 1 : Выходит, я получаю чаевые в приложении, мне дают наличные на входе, а потом забирают чаевые в приложении?",
+        "label_text": "на входе"
+    },
+    {
+        "source": "原文 : Community Events Frosty Festival This wonderful festival of music, magic, dancing, great food, laughter and good sportsmanship is a fun time for everyone in the family and a unique opportunity to celebrate what it means to be part of a community.",
+        "hyp": "文 1 : Обшественные мероприятия Фестиваль морозов Этот чудесный фестиваль музыки, магии, танца, великолепной еды, смеха и хорошего спортивного мастерства - веселое время для каждого члена семьи и уникальная возможность отметить, что значит быть частью сообщества.",
+        "label_text": "магии"
+    },
+    {
+        "source": "原文 : Finally they seem to want to engage w/ me and basically tell me they’re going to an event and they’d hope to see me there, which they reaffirm the next day and then day of.",
+        "hyp": "文 3 : Наконец, они, по всей видимости, захотели общаться со мной и в целом сказать мне, что идут на мероприятие и хотели бы видеть меня там, что они и подтвердили на следующий день и потом в день самого мероприятия.",
+        "label_text": "общаться"
+    }
+]

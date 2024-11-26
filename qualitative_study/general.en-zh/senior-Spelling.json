@@ -1,0 +1,17 @@
+[
+    {
+        "source": "原文 : You can easily get an infinite powerlock in longer fights.",
+        "hyp": "文 4 : 战斗时间较长时，可以轻松获得无限能量所。",
+        "label_text": "所"
+    },
+    {
+        "source": "原文 : If you three could meet and double check what is [PROJECT5] doing with the -",
+        "hyp": "文 2 : 希望三维可以碰个头，再确认一下【项目5】在......方面的进展。",
+        "label_text": "三维"
+    },
+    {
+        "source": "原文 : I had been wearing Lane Bryants Lounge Bras the past four-ish years, and so this was the first time in a very long time that I wore a bra with wire.",
+        "hyp": "文 1 : 四年来，我一直都在穿Lane Bryants家的运动内衣，这还是这么久第一次穿带钢圈的文胸。",
+        "label_text": "Lane Bryants"
+    }
+]

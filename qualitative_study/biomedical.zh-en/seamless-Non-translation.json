@@ -1,0 +1,37 @@
+[
+    {
+        "source": "原文 : 2.买家急需产品或有时效限制，建议选择顺风快递，建议到付，顺丰相对有所保证，修改运费后再付款。",
+        "hyp": "文 1 : 2. Buyers in urgent need of products or time constraints, it is recommended to choose smooth courier, it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again.",
+        "label_text": "it is recommended to pay, it is relatively guaranteed, after modifying the shipping fee, pay again"
+    },
+    {
+        "source": "原文 : 4、韩后(Hanhoo)红石榴鲜养焕采六件套（护肤品化妆品套装补水保湿学生女 洗面奶爽肤水乳霜眼霜礼盒正装）",
+        "hyp": "文 4 : 4 Hanhoo red pomegranate freshly chopped six sets (skin care cosmetics set waterproofing student girl washing face milk refreshing skin lotion tears gift box properly packed)",
+        "label_text": "skin care cosmetics set waterproofing student girl washing face milk refreshing skin lotion tears gift box properly packed"
+    },
+    {
+        "source": "原文 : 本品的前列腺素合成抑制作用造成的肾损害加剧了他莫克司水合物的肾损害。",
+        "hyp": "文 1 : The damage to the prostate caused by the inhibition of the synthesis of prostate gland in this product exacerbated the damage to the prostate caused by the Moxie compound.",
+        "label_text": "The damage to the prostate caused by the inhibition of the synthesis of prostate gland in this product exacerbated the damage to the prostate caused by the Moxie compound."
+    },
+    {
+        "source": "原文 : 浸润性癌12例、原位癌3例；肿瘤分期：T <sub>is</sub>N <sub>0</sub>M <sub>0</sub> 3例，T <sub>1</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>1</sub>N <sub>2</sub>M <sub>0</sub> 2例，T <sub>2</sub>N <sub>0</sub>M <sub>0</sub> 4例，T <sub>2</sub>N <sub>1</sub>M <sub>0</sub> 2例。",
+        "hyp": "文 5 : The following is a summary of the findings of the study: T < sub> is a tumor stage N < sub>0 < sub>M < sub>0 < sub>3 case, T < sub>1 < sub>N < sub>0 < sub>4 case, T < sub>1 < sub>N < sub>2 < sub>M < sub>0 < sub>2 case, T < sub>2 < sub>N < sub>0 < sub>M < sub>0 < sub>4 case, T < sub>2 < sub>N < sub>1 < sub>M < sub>0 < sub>0 < sub> 2 < sub> case.",
+        "label_text": "T < sub> is a tumor stage N < sub>0 < sub>M < sub>0 < sub>3 case, T < sub>1 < sub>N < sub>0 < sub>4 case, T < sub>1 < sub>N < sub>2 < sub>M < sub>0 < sub>2 case, T < sub>2 < sub>N < sub>0 < sub>M < sub>0 < sub>4 case, T < sub>2 < sub>N < sub>1 < sub>M < sub>0 < sub>0 < sub> 2 < sub> case"
+    },
+    {
+        "source": "原文 : 术后定期随访，评估缩乳情况及并发症发生情况，采用乳腺癌患者报告结局量表（BREAST-Q）评价患者满意度及生活质量，并行乳腺专科彩超、胸腹部CT、全身骨扫描等检查，评估肿瘤局部复发或远处转移情况。",
+        "hyp": "文 2 : Regular post-operative follow-up, evaluation of breast shrinkage and the occurrence of complications, use of breast cancer patient reporting endpoint scale (BREAST-Q) to evaluate patient satisfaction and quality of life, parallel breast specialty ultrasound, thoracic abdominal CT scan, full-body bone scan, etc. examination, evaluation of local recurrence or distant transfer of the tumor.",
+        "label_text": "Regular post-operative follow-up, evaluation of breast shrinkage and the occurrence of complications, use of breast cancer patient reporting endpoint scale (BREAST-Q) to evaluate patient satisfaction and quality of life, parallel breast specialty ultrasound, thoracic abdominal CT scan, full-body bone scan, etc. examination, evaluation of local recurrence or distant transfer of the tumor"
+    },
+    {
+        "source": "原文 : 其中，77例（96膝）胫骨侧采用传统髓外定位技术（传统定位组）；93例（114膝）采用个性化髓外定位技术（个性化定位组），即结合胫骨解剖形态特点，在胫骨平台关节面选择个性化定位点作为髓外近端定位点。",
+        "hyp": "文 2 : Of these, 77 (96 knee) tibia sides use traditional extracorporeal positioning technology (traditional positioning group); 93 (94 knee) use personalized extracorporeal positioning technology (personalized positioning group), i.e. combine the anatomical features of tibia, select the personalized positioning point as the proximal positioning point of the extracorporeal platform.",
+        "label_text": "Of these, 77 (96 knee) tibia sides use traditional extracorporeal positioning technology (traditional positioning group); 93 (94 knee) use personalized extracorporeal positioning technology (personalized positioning group), i.e. combine the anatomical features of tibia, select the personalized positioning point as the proximal positioning point of the extracorporeal platform"
+    },
+    {
+        "source": "原文 : “很多疾病早期检测、切除不到位，跟医生手术室用的灯有关 。 ”",
+        "hyp": "文 4 : <unk> Early detection of many diseases <unk> Failure to remove the site is related to the lights used in the doctor's operating room <unk> <unk>",
+        "label_text": "<unk> Early detection of many diseases <unk> Failure to remove the site is related to the lights used in the doctor's operating room <unk> <unk>"
+    }
+]

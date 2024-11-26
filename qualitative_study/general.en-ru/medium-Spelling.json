@@ -1,0 +1,252 @@
+[
+    {
+        "source": "原文 : Edge might be a need depending on FA, and the Iowa guy (I cannot spell his name) is good, but that’s still a bit of a reach.",
+        "hyp": "文 5 : Edge может понадобиться в зависимости от FA, парень из Айовы (я не могу произнести его имя) хорош, но разрыв все жэ еще есть.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : hes making it seem like xvg is a sinking ship atm and its doing fine.",
+        "hyp": "文 3 : он создает впечатление, что xvg - это тонущий корабль, и там все хорошо.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 5 : По моему, я нормально справляюсь с маневрами, но инструктор считает, что мне все еще нужно побольше практики.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I think Im doig my manuvers ok but the intractor says i still need more practes.",
+        "hyp": "文 5 : По моему, я нормально справляюсь с маневрами, но инструктор считает, что мне все еще нужно побольше практики.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Thus, Stimforte, which exhibits, on the one hand, antiviral activity against viruses of different families and, on the other hand, the immunomodulatory properties, could be promising as an etiopathogenic tool in helping to normalize both nonspecific and specific immunity.",
+        "hyp": "文 3 : Следоваательно, Стимфорте, проявляющий, с одной стороны, противовирусную активность в отношении вирусов различных семейств и, с другой стороны, иммуномодулирующие свойства, может быть перспективным в качестве этиопатогенетического средства, способствующего нормализации как неспецифического, так и специфического иммунитета.",
+        "label_text": "Следоваательно"
+    },
+    {
+        "source": "原文 : Thus, Stimforte, which exhibits, on the one hand, antiviral activity against viruses of different families and, on the other hand, the immunomodulatory properties, could be promising as an etiopathogenic tool in helping to normalize both nonspecific and specific immunity.",
+        "hyp": "文 3 : Следоваательно, Стимфорте, проявляющий, с одной стороны, противовирусную активность в отношении вирусов различных семейств и, с другой стороны, иммуномодулирующие свойства, может быть перспективным в качестве этиопатогенетического средства, способствующего нормализации как неспецифического, так и специфического иммунитета.",
+        "label_text": "Следоваательно"
+    },
+    {
+        "source": "原文 : Another reserve (volunteer) force was established in 1981, consisting of unpaid civilians willing to perform limited police duties.",
+        "hyp": "文 5 : В 1981 году были созданы еще одни резервные (добровольческие) силы, в соств которых вошли гражданские лица, желающие выполнять ограниченные полицейские функции без оплаты.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 5 : Быть тебе настоящим другом со всеми вытекающими отсюда плюсами и минусами - ты можешь понизить ее соответственно (например, с друга до “кого-то, кого я знаю”).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Being a real friend to you with all the give-and-take that involves — you can downgrade her accordingly (like from friend to “someone I know”).",
+        "hyp": "文 5 : Быть тебе настоящим другом со всеми вытекающими отсюда плюсами и минусами - ты можешь понизить ее соответственно (например, с друга до “кого-то, кого я знаю”).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I sometimes feel sad for them when they r asked to do all this.",
+        "hyp": "文 5 : Иногда мне становится грустно за них, когда им говорят сделать все это.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I can tell where your human has been and what they do by taste when they come back?",
+        "hyp": "文 2 : Я могу определить, где был твой человек и что он делает по вкусу, когда он вернется?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Soldiers allegedly stole another 1,440,000 CFA ($2,845) from the other men.",
+        "hyp": "文 1 : Солдаты, как утверждается, украли еще 1 440 000 КФА (2 845 долларов) у других мужчин.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I bet you didn’t bother reading the whole number, or noticed the letter I put in there, annnd now you’ll go back to check only to realize there was no letter.",
+        "hyp": "文 3 : Бьюсь об заклад, вы даже не удосужились прочитать номер целиком или не заметили букву, которую я туда вставил, и теперь вы вернетесь, чтобы проверить, только чтобы понять, что буквы там не было.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 4 : Я физиономией не вышел, чтобы даже разглагольствовать в snapchat, поэтому вместо этого я делаю это на reddit",
+        "label_text": "Я"
+    },
+    {
+        "source": "原文 : i'm too ugly to even rant on snapchat so i do it on reddit instead",
+        "hyp": "文 4 : Я физиономией не вышел, чтобы даже разглагольствовать в snapchat, поэтому вместо этого я делаю это на reddit",
+        "label_text": " r"
+    },
+    {
+        "source": "原文 : His positioning is absolutely disgusting, Barnes and Maddison are destroying him down the left hand side.",
+        "hyp": "文 1 : Его позиционирование хужэ некуда, Барнс и Мэддисон уничтожают его с левой стороны.",
+        "label_text": "э"
+    },
+    {
+        "source": "原文 : It actually hurts my brain trying to add the T, and I sound American if I do or still say wut-ta.",
+        "hyp": "文 2 : Мне прям по мозгам отдает, когда я пытаюсь добавить \"Т\", и мой акцент звучит по-американски, если произношу \"ч-т-о\".",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : THE MOMENT I LOOK UP, PAUL IS LOOKING STRAIGHT AT ME, STILL WALKING TOWARDS ME.",
+        "hyp": "文 2 : В ТОТ МОМЕНТ, КОГДА Я ПОДНИМАЮ ГЛАЗА, ПОЛ СМОТРИТ ПРЯМО НА МЕНЯ, ВСЕ ЕЩЕ НАПРАВЛЯЯСЬ КО МНЕ.",
+        "label_text": "Е"
+    },
+    {
+        "source": "原文 : THE MOMENT I LOOK UP, PAUL IS LOOKING STRAIGHT AT ME, STILL WALKING TOWARDS ME.",
+        "hyp": "文 2 : В ТОТ МОМЕНТ, КОГДА Я ПОДНИМАЮ ГЛАЗА, ПОЛ СМОТРИТ ПРЯМО НА МЕНЯ, ВСЕ ЕЩЕ НАПРАВЛЯЯСЬ КО МНЕ.",
+        "label_text": "Е"
+    },
+    {
+        "source": "原文 : One of her friend said that she was sad as fuck all day because of me but didn’t want to say why.",
+        "hyp": "文 1 : Одна из ее подруг бросила, что ей было какого-то черта грустно весь день из-за меня, но незахотела пояснить причину.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m most scared that in the future when I’m working, people will look down on SMU like elitism discrimination all that, I don’t know, man.",
+        "hyp": "文 3 : Я больше всего боюсь, что в будущем, когда я буду работать, люди будут смотреть на СМУ свысока, как на элитарность, дискриминацию и все такое, просто ума не приложу, чувак.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Moreover, at the cellular level they change over time, these including changes under the influence of the streams of sensory signals they perceive and the life experience gained, including the consequences of their own actions under certain circumstances.",
+        "hyp": "文 1 : Наряду с этим, на клеточном уровне они меняются с течением времени, в том числе под влиянием потоков воспринимаемых ими сенсорных сигналов и приобретенного жизненного опыта, включая последствия их собственных действий при определенных обстоятельствах.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Then my sister takes the cookies from my hands and handed them to my dad.",
+        "hyp": "文 4 : А потом сестра забирает печенье у меня прямо из рук и отдает отцу.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Also, why restaurants have to be set up like that?",
+        "hyp": "文 4 : И еще, почему рестораны должны быть устроены именно так?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : When day 2 had begun, Mafia and Serial Killer had made their kills.",
+        "hyp": "文 5 : С наступлением второго дня, мафия и серийный убийца совершили свои убийства.",
+        "label_text": "м"
+    },
+    {
+        "source": "原文 : When day 2 had begun, Mafia and Serial Killer had made their kills.",
+        "hyp": "文 5 : С наступлением второго дня, мафия и серийный убийца совершили свои убийства.",
+        "label_text": "с"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 3 : Я знаю, что натуральные продукты будут пахнуть не так приятно, по сравнению некоторыеми синтетическими, но я чувствую, что все больше и больше натуральных линий просто перастают заботтиться об этом, поскольку продажи все равно будут, и теперь в итоге пахнет просто пластилином.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I know natural products aren't going to smell as pretty as some synthetic ones but I feel like more and more natural lines just care less since it will sell anyway and so now everything just smells like playdough.",
+        "hyp": "文 3 : Я знаю, что натуральные продукты будут пахнуть не так приятно, по сравнению некоторыеми синтетическими, но я чувствую, что все больше и больше натуральных линий просто перастают заботтиться об этом, поскольку продажи все равно будут, и теперь в итоге пахнет просто пластилином.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 4 : Я все еще учусь, и игры - моя мечта... но если на чистоту… эти цены нагоняют на меня депрессию и безнадежность от жизни…",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m still studying, and gaming is my dream… and these prices are giving me depression and hopelessness from life… to be honest…",
+        "hyp": "文 4 : Я все еще учусь, и игры - моя мечта... но если на чистоту… эти цены нагоняют на меня депрессию и безнадежность от жизни…",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I texted her in the night yesterday asking if she’s mad, and like she said she’s only a bit let down.",
+        "hyp": "文 4 : Вчера вечером я написал ей и и спрочил не злится ли она. По ее словам, она всего лишь немного разочарована.",
+        "label_text": "ч"
+    },
+    {
+        "source": "原文 : I texted her in the night yesterday asking if she’s mad, and like she said she’s only a bit let down.",
+        "hyp": "文 4 : Вчера вечером я написал ей и и спрочил не злится ли она. По ее словам, она всего лишь немного разочарована.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I’m not a trans man, but I am interested in knowing someone’s perspectives who lived both as a woman and as a man (not a lot of people get to experience what it is like to be perceived as both genders) so thats kinda neat imo",
+        "hyp": "文 2 : Я не трансгендер, но мне интересно узнать точку зрения человека, который жил и как женщина, и как мужчина (не многим людям удается испытать, каково это, когда тебя воспринимают как представителей обоих полов), так что это своего рода потрясно",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 2 : Не было выявлено существенной разницы в распространенности рентгенологической пневмонии, сердечно-сосудистых аномалий или в 28-дневной смертности между детьми с тяжелой гипоксемией (SpO<sub>2</sub>: < 80%) и детьми с легкой гипоксемией (SpO<sub>2</sub>: от 80 до < 92%).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 2 : Не было выявлено существенной разницы в распространенности рентгенологической пневмонии, сердечно-сосудистых аномалий или в 28-дневной смертности между детьми с тяжелой гипоксемией (SpO<sub>2</sub>: < 80%) и детьми с легкой гипоксемией (SpO<sub>2</sub>: от 80 до < 92%).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : There was no significant difference in the prevalence of radiological pneumonia or of cardiovascular abnormalities or in 28-day mortality between children with severe hypoxaemia (SpO<sub>2</sub>: < 80%) and those with mild hypoxaemia (SpO<sub>2</sub>: 80 to < 92%).",
+        "hyp": "文 2 : Не было выявлено существенной разницы в распространенности рентгенологической пневмонии, сердечно-сосудистых аномалий или в 28-дневной смертности между детьми с тяжелой гипоксемией (SpO<sub>2</sub>: < 80%) и детьми с легкой гипоксемией (SpO<sub>2</sub>: от 80 до < 92%).",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : It is with a broken heart that I must tell you of the death of my beloved wife, husband John Furlong confirmed in a statement on Friday morning.",
+        "hyp": "文 4 : С болью в душе я должен сообщить вам о смерти моей любимой жены, - подтвердил муж Джон Ферлонг в заявлении в пятницу утром.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Ok, I’m running out of people to laugh at my jokes.",
+        "hyp": "文 4 : Ладно, кажется мои шутки все меньше и меньше приходятся людям по душе.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : So, this is also something that has to be tested, but please test it, the two of you together.",
+        "hyp": "文 1 : Итак, это также нуждается в тестировании, но, пожалуйста, возьмитесь за тестирование сообща.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I dont know how long this is gonna take but probably quite awhile.",
+        "hyp": "文 1 : Я не знаю, сколько это займет времени, но, скорее всего довольно долго.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",
+        "hyp": "文 1 : Это захватывающе, щекочет по нервам, напряженно и все то хорошее, что я люблю в работе над играми.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",
+        "hyp": "文 1 : Это захватывающе, щекочет по нервам, напряженно и все то хорошее, что я люблю в работе над играми.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : We are probably not getting him the ball as much as we need.",
+        "hyp": "文 3 : Наверное, мы не передаем ему мяч столько, сколько должны бы.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Luckily the flare is a bit higher and not right where I make contact when sitting but it still hurts like a muther***",
+        "hyp": "文 4 : К счастью, вспышка немного выше и не в том месте, где я касаюсь, когда сижу, но все равно невыносимо больно.***",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Okay, so I’ve got less than a chapter left in Gardens of the Moon and I still can’t understand what the fuck Oponn is trying to achieve through all their/its meddling.",
+        "hyp": "文 4 : Ладно, мне осталось меньше главы в \"Садах Луны\", но я все еще не могу понять, какого хрена Oponn пытается добиться всем своим вмешательством.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Okay, so I’ve got less than a chapter left in Gardens of the Moon and I still can’t understand what the fuck Oponn is trying to achieve through all their/its meddling.",
+        "hyp": "文 4 : Ладно, мне осталось меньше главы в \"Садах Луны\", но я все еще не могу понять, какого хрена Oponn пытается добиться всем своим вмешательством.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : I don't like when ppl mumble on the phone or if they ramble on and it's all about then.",
+        "hyp": "文 2 : Мне не нравится, когда люди бормочут что-то по телефону или если они болтают без умолку, и все дело именно в этом.",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : Vacuum won’t stop sucking. Please send help. Is it going to blow?",
+        "hyp": "文 4 : Пылесос не перестает всасывать. Пожалуйста, пришлите помощь. Он так может взорваться?",
+        "label_text": "е"
+    },
+    {
+        "source": "原文 : From a previous marriage, she has a daughter named Cheyan and a son named Dakota.",
+        "hyp": "文 2 : От предыдущего брака у нее есть дочь по имени Шайан и сын по имени Дакота.",
+        "label_text": "Шайан"
+    },
+    {
+        "source": "原文 : But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.",
+        "hyp": "文 3 : Но именно земля делает ее хорошим хранилищем богатства до тех пор, пока вы думаете, что правительство не собирается менять систему, в которой мы живем.",
+        "label_text": "е"
+    }
+]

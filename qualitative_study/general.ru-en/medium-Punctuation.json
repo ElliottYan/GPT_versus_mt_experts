@@ -1,0 +1,317 @@
+[
+    {
+        "source": "原文 : Жаль, что первое впечатление было перечеркнуто , теперь посещаем другой филиал, и там отношение к клиентам не зависит от смены сотрудников.",
+        "hyp": "文 5 : It’s a shame that the first impression was ruined; now we attend another branch, and its customer treatment doesn't depend on the personnel shift.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Жаль, что первое впечатление было перечеркнуто , теперь посещаем другой филиал, и там отношение к клиентам не зависит от смены сотрудников.",
+        "hyp": "文 5 : It’s a shame that the first impression was ruined; now we attend another branch, and its customer treatment doesn't depend on the personnel shift.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 3 : In the Granovshchina village, the Chair of the Government checked the operation of a new educational institution, the Granovskaya school which opened in September 2022.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : В селе Грановщина Председатель Правительства ознакомился с работой нового образовательного учреждения - Грановской школы, которую открыли в сентябре 2022 года.",
+        "hyp": "文 3 : In the Granovshchina village, the Chair of the Government checked the operation of a new educational institution, the Granovskaya school which opened in September 2022.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 1 : The author's interest is focused on both a screwdriver exploring the electric meter and a piece of unsalted butter drifting across the cast-iron frying pan. All this transforms the story of an unemployed miner, his gap-toothed love-mate and her criminal brother into a real dock-canvas with oil painting.",
+        "label_text": ". "
+    },
+    {
+        "source": "原文 : Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.",
+        "hyp": "文 1 : The author's interest is focused on both a screwdriver exploring the electric meter and a piece of unsalted butter drifting across the cast-iron frying pan. All this transforms the story of an unemployed miner, his gap-toothed love-mate and her criminal brother into a real dock-canvas with oil painting.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 2 : On the move-in day, they called, asked what time to expect us to come, specified the cost of the transfer (1400 from the airport). We booked a taxi (at 11 pm the price was 850 rubles), arrived quickly, without any traffic jams, and we had no problems to pass the crossing barrier.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : В день заезда позвонили, уточнили в какое время нас ждать, дали информацию о стоимости трансфера (1400 от аэропорта), мы заказали такси (в 23:00 цена 850р), доехали быстро, пробок не было, за шлагбаум пустили без всяких проблем.",
+        "hyp": "文 2 : On the move-in day, they called, asked what time to expect us to come, specified the cost of the transfer (1400 from the airport). We booked a taxi (at 11 pm the price was 850 rubles), arrived quickly, without any traffic jams, and we had no problems to pass the crossing barrier.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 2 : In most cases, viral proteins were met in a spermatozoid head or neck, less often — in the middle part and tail, and rarely in the equatorial segment.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Чаще всего вирусные белки наблюдали в головке и шейке сперматозоидов, реже – в средней части и хвосте, редко – в экваториальной области.",
+        "hyp": "文 2 : In most cases, viral proteins were met in a spermatozoid head or neck, less often — in the middle part and tail, and rarely in the equatorial segment.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Наследственные оптические нейропатии (НОН) — группа нейродегенеративных заболеваний, характеризующихся первичной потерей структуры и функции ганглиозных клеток сетчатки с последующей гибелью их аксонов, развитием частичной атрофии зрительных нервов.",
+        "hyp": "文 4 : Hereditary optic neuropathies (HON) represent a group of neurodegenerative diseases characterized by the primary loss of structure and function of retinal ganglion cells, with the following death of their axons and the development of partial optic atrophy.",
+        "label_text": " represent "
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 1 : Still, we'll talk about MIFF next time (now, I’ll just complain that this year, the minds of organizers definitively established in the inexplicable idea that the happy owners of purchased tickets are many times more important for the festival than the accredited guests — a ridiculous and quite offensive principle which no normal world film festival lapses into); and in this issue, we report the events seen by us in Cannes and at \"Kinotavr\".",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Тем не менее об ММКФ мы расскажем в следующий раз (пока только пожалуюсь, что в этом году в сознании организаторов окончательно укрепилось необъяснимое представление о том, что счастливые обладатели купленных билетов в разы важнее для фестиваля, чем аккредитованные гости, смехотворный и вполне оскорбительный принцип, которым не грешит ни один нормальный кинофестиваль мира), а в этом номере отчитываемся за увиденное в Каннах и на «Кинотавре».",
+        "hyp": "文 1 : Still, we'll talk about MIFF next time (now, I’ll just complain that this year, the minds of organizers definitively established in the inexplicable idea that the happy owners of purchased tickets are many times more important for the festival than the accredited guests — a ridiculous and quite offensive principle which no normal world film festival lapses into); and in this issue, we report the events seen by us in Cannes and at \"Kinotavr\".",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 3 : By now, Rossoneri has  jumped up to third place in the table, gaining 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 3 : By now, Rossoneri has  jumped up to third place in the table, gaining 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 3 : By now, Rossoneri has  jumped up to third place in the table, gaining 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В данный момент \"россонери\" поднялись на третье место в турнирной таблице, набрав 41 очко.",
+        "hyp": "文 3 : By now, Rossoneri has  jumped up to third place in the table, gaining 41 points.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В сравнении с 2021 годом в 2022 году их количество выросло на три тысячи семей - его получили 11,4 тысячи семей.",
+        "hyp": "文 5 : In 2022, as opposed to 2021, their number increased by three thousand families: 11.4 thousand families received it.",
+        "label_text": ": "
+    },
+    {
+        "source": "原文 : В сравнении с 2021 годом в 2022 году их количество выросло на три тысячи семей - его получили 11,4 тысячи семей.",
+        "hyp": "文 5 : In 2022, as opposed to 2021, their number increased by three thousand families: 11.4 thousand families received it.",
+        "label_text": ": "
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 3 : It's clean, cozy, warm (even very warm) in the small cottages. And each cottage has its own small kitchen with coffee, tea, sugar, spices, sunflower oil, and all the necessary utensils.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : В домиках чисто, уютно, тепло (даже очень), в домике есть своя маленькая кухня с кофе, чай, сахар, специи, подсолнечное масло, вся необходимая посуда.",
+        "hyp": "文 3 : It's clean, cozy, warm (even very warm) in the small cottages. And each cottage has its own small kitchen with coffee, tea, sugar, spices, sunflower oil, and all the necessary utensils.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : Кроме того, этот проект — еще одно подтверждение самых долгих любовных отношений в жизни Клуни - с Италией: съемки проходили в живописном городке Кастель-дель-Монте в Абруццо.",
+        "hyp": "文 4 : Besides, this project is another evidence of the longest love relations in Clooney’s life — relations with Italy: the film shooting was in the picturesque town of Castel del Monte in Abruzzo.",
+        "label_text": "is"
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 4 : The most problematic film of \"Kinotavr\" has already been selected for the Karlovy Vary competition: a director star is born.",
+        "label_text": ": "
+    },
+    {
+        "source": "原文 : Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.",
+        "hyp": "文 4 : The most problematic film of \"Kinotavr\" has already been selected for the Karlovy Vary competition: a director star is born.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 2 : At a round-table meeting dedicated to the destiny of the Russian arthouse, the chairman of the fund supporting home-produced films, Sergei Tolstikov, initiated a scenic quarrel with critics: “Do you ever read the press articles that I read?” he angrily asked the audience.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.",
+        "hyp": "文 2 : At a round-table meeting dedicated to the destiny of the Russian arthouse, the chairman of the fund supporting home-produced films, Sergei Tolstikov, initiated a scenic quarrel with critics: “Do you ever read the press articles that I read?” he angrily asked the audience.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 4 : The Turkish agency Anadolu provides other data and reports that the Margara-Alijan border check point was last used to supply humanitarian cargos to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 4 : The Turkish agency Anadolu provides other data and reports that the Margara-Alijan border check point was last used to supply humanitarian cargos to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 4 : The Turkish agency Anadolu provides other data and reports that the Margara-Alijan border check point was last used to supply humanitarian cargos to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Турецкое агентство \"Анадолу\" приводит другие данные и пишет, что пограничный пункт Маргара-Алиджан в последний раз использовался для поставок гуманитарных грузов в Армению для устранения последствий разрушительного землетрясения 1988 года.",
+        "hyp": "文 4 : The Turkish agency Anadolu provides other data and reports that the Margara-Alijan border check point was last used to supply humanitarian cargos to Armenia to eliminate the consequences of the devastating earthquake of 1988.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : В соответствии с классификацией PASCAL у 93% пациентов НЦН ООО может рассматриваться в качестве вероятной причины ИИ, тогда как в группе ГКБ №4 вероятная причинно-следственная связь прослеживалась только в 51% случаев, у 18% пациентов роль аномалии в развитии инсульта была маловероятной.",
+        "hyp": "文 3 : According to the PASCAL classification, in 93% of patients of the Research Center of Neurology, patent foramen ovale can be considered as a probable cause of ischaemic stroke, while in the group of city clinical hospital No. 4, a probable cause-effect relation was observed only in 51% of cases; in 18% of patients, the role of the anomaly in the stroke development was hardly probable.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : В соответствии с классификацией PASCAL у 93% пациентов НЦН ООО может рассматриваться в качестве вероятной причины ИИ, тогда как в группе ГКБ №4 вероятная причинно-следственная связь прослеживалась только в 51% случаев, у 18% пациентов роль аномалии в развитии инсульта была маловероятной.",
+        "hyp": "文 3 : According to the PASCAL classification, in 93% of patients of the Research Center of Neurology, patent foramen ovale can be considered as a probable cause of ischaemic stroke, while in the group of city clinical hospital No. 4, a probable cause-effect relation was observed only in 51% of cases; in 18% of patients, the role of the anomaly in the stroke development was hardly probable.",
+        "label_text": "; "
+    },
+    {
+        "source": "原文 : В соответствии с классификацией PASCAL у 93% пациентов НЦН ООО может рассматриваться в качестве вероятной причины ИИ, тогда как в группе ГКБ №4 вероятная причинно-следственная связь прослеживалась только в 51% случаев, у 18% пациентов роль аномалии в развитии инсульта была маловероятной.",
+        "hyp": "文 3 : According to the PASCAL classification, in 93% of patients of the Research Center of Neurology, patent foramen ovale can be considered as a probable cause of ischaemic stroke, while in the group of city clinical hospital No. 4, a probable cause-effect relation was observed only in 51% of cases; in 18% of patients, the role of the anomaly in the stroke development was hardly probable.",
+        "label_text": "; "
+    },
+    {
+        "source": "原文 : Обложку июльского номера украшает очередное приятное лицо - заглавный персонаж спродюсированной Робертом Родригесом картины «Хищники», а внутри журнала уж постарайтесь как-нибудь не пропустить рассказ о «Начале» Кристофера Нолана (человека, между прочим, перезагрузившего «Бэтмена...»), самом - без дураков — ожидаемом фильме лета.",
+        "hyp": "文 1 : The cover of the July issue features another pleasant face: the title character of \"Predators\", the film produced by Robert Rodriguez; and in the magazine itself, try not to miss the story about \"Inception\" by Christopher Nolan (the man, who, by the way, rebooted \"Batman...\") — seriously, the most anticipated film of the summer.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Обложку июльского номера украшает очередное приятное лицо - заглавный персонаж спродюсированной Робертом Родригесом картины «Хищники», а внутри журнала уж постарайтесь как-нибудь не пропустить рассказ о «Начале» Кристофера Нолана (человека, между прочим, перезагрузившего «Бэтмена...»), самом - без дураков — ожидаемом фильме лета.",
+        "hyp": "文 1 : The cover of the July issue features another pleasant face: the title character of \"Predators\", the film produced by Robert Rodriguez; and in the magazine itself, try not to miss the story about \"Inception\" by Christopher Nolan (the man, who, by the way, rebooted \"Batman...\") — seriously, the most anticipated film of the summer.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 3 : The husband ate smoked ribs, that was a sensation: soft, juicy, flavory.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Муж ел ребра копчённые - это бомба, мягкие, сочные, ароматные.",
+        "hyp": "文 3 : The husband ate smoked ribs, that was a sensation: soft, juicy, flavory.",
+        "label_text": ": "
+    },
+    {
+        "source": "原文 : Я конкретно про \"лягушонок\", Тренер наш Анастасия Витальевна очень нравится ребенку и профессиональна!!",
+        "hyp": "文 3 : I mean the “frog” here; the child likes our coach Anastasia Vitalyevna very much and she is a professional!!",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : \"В 2023 году это число может вырасти до 10 тыс\"., - говорил он.",
+        "hyp": "文 3 : “In 2023, this number can increase to 10 thousand,” he said.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : \"Трансформация в массовом сознании гендерных представлений об исследовательской компетентности женщин способствует привлечению молодых женщин в науку, развитию их творческого потенциала, формированию успешной ролевой модели женщины-ученого, в том числе путем передачи опыта и института наставничества\", - отметила Алеся Соловей.",
+        "hyp": "文 3 : “The transformation, in the collective consciousness, of gender-based ideas about the research competence of women facilitates the involvement of young women into science, the development of their creative potential, the formation of a successful role model of a female scientist, in particular through the transfer of best practices and the application of a mentoring institution,\" noted Alesya Solovey.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Вот самая главная задача, которая будет сейчас стоять перед нами\", - сказал он.",
+        "hyp": "文 3 : \"Here is the main task that will face us now,\" he said.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : При утяжелении степени РПГИС пропорционально возрастают ишемические изменения во всех капиллярных слоях центральных отделов сетчатки по сравнению с группой контроля в 1,15 раза при легкой степени, в 1,24 раза при средней степени, в 1,5 раза при тяжелой степени.",
+        "hyp": "文 4 : With the increase in the degree of retinal manifestations of ocular ischemic syndrome (RMOIS), ischemic changes in all capillary layers of the central parts of the retina proportionally increase as compared with the control group by 1.15 times in case of mild degree, by 1.24 times in case of moderate degree, and by 1.5 times in case of severe degree.",
+        "label_text": "("
+    },
+    {
+        "source": "原文 : При утяжелении степени РПГИС пропорционально возрастают ишемические изменения во всех капиллярных слоях центральных отделов сетчатки по сравнению с группой контроля в 1,15 раза при легкой степени, в 1,24 раза при средней степени, в 1,5 раза при тяжелой степени.",
+        "hyp": "文 4 : With the increase in the degree of retinal manifestations of ocular ischemic syndrome (RMOIS), ischemic changes in all capillary layers of the central parts of the retina proportionally increase as compared with the control group by 1.15 times in case of mild degree, by 1.24 times in case of moderate degree, and by 1.5 times in case of severe degree.",
+        "label_text": ")"
+    },
+    {
+        "source": "原文 : Их употребление перед сном стоит ограничивать, поскольку они не только мешают засыпанию, но и делают сон \"рваным\", а значит не дающим организму полноценно восстановиться.",
+        "hyp": "文 5 : The use thereof before bedtime should be limited, as they not only hinder falling asleep, but also lead to a discontinuous sleep, which means a body cannot fully recover.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Их употребление перед сном стоит ограничивать, поскольку они не только мешают засыпанию, но и делают сон \"рваным\", а значит не дающим организму полноценно восстановиться.",
+        "hyp": "文 5 : The use thereof before bedtime should be limited, as they not only hinder falling asleep, but also lead to a discontinuous sleep, which means a body cannot fully recover.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : График работы, с 10.00 до 21.00, без выходных и праздничных дней.",
+        "hyp": "文 4 : Working hours: from 10 am to 09 pm, seven days a week.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Да, со своей последней картиной «Судный день», разбодяженным «Безумным Максом» для неимущих, Маршалл дал серьезную осечку",
+        "hyp": "文 1 : Yes, with his recent film \"Doomsday\" diluted by \"Mad Max\" for the poor, Marshall critically misfired.",
+        "label_text": "."
+    },
+    {
+        "source": "原文 : \"Северсталь\" набрала 64 очка и занимает седьмое место в турнирной таблице Западной конференции, у \"Амура\" тоже 64 очка, команда находится на 9-м месте на Востоке.",
+        "hyp": "文 5 : \"Severstal\" has got 64 points and is in seventh place in the Western Conference standings; \"Amur\" has also scored 64 points, the team is in 9th place in the East.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Ранее министр обороны Литвы Арвидас Анушаускас заявил, что балтийская республика начала передачу Вооруженным силам Украины 36 зенитных орудий Bofors L70.",
+        "hyp": "文 4 : Earlier, Lithuanian Defense Minister Arvydas Anušauskas announced that the Baltic republic had started to transfer 36 anti-aircraft cannons \"Bofors L70\" to the Ukrainian Armed Forces.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Ранее министр обороны Литвы Арвидас Анушаускас заявил, что балтийская республика начала передачу Вооруженным силам Украины 36 зенитных орудий Bofors L70.",
+        "hyp": "文 4 : Earlier, Lithuanian Defense Minister Arvydas Anušauskas announced that the Baltic republic had started to transfer 36 anti-aircraft cannons \"Bofors L70\" to the Ukrainian Armed Forces.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Были в баре дважды, все понравилось, вежливый персонал, вкусные блюда и самое главное - отличная музыка, диджеи знают своё дело.",
+        "hyp": "文 2 : We visited the bar twice and liked everything: polite personnel, tasty dishes and most importantly — great music; the DJs know their trade.",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Были в баре дважды, все понравилось, вежливый персонал, вкусные блюда и самое главное - отличная музыка, диджеи знают своё дело.",
+        "hyp": "文 2 : We visited the bar twice and liked everything: polite personnel, tasty dishes and most importantly — great music; the DJs know their trade.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Не спать, не есть сутками - и все равно, хоть гром, хоть град.",
+        "hyp": "文 4 : Not to sleep, not to eat for days, and it doesn't matter, be it thunder or hail.",
+        "label_text": ", "
+    },
+    {
+        "source": "原文 : Дано определение понятия «биологическая травма» — нарушение структуры и функции организма в результате особого повреждающего воздействия, свойственного представителям живой природы (животным, растениям).",
+        "hyp": "文 4 : A definition of the «biological trauma» concept is given: it means a damage to body structure and functions as a result of a special injury effects typical for wildlife representatives (animals, plants).",
+        "label_text": "«"
+    },
+    {
+        "source": "原文 : Дано определение понятия «биологическая травма» — нарушение структуры и функции организма в результате особого повреждающего воздействия, свойственного представителям живой природы (животным, растениям).",
+        "hyp": "文 4 : A definition of the «biological trauma» concept is given: it means a damage to body structure and functions as a result of a special injury effects typical for wildlife representatives (animals, plants).",
+        "label_text": "»"
+    },
+    {
+        "source": "原文 : Дано определение понятия «биологическая травма» — нарушение структуры и функции организма в результате особого повреждающего воздействия, свойственного представителям живой природы (животным, растениям).",
+        "hyp": "文 4 : A definition of the «biological trauma» concept is given: it means a damage to body structure and functions as a result of a special injury effects typical for wildlife representatives (animals, plants).",
+        "label_text": ":"
+    },
+    {
+        "source": "原文 : Об этом он сообщил журналистам на брифинге, трансляция велась на YouTube-канале Белого дома.",
+        "hyp": "文 3 : He told reporters about this at a briefing; broadcasting was conducted on the YouTube channel of the White House.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Гости посетили бортевую пасеку \"Торатау\" - традиционный народный промысел Башкортостана.",
+        "hyp": "文 2 : The guests visited the wild hive apiary \"Toratau\", a traditional folk craft of Bashkortostan.",
+        "label_text": ","
+    },
+    {
+        "source": "原文 : Важно, чтобы логистические службы компаний постоянно взаимодействовали с нашими \"смежниками\" (портами, операторами, морским транспортом) и находили оптимальные ценовые условия для перевозки своей продукции по новым схемам, - подчеркнул Алексей Шило.",
+        "hyp": "文 5 : \"It's critical for the companies' logistics services to continuously interact with our partners and suppliers (ports, operators, maritime transport) and to find reasonable price conditions for transporting their products according new schemes,\" emphasized Alexey Shilo.",
+        "label_text": "\""
+    },
+    {
+        "source": "原文 : Важно, чтобы логистические службы компаний постоянно взаимодействовали с нашими \"смежниками\" (портами, операторами, морским транспортом) и находили оптимальные ценовые условия для перевозки своей продукции по новым схемам, - подчеркнул Алексей Шило.",
+        "hyp": "文 5 : \"It's critical for the companies' logistics services to continuously interact with our partners and suppliers (ports, operators, maritime transport) and to find reasonable price conditions for transporting their products according new schemes,\" emphasized Alexey Shilo.",
+        "label_text": " "
+    },
+    {
+        "source": "原文 : Легкая степень тяжести РПГИС характеризовалась уменьшением показателей плотности поверхностного сосудистого сплетения и плотности глубокого сосудистого сплетения на 13,5 и 10,5% соответственно по сравнению с контролем, средняя степень — на 19,7 и 14,6%, тяжелая степень — на 35,9 и 28% соответственно.",
+        "hyp": "文 1 : The mild severity level of  retinal manifestations of ocular ischemic syndrome (RMOIS) was characterized by a decrease in the density of superficial vascular plexus and the density of deep vascular plexus by 13.5% and 10.5% as compared with the control, respectively; the moderate severity level — by 19.7% and 14.6%; the severe severity level — by 35.9% and 28%, respectively.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Легкая степень тяжести РПГИС характеризовалась уменьшением показателей плотности поверхностного сосудистого сплетения и плотности глубокого сосудистого сплетения на 13,5 и 10,5% соответственно по сравнению с контролем, средняя степень — на 19,7 и 14,6%, тяжелая степень — на 35,9 и 28% соответственно.",
+        "hyp": "文 1 : The mild severity level of  retinal manifestations of ocular ischemic syndrome (RMOIS) was characterized by a decrease in the density of superficial vascular plexus and the density of deep vascular plexus by 13.5% and 10.5% as compared with the control, respectively; the moderate severity level — by 19.7% and 14.6%; the severe severity level — by 35.9% and 28%, respectively.",
+        "label_text": ";"
+    },
+    {
+        "source": "原文 : Обувь для бега зимой отличается более плотными материалами, более высокой платформой и протектором подошвы\", - рассказал спортсмен.",
+        "hyp": "文 2 : The shoes for jogging in winter feature denser materials, a higher platform and sole tread,” said the athlete .",
+        "label_text": " "
+    }
+]
